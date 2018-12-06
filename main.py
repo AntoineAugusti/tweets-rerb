@@ -3,6 +3,8 @@ import pandas as pd
 import tweepy
 from collections import defaultdict
 
+FILENAME = 'tweets.csv'
+
 
 def count_word(row, word):
     if word in row['text'].lower():
@@ -27,8 +29,7 @@ for tweet in tweepy.Cursor(api.user_timeline, screen_name='@rerb', count=3200, t
     data['retweet_count'].append(tweet.retweet_count)
     data['favorite_count'].append(tweet.favorite_count)
 
-df = pd.DataFrame.from_dict(data)
-df.set_index('id')
+df = pd.DataFrame.from_dict(data).set_index('id')
 
 df['tweet_mentionne_excuse'] = df.apply(lambda row: count_word(row, 'excuse'), axis=1)
 df['tweet_mentionne_regulation'] = df.apply(lambda row: count_word(row, 'régulation'), axis=1)
@@ -36,8 +37,7 @@ df['tweet_mentionne_bon_courage'] = df.apply(lambda row: count_word(row, 'bon co
 
 df.sort_values(by='created_at', inplace=True)
 
-csv = pd.read_csv('tweets.csv', parse_dates=['created_at'])
-csv.set_index('id')
+csv = pd.read_csv(FILENAME, parse_dates=['created_at']).set_index('id')
 
 csv = csv.append(df)
 csv.drop_duplicates(
@@ -46,4 +46,4 @@ csv.drop_duplicates(
     inplace=True
 )
 
-csv.to_csv('tweets.csv', index=False)
+csv.to_csv(FILENAME, index=False)
