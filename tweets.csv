@@ -1406,11 +1406,11 @@ Des bus de remplacement desserviront toutes les gares entre Aulnay sous Bois et 
 1059091762675924992,2018-11-04 14:35:27,"@Lorin6401 Bonjour, les travaux se terminent ce soir à la fin de service. Le trafic prévu dès demain à la prise de service est un trafic régulier. Bonne journée. ^b",0,0,0,0,0
 1059092180168593410,2018-11-04 14:37:07,"@AndrewMitul Bonjour, les travaux se terminent ce soir à la fin de service. Le trafic prévu dès demain à la prise de service est un trafic régulier. Je comprends tout à fait votre point de vue mais ces travaux sont néanmoins nécessaires. Bon dimanche. ^b",0,0,0,0,0
 1059093677350535169,2018-11-04 14:43:04,"@Vinced_93 Bonjour, oui les travaux se terminent ce soir. Le trafic prévu pour la journée de demain est un trafic régulier. Bonne journée. ^b",0,0,0,0,0
+1059099059175260160,2018-11-04 15:04:27,"Ce soir dès 22h30, les trains #RERB seront terminus Châtelet-les-Halles. Les bus de substitution partiront de Gare du Nord.",5,3,0,0,0
 1059099060471250944,2018-11-04 15:04:27,"En direction du nord:
 -dernier départ de Châtelet à destination de La Plaine SDF: 22h29
 -dernier départ de Châtelet à destination de Gare du Nord: 22h44
  Après 22h44, tous les trains seront terminus Châtelet. #RERB",3,2,0,0,0
-1059099059175260160,2018-11-04 15:04:27,"Ce soir dès 22h30, les trains #RERB seront terminus Châtelet-les-Halles. Les bus de substitution partiront de Gare du Nord.",5,3,0,0,0
 1059099061670813696,2018-11-04 15:04:28,"En direction du sud:
 -dernier départ à La Plaine à 22h41 (passage à Châtelet à 22h53)
 -dernier départ à Gare du Nord à 22h56 (passage à Châtelet à 22h59). #RERB",3,2,0,0,0
@@ -3174,7 +3174,7 @@ Massy-Verrières et Fontaine-Michalon. Le train est actuellement à l'approche d
 1070283993139036160,2018-12-05 11:49:23,"@razhades Bonjour Hadès, ohhh mais non j'avais pas vu ! Alors concernant les trains à destination d'Orsay, c'est vrai qu'ils sont souvent assurés au départ de Châtelet pendant les heures de pointe suite à des mesures de régulation. Bonne journée, à tout à l'heure ! ^b",0,3,0,1,0
 1070287496431439872,2018-12-05 12:03:18,"@Melooooody77 @razhades Plus rien ne va 😁 Désolée, encore une fois ! ^b",0,3,0,0,0
 1070339180499222530,2018-12-05 15:28:41,@razhades Bien rentré ? Bonne soirée à vous ! 😉 ^b,0,2,0,0,0
-1070366241708273665,2018-12-05 17:16:13,"#RERB  En raison d’un mouvement social qui fait suite à l’agression d’un  conducteur, le trafic sera perturbé sur la ligne le 7 décembre.",100,55,0,0,0
+1070366241708273665,2018-12-05 17:16:13,"#RERB  En raison d’un mouvement social qui fait suite à l’agression d’un  conducteur, le trafic sera perturbé sur la ligne le 7 décembre.",102,57,0,0,0
 1070366243012706306,2018-12-05 17:16:13,"Entre Saint-Rémy/Robinson et Denfert Rochereau prévoir 2 trains sur 3 aux heures de pointe, 1 train sur 2 aux heures creuses.
 Entre Denfert Rochereau et Aéroport CDG/Mitry prévoir 1 train sur 2 toute la journée.",21,7,0,0,0
 1070367486921580549,2018-12-05 17:21:10,"@SamRLIVPIVIF Bonsoir, non pas de changement de train à Gare du Nord. Bonne soirée. ^b",0,1,0,0,0
@@ -3223,9 +3223,13 @@ Entre Denfert Rochereau et Aéroport CDG/Mitry prévoir 1 train sur 2 toute la j
 1070610372837675008,2018-12-06 09:26:18,@candoulives Toutes nos excuses pour ce manque d'infos ! Bonne journée à vous ! Joy,0,0,1,0,0
 1070625396176101376,2018-12-06 10:26:00,"@Telbaret21 Bonjour, il y a bien des trains au départ du Blanc-Mesnil pour Paris. Le prochain est la mission SORI94 actuellement en gare d'Aulnay. Bonne journée à vous ! Joy",0,0,0,0,0
 1070639880789737473,2018-12-06 11:23:33,"@LeMusquet Bonjour, il y aura 1 train sur 2 toute la journée ainsi que des trains supplémentaires en période de pointe entre Denfert et St Rémy/Robinson. Bonne journée à vous ! Joy",0,2,0,0,0
-1070643425630961664,2018-12-06 11:37:38,"Bonjour, Alexandra pour échanger avec vous jusqu'à 20h00 sur la ligne #RERB. Bonne journée à tous !",0,5,0,0,0
+1070643425630961664,2018-12-06 11:37:38,"Bonjour, Alexandra pour échanger avec vous jusqu'à 20h00 sur la ligne #RERB. Bonne journée à tous !",0,6,0,0,0
 1070643929207455744,2018-12-06 11:39:38,"@Kalytis_ Bonjour, Joy a terminé sa journée, je suis présente jusqu'à 20h00. Bonne journée. ^b",0,1,0,0,0
 1070644613298438144,2018-12-06 11:42:22,@Kalytis_ Elle sera là dès 06h00 demain 🙂 Bonne journée à vous aussi ! ^b,0,2,0,0,0
 1070645177436524545,2018-12-06 11:44:36,"@ad_687 Bonjour, oui ces horaires sont fiables concernant la journée de demain. Bonne journée à vous. ^b",0,1,0,0,0
 1070646007715819520,2018-12-06 11:47:54,"@razhades Bonjour, pas certaine mais merci !!!! 😉 A tout à l'heure Hadès ! ^b",0,1,0,0,0
 1070647940136476677,2018-12-06 11:55:35,"@cleymie Bonjour, non pas de changement de train à Gare du Nord. Bonne journée ! ^b",0,0,0,0,0
+1070695464020905985,2018-12-06 15:04:25,"Mouvement social #RERB vendredi 7 décembre: suite à l'agression d'un conducteur, 1 train sur 2 toute la journée. Trains supplémentaires aux heures de pointe entre Denfert et St-Rémy / Robinson.",17,8,0,0,0
+1070696016280764416,2018-12-06 15:06:37,"@FustierPierre Bonjour Pierre, vous retrouvez tous les horaires pour la journée de demain sur le blog: https://t.co/EqnAWjjWTO. Bonne soirée. ^b",1,0,0,0,0
+1070699648229277696,2018-12-06 15:21:03,"@alain70174832 Bonjour, bonne journée à vous ! ^b",0,0,0,0,0
+1070699890659991552,2018-12-06 15:22:01,@alain70174832 Vous parlez de la journée de demain ? Vous avez tous les horaires des trains sur le blog: https://t.co/UfDpFt26KE. Bonne journée. ^b,1,0,0,0,0
