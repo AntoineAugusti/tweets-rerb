@@ -29,7 +29,7 @@ for tweet in tweepy.Cursor(api.user_timeline, screen_name='@rerb', count=3200, t
     data['retweet_count'].append(tweet.retweet_count)
     data['favorite_count'].append(tweet.favorite_count)
 
-df = pd.DataFrame.from_dict(data).set_index('id')
+df = pd.DataFrame.from_dict(data).set_index('id', drop=False)
 
 df['tweet_mentionne_excuse'] = df.apply(lambda row: count_word(row, 'excuse'), axis=1)
 df['tweet_mentionne_regulation'] = df.apply(lambda row: count_word(row, 'régulation'), axis=1)
@@ -37,7 +37,7 @@ df['tweet_mentionne_bon_courage'] = df.apply(lambda row: count_word(row, 'bon co
 
 df.sort_values(by='created_at', inplace=True)
 
-csv = pd.read_csv(FILENAME, parse_dates=['created_at']).set_index('id')
+csv = pd.read_csv(FILENAME, parse_dates=['created_at']).set_index('id', drop=False)
 
 csv = csv.append(df)
 csv.drop_duplicates(
