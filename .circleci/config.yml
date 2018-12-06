@@ -41,7 +41,7 @@ jobs:
             cp tweets.csv /tmp/tweets-rerb/tweets.csv
             cd /tmp/tweets-rerb/
             if [ -n "$(git status --porcelain)" ]; then
-              git commit -am "New tweets at $(date -u +'%Y-%m-%dT%H:%M:%SZ')"
+              git commit -am "New tweets at $(date -u +'%Y-%m-%dT%H:%M:%SZ') [skip ci]"
               git push origin master
             else
               echo "No changes";
