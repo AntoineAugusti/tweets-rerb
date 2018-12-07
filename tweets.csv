@@ -1407,11 +1407,11 @@ Des bus de remplacement desserviront toutes les gares entre Aulnay sous Bois et 
 1059091762675924992,2018-11-04 14:35:27,"@Lorin6401 Bonjour, les travaux se terminent ce soir à la fin de service. Le trafic prévu dès demain à la prise de service est un trafic régulier. Bonne journée. ^b",0,0,0,0,0
 1059092180168593410,2018-11-04 14:37:07,"@AndrewMitul Bonjour, les travaux se terminent ce soir à la fin de service. Le trafic prévu dès demain à la prise de service est un trafic régulier. Je comprends tout à fait votre point de vue mais ces travaux sont néanmoins nécessaires. Bon dimanche. ^b",0,0,0,0,0
 1059093677350535169,2018-11-04 14:43:04,"@Vinced_93 Bonjour, oui les travaux se terminent ce soir. Le trafic prévu pour la journée de demain est un trafic régulier. Bonne journée. ^b",0,0,0,0,0
+1059099059175260160,2018-11-04 15:04:27,"Ce soir dès 22h30, les trains #RERB seront terminus Châtelet-les-Halles. Les bus de substitution partiront de Gare du Nord.",5,3,0,0,0
 1059099060471250944,2018-11-04 15:04:27,"En direction du nord:
 -dernier départ de Châtelet à destination de La Plaine SDF: 22h29
 -dernier départ de Châtelet à destination de Gare du Nord: 22h44
  Après 22h44, tous les trains seront terminus Châtelet. #RERB",3,2,0,0,0
-1059099059175260160,2018-11-04 15:04:27,"Ce soir dès 22h30, les trains #RERB seront terminus Châtelet-les-Halles. Les bus de substitution partiront de Gare du Nord.",5,3,0,0,0
 1059099061670813696,2018-11-04 15:04:28,"En direction du sud:
 -dernier départ à La Plaine à 22h41 (passage à Châtelet à 22h53)
 -dernier départ à Gare du Nord à 22h56 (passage à Châtelet à 22h59). #RERB",3,2,0,0,0
@@ -3175,9 +3175,9 @@ Massy-Verrières et Fontaine-Michalon. Le train est actuellement à l'approche d
 1070283993139036160,2018-12-05 11:49:23,"@razhades Bonjour Hadès, ohhh mais non j'avais pas vu ! Alors concernant les trains à destination d'Orsay, c'est vrai qu'ils sont souvent assurés au départ de Châtelet pendant les heures de pointe suite à des mesures de régulation. Bonne journée, à tout à l'heure ! ^b",0,3,0,1,0
 1070287496431439872,2018-12-05 12:03:18,"@Melooooody77 @razhades Plus rien ne va 😁 Désolée, encore une fois ! ^b",0,3,0,0,0
 1070339180499222530,2018-12-05 15:28:41,@razhades Bien rentré ? Bonne soirée à vous ! 😉 ^b,0,2,0,0,0
-1070366241708273665,2018-12-05 17:16:13,"#RERB  En raison d’un mouvement social qui fait suite à l’agression d’un  conducteur, le trafic sera perturbé sur la ligne le 7 décembre.",107,61,0,0,0
 1070366243012706306,2018-12-05 17:16:13,"Entre Saint-Rémy/Robinson et Denfert Rochereau prévoir 2 trains sur 3 aux heures de pointe, 1 train sur 2 aux heures creuses.
 Entre Denfert Rochereau et Aéroport CDG/Mitry prévoir 1 train sur 2 toute la journée.",21,7,0,0,0
+1070366241708273665,2018-12-05 17:16:13,"#RERB  En raison d’un mouvement social qui fait suite à l’agression d’un  conducteur, le trafic sera perturbé sur la ligne le 7 décembre.",107,61,0,0,0
 1070367486921580549,2018-12-05 17:21:10,"@SamRLIVPIVIF Bonsoir, non pas de changement de train à Gare du Nord. Bonne soirée. ^b",0,1,0,0,0
 1070368443516506113,2018-12-05 17:24:58,"@YBourti Bonsoir, non ce mouvement social concerne la journée de vendredi, le 7 décembre. Bonne soirée à vous. ^b",0,1,0,0,0
 1070368660932517888,2018-12-05 17:25:49,@SamRLIVPIVIF Je vous en prie ! Merci à vous et bon courage également 🙂 ^b,0,1,0,0,1
@@ -3303,7 +3303,7 @@ Entre Denfert Rochereau et Aéroport CDG/Mitry prévoir 1 train sur 2 toute la j
 1070958576250880000,2018-12-07 08:29:56,"@Kmillephilibert Camille, êtes vous toujours dans la gare de Parc de Sceaux ? Joy",0,0,0,0,0
 1070960215925903365,2018-12-07 08:36:27,@Kmillephilibert Le prochain train est la mission EKZZ39 actuellement au Baconnets. Joy,0,0,0,0,0
 1070960732467093504,2018-12-07 08:38:30,"@Kmillephilibert Camille, les horaires sont à titre indicatif. Toutes nos excuses ! Joy",0,0,1,0,0
-1070961580765003782,2018-12-07 08:41:53,❌ La mission KEZZ32 à destination de Massy Palaiseau stationne actuellement à la Courneuve-Aubervilliers en raison d'une intervention des agents de sécurité #RERB,4,10,0,0,0
+1070961580765003782,2018-12-07 08:41:53,❌ La mission KEZZ32 à destination de Massy Palaiseau stationne actuellement à la Courneuve-Aubervilliers en raison d'une intervention des agents de sécurité #RERB,5,10,0,0,0
 1070962575129669632,2018-12-07 08:45:50,"@ahbonpourquoipa Bonjour Chloé, dans quelle gare êtes vous ? Joy",0,0,0,0,0
 1070963830392541184,2018-12-07 08:50:49,"❌ La mission KEZZ32 à destination de Massy Palaiseau reprend sa marche, il  stationnera de nouveau à Gare du Nord pour une intervention des forces de sécurité #RERB",0,2,0,0,0
 1070966916834041856,2018-12-07 09:03:05,"@Its_Lucas93 Bonjour, vous pouvez vous adresser à nos agents en gare. Joy",0,0,0,0,0
@@ -3354,3 +3354,10 @@ Entre Denfert Rochereau et Aéroport CDG/Mitry prévoir 1 train sur 2 toute la j
 1071092490160271361,2018-12-07 17:22:04,"@_Laraleuse Bonsoir, les horaires sont sur le blog: https://t.co/OljuPE5jFz. ^b",0,0,0,0,0
 1071096389323636736,2018-12-07 17:37:33,"@Yves_Fun Bonjour, je n'ai pas plus d'infos malheureusement. Tout dépendra de la situation et de la décision des autorités. N'hésitez pas à consulter le compte Twitter ainsi que https://t.co/ijY0yo4Edo et Transilien pour avoir l'info en temps réel. Bonne soirée. ^b",0,0,0,0,0
 1071100569350275072,2018-12-07 17:54:10,"@Florian_180 Bonsoir Florian, certains départs ont été assurés et prenaient des voyageurs au départ de Denfert. Mais il est vrai que certains trains ne prennent des voyageurs qu'à partir de Cité Universitaire. ^b",0,0,0,0,0
+1071102419017322496,2018-12-07 18:01:31,"@claque2000 Bonjour, pour l'instant la fermeture de certaines gares n'a pas été décidée. Tout dépendra de la situation et de la décision des autorités. N'hésitez pas à consulter le compte Twitter ainsi que https://t.co/ijY0yo4Edo et Transilien pour avoir l'info en temps réel. ^b",0,0,0,0,0
+1071104018238324736,2018-12-07 18:07:52,"@Lina69074517 Bonjour Lina, pas de perturbations prévues pour l'instant. N'hésitez pas à consulter le compte Twitter ainsi que https://t.co/ijY0yo4Edo et Transilien pour avoir l'info en temps réel. Bonne soirée. ^b",0,0,0,0,0
+1071106838576414720,2018-12-07 18:19:05,"@Maha_Hyp Bonsoir et merci de votre signalement, je transmets aux équipes concernées. Bonne soirée. ^b",0,0,0,0,0
+1071107018314924033,2018-12-07 18:19:48,"@TritriMuse Bonsoir, au départ de quelle gare ? Merci. ^b",0,0,0,0,0
+1071108167017345026,2018-12-07 18:24:21,"@blaster972 Re-bonsoir, effectivement, je transmets pour nos équipes. Merci à vous. Bonne soirée. ^b",0,0,0,0,0
+1071112353419272193,2018-12-07 18:41:00,@anaislacombe1 Pour l'instant il est maintenu. Bonne soirée. ^b,0,0,0,0,0
+1071112670747811842,2018-12-07 18:42:15,@TritriMuse Effectivement il y a des trains toutes les 12/13 minutes pour Robinson. ^b,0,0,0,0,0
