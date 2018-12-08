@@ -1,10 +1,14 @@
-version: 2
-jobs:
-  build:
+version: 2.1
+
+executors:
+  python36:
     docker:
       - image: circleci/python:3.6
     working_directory: ~/repo
 
+jobs:
+  fetch_csv:
+    executor: python36
     steps:
       - checkout:
           path: ~/repo
@@ -26,6 +30,18 @@ jobs:
           command: |
             . venv/bin/activate
             python main.py
+      - persist_to_workspace:
+          root: .
+          paths:
+            - tweets.csv
+
+  push_csv:
+    executor: python36
+    steps:
+      - checkout:
+          path: ~/repo
+      - attach_workspace:
+          at: /tmp
       - add_ssh_keys:
           fingerprints:
             - "3f:fd:39:1e:7d:5d:45:bb:1c:0f:df:fe:f6:91:6e:05"
@@ -38,7 +54,7 @@ jobs:
           name: Push to GitHub
           command: |
             git clone git@github.com:AntoineAugusti/tweets-rerb.git /tmp/tweets-rerb
-            cp tweets.csv /tmp/tweets-rerb/tweets.csv
+            cp /tmp/tweets.csv /tmp/tweets-rerb/tweets.csv
             cd /tmp/tweets-rerb/
             if [ -n "$(git status --porcelain)" ]; then
               git commit -am "New tweets at $(date -u +'%Y-%m-%dT%H:%M:%SZ') [skip ci]"
@@ -46,11 +62,15 @@ jobs:
             else
               echo "No changes";
             fi
+
 workflows:
   version: 2
   commit:
     jobs:
-      - build
+      - fetch_csv
+      - push_csv:
+          requires:
+            - fetch_csv
   cron:
     triggers:
       - schedule:
@@ -60,4 +80,4 @@ workflows:
               only:
                 - master
     jobs:
-      - build
+      - push_csv
