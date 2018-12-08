@@ -1,14 +1,10 @@
 version: 2.1
 
-defaults:
-  workspace_root: &workspace_root
-    ~/repo
-
 executors:
   python36:
     docker:
       - image: circleci/python:3.6
-    working_directory: *workspace_root
+    working_directory: ~/repo
 
 jobs:
   fetch_csv:
@@ -35,7 +31,7 @@ jobs:
             . venv/bin/activate
             python main.py
       - persist_to_workspace:
-          root: *workspace_root
+          root: .
           paths:
             - tweets.csv
 
