@@ -35,8 +35,6 @@ df['tweet_mentionne_excuse'] = df.apply(lambda row: count_word(row, 'excuse'), a
 df['tweet_mentionne_regulation'] = df.apply(lambda row: count_word(row, 'régulation'), axis=1)
 df['tweet_mentionne_bon_courage'] = df.apply(lambda row: count_word(row, 'bon courage'), axis=1)
 
-df.sort_values(by='created_at', inplace=True)
-
 csv = pd.read_csv(FILENAME, parse_dates=['created_at']).set_index('id', drop=False)
 
 csv = csv.append(df)
@@ -45,5 +43,6 @@ csv.drop_duplicates(
     keep='last',
     inplace=True
 )
+csv.sort_values(by='created_at', inplace=True)
 
 csv.to_csv(FILENAME, index=False)
