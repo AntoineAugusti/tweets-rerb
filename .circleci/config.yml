@@ -65,7 +65,7 @@ jobs:
 
 workflows:
   version: 2
-  commit:
+  fetch_and_push:
     jobs:
       - fetch_csv
       - push_csv:
@@ -80,5 +80,4 @@ workflows:
               only:
                 - master
     jobs:
-      - fetch_csv
-      - push_csv
+      - fetch_and_push
