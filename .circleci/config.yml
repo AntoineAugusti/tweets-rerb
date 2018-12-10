@@ -80,4 +80,7 @@ workflows:
               only:
                 - master
     jobs:
-      - fetch_and_push
+      - fetch_csv
+      - push_csv:
+          requires:
+            - fetch_csv
