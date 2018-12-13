@@ -924,9 +924,9 @@ Nos agents vont c…",67,0,0,0,0
 1055420515601575936,2018-10-25 11:27:14,"@Francedz213 Oui et surtout qu'une présence est assurée du lundi au vendredi de 06h00 à 20h00, je suis désolée. Bonne journée. ^b",0,0,0,0,0
 1055436740960366598,2018-10-25 12:31:42,"@eric_blanchard2 Bonjour, dans quelle gare êtes-vous et dans quelle direction allez-vous ? Merci. ^b",0,0,0,0,0
 1055438158576435200,2018-10-25 12:37:20,"@eric_blanchard2 Le prochain train est 11 minutes, ceci est en conséquence de la réduction de l'offre de transport cette semaine, jusqu'à vendredi. Bonne journée à vous. ^b",0,0,0,0,0
-1055442341597716481,2018-10-25 12:53:58,"Du 1er au 4 novembre, la RATP réalise le remplacement du pont ferroviaire de Massy-Verrières sur le #RERB. Concrètement en quoi cela consiste ?",20,15,0,0,0
-1055442343204139008,2018-10-25 12:53:58,"L’ouvrage actuel est constitué de profilés métalliques rivetés liés  entre eux par des traverses et entretoises métalliques. Les dommages constatés sur l’ouvrage (corrosion, rivets endommagés, etc.) contraignent à un remplacement de cette structure existante. https://t.co/fzxIYICtXk",5,3,0,0,0
 1055442344894496769,2018-10-25 12:53:58,"Les différentes étapes du remplacement du pont consiste à déposer les balises de signalisation ainsi que les éléments de voies, démolir et lever l'ouvrage existant, reconstituer des appuis pour poser le nouvel ouvrage et enfin remettre en état la plateforme et niveler les voies. https://t.co/L1zLEEgNM5",5,4,0,0,0
+1055442343204139008,2018-10-25 12:53:58,"L’ouvrage actuel est constitué de profilés métalliques rivetés liés  entre eux par des traverses et entretoises métalliques. Les dommages constatés sur l’ouvrage (corrosion, rivets endommagés, etc.) contraignent à un remplacement de cette structure existante. https://t.co/fzxIYICtXk",5,3,0,0,0
+1055442341597716481,2018-10-25 12:53:58,"Du 1er au 4 novembre, la RATP réalise le remplacement du pont ferroviaire de Massy-Verrières sur le #RERB. Concrètement en quoi cela consiste ?",20,15,0,0,0
 1055442346710577153,2018-10-25 12:53:59,"Cette intervention nécessite la coupure du #RERB entre les gares des  Baconnets et de Massy-Palaiseau, du jeudi 1er au dimanche 4 novembre. Un service de bus est mis en place entre ces deux gares. Il fonctionne aux horaires habituels du RER (fréquence de 4 minutes en pointe) https://t.co/0Vj9uM1LDC",5,3,0,0,0
 1055442348895801344,2018-10-25 12:53:59,Un dispositif d’information pour vous accompagner est mis en place sur toute la ligne. Un guidage piéton est déployé entre les gares directement concernées et les arrêts de bus de remplacement. Retrouvez toutes les informations sur notre blog : https://t.co/9oKccOLcLx https://t.co/4RRB9wdmc8,3,2,0,0,0
 1055462684936654848,2018-10-25 14:14:48,"@Cerebro89500 Bonjour, le prochain train va arriver dans quelques minutes dans votre gare, il est actuellement à Mitry. Bonne journée. ^b",0,0,0,0,0
@@ -1406,11 +1406,11 @@ Des bus de remplacement desserviront toutes les gares entre Aulnay sous Bois et 
 1059091762675924992,2018-11-04 14:35:27,"@Lorin6401 Bonjour, les travaux se terminent ce soir à la fin de service. Le trafic prévu dès demain à la prise de service est un trafic régulier. Bonne journée. ^b",0,0,0,0,0
 1059092180168593410,2018-11-04 14:37:07,"@AndrewMitul Bonjour, les travaux se terminent ce soir à la fin de service. Le trafic prévu dès demain à la prise de service est un trafic régulier. Je comprends tout à fait votre point de vue mais ces travaux sont néanmoins nécessaires. Bon dimanche. ^b",0,0,0,0,0
 1059093677350535169,2018-11-04 14:43:04,"@Vinced_93 Bonjour, oui les travaux se terminent ce soir. Le trafic prévu pour la journée de demain est un trafic régulier. Bonne journée. ^b",0,0,0,0,0
+1059099059175260160,2018-11-04 15:04:27,"Ce soir dès 22h30, les trains #RERB seront terminus Châtelet-les-Halles. Les bus de substitution partiront de Gare du Nord.",5,3,0,0,0
 1059099060471250944,2018-11-04 15:04:27,"En direction du nord:
 -dernier départ de Châtelet à destination de La Plaine SDF: 22h29
 -dernier départ de Châtelet à destination de Gare du Nord: 22h44
  Après 22h44, tous les trains seront terminus Châtelet. #RERB",3,2,0,0,0
-1059099059175260160,2018-11-04 15:04:27,"Ce soir dès 22h30, les trains #RERB seront terminus Châtelet-les-Halles. Les bus de substitution partiront de Gare du Nord.",5,3,0,0,0
 1059099061670813696,2018-11-04 15:04:28,"En direction du sud:
 -dernier départ à La Plaine à 22h41 (passage à Châtelet à 22h53)
 -dernier départ à Gare du Nord à 22h56 (passage à Châtelet à 22h59). #RERB",3,2,0,0,0
@@ -3666,3 +3666,23 @@ Entre Denfert Rochereau et Aéroport CDG/Mitry prévoir 1 train sur 2 toute la j
 1073246336554803201,2018-12-13 16:00:41,"@Embleons Bonjour, dans quelle gare êtes vous ? Joy",0,0,0,0,0
 1073247661237694464,2018-12-13 16:05:57,@Embleons Ce train dessert bien la gare d'Arcueil Cachan. Bonne soirée à vous et toutes nos excuses pour ce manque d'infos ! Joy,0,0,1,0,0
 1073259919997067264,2018-12-13 16:54:39,"@razhades Bonsoir Hadès, nous avons toujours un problème de signalisation en gare de Denfert, pour le moment nous ne communiquons pas car le trafic est régulier, cependant le retard sur la ligne est actuellement de 7 minutes. Toutes nos excuses pour ce retard. Joy",0,1,1,0,0
+1073261645588254721,2018-12-13 17:01:31,"@razhades Je comprends votre remarque, c'est en effet assez paradoxal ! Cependant nous n'avons pas forcément la même définition du trafic régulier, pour nous un trafic avec des trains sur toute la ligne (un train par gare en période de pointe) est un trafic régulier. Joy",0,1,0,0,0
+1073262064976756736,2018-12-13 17:03:11,"@CBerlake Bonjour, vous avez les grilles horaires sur notre blog 👉 https://t.co/rtLGoHxT0Q ! Le trafic sera perturbé sur l'ensemble de la ligne. Bonne fin de journée à vous ! Joy",0,1,0,0,0
+1073263397045788674,2018-12-13 17:08:28,"@ClemGwen Gwen, je comprends votre remarque ! Je remonte votre tweet et je vais voir avec nos équipes de suite pour pouvoir communiquer sur les retards dès ce soir. Bonne fin de journée à vous ! Joy",0,2,0,0,0
+1073263847048384512,2018-12-13 17:10:16,"@MrnDream Bonjour, en effet votre train stationne suite à une avarie sur la mission ILAN57, je vous donne plus d'infos dans quelques instants ! Joy",0,0,0,0,0
+1073264551469244416,2018-12-13 17:13:04,"Suite à une avarie sur le matériel de la mission ILAN57 à destination de Mitry, le train stationne actuellement en gare d'Aubervilliers/La Courneuve #RERB",0,0,0,0,0
+1073265696874921985,2018-12-13 17:17:37,"@shesamburr Bonjour, il y a actuellement une avarie sur la mission ILAN57. Ce train stationne actuellement en gare. Joy",0,0,0,0,0
+1073266043576090624,2018-12-13 17:18:59,@ClemGwen Je vous en prie ! Bonne soirée à vous également ! Joy,0,1,0,0,0
+1073266413035536385,2018-12-13 17:20:27,"@MrnDream Votre train stationne toujours, je n'ai pas encore d'informations malheureusement mais je ne vous oublie pas ! Joy",0,0,0,0,0
+1073267107733929984,2018-12-13 17:23:13,"Fin d'incident sur la mission ILAN57, le train reprend sa marche en direction de Mitry #RERB",0,1,0,0,0
+1073267309677084674,2018-12-13 17:24:01,"@MrnDream Super, bonne soirée à vous ! Joy",0,0,0,0,0
+1073267564887846914,2018-12-13 17:25:02,"@patriciadu9368 Bonjour, vous avez les grilles horaires pour demain sur notre blog 👉 https://t.co/rtLGoHxT0Q ! Le trafic sera perturbé sur l'ensemble de la ligne. Bonne fin de journée à vous ! Joy",0,0,0,0,0
+1073268475047612417,2018-12-13 17:28:39,"@DidiBZH Bonjour, nous avons comme ce matin un problème de signalisation en gare de Denfert, ce qui explique que la vitesse soit plus lente en gare de Denfert. Joy",0,0,0,0,0
+1073269784882622466,2018-12-13 17:33:51,🚦Trafic ralenti entre Châtelet et Cité Universitaire en direction de St Rémy/Robinson suite à une panne de signalisation en gare de Denfert Rochereau. Le retard en direction du Sud de la ligne est actuellement estimé à 8 minutes  #RERB,2,0,0,0,0
+1073270165477953536,2018-12-13 17:35:22,"@LaFibreSAV Bonsoir, nous avons actuellement une panne de signalisation en gare de Denfert ce qui explique la circulation plus lente. Toutes nos excuses, bonne soirée à vous ! Joy",0,0,1,0,0
+1073270435389804544,2018-12-13 17:36:26,"@AgatheU4 Bonsoir, nous avons actuellement une panne de signalisation en gare de Denfert ce qui explique un ralentissement des trains ! Bonne soirée à vous ! Joy",0,0,0,0,0
+1073271476617469952,2018-12-13 17:40:35,"@LaFibreSAV Bonjour, le train actuellement à quai est bien une mission Orsay, le prochain Robinson est actuellement à Port Royal. Bonne soirée ! Joy",0,0,0,0,0
+1073271901554925570,2018-12-13 17:42:16,@ClemGwen Merci beaucoup pour votre message 🙈 ! Belle soirée ! Joy,0,1,0,0,0
+1073274790415360001,2018-12-13 17:53:45,"@razhades Hadès, je comprends, mais communiquer sur un retard de plus ou moins de minutes est assez complexe car si vous vous rendez en gare actuellement, vous avez un train. Peut-être pas votre train habituel mais vous aurez un train, c'est pourquoi je remonte le tweet 🙂. Joy",0,1,0,0,0
+1073275355484577794,2018-12-13 17:55:59,"[🚨 Signal d'alarme] Suite à l'actionnement d'un signal d'alarme sur la mission EBRI95 à destination de l'Aéroport CDG, le train stationne actuellement à Châtelet #RERB",1,0,0,0,0
+1073276181514989571,2018-12-13 17:59:16,"@razhades Bien sûr, nous apprécions vos interventions avec Alexandra, elles sont souvent très constructives alors merci à vous 🙂 ! Joy",0,0,0,0,0
