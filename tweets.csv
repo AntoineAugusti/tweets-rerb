@@ -1406,11 +1406,11 @@ Des bus de remplacement desserviront toutes les gares entre Aulnay sous Bois et 
 1059091762675924992,2018-11-04 14:35:27,"@Lorin6401 Bonjour, les travaux se terminent ce soir à la fin de service. Le trafic prévu dès demain à la prise de service est un trafic régulier. Bonne journée. ^b",0,0,0,0,0
 1059092180168593410,2018-11-04 14:37:07,"@AndrewMitul Bonjour, les travaux se terminent ce soir à la fin de service. Le trafic prévu dès demain à la prise de service est un trafic régulier. Je comprends tout à fait votre point de vue mais ces travaux sont néanmoins nécessaires. Bon dimanche. ^b",0,0,0,0,0
 1059093677350535169,2018-11-04 14:43:04,"@Vinced_93 Bonjour, oui les travaux se terminent ce soir. Le trafic prévu pour la journée de demain est un trafic régulier. Bonne journée. ^b",0,0,0,0,0
-1059099059175260160,2018-11-04 15:04:27,"Ce soir dès 22h30, les trains #RERB seront terminus Châtelet-les-Halles. Les bus de substitution partiront de Gare du Nord.",5,3,0,0,0
 1059099060471250944,2018-11-04 15:04:27,"En direction du nord:
 -dernier départ de Châtelet à destination de La Plaine SDF: 22h29
 -dernier départ de Châtelet à destination de Gare du Nord: 22h44
  Après 22h44, tous les trains seront terminus Châtelet. #RERB",3,2,0,0,0
+1059099059175260160,2018-11-04 15:04:27,"Ce soir dès 22h30, les trains #RERB seront terminus Châtelet-les-Halles. Les bus de substitution partiront de Gare du Nord.",5,3,0,0,0
 1059099061670813696,2018-11-04 15:04:28,"En direction du sud:
 -dernier départ à La Plaine à 22h41 (passage à Châtelet à 22h53)
 -dernier départ à Gare du Nord à 22h56 (passage à Châtelet à 22h59). #RERB",3,2,0,0,0
@@ -3587,7 +3587,7 @@ Entre Denfert Rochereau et Aéroport CDG/Mitry prévoir 1 train sur 2 toute la j
 1072821952849604608,2018-12-12 11:54:20,"Bonjour à tous, Joy pour vous accompagner jusqu'à 20h00. N'hésitez pas à me solliciter pendant votre trajet sur le #RERB. Bonne journée !",2,10,0,0,0
 1072841256605233153,2018-12-12 13:11:02,"@cyrilbla Bonjour Cyril, je n'ai pas encore d'infos sur l'impact de la grève sur la ligne ce vendredi. Bonne journée à vous ! Joy",0,0,0,0,0
 1072847992527511553,2018-12-12 13:37:48,"@Parisie91784284 Bonjour, en effet il y a bien un préavis de grève pour la journée de vendredi, je n'ai pas encore d'infos concernant l'impact sur la ligne. Bonne journée à vous ! Joy",0,0,0,0,0
-1072879154570379264,2018-12-12 15:41:38,"En raison d’un mouvement social national le vendredi 14 décembre, le trafic sera perturbé sur le #RERB. Prévoir 4 trains sur 5 en heures de pointe et 3 trains sur 4 en heures creuses. Horaires disponibles sur les applications RATP et https://t.co/OknqVMIcgY",61,33,0,0,0
+1072879154570379264,2018-12-12 15:41:38,"En raison d’un mouvement social national le vendredi 14 décembre, le trafic sera perturbé sur le #RERB. Prévoir 4 trains sur 5 en heures de pointe et 3 trains sur 4 en heures creuses. Horaires disponibles sur les applications RATP et https://t.co/OknqVMIcgY",61,35,0,0,0
 1072885250013958149,2018-12-12 16:05:51,"@zazooub91 Bonjour, il n'y aura pas de changement à effectuer à Gare du Nord. Bonne fin de journée à vous ! Joy",1,1,0,0,0
 1072887466154180608,2018-12-12 16:14:39,"@yoanmamou Bonjour, pas de soucis actuellement, vous avez le INKE53 actuellement à Palaiseau. Bonne fin de journée ! Joy",0,0,0,0,0
 1072888054216572933,2018-12-12 16:17:00,"@yoanmamou Oui toutes mes excuses je me suis trompée dans le nom de la mission, c'est bien le ICOR53. Joy",0,0,1,0,0
@@ -3606,7 +3606,7 @@ Entre Denfert Rochereau et Aéroport CDG/Mitry prévoir 1 train sur 2 toute la j
 1072917086446518274,2018-12-12 18:12:21,"L'incident est désormais terminé sur la mission EBOI11 en direction de l'Aéroport CDG, le retard en direction du Nord de la ligne est actuellement estimé à 10 minutes #RERB.",1,3,0,0,0
 1072918865674452992,2018-12-12 18:19:26,"@AntoineAugusti Je vous en prie, bonne soirée également ! Joy",0,0,0,0,0
 1072924405100093446,2018-12-12 18:41:26,"@Nialiex Bonjour Nialie, en effet, merci pour votre vigilance ! Bonne soirée à vous ! Joy",0,1,0,0,0
-1073078688969867265,2018-12-13 04:54:30,"05:52, le trafic est perturbé sur la ligne (panne de signalisation)  #RERB",12,2,0,0,0
+1073078688969867265,2018-12-13 04:54:30,"05:52, le trafic est perturbé sur la ligne (panne de signalisation)  #RERB",12,3,0,0,0
 1073080990908735491,2018-12-13 05:03:39,"Bonjour à tous, Alexandra pour échanger avec vous jusqu'à 13h30. Le trafic #RERB est perturbé sur l'ensemble de la ligne suite à une panne de signalisation à Denfert-Rochereau",6,6,0,0,0
 1073081213890502656,2018-12-13 05:04:32,"@Alex91410 Bonjour, la panne de signalisation est à Denfert-Rochereau,nos agents sont en cours d'intervention pour résoudre la panne au plus vite. ^b",0,0,0,0,0
 1073081444224897026,2018-12-13 05:05:27,"@marmotte7715 Bonjour, environ 15 minutes sont nécessaires en plus de votre trajet. Nos agents sont en actuellement en cours d'intervention. ^b",2,0,0,0,0
@@ -3625,19 +3625,19 @@ Entre Denfert Rochereau et Aéroport CDG/Mitry prévoir 1 train sur 2 toute la j
 1073099412874899456,2018-12-13 06:16:51,"@invismith Bonjour, je suis consciente que les conditions de transport sont particulièrement difficiles pour vous au quotidien. Nos équipes techniques sont en cours d'intervention à Denfert pour résoudre la panne au plus vite. ^b",0,0,0,0,0
 1073103368141369344,2018-12-13 06:32:34,"@DossouYovoGuy Bonjour, bon courage à vous ! N'hésitez pas à revenir vers moi au cours de votre trajet. ^b",0,1,0,0,1
 1073104914413486080,2018-12-13 06:38:43,"@claravdgr Bonjour, oui le trafic est toujours perturbé sur l'ensemble de la ligne. Environ 10 minutes de retard sont nécessaires en plus de votre trajet. ^b",0,0,0,0,0
-1073106108376641536,2018-12-13 06:43:28,"L'incident est toujours en cours à Denfert (panne de signalisation). Les trains circulent lentement entre Port-Royal et Denfert, seul ce ralentissement impacte la ligne. Le trafic #RERB est régulier sur le reste de la ligne",12,5,0,0,0
+1073106108376641536,2018-12-13 06:43:28,"L'incident est toujours en cours à Denfert (panne de signalisation). Les trains circulent lentement entre Port-Royal et Denfert, seul ce ralentissement impacte la ligne. Le trafic #RERB est régulier sur le reste de la ligne",12,6,0,0,0
 1073106449272836096,2018-12-13 06:44:49,"@LSP31752567 Bonjour Luc, merci à vous je transmets ! Malheureusement, le chauffage ne peut pas être activé depuis la cabine de conduite, l'action ne sera pas immédiate. Bonne journée ! ^b",0,0,0,0,0
 1073107417397903360,2018-12-13 06:48:40,"@KJurietti Bonjour Franck, oui je comprends... Les répercussions sur le trafic sont moins importantes que prévues. L'incident est toujours en cours à Denfert, un ralentissement est présent entre Denfert et Port-Royal. Bonne journée à vous et merci pour votre message !^b",0,1,0,0,0
 1073107882265231366,2018-12-13 06:50:31,"@titou682 Bonjour,  la communication a été enlevée car les répercussions sur le trafic sont moins importantes que prévues. Il faut néanmoins compter un ralentissement entre Denfert et Port Royal car la panne de signalisation est toujours en cours. ^b",0,0,0,0,0
 1073109274027536385,2018-12-13 06:56:02,"@Yann91 Bonjour, oui effectivement IDIL587 a été supprimé. Toutes nos excuses! ^b",0,0,1,0,0
 1073109917006004224,2018-12-13 06:58:36,"@danieldu78711 Bonjour, oui c'est en répercussion de la panne de signalisation. Un ralentissement est à déplorer sur ce tronçon. Toutes nos excuses. ^b",1,0,1,0,0
-1073114389891477504,2018-12-13 07:16:22,"@ItsLittlee Bonjour, oui un mouvement social est prévu pour la journée de demain: il faut prévoir 4 trains sur 5 en heures de pointe et 3 trains sur 4 en heures creuses. Les horaires sont disponibles sur les applications et le: https://t.co/vhwUGkdD1m. ^b",0,1,0,0,0
+1073114389891477504,2018-12-13 07:16:22,"@ItsLittlee Bonjour, oui un mouvement social est prévu pour la journée de demain: il faut prévoir 4 trains sur 5 en heures de pointe et 3 trains sur 4 en heures creuses. Les horaires sont disponibles sur les applications et le: https://t.co/vhwUGkdD1m. ^b",1,1,0,0,0
 1073115313439416320,2018-12-13 07:20:02,"@jolliyaya Bonjour, IDOL11 est à Palaiseau-Villebon actuellement. ^b",0,0,0,0,0
 1073116343979917312,2018-12-13 07:24:08,"@fafafafa Bonjour, toutes nos excuses, je transmets à nos services techniques. Malheureusement, le chauffage ne peut pas être actionné depuis le poste de conduite, l'action ne sera donc pas immédiate. Merci de votre signalement. ^b",0,1,1,0,0
 1073117415746224128,2018-12-13 07:28:24,"@Magaloush93 Bonjour, les horaires sont disponibles sur le blog, en haut de page: https://t.co/V0b42Y8UBZ. ^b",0,1,0,0,0
 1073118127473524736,2018-12-13 07:31:13,"@gegene007 Bonjour, toutes nos excuses ! Effectivement EBRE01 cumule 9 minutes de retard sur son parcours, à Cité u. C'est en répercussion de l'incident de signalisation de Denfert. ^b",0,0,1,0,0
 1073118489265741825,2018-12-13 07:32:40,"@DossouYovoGuy Merci de votre retour, oui SORI10 😉. Bon courage pour la poursuite de votre trajet. ^b",0,1,0,0,1
-1073119155644190720,2018-12-13 07:35:18,(Panne de signalisation à Denfert): fin d'incident. 10 minutes de retard sont cumulées sur l'ensemble de la ligne #RERB,9,4,0,0,0
+1073119155644190720,2018-12-13 07:35:18,(Panne de signalisation à Denfert): fin d'incident. 10 minutes de retard sont cumulées sur l'ensemble de la ligne #RERB,9,5,0,0,0
 1073119395080232961,2018-12-13 07:36:16,"@Huez14 Bonjour, prochain départ pour Paris à 08h42. Bonne journée ! ^b",0,1,0,0,0
 1073120298294304768,2018-12-13 07:39:51,"@swant0t Bonjour, effectivement le prochain passage sera à 08h51 à Villeparisis pour rejoindre Paris. Toutes nos excuses pour la gêne occasionnée. ^b",0,0,1,0,0
 1073121341916766210,2018-12-13 07:44:00,"@cris_dalmeida Bonjour Cristina, dans quel train êtes-vous ? Malheureusement le chauffage ne peut pas être activé depuis la cabine de conduite, je peux néanmoins transmettre à nos équipes techniques. Bonne journée. ^b",0,0,0,0,0
@@ -3661,4 +3661,5 @@ Entre Denfert Rochereau et Aéroport CDG/Mitry prévoir 1 train sur 2 toute la j
 1073219081594126336,2018-12-13 14:12:23,"@ClemGwen Bonjour Gwen, vous avez le planning des travaux sur notre blog 👉 https://t.co/oo4uncZxIQ ! Bonne journée à vous ! Joy",0,0,0,0,0
 1073224451846742016,2018-12-13 14:33:43,"@laurentgallois Bonjour Laurent, je remonte l'info, merci pour votre signalement ! Bonne journée à vous ! Joy",0,1,0,0,0
 1073225643276623877,2018-12-13 14:38:27,"@Melooooody77 Bonjour Mélody et merci pour votre retour, la rubrique va être mise à jour d'ici peu ! Bonne journée à vous ! Joy",0,2,0,0,0
-1073226064078495744,2018-12-13 14:40:07,"@laurentgallois Laurent, la rubrique va être mise à jour d'ici peu ! Bonne journée ! Joy",0,2,0,0,0
+1073226064078495744,2018-12-13 14:40:07,"@laurentgallois Laurent, la rubrique va être mise à jour d'ici peu ! Bonne journée ! Joy",0,3,0,0,0
+1073242301898600448,2018-12-13 15:44:39,"@Kmillephilibert Bonsoir Camille, le LAZZ18 à l'approche dessert les mêmes gares qu'une mission Massy. Bonne soirée à vous !",0,0,0,0,0
