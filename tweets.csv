@@ -1406,11 +1406,11 @@ Des bus de remplacement desserviront toutes les gares entre Aulnay sous Bois et 
 1059091762675924992,2018-11-04 14:35:27,"@Lorin6401 Bonjour, les travaux se terminent ce soir à la fin de service. Le trafic prévu dès demain à la prise de service est un trafic régulier. Bonne journée. ^b",0,0,0,0,0
 1059092180168593410,2018-11-04 14:37:07,"@AndrewMitul Bonjour, les travaux se terminent ce soir à la fin de service. Le trafic prévu dès demain à la prise de service est un trafic régulier. Je comprends tout à fait votre point de vue mais ces travaux sont néanmoins nécessaires. Bon dimanche. ^b",0,0,0,0,0
 1059093677350535169,2018-11-04 14:43:04,"@Vinced_93 Bonjour, oui les travaux se terminent ce soir. Le trafic prévu pour la journée de demain est un trafic régulier. Bonne journée. ^b",0,0,0,0,0
-1059099059175260160,2018-11-04 15:04:27,"Ce soir dès 22h30, les trains #RERB seront terminus Châtelet-les-Halles. Les bus de substitution partiront de Gare du Nord.",5,3,0,0,0
 1059099060471250944,2018-11-04 15:04:27,"En direction du nord:
 -dernier départ de Châtelet à destination de La Plaine SDF: 22h29
 -dernier départ de Châtelet à destination de Gare du Nord: 22h44
  Après 22h44, tous les trains seront terminus Châtelet. #RERB",3,2,0,0,0
+1059099059175260160,2018-11-04 15:04:27,"Ce soir dès 22h30, les trains #RERB seront terminus Châtelet-les-Halles. Les bus de substitution partiront de Gare du Nord.",5,3,0,0,0
 1059099061670813696,2018-11-04 15:04:28,"En direction du sud:
 -dernier départ à La Plaine à 22h41 (passage à Châtelet à 22h53)
 -dernier départ à Gare du Nord à 22h56 (passage à Châtelet à 22h59). #RERB",3,2,0,0,0
@@ -2679,12 +2679,12 @@ Massy-Verrières et Fontaine-Michalon. Le train est actuellement à l'approche d
 1067281917517725696,2018-11-27 05:00:12,"Bonjour à tous, Alexandra pour échanger avec vous jusqu'à 13h30 sur la ligne #RERB. Bonne journée à tous !",0,6,0,0,0
 1067286431905787905,2018-11-27 05:18:09,"[ Incident technique Orlyval ] En raison d'un incident technique, le trafic sur Orlyval est interrompu. Reprise estimée vers 07:00 #RERB.",4,6,0,0,0
 1067288834394808322,2018-11-27 05:27:42,"@milou1968 Bonjour, effectivement je suis désolée, ce train a été supprimé suite à une panne à son départ de Mitry. Le prochain train est dans 6 minutes. ^b",2,0,0,0,0
-1067296324364623872,2018-11-27 05:57:27,"[ Incident technique Orlyval ] En raison d'un incident technique, le trafic sur Orlyval est interrompu. Reprise repoussée vers 08:00 #RERB.",4,5,0,0,0
+1067296324364623872,2018-11-27 05:57:27,"[ Incident technique Orlyval ] En raison d'un incident technique, le trafic sur Orlyval est interrompu. Reprise repoussée vers 08:00 #RERB.",3,5,0,0,0
 1067299555908165632,2018-11-27 06:10:18,"@unital_ Bonjour Romain, merci des toutes ces infos. La gare de Fontenay-aux-Roses est avisée de ce dysfonctionnement. Nos équipes interviendront au plus vite. Au sujet du QADO51, je transmets pour les équipes de maintenance. Bonne journée à vous. ^b",0,0,0,0,0
 1067300455854862338,2018-11-27 06:13:52,"@nojqosa77 Bonjour, toutes nos excuses pour la gêne occasionnée. Effectivement votre train a été rendu direct entre Mitry et Aulnay suite à une mesure de régulation. ^b",1,0,1,1,0
 1067300609823514624,2018-11-27 06:14:29,"@patricia_per @Jeannot911 Bonjour Patricia, merci de votre retour ! Bon voyage et bonne journée ! ^b",0,0,0,0,0
 1067303829203558400,2018-11-27 06:27:17,@razhades @nojqosa77 Bonjour Hadès! Oui cette information est remontée à la fin de service. Je suis consciente que ces mesures de régulation sont pénalisantes pour nombreux d'entre vous et j'en suis navrée. ^b,1,2,0,1,0
-1067307544887070720,2018-11-27 06:42:02,"07:41 [ Incident technique Orlyval ] Fin d'incident , le trafic reprend progressivement sur l'ensemble de la ligne.  #RERB.",2,4,0,0,0
+1067307544887070720,2018-11-27 06:42:02,"07:41 [ Incident technique Orlyval ] Fin d'incident , le trafic reprend progressivement sur l'ensemble de la ligne.  #RERB.",1,4,0,0,0
 1067309536174923776,2018-11-27 06:49:57,"@Clavanel Bonjour, pas d'incident mais des mesures de régulation sont néanmoins effectuées. Votre train a été supprimé suite à une mesure de régulation, j'en suis navrée.  ^b",0,0,0,1,0
 1067311812952117248,2018-11-27 06:59:00,"@Clavanel Je comprends tout à fait ! Merci pour vos encouragements, bonne journée également ! 🙂 ^b",0,0,0,0,0
 1067314581020819456,2018-11-27 07:10:00,"@RERBnator Bonjour Alexandre, merci de votre signalement, je transmets ! 🙂 Bonne journée à vous ! ^b",0,1,0,0,0
@@ -3742,3 +3742,6 @@ Entre Denfert Rochereau et Aéroport CDG/Mitry prévoir 1 train sur 2 toute la j
 1073554981813391362,2018-12-14 12:27:08,@Kalytis_ Je vous en prie et merci pour vos encouragements 😊 ! Joy,0,0,0,0,0
 1073570827810017282,2018-12-14 13:30:05,"@Pharmacats Bonjour, oui c'est bien ça ! Bonne journée à vous ! Joy",0,1,0,0,0
 1073578151123578881,2018-12-14 13:59:12,"@rerb6r Bonjour et merci pour votre retour, bonne journée à vous et bon week-end ! Joy",0,0,0,0,0
+1073584626445225984,2018-12-14 14:24:55,"@fvlle Bonjour, oui c'est bien accessible cependant il faut prévoir 4 trains sur 5 en heures de pointe et 3 trains sur 4 en heures creuses. Bonne journée à vous ! Joy",0,0,0,0,0
+1073591321057726469,2018-12-14 14:51:31,"@ChiaraLRiz Bonjour, la fermeture de la gare de St Michel est prévue toute la journée, du début à la fin de service. Bonne journée ! Joy",0,0,0,0,0
+1073591677334536194,2018-12-14 14:52:56,"[#Manifestation 15 décembre] Pour raisons de sécurité, et après coordination avec la @prefpolice, certaines stations et gares seront fermées et les correspondances non assurées. #RERB https://t.co/vo5XeTZUqD",7,4,0,0,0
