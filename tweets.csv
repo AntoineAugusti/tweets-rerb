@@ -1406,11 +1406,11 @@ Des bus de remplacement desserviront toutes les gares entre Aulnay sous Bois et 
 1059091762675924992,2018-11-04 14:35:27,"@Lorin6401 Bonjour, les travaux se terminent ce soir à la fin de service. Le trafic prévu dès demain à la prise de service est un trafic régulier. Bonne journée. ^b",0,0,0,0,0
 1059092180168593410,2018-11-04 14:37:07,"@AndrewMitul Bonjour, les travaux se terminent ce soir à la fin de service. Le trafic prévu dès demain à la prise de service est un trafic régulier. Je comprends tout à fait votre point de vue mais ces travaux sont néanmoins nécessaires. Bon dimanche. ^b",0,0,0,0,0
 1059093677350535169,2018-11-04 14:43:04,"@Vinced_93 Bonjour, oui les travaux se terminent ce soir. Le trafic prévu pour la journée de demain est un trafic régulier. Bonne journée. ^b",0,0,0,0,0
-1059099059175260160,2018-11-04 15:04:27,"Ce soir dès 22h30, les trains #RERB seront terminus Châtelet-les-Halles. Les bus de substitution partiront de Gare du Nord.",5,3,0,0,0
 1059099060471250944,2018-11-04 15:04:27,"En direction du nord:
 -dernier départ de Châtelet à destination de La Plaine SDF: 22h29
 -dernier départ de Châtelet à destination de Gare du Nord: 22h44
  Après 22h44, tous les trains seront terminus Châtelet. #RERB",3,2,0,0,0
+1059099059175260160,2018-11-04 15:04:27,"Ce soir dès 22h30, les trains #RERB seront terminus Châtelet-les-Halles. Les bus de substitution partiront de Gare du Nord.",5,3,0,0,0
 1059099061670813696,2018-11-04 15:04:28,"En direction du sud:
 -dernier départ à La Plaine à 22h41 (passage à Châtelet à 22h53)
 -dernier départ à Gare du Nord à 22h56 (passage à Châtelet à 22h59). #RERB",3,2,0,0,0
@@ -3804,3 +3804,6 @@ Entre Denfert Rochereau et Aéroport CDG/Mitry prévoir 1 train sur 2 toute la j
 1074573101424435205,2018-12-17 07:52:46,"@prioul7 Bonjour, si vous avez besoin d'aide pendant votre trajet, je suis là 🙂 ! Bonne journée à vous ! Joy",0,0,0,0,0
 1074573609836916736,2018-12-17 07:54:47,"@pybproductions Bonjour, il s'agit d'une mesure de régulation suite à la suppression d'une mission en direction de Massy Palaiseau. Votre train a été terminus afin d'assurer une mission en direction de Massy Palaiseau au départ de Laplace. Toutes nos excuses. Joy",0,0,1,1,0
 1074590282153451520,2018-12-17 09:01:02,"[ 🚧 Travaux en gare de La Croix de Berny ] À partir du 21 Décembre, dans le cadre des travaux de rénovation de la gare de La Croix de Berny, l'accès principal rue Velpeau sera déplacé au n°9 de cette rue. N'hésitez pas à solliciter nos agents en gare #RERB https://t.co/LaCEukSD9L",2,6,0,0,0
+1074630617680220161,2018-12-17 11:41:19,"Bonjour, Alexandra pour échanger avec vous jusqu'à 20h00 sur la ligne #RERB. Bonne journée et bonne semaine à tous !",0,5,0,0,0
+1074632127986196480,2018-12-17 11:47:19,@IDFimmobilites Bonjour et bonne journée à vous ! ^b,0,0,0,0,0
+1074632546800029696,2018-12-17 11:48:59,"@BertrandLapraye Bonjour Bertrand, oui ça roule bien actuellement sur la ligne. Bonne journée à vous ! ^b",0,0,0,0,0
