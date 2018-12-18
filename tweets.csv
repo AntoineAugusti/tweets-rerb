@@ -1406,11 +1406,11 @@ Des bus de remplacement desserviront toutes les gares entre Aulnay sous Bois et 
 1059091762675924992,2018-11-04 14:35:27,"@Lorin6401 Bonjour, les travaux se terminent ce soir à la fin de service. Le trafic prévu dès demain à la prise de service est un trafic régulier. Bonne journée. ^b",0,0,0,0,0
 1059092180168593410,2018-11-04 14:37:07,"@AndrewMitul Bonjour, les travaux se terminent ce soir à la fin de service. Le trafic prévu dès demain à la prise de service est un trafic régulier. Je comprends tout à fait votre point de vue mais ces travaux sont néanmoins nécessaires. Bon dimanche. ^b",0,0,0,0,0
 1059093677350535169,2018-11-04 14:43:04,"@Vinced_93 Bonjour, oui les travaux se terminent ce soir. Le trafic prévu pour la journée de demain est un trafic régulier. Bonne journée. ^b",0,0,0,0,0
-1059099059175260160,2018-11-04 15:04:27,"Ce soir dès 22h30, les trains #RERB seront terminus Châtelet-les-Halles. Les bus de substitution partiront de Gare du Nord.",5,3,0,0,0
 1059099060471250944,2018-11-04 15:04:27,"En direction du nord:
 -dernier départ de Châtelet à destination de La Plaine SDF: 22h29
 -dernier départ de Châtelet à destination de Gare du Nord: 22h44
  Après 22h44, tous les trains seront terminus Châtelet. #RERB",3,2,0,0,0
+1059099059175260160,2018-11-04 15:04:27,"Ce soir dès 22h30, les trains #RERB seront terminus Châtelet-les-Halles. Les bus de substitution partiront de Gare du Nord.",5,3,0,0,0
 1059099061670813696,2018-11-04 15:04:28,"En direction du sud:
 -dernier départ à La Plaine à 22h41 (passage à Châtelet à 22h53)
 -dernier départ à Gare du Nord à 22h56 (passage à Châtelet à 22h59). #RERB",3,2,0,0,0
@@ -3864,7 +3864,7 @@ Entre Denfert Rochereau et Aéroport CDG/Mitry prévoir 1 train sur 2 toute la j
 1074940944171065344,2018-12-18 08:14:27,"@_Anaelle_B Anaelle, dans n'importe quelle gare de la ligne, cela permettra à nos agents de faire une recherche et s'il n'y a pas de retour, certaines gares peuvent vous faire une nouvelle carte Navigo. Joy",0,0,0,0,0
 1074954140047077376,2018-12-18 09:06:53,[Nouvel article blog] Les horaires du #RERB pendant les fêtes de fin d’année : https://t.co/GPSJz4KBKN https://t.co/2z5ojD0Yah,4,3,0,0,0
 1074978774129799168,2018-12-18 10:44:46,"@soniaa_rb Bonjour Sonia, votre train a été supprimé suite à des difficultés dans la préparation du matériel. Bonne journée à vous ! Joy",0,0,0,0,0
-1074989997244276736,2018-12-18 11:29:22,"Bonjour, Alexandra pour échanger avec vous jusqu'à 20h00. Bonne journée à tous !",1,7,0,0,0
+1074989997244276736,2018-12-18 11:29:22,"Bonjour, Alexandra pour échanger avec vous jusqu'à 20h00. Bonne journée à tous !",1,8,0,0,0
 1074992867674865664,2018-12-18 11:40:46,"@Lukkas_Marsh Bonjour Lukas, non Joy vient de partir, sa journée est terminée. ^b",0,0,0,0,0
 1074993134013243393,2018-12-18 11:41:50,"@Ganjalaa Bonjour, merci de votre message ! Bonne journée à vous également 🙂 ^b",0,0,0,0,0
 1074993707672371200,2018-12-18 11:44:06,"@AdnLittle Bonjour, merci pour votre message ! Bonne journée à vous également ! 😉 ^b",0,1,0,0,0
@@ -3872,5 +3872,6 @@ Entre Denfert Rochereau et Aéroport CDG/Mitry prévoir 1 train sur 2 toute la j
 1074997942514270208,2018-12-18 12:00:56,"@Melooooody77 Bonjour, j'ai contacté la gare et le moteur de la grille est cassé, les agents n'ont pas de date de réparation. Bonne journée. ^b",0,1,0,0,0
 1075003630401527808,2018-12-18 12:23:32,"@_Anaelle_B Parfait, merci de votre retour ! Bonne journée ! ^b",0,1,0,0,0
 1075004683331272704,2018-12-18 12:27:43,"@razhades Bonjour Hadès, mais si je suis là 😉 ^b",0,1,0,0,0
-1075008860077916161,2018-12-18 12:44:19,@razhades Ahhh bon repos alors ! Bonne journée à vous ! 😊 ^b,0,1,0,0,0
+1075008860077916161,2018-12-18 12:44:19,@razhades Ahhh bon repos alors ! Bonne journée à vous ! 😊 ^b,0,2,0,0,0
 1075015915094360065,2018-12-18 13:12:21,"@dasgamer93 Bonjour, il doit un y avoir un problème d'affichage, un train est pourtant à quai à destination de Paris. ^b",0,0,0,0,0
+1075038426032947201,2018-12-18 14:41:48,@razhades Tout un programme ! Bien chargé cet après-midi ! A demain 😊 ^b,0,1,0,0,0
