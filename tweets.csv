@@ -1406,11 +1406,11 @@ Des bus de remplacement desserviront toutes les gares entre Aulnay sous Bois et 
 1059091762675924992,2018-11-04 14:35:27,"@Lorin6401 Bonjour, les travaux se terminent ce soir à la fin de service. Le trafic prévu dès demain à la prise de service est un trafic régulier. Bonne journée. ^b",0,0,0,0,0
 1059092180168593410,2018-11-04 14:37:07,"@AndrewMitul Bonjour, les travaux se terminent ce soir à la fin de service. Le trafic prévu dès demain à la prise de service est un trafic régulier. Je comprends tout à fait votre point de vue mais ces travaux sont néanmoins nécessaires. Bon dimanche. ^b",0,0,0,0,0
 1059093677350535169,2018-11-04 14:43:04,"@Vinced_93 Bonjour, oui les travaux se terminent ce soir. Le trafic prévu pour la journée de demain est un trafic régulier. Bonne journée. ^b",0,0,0,0,0
-1059099059175260160,2018-11-04 15:04:27,"Ce soir dès 22h30, les trains #RERB seront terminus Châtelet-les-Halles. Les bus de substitution partiront de Gare du Nord.",5,3,0,0,0
 1059099060471250944,2018-11-04 15:04:27,"En direction du nord:
 -dernier départ de Châtelet à destination de La Plaine SDF: 22h29
 -dernier départ de Châtelet à destination de Gare du Nord: 22h44
  Après 22h44, tous les trains seront terminus Châtelet. #RERB",3,2,0,0,0
+1059099059175260160,2018-11-04 15:04:27,"Ce soir dès 22h30, les trains #RERB seront terminus Châtelet-les-Halles. Les bus de substitution partiront de Gare du Nord.",5,3,0,0,0
 1059099061670813696,2018-11-04 15:04:28,"En direction du sud:
 -dernier départ à La Plaine à 22h41 (passage à Châtelet à 22h53)
 -dernier départ à Gare du Nord à 22h56 (passage à Châtelet à 22h59). #RERB",3,2,0,0,0
@@ -1831,7 +1831,7 @@ https://t.co/234uIqz1rZ",7,6,0,0,0
 1062364715836493824,2018-11-13 15:21:00,"@lubv91440 Bonjour, votre train a en effet eu un changement de mission et a été rendu direct entre BLR et Antony. Toutes nos excuses pour ce manque d'informations. Bonne journée à vous ! Joy",0,0,1,0,0
 1062371954454347776,2018-11-13 15:49:46,"@HBozza Bonjour, pas de problèmes actuellement, le prochain train en gare de St Michel est la mission LEVE16 actuellement à quai ! Bonne journée à vous ! Joy",0,0,0,0,0
 1062375691273097216,2018-11-13 16:04:37,"@ClemGwen Bonjour, il s'agit d'une mesure de régulation suite au retard de la mission LEVE16. Toutes nos excuses. Bonne soirée à vous. Joy",0,0,1,1,0
-1062376805112406016,2018-11-13 16:09:03,[ ❌ Personnes sur les voies ] Le trafic est interrompu entre Aulnay et l'Aéroport Charles de Gaulle dans les deux sens de circulation en raison de personnes sur les voies en gare de Sevran Beaudottes. Reprise de la circulation estimée à 18h00 #RERB,16,18,0,0,0
+1062376805112406016,2018-11-13 16:09:03,[ ❌ Personnes sur les voies ] Le trafic est interrompu entre Aulnay et l'Aéroport Charles de Gaulle dans les deux sens de circulation en raison de personnes sur les voies en gare de Sevran Beaudottes. Reprise de la circulation estimée à 18h00 #RERB,16,17,0,0,0
 1062377111950888960,2018-11-13 16:10:16,"@cleymie Bonjour, en effet. La reprise de la circulation est estimée à 18h00. Toutes nos excuses. Bonne soirée tout de même. Joy",0,0,1,0,0
 1062377708481626113,2018-11-13 16:12:38,"@rerb6r Bonjour, dans quelle gare êtes-vous ? Joy",0,0,0,0,0
 1062378521274863617,2018-11-13 16:15:52,"@razhades Bonjour Hadès, en effet, cette journée est très compliquée pour les usagers. J'en suis vraiment désolée ! Joy",0,1,0,0,0
@@ -3149,7 +3149,7 @@ Massy-Verrières et Fontaine-Michalon. Le train est actuellement à l'approche d
 1070198573176897536,2018-12-05 06:09:57,"@Jeannot911 Bonjour Jeannot, je n'ai pas eu de retour pour le moment. Bonne journée à vous ! Joy",0,0,0,0,0
 1070199824358801409,2018-12-05 06:14:56,"@voix_des_rer Bonjour, toutes nos excuses pour cette situation. Nous allons contacter la gare. Je remonte également votre tweet précédent ! Bonne journée à vous tout de même ! Joy",0,0,1,0,0
 1070206764824580097,2018-12-05 06:42:30,"[ 🚨 Signal d'alarme ] Suite à l'actionnement d'un signal d'alarme sur la mission IDIL71 à destination de Mitry, le train stationne actuellement en gare de Cité Universitaire #RERB.",6,6,0,0,0
-1070207930727833600,2018-12-05 06:47:08,[ 🚨 Signal d'alarme ] L'incident est désormais terminé en gare de Cité Universitaire. Le retard en direction du Nord de la ligne est actuellement estimé à 10 minutes #RERB.,3,5,0,0,0
+1070207930727833600,2018-12-05 06:47:08,[ 🚨 Signal d'alarme ] L'incident est désormais terminé en gare de Cité Universitaire. Le retard en direction du Nord de la ligne est actuellement estimé à 10 minutes #RERB.,3,4,0,0,0
 1070208780632289282,2018-12-05 06:50:31,"@Yeyette19 Bonjour Luce, suite à un signal d'alarme sur la mission IDIL71, le retard en direction du Nord de la ligne est actuellement estimé à 10 minutes. Dans quelle gare êtes vous ? Joy",0,0,0,0,0
 1070208978615971840,2018-12-05 06:51:18,"@DidiBZH Bonjour, merci pour elle ! Je remonte votre tweet 🙂 ! Bonne journée à vous ! Joy",0,0,0,0,0
 1070210056216559616,2018-12-05 06:55:35,"[ 🚨 Signal d'alarme ] Suite à l'actionnement d'un signal d'alarme sur la mission EMAL81 à destination de l'Aéroport CDG, le train stationne actuellement en gare de Laplace #RERB.",3,3,0,0,0
@@ -3837,7 +3837,7 @@ Entre Denfert Rochereau et Aéroport CDG/Mitry prévoir 1 train sur 2 toute la j
 1074721791766089728,2018-12-17 17:43:37,"@SevSirkis Bonjour, un train a vidé ses voyageurs à Châtelet suite à un bagage abandonné à bord du train, l'incident est désormais terminé mais quelques retards sont effectivement engendrés en direction de la banlieue sud. Bon courage à vous. ^b",0,0,0,0,1
 1074722607247826944,2018-12-17 17:46:51,@SevSirkis Merci beaucoup !!! Bonne soirée 😊 ^b,0,0,0,0,0
 1074890254086275072,2018-12-18 04:53:01,"[05h50 Fin tardive de chantier à Gare du Nord] En raison d'une fin tardive de chantier, le trafic est perturbé de Gare du Nord vers Saint-Rémy Lès Chevreuse et Robinson. #RERB",10,2,0,0,0
-1074891833501761536,2018-12-18 04:59:18,"Bonjour à tous, Joy pour vous accompagner jusqu'à 13h00. Le trafic est actuellement perturbé en direction de St Rémy / Robinson suite à une fin tardive de chantier en gare de La Plaine Stade de France #RERB.",4,10,0,0,0
+1074891833501761536,2018-12-18 04:59:18,"Bonjour à tous, Joy pour vous accompagner jusqu'à 13h00. Le trafic est actuellement perturbé en direction de St Rémy / Robinson suite à une fin tardive de chantier en gare de La Plaine Stade de France #RERB.",4,11,0,0,0
 1074892517701758977,2018-12-18 05:02:01,"@megdevillez Bonjour, les travaux sont terminés, actuellement il n'y a pas de retard entre Mitry et Gare du Nord. Bonne journée à vous ! Joy",0,0,0,0,0
 1074892829112131589,2018-12-18 05:03:15,@MuG22154415 Bonjour à vous et bonne journée 🙂 ! Joy,0,0,0,0,0
 1074894065454460928,2018-12-18 05:08:10,@megdevillez En direction de Mitry / CDG pas de soucis 🙂 ! Bonne journée à vous ! Joy,0,0,0,0,0
@@ -3855,7 +3855,7 @@ Entre Denfert Rochereau et Aéroport CDG/Mitry prévoir 1 train sur 2 toute la j
 1074914305450106880,2018-12-18 06:28:36,"@Clavanel Bonjour, le train n'est pas supprimé mais direct entre Mitry et Aulnay, toutes nos excuses. Vous avez la mission SOSI76 actuellement au départ de Mitry. Bonne journée à vous ! Joy",0,0,1,0,0
 1074914682048315393,2018-12-18 06:30:05,"@celine9356 Bonjour Céline, vous trouverez les horaires sur le site https://t.co/OknqVMIcgY. Bonne journée à vous ! Joy",0,0,0,0,0
 1074914947786788864,2018-12-18 06:31:09,"@celine9356 Céline, le prochain train est actuellement en gare de Villeparisis. Bonne journée à vous ! Joy",0,0,0,0,0
-1074926784838283265,2018-12-18 07:18:11,🎄 Aujourd'hui les agents de la ligne #RERB vous offrent des fleurs à la gare de Denfert-Rochereau de 12h30 à 14h00 et de 16h30 à 19h00. https://t.co/d4iy3xQbr6,10,44,0,0,0
+1074926784838283265,2018-12-18 07:18:11,🎄 Aujourd'hui les agents de la ligne #RERB vous offrent des fleurs à la gare de Denfert-Rochereau de 12h30 à 14h00 et de 16h30 à 19h00. https://t.co/d4iy3xQbr6,10,46,0,0,0
 1074927678166306816,2018-12-18 07:21:44,"@razhades Bonjour Hadès, je suis pleine de surprises 😅 ! Bonne journée à vous ! Joy",0,2,0,0,0
 1074930008433528833,2018-12-18 07:30:59,"@KarenHua2 Bonjour Karen, le train devant vous a subi des difficultés de signalisation en gare de Bourg la Reine ce qui a ralenti les trains suivants. Toutes nos excuses. Bonne journée à vous tout de même ! Joy",0,1,1,0,0
 1074930876851593216,2018-12-18 07:34:26,"@KarenHua2 Karen, je vous en prie ! Actuellement votre train accuse 6 minutes de retard ! Bonne journée 🙂 ! Joy",0,1,0,0,0
@@ -3887,7 +3887,7 @@ Entre Denfert Rochereau et Aéroport CDG/Mitry prévoir 1 train sur 2 toute la j
 1075254097597603840,2018-12-19 04:58:48,"Bonjour à tous, Joy pour vous accompagner jusqu'à 13h00. N'hésitez pas à me solliciter pendant votre trajet sur le #RERB. Bonne journée à tous ! Joy",0,0,0,0,0
 1075260439993434112,2018-12-19 05:24:00,[ 🔧 Avarie sur le matériel ] La mission KOCQ26 à destination de Massy Pal. stationne actuellement en gare du Bourget suite à une avarie sur son matériel #RERB,1,0,0,0,0
 1075261967986769921,2018-12-19 05:30:05,"@Dediddas Bonjour, les trains en direction de Paris passeront sur la voie directe au Bourget. Joy",0,0,0,0,0
-1075262924879466497,2018-12-19 05:33:53,"❌  Suite à la panne d'un train en gare du Bourget, le trafic est actuellement perturbé en direction de St Rémy / Robinson #RERB",3,5,0,0,0
+1075262924879466497,2018-12-19 05:33:53,"❌  Suite à la panne d'un train en gare du Bourget, le trafic est actuellement perturbé en direction de St Rémy / Robinson #RERB",6,8,0,0,0
 1075263376215957506,2018-12-19 05:35:40,"@LaurineGymnaste Bonjour Laurine, dans quelle gare êtes vous ? Joy",0,0,0,0,0
 1075263549755277312,2018-12-19 05:36:22,@rerb6r Bonjour à vous et bonne journée 🙂 ! Joy,0,0,0,0,0
 1075263805083525121,2018-12-19 05:37:23,@LaurineGymnaste Le retard est actuellement estimé à 10 minutes. Vous avez actuellement un train à quai ! Bonne journée à vous tout de même ! Joy,0,0,0,0,0
@@ -3896,5 +3896,15 @@ Entre Denfert Rochereau et Aéroport CDG/Mitry prévoir 1 train sur 2 toute la j
 1075265524651753472,2018-12-19 05:44:13,@Dediddas Actuellement le retard est estimé à 10 minutes en direction de St Rémy / Robinson ! Bonne journée à vous tout de même ! Joy,0,1,0,0,0
 1075265821730066432,2018-12-19 05:45:24,@razhades Merci pour vos encouragements 😊 ! Joy,0,0,0,0,0
 1075266435147055105,2018-12-19 05:47:50,"@MinusKarimus Bonjour, vous avez la mission PLIC40 actuellement à l'approche. Joy",0,0,0,0,0
-1075268383552299008,2018-12-19 05:55:34,[ 🔧 Avarie sur le matériel ] L'incident est désormais terminé en gare du Bourget. Le trafic reste perturbé en direction de Robinson / St Rémy #RERB.,0,0,0,0,0
+1075268383552299008,2018-12-19 05:55:34,[ 🔧 Avarie sur le matériel ] L'incident est désormais terminé en gare du Bourget. Le trafic reste perturbé en direction de Robinson / St Rémy #RERB.,4,1,0,0,0
 1075268954761977857,2018-12-19 05:57:51,"@Jeannot911 Bonjour, toutes nos excuses il s'agit en effet d'une mesure de régulation. Bonne journée à vous tout de même ! Joy",0,0,1,1,0
+1075272567492173824,2018-12-19 06:12:12,La mission QADO51 à destination de La Plaine stationne actuellement en gare de Bourg la Reine suite à un problème de fermeture de porte #RERB,2,0,0,0,0
+1075273151070855168,2018-12-19 06:14:31,"🔧 Suite à une avarie sur le matériel de la mission QADO51, le train est terminus en gare de Bourg-la-Reine et stationne actuellement à quai #RERB.",1,0,0,0,0
+1075274223726284800,2018-12-19 06:18:47,"🔧 Fin d'incident en gare de Bourg la Reine, le retard en direction du Nord de la ligne est actuellement estimé à 5 minutes #RERB",4,0,0,0,0
+1075274410951696385,2018-12-19 06:19:31,"@ClemGwen Bonjour Gwen et merci pour votre signalement, pouvez vous me donner le numéro de la voiture ? Joy",0,0,0,0,0
+1075274794097106944,2018-12-19 06:21:03,@ClemGwen Merci beaucoup ! Je remonte votre signalement à nos équipes ! Bonne journée à vous également ! Joy,0,1,0,0,0
+1075277171248300034,2018-12-19 06:30:29,"@kaminskaklaudi1 Bonjour, prochain départ de Roissy dans 1 minute (mission KUBE82) ! Bonne journée à vous ! Joy",0,0,0,0,0
+1075280087308779520,2018-12-19 06:42:05,"@khem78 Bonjour, l'incident est désormais terminé cependant le trafic reste perturbé en direction de St Rémy / Robinson. Bonne journée ! Joy",0,0,0,0,0
+1075280979898626048,2018-12-19 06:45:38,"@Claude_Mogador Bonjour, le retard de 5 minutes est en direction du Nord, mais le trafic est bien perturbé en direction de St Rémy / Robinson. Joy",0,0,0,0,0
+1075282925405523968,2018-12-19 06:53:21,"@pybproductions Bonjour, toutes nos excuses pour ce manque d'infos, vous avez actuellement la mission QADO91 actuellement à quai. Joy",0,0,1,0,0
+1075284631405105153,2018-12-19 07:00:08,"@alcor_mizar215 Bonjour, votre train va pouvoir quitter la gare de Robinson. Joy",0,0,0,0,0
