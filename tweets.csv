@@ -2707,7 +2707,7 @@ Massy-Verrières et Fontaine-Michalon. Le train est actuellement à l'approche d
 1067330605044637697,2018-11-27 08:13:40,"@pandazuma Oui, des vérifications sont actuellement effectuées par le conducteur et nos équipes avant de pouvoir repartir. Votre train rencontre un problème d'alimentation électrique, c'est pour cela que vous n'avez actuellement pas d'électricité dans le train. ^b",0,0,0,0,0
 1067331063716945920,2018-11-27 08:15:30,"@pandazuma Votre train a pu repartir, les vérifications sont terminées. ^b",0,0,0,0,0
 1067332627177398272,2018-11-27 08:21:43,"@PierreR33607914 Bonjour Pierre, c'est en répercussion d'un train qui a stationné quelques minutes à Laplace suite à des vérifications techniques, avant de pouvoir repartir. De nombreux trains sont sur ce tronçon, ce qui explique également un ralentissement sur votre parcours. ^b",0,0,0,0,0
-1067348612005408768,2018-11-27 09:25:14,[Nouvel article blog] Qui gère les écrans donnant l’Information Voyageurs sur le #RERB ? https://t.co/xGjinopLh2 https://t.co/cjIQT4FH18,3,8,0,0,0
+1067348612005408768,2018-11-27 09:25:14,[Nouvel article blog] Qui gère les écrans donnant l’Information Voyageurs sur le #RERB ? https://t.co/xGjinopLh2 https://t.co/cjIQT4FH18,3,7,0,0,0
 1067353789903056896,2018-11-27 09:45:48,"@KacemBenAbdessa Bonjour, oui effectivement je comprends tout à fait. Des notifications officielles ne sont pas toujours diffusées c'est vrai. Je remonte nos échanges. Bonne journée à vous. ^b",0,0,0,0,0
 1067364405430665216,2018-11-27 10:27:59,"@KacemBenAbdessa Je vous en prie, c'est normal ! ^b",0,0,0,0,0
 1067373808774975488,2018-11-27 11:05:21,Un train à destination de St Rémy stationne à Aulnay suite à un malaise voyageur à bord du train. #RERB,0,2,0,0,0
@@ -3939,12 +3939,14 @@ Entre Denfert Rochereau et Aéroport CDG/Mitry prévoir 1 train sur 2 toute la j
 1075459198077542401,2018-12-19 18:33:48,Un train à destination de Massy-Palaiseau stationne à Châtelet suite à une panne. Tous les trains en direction du sud passent quai 3 à Châtelet-les-Halles. #RERB,0,1,0,0,0
 1075459398036803584,2018-12-19 18:34:36,@rerb_st_remy Oui quai de la ligne D sud. ^b,0,0,0,0,0
 1075459520183312385,2018-12-19 18:35:05,"@Link_eole @IDFmobilites Très bien, merci de votre retour. ^b",0,0,0,0,0
-1075459864363700225,2018-12-19 18:36:27,"Un train à destination de Massy-Palaiseau stationne à Châtelet suite à une panne. Tous les trains en direction du sud passent quai 3 à Châtelet-les-Halles (quai de la ligne D, direction sud). #RERB",1,4,0,0,0
+1075459864363700225,2018-12-19 18:36:27,"Un train à destination de Massy-Palaiseau stationne à Châtelet suite à une panne. Tous les trains en direction du sud passent quai 3 à Châtelet-les-Halles (quai de la ligne D, direction sud). #RERB",2,4,0,0,0
 1075460302882390017,2018-12-19 18:38:11,"Suite à un train en panne à Châtelet, le trafic #RERB est perturbé en direction de St Rémy / Robinson",0,2,0,0,0
 1075460884900823040,2018-12-19 18:40:30,"19:39, la rame stationne de Chatelet-Les Halles vers St-Remy / Robinson (train en panne)  #RERB",0,0,0,0,0
-1075461205094006784,2018-12-19 18:41:47,"@rerb_st_remy Nos équipes et le conducteur essaient de résoudre la panne, je vous conseille de vous rendre sur le quai de la ligne D (direction sud: Melun, Corbeilles) où des trains de la ligne B passent. ^b",0,1,0,0,0
+1075461205094006784,2018-12-19 18:41:47,"@rerb_st_remy Nos équipes et le conducteur essaient de résoudre la panne, je vous conseille de vous rendre sur le quai de la ligne D (direction sud: Melun, Corbeilles) où des trains de la ligne B passent. ^b",0,2,0,0,0
 1075461697857617920,2018-12-19 18:43:44,"@Link_eole @operadeparis @IDFmobilites Je suis vraiment navrée, j’espère que vous arriverez à temps. Je n'ai pas plus d'infos concernant la durée de cet incident. ^b",0,0,0,0,0
 1075462283877326849,2018-12-19 18:46:04,@Link_eole Le train avec l'avarie va pouvoir repartir. ^b,0,0,0,0,0
-1075462515738505223,2018-12-19 18:46:59,"(Train en panne à Châtelet): Fin d'incident, le trafic reste perturbé en direction de St Rémy/Robinson. #RERB",0,3,0,0,0
-1075462755233267718,2018-12-19 18:47:56,@rerb_st_remy Avez-vous pu prendre un train ? ^b,0,1,0,0,0
+1075462515738505223,2018-12-19 18:46:59,"(Train en panne à Châtelet): Fin d'incident, le trafic reste perturbé en direction de St Rémy/Robinson. #RERB",0,5,0,0,0
+1075462755233267718,2018-12-19 18:47:56,@rerb_st_remy Avez-vous pu prendre un train ? ^b,0,2,0,0,0
 1075463417773858817,2018-12-19 18:50:34,"@Link_eole Toutes nos excuses, merci de votre patience! ^b",0,0,1,0,0
+1075466917694058497,2018-12-19 19:04:29,"20:03, le trafic est perturbé sur la ligne (train en panne)  #RERB",1,2,0,0,0
+1075473965756370945,2018-12-19 19:32:29,"20:31, le trafic est rétabli sur la ligne (train en panne)  #RERB",0,1,0,0,0
