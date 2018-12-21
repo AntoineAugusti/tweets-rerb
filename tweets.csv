@@ -1406,11 +1406,11 @@ Des bus de remplacement desserviront toutes les gares entre Aulnay sous Bois et 
 1059091762675924992,2018-11-04 14:35:27,"@Lorin6401 Bonjour, les travaux se terminent ce soir à la fin de service. Le trafic prévu dès demain à la prise de service est un trafic régulier. Bonne journée. ^b",0,0,0,0,0
 1059092180168593410,2018-11-04 14:37:07,"@AndrewMitul Bonjour, les travaux se terminent ce soir à la fin de service. Le trafic prévu dès demain à la prise de service est un trafic régulier. Je comprends tout à fait votre point de vue mais ces travaux sont néanmoins nécessaires. Bon dimanche. ^b",0,0,0,0,0
 1059093677350535169,2018-11-04 14:43:04,"@Vinced_93 Bonjour, oui les travaux se terminent ce soir. Le trafic prévu pour la journée de demain est un trafic régulier. Bonne journée. ^b",0,0,0,0,0
-1059099059175260160,2018-11-04 15:04:27,"Ce soir dès 22h30, les trains #RERB seront terminus Châtelet-les-Halles. Les bus de substitution partiront de Gare du Nord.",5,3,0,0,0
 1059099060471250944,2018-11-04 15:04:27,"En direction du nord:
 -dernier départ de Châtelet à destination de La Plaine SDF: 22h29
 -dernier départ de Châtelet à destination de Gare du Nord: 22h44
  Après 22h44, tous les trains seront terminus Châtelet. #RERB",3,2,0,0,0
+1059099059175260160,2018-11-04 15:04:27,"Ce soir dès 22h30, les trains #RERB seront terminus Châtelet-les-Halles. Les bus de substitution partiront de Gare du Nord.",5,3,0,0,0
 1059099061670813696,2018-11-04 15:04:28,"En direction du sud:
 -dernier départ à La Plaine à 22h41 (passage à Châtelet à 22h53)
 -dernier départ à Gare du Nord à 22h56 (passage à Châtelet à 22h59). #RERB",3,2,0,0,0
@@ -4071,3 +4071,9 @@ Entre Denfert Rochereau et Aéroport CDG/Mitry prévoir 1 train sur 2 toute la j
 1076091153496326145,2018-12-21 12:24:58,"@razhades Parfait, tout comme moi ! 😉 Bon après-midi Hadès ! ^b",0,1,0,0,0
 1076095325952196609,2018-12-21 12:41:33,"@adaPoland Bonjour, la fermeture de certaines gares n'est pour l'instant pas prévue. Néanmoins, en fonction de la situation, certaines gares peuvent être amenées à être fermées. N'hésitez pas à consulter https://t.co/ijY0yo4Edo et https://t.co/rcwnrZtW00 avant votre trajet. ^b",0,1,0,0,0
 1076096124900069376,2018-12-21 12:44:43,@adaPoland Je vous en prie ! Bonne journée ! ^b,0,1,0,0,0
+1076154233509085185,2018-12-21 16:35:37,Un train à destination de l'aéroport CDG stationne à St Michel suite à un bagage oublié à bord du train. #RERB,0,1,0,0,0
+1076155172471091205,2018-12-21 16:39:21,"(Bagage oublié dans un train à St Michel): fin d'incident, le train à destination de l'aéroport CDG va pouvoir repartir. #RERB",2,0,0,0,0
+1076155952863330304,2018-12-21 16:42:27,"@cedric_twit Bonjour Cédric, merci beaucoup de votre retour ! Bonnes fêtes de fin d'année à vous ! ^b",0,0,0,0,0
+1076157468252741632,2018-12-21 16:48:29,"@big_oup Bonsoir, oui effectivement le train a stationné quelques minutes à St Michel, avant de pouvoir repartir. Bonne soirée, tout de même. ^b",0,0,0,0,0
+1076158137760133120,2018-12-21 16:51:08,"@razhades Oui c'est désormais terminé, la personne a pu récupérer sa valise, c'est une bonne nouvelle! 🙂 ^b",0,1,0,0,0
+1076158910560694272,2018-12-21 16:54:13,"@the_chi Bonjour, oui toutes nos excuses ! C'est en répercussion d'un bagage oublié à St-Michel, l'incident est désormais terminé. Vous avez actuellement un train à quai à destination de l'aéroport CDG. ^b",0,0,1,0,0
