@@ -1406,11 +1406,11 @@ Des bus de remplacement desserviront toutes les gares entre Aulnay sous Bois et 
 1059091762675924992,2018-11-04 14:35:27,"@Lorin6401 Bonjour, les travaux se terminent ce soir à la fin de service. Le trafic prévu dès demain à la prise de service est un trafic régulier. Bonne journée. ^b",0,0,0,0,0
 1059092180168593410,2018-11-04 14:37:07,"@AndrewMitul Bonjour, les travaux se terminent ce soir à la fin de service. Le trafic prévu dès demain à la prise de service est un trafic régulier. Je comprends tout à fait votre point de vue mais ces travaux sont néanmoins nécessaires. Bon dimanche. ^b",0,0,0,0,0
 1059093677350535169,2018-11-04 14:43:04,"@Vinced_93 Bonjour, oui les travaux se terminent ce soir. Le trafic prévu pour la journée de demain est un trafic régulier. Bonne journée. ^b",0,0,0,0,0
-1059099059175260160,2018-11-04 15:04:27,"Ce soir dès 22h30, les trains #RERB seront terminus Châtelet-les-Halles. Les bus de substitution partiront de Gare du Nord.",5,3,0,0,0
 1059099060471250944,2018-11-04 15:04:27,"En direction du nord:
 -dernier départ de Châtelet à destination de La Plaine SDF: 22h29
 -dernier départ de Châtelet à destination de Gare du Nord: 22h44
  Après 22h44, tous les trains seront terminus Châtelet. #RERB",3,2,0,0,0
+1059099059175260160,2018-11-04 15:04:27,"Ce soir dès 22h30, les trains #RERB seront terminus Châtelet-les-Halles. Les bus de substitution partiront de Gare du Nord.",5,3,0,0,0
 1059099061670813696,2018-11-04 15:04:28,"En direction du sud:
 -dernier départ à La Plaine à 22h41 (passage à Châtelet à 22h53)
 -dernier départ à Gare du Nord à 22h56 (passage à Châtelet à 22h59). #RERB",3,2,0,0,0
@@ -1772,7 +1772,7 @@ https://t.co/234uIqz1rZ",7,6,0,0,0
 1062236140101615616,2018-11-13 06:50:05,"@MSa14013865 Bonjour, ce genre d'accident n'est pas prévisible. Nos équipes sont mobilisées sur le terrain pour rétablir le trafic au plus vite. Les pompiers sont sur place pour secourir la personne. ^b",0,2,0,0,0
 1062236235916369922,2018-11-13 06:50:28,"07:49, le trafic est interrompu de Gare du Nord vers Aeroport CdG 2 / Mitry - Claye. Reprise estimée à 09:00. (accident grave de personne)  #RERB",3,4,0,0,0
 1062236435334479872,2018-11-13 06:51:16,"@JoshFirmo Merci Joshua de votre retour, bon courage pour la poursuite de votre trajet ! ^b",0,0,0,0,1
-1062237756565401600,2018-11-13 06:56:31,Accident grave de personne à La Plaine Stade de France: Reprise progressive de la circulation entre Gare du Nord et CDG/Mitry. Le trafic reste perturbé sur l'ensemble de la ligne #RERB,14,13,0,0,0
+1062237756565401600,2018-11-13 06:56:31,Accident grave de personne à La Plaine Stade de France: Reprise progressive de la circulation entre Gare du Nord et CDG/Mitry. Le trafic reste perturbé sur l'ensemble de la ligne #RERB,14,14,0,0,0
 1062237974711205888,2018-11-13 06:57:23,"@florent_pa Bonjour Florent, il  s'agit d'une mesure de régulation suite à l'accident de personne à La Plaine SDF. ^b",0,0,0,1,0
 1062239820880232448,2018-11-13 07:04:43,"@husson_ma Bonjour, une procédure d'accident grave de personne est de 2 heures, le temps que les secours, la police puissent intervenir. ^b",0,0,0,0,0
 1062240665927647232,2018-11-13 07:08:04,"@ManonManfredi Bonjour Manon, le prochain train est à Drancy. Bon courage à vous. ^b",0,0,0,0,1
@@ -2083,7 +2083,7 @@ https://t.co/234uIqz1rZ",7,6,0,0,0
 1064816512647798789,2018-11-20 09:43:34,"@Yazid_LNI Bonjour, il s'agit certainement d'un bug de l'application. Je remonte votre tweet ! Belle journée à vous ! Joy",0,0,0,0,0
 1064817101339353089,2018-11-20 09:45:54,"@frenchsapphic Pas de problèmes, il s'agit simplement de rappeler aux agents en gare la nécessité de vous fournir un justificatif de retard lors d'évènements comme ce matin. Joy",0,0,0,0,0
 1064826733889814528,2018-11-20 10:24:11,"@JPortay Bonjour, en effet, toutes nos excuses, un train grande ligne doit passer en gare de Gare du Nord. De ce fait votre train est retenu quelques instants. Toutes nos excuses encore une fois. Bonne journée à vous ! Joy",0,0,1,0,0
-1064828440849854464,2018-11-20 10:30:58,[ ❌  Manœuvre d'un TER ] Trafic momentanément interrompu entre La Plaine et Châtelet les Halles suite à la manœuvre d'un train TER à Gare du Nord. L'heure de reprise du trafic est estimée à 12h00 #RERB.,13,19,0,0,0
+1064828440849854464,2018-11-20 10:30:58,[ ❌  Manœuvre d'un TER ] Trafic momentanément interrompu entre La Plaine et Châtelet les Halles suite à la manœuvre d'un train TER à Gare du Nord. L'heure de reprise du trafic est estimée à 12h00 #RERB.,13,20,0,0,0
 1064829041662939136,2018-11-20 10:33:21,"@jeremyghez Bonjour Jeremy, en effet, suite à la manœuvre d'un TER à Gare du Nord, le trafic est momentanément interrompu entre La Plaine et Châtelet. Toutes nos excuses. Belle journée à vous tout de même ! Joy",0,0,1,0,0
 1064829864501538818,2018-11-20 10:36:37,"@jeremyghez Jérémy, des trains vont en effet circuler à partir de Châtelet en direction du Sud de la ligne. Bonne journée à vous ! Joy",0,0,0,0,0
 1064832318202945536,2018-11-20 10:46:22,"@kaminskaklaudi1 Bonjour, toutes nos excuses, un TER est actuellement en manœuvre ce qui implique une interruption du trafic entre La Plaine et Châtelet. Reprise du trafic estimée à 12h00. Bonne journée à vous tout de même ! Joy",0,0,1,0,0
@@ -4114,5 +4114,6 @@ Entre Denfert Rochereau et Aéroport CDG/Mitry prévoir 1 train sur 2 toute la j
 1077143585542279173,2018-12-24 10:06:57,"❌ L'incident est désormais terminé en gare de La Plaine, la circulation reprend sur la ligne #RERB.",0,3,0,0,0
 1077148114539171840,2018-12-24 10:24:57,"@noisybear Bonjour, je remonte votre tweet à nos équipes ! Merci pour votre signalement ! Bonne journée à vous ! Joy",0,1,0,0,0
 1077164839036956672,2018-12-24 11:31:25,Je vous retrouve mercredi 2 janvier à 06h00. Je vous souhaite de très belles fêtes de fin d’année ! 🎄Joy https://t.co/B7j5ymxMbO,4,40,0,0,0
-1078294295722016768,2018-12-27 14:19:28,"15:18, le trafic est perturbé sur la ligne (bagage oublié)  #RERB",2,2,0,0,0
-1078301849667682304,2018-12-27 14:49:29,"15:48, le trafic est perturbé de Saint-Remy-les-Chevreuse vers Aeroport CdG 2 / Mitry - Claye (bagage oublié)  #RERB",1,0,0,0,0
+1078294295722016768,2018-12-27 14:19:28,"15:18, le trafic est perturbé sur la ligne (bagage oublié)  #RERB",3,2,0,0,0
+1078301849667682304,2018-12-27 14:49:29,"15:48, le trafic est perturbé de Saint-Remy-les-Chevreuse vers Aeroport CdG 2 / Mitry - Claye (bagage oublié)  #RERB",2,0,0,0,0
+1078307655070949378,2018-12-27 15:12:33,"16:11, le trafic est rétabli sur la ligne (bagage oublié)  #RERB",0,2,0,0,0
