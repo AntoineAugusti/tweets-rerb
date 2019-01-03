@@ -1406,11 +1406,11 @@ Des bus de remplacement desserviront toutes les gares entre Aulnay sous Bois et 
 1059091762675924992,2018-11-04 14:35:27,"@Lorin6401 Bonjour, les travaux se terminent ce soir à la fin de service. Le trafic prévu dès demain à la prise de service est un trafic régulier. Bonne journée. ^b",0,0,0,0,0
 1059092180168593410,2018-11-04 14:37:07,"@AndrewMitul Bonjour, les travaux se terminent ce soir à la fin de service. Le trafic prévu dès demain à la prise de service est un trafic régulier. Je comprends tout à fait votre point de vue mais ces travaux sont néanmoins nécessaires. Bon dimanche. ^b",0,0,0,0,0
 1059093677350535169,2018-11-04 14:43:04,"@Vinced_93 Bonjour, oui les travaux se terminent ce soir. Le trafic prévu pour la journée de demain est un trafic régulier. Bonne journée. ^b",0,0,0,0,0
+1059099059175260160,2018-11-04 15:04:27,"Ce soir dès 22h30, les trains #RERB seront terminus Châtelet-les-Halles. Les bus de substitution partiront de Gare du Nord.",5,3,0,0,0
 1059099060471250944,2018-11-04 15:04:27,"En direction du nord:
 -dernier départ de Châtelet à destination de La Plaine SDF: 22h29
 -dernier départ de Châtelet à destination de Gare du Nord: 22h44
  Après 22h44, tous les trains seront terminus Châtelet. #RERB",3,2,0,0,0
-1059099059175260160,2018-11-04 15:04:27,"Ce soir dès 22h30, les trains #RERB seront terminus Châtelet-les-Halles. Les bus de substitution partiront de Gare du Nord.",5,3,0,0,0
 1059099061670813696,2018-11-04 15:04:28,"En direction du sud:
 -dernier départ à La Plaine à 22h41 (passage à Châtelet à 22h53)
 -dernier départ à Gare du Nord à 22h56 (passage à Châtelet à 22h59). #RERB",3,2,0,0,0
@@ -3365,7 +3365,7 @@ Entre Denfert Rochereau et Aéroport CDG/Mitry prévoir 1 train sur 2 toute la j
 1071378794559229953,2018-12-08 12:19:44,"@randallbroman Bonjour, la ligne B roule normalement aujourd'hui (sauf incident inopiné), bon trajet. Mat.",2,2,0,0,0
 1071452589903003649,2018-12-08 17:12:58,Des personnes ont été détectées sur les voies à gare du Nord #RERB #RATP,11,14,0,0,0
 1071457746409742342,2018-12-08 17:33:28,"18:32, le trafic est perturbé sur la ligne (Personnes sur les voies)  #RERB",5,6,0,0,0
-1071487947726315520,2018-12-08 19:33:28,"20:32, le trafic est rétabli sur la ligne (Personnes sur les voies)  #RERB",3,11,0,0,0
+1071487947726315520,2018-12-08 19:33:28,"20:32, le trafic est rétabli sur la ligne (Personnes sur les voies)  #RERB",3,10,0,0,0
 1071994496131448833,2018-12-10 05:06:19,"Bonjour à tous, Alexandra pour vous accompagner sur la ligne #RERB jusqu'à 13h30 cette semaine. Bonne journée !",0,8,0,0,0
 1071996253989494784,2018-12-10 05:13:18,"@Mli67106624 Bonjour Méli, le trafic est régulier à Sevran-Livry. Bonne journée ! ^b",0,0,0,0,0
 1071996828973977601,2018-12-10 05:15:35,"@ChloMorin9 Bonjour, oui effectivement nous avons eu un problème électrique à Gare du Nord mais votre train a pu repartir. Bonne journée. ^b",0,0,0,0,0
@@ -3769,7 +3769,7 @@ Entre Denfert Rochereau et Aéroport CDG/Mitry prévoir 1 train sur 2 toute la j
 1073644103668260864,2018-12-14 18:21:16,"@jeromehuet Bonjour Jérôme, un train a stationné quelques instants à Gare du Nord pour une manœuvre, vous avez la mission EPAL15, et ILAR17 à l'approche. Bonne soirée à vous et bon week-end ! Joy",0,0,0,0,0
 1073644661103886338,2018-12-14 18:23:29,"❌ Suite à un bagage oublié dans la mission STER34 à destination de Robinson, le train stationne actuellement en gare de CDG1 #RERB",2,1,0,0,0
 1073650689254064128,2018-12-14 18:47:26,"@Elise_Gabrielle Bonsoir Elise, vous avez actuellement la mission EPAL27 à l'approche. Normalement pas de soucis avec les horaires de l'application. Bonne soirée à vous ! Joy",0,1,0,0,0
-1073651143388119041,2018-12-14 18:49:14,"[Manifestation 15 décembre] Pour des raisons de sécurité liées aux manifestations et à la demande de la Préfecture de Police,  la gare de Saint-Michel-Notre-Dame (#RERB et RER C) sera fermée demain toute la journée.",12,9,0,0,0
+1073651143388119041,2018-12-14 18:49:14,"[Manifestation 15 décembre] Pour des raisons de sécurité liées aux manifestations et à la demande de la Préfecture de Police,  la gare de Saint-Michel-Notre-Dame (#RERB et RER C) sera fermée demain toute la journée.",12,8,0,0,0
 1073653463966461952,2018-12-14 18:58:27,"@firek92 Bonjour, pas de problèmes en direction de Paris depuis CDG2. Bonne soirée à vous ! Joy",0,1,0,0,0
 1073668312373055488,2018-12-14 19:57:28,"[#Manifestation 15 décembre] Pour raisons de sécurité, et après coordination avec la @prefpolice, certaines stations et gares #RATP sont fermées et les correspondances non assurées. https://t.co/qTEtTuS3d4",9,10,0,0,0
 1073815792410640384,2018-12-15 05:43:30,"06:42, la gare St-Michel N.-D. est fermée (mesure de sécurité)  #RERB",5,6,0,0,0
@@ -4210,12 +4210,24 @@ Entre Denfert Rochereau et Aéroport CDG/Mitry prévoir 1 train sur 2 toute la j
 1080795605549703170,2019-01-03 11:58:47,"@razhades Bonjour Hadès, merci beaucoup ! Bon après-midi à vous aussi, courage ! 😉 ^b",0,0,0,0,0
 1080800043953778689,2019-01-03 12:16:25,"@alexandreconan Bonjour Alexandre, merci de votre signalement. Effectivement depuis 30 minutes environ il n'y a plus d'électricité dans le souterrain, la gare est avisée et des équipes vont intervenir pour résoudre le problème au plus vite. Bonne journée. ^b",0,1,0,0,0
 1080800886136467457,2019-01-03 12:19:46,Un train à destination de Robinson stationne à Gare du Nord suite à l'actionnement d'un signal d'alarme. #RERB,0,2,0,0,0
-1080801699835592707,2019-01-03 12:23:00,"(Signal d'alarme à Gare du Nord) : fin d'incident, le train va pouvoir repartir à destination de Robinson. #RERB",0,2,0,0,0
+1080801699835592707,2019-01-03 12:23:00,"(Signal d'alarme à Gare du Nord) : fin d'incident, le train va pouvoir repartir à destination de Robinson. #RERB",1,2,0,0,0
 1080804021177335808,2019-01-03 12:32:13,@alexandreconan Oui effectivement ce problème électrique ne concerne que les souterrains. Bonne journée ! 🙂 ^b,0,0,0,0,0
 1080869358686138368,2019-01-03 16:51:51,@razhades Oui SOME52 est en retard suite à une gêne circulation avec un train de la ligne D sur un train le précédant. ^b,0,1,0,0,0
 1080871805768925184,2019-01-03 17:01:34,"@KarenHua2 Bonjour, bonne année à vous également, plein de belles choses ! Bonne soirée ! 🙂 ^b",0,1,0,0,0
 1080879798501756928,2019-01-03 17:33:20,"@gegene007 Bonsoir Geneviève, en direction du sud de la ligne des retards sont engendrés suite à une gêne circulation avec un train de la ligne D à Gare du Nord. Toutes nos excuses. ^b",0,0,1,0,0
-1080883983880257541,2019-01-03 17:49:58,Un train à destination de St Rémy stationne à Gare du Nord suite à une panne. #RERB,1,0,0,0,0
-1080884724367876097,2019-01-03 17:52:54,"(Train en panne à Gare du Nord): fin d'incident, le train repart à destination de St-Rémy. Le retard en direction du sud de la ligne est estimé à 10 minutes. #RERB",1,1,0,0,0
+1080883983880257541,2019-01-03 17:49:58,Un train à destination de St Rémy stationne à Gare du Nord suite à une panne. #RERB,5,0,0,0,0
+1080884724367876097,2019-01-03 17:52:54,"(Train en panne à Gare du Nord): fin d'incident, le train repart à destination de St-Rémy. Le retard en direction du sud de la ligne est estimé à 10 minutes. #RERB",2,1,0,0,0
 1080885049627738112,2019-01-03 17:54:12,"@ArnaudCHAILLIE @Jeannot911 Bonjour Arnaud, pas de panne de signalisation, il s'agissait d'une panne sur son matériel. L'incident est désormais terminé, le train a quitté Gare du Nord. ^b",0,1,0,0,0
-1080885817478955009,2019-01-03 17:57:15,Un train à destination de Robinson stationne à Villeparisis suite à un accident grave de personne. Plus d'informations à venir. #RERB,2,1,0,0,0
+1080885817478955009,2019-01-03 17:57:15,Un train à destination de Robinson stationne à Villeparisis suite à un accident grave de personne. Plus d'informations à venir. #RERB,6,3,0,0,0
+1080886991644958720,2019-01-03 18:01:55,"En raison d'un accident grave de personne à Villeparisis, le trafic #RERB est interrompu entre Aulnay et Mitry dans les deux sens de circulation. L'heure de reprise est estimée à 21h30. Itinéraires de substitution: https://t.co/BZasg6Wyr0.",8,6,0,0,0
+1080888184446152704,2019-01-03 18:06:39,"@Melooooody77 Bonjour, oui effectivement... Bonne soirée à vous. ^b",0,4,0,0,0
+1080888894860808192,2019-01-03 18:09:29,"@zazooub91 Bonjour, oui des trains circulent entre ces deux gares, le trafic reste néanmoins perturbé suite à l'accident grave de personne. ^b",0,0,0,0,0
+1080890863864201222,2019-01-03 18:17:18,"@C6775Rugby Bonsoir, oui des trains circulent entre ces deux gares. Bonne soirée. ^b",2,0,0,0,0
+1080897696981024768,2019-01-03 18:44:27,Un train à destination d'Aulnay-sous-Bois stationne à Port-Royal suite à une panne. #RERB,2,1,0,0,0
+1080898555097812992,2019-01-03 18:47:52,"@JieffeBi Bonsoir, c'est en répercussion d'une panne sur un train à Port-Royal, je ne sais pas quand la panne sera résolue. Toutes nos excuses. ^b",0,0,1,0,0
+1080898797247647745,2019-01-03 18:48:50,"@ChristianDomine Bonsoir, dans l'autre sens les trains circulent mais le trafic est perturbé suite à un accident grave de personne à Villeparisis. ^b",0,0,0,0,0
+1080899914023034880,2019-01-03 18:53:16,"@Nono23969218 Bonsoir, les affichages ne sont pas à jour, tous les trains à destination de Mitry sont terminus Aulnay suite à l'accident grave de personne à Villeparisis. ^b",0,0,0,0,0
+1080902714345828352,2019-01-03 19:04:23,"(Train en panne à Port-Royal) : fin d'incident, le train reprend sa marche à destination d'Aulnay. #RERB",2,0,0,0,0
+1080903491361619970,2019-01-03 19:07:29,"@Ml_pitigoi Bonsoir Marie-Louise, l'incident est désormais terminé. Suite à une mesure de régulation, il sera terminus à Châtelet. Toutes nos excuses. ^b",0,0,1,1,0
+1080904620656943104,2019-01-03 19:11:58,"@baduelpaul Bonsoir Paul, merci de votre signalement, je transmets à nos équipes. Toutes nos excuses pour la gêne occasionnée ! ^b",0,1,1,0,0
+1080905812086845442,2019-01-03 19:16:42,"@candoulives Bonsoir Alison, le trafic est toujours interrompu entre Aulnay et Mitry. Pour votre rendre à Sevran-Livry, vous pouvez prendre le bus 605 à Aulnay. Bon courage. ^b",0,0,0,0,1
