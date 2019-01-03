@@ -1028,7 +1028,7 @@ Interruption des circulations les 3 &amp; 4 novembre pour modernisation des inst
 1055837304269533185,2018-10-26 15:03:24,"@befercoq Bonjour, le prochain train est le KENO66 actuellement à la gare de Villeparisis. Bon courage. ^b",0,0,0,0,1
 1055849260447600641,2018-10-26 15:50:55,"@razhades Bonjour Hadès, oui effectivement l'affluence voyageur suite à la réduction de l'offre de transport a engendré des retards sur la ligne. Les trains devaient rester un peu plus longtemps que d'habitude à quai. Bon week-end à vous ! ^b",0,1,0,0,0
 1055855607796908037,2018-10-26 16:16:08,La mission EGAN89 à destination de l'aéroport CDG stationne à St Michel suite à l'actionnement d'un signal d'alarme. #RERB,1,5,0,0,0
-1055856687343656960,2018-10-26 16:20:25,"(Signal d'alarme à St Michel) : Fin d'incident, le train a pu repartir à destination de l'aéroport CDG. #RERB",1,5,0,0,0
+1055856687343656960,2018-10-26 16:20:25,"(Signal d'alarme à St Michel) : Fin d'incident, le train a pu repartir à destination de l'aéroport CDG. #RERB",1,4,0,0,0
 1055858161557663750,2018-10-26 16:26:17,"@razhades Oui je comprends ! Ah oui le retour de VOTRE saison ! Profitez bien de votre week-end ! Bonne soirée à vous Hadès, à lundi ! ^b",0,2,0,0,0
 1055861873202094080,2018-10-26 16:41:02,"@everseename @SNCF Bonjour, je suis désolée je ne peux malheureusement vous aider à ce sujet. Bonne soirée à vous, tout de même. ^b",0,0,0,0,0
 1055864526984409088,2018-10-26 16:51:34,"@Juji792 Bonjour, bien sur je transmets votre signalement ! Merci à vous et bon week-end ! ^b",0,0,0,0,0
@@ -1230,8 +1230,8 @@ Interruption des circulations les 3 &amp; 4 novembre pour modernisation des inst
 1057900020706488322,2018-11-01 07:39:54,"@CheronDavid  8:35. Bonjour, en raison de l'interruption de trafic (pour travaux) entre les Baconnets et Massy Palaiseau, les manoeuvres des trains génèrent un retard en direction de Paris. Bonne journée, Mat.",0,0,0,0,0
 1057911146420862976,2018-11-01 08:24:07,"@TropeLfb1 Bonjour, il faut compter entre 15 et 20 minutes. Bonne journée. Kriss",0,0,0,0,0
 1057927321636679680,2018-11-01 09:28:23,[Point travaux 🚧 #RERB Massy-Verrières] La dépose des tabliers du pont ferroviaire est en cours. https://t.co/C0HmPDRtNW,18,32,0,0,0
-1057929518390931456,2018-11-01 09:37:07,[Travaux 🚧 #RERB] Le trafic est interrompu entre Massy-Palaiseau et les Baconnets du 01/11 au 04/11 inclus. Une navette bus est mise en place entre ces deux gares. Nos agents sont à votre disposition pour vous informer pendant toute la durée des travaux : https://t.co/ImUfUqLV8x,11,19,0,0,0
 1057929520387444736,2018-11-01 09:37:07,"@Its_NoemY 10:35 Bonjour, je vous confirme qu'un service de remplacement Bus est mis en place avec une fréquence de 6 minutes aux heures de pointe, et 15 minutes aux heures creuses. Bonne journée. Mat.",0,0,0,0,0
+1057929518390931456,2018-11-01 09:37:07,[Travaux 🚧 #RERB] Le trafic est interrompu entre Massy-Palaiseau et les Baconnets du 01/11 au 04/11 inclus. Une navette bus est mise en place entre ces deux gares. Nos agents sont à votre disposition pour vous informer pendant toute la durée des travaux : https://t.co/ImUfUqLV8x,11,19,0,0,0
 1057937494833090560,2018-11-01 10:08:48,"@Youfry_  11:07 Bonjour, il faut compter environ 30 minutes sur ce trajet en fonction de la circulation routière. Bonne journée. Mat.",0,0,0,0,0
 1057940861986766848,2018-11-01 10:22:11,"@Bobox81729516 11:19 Bonjour, en raison des travaux sur la ligne B, je vous invite à prendre un train MONA ligne RER C pour un trajet d'environ 40 minutes depuis Saint-Michel. Bonne journée. Mat.",0,1,0,0,0
 1057947705320882176,2018-11-01 10:49:23,"@PicardPa  11:44 Bonjour, Depuis Saint-Michel, votre trajet s'arrêtera aux Baconnets. Un service de navette bus est mis en place entre les Baconnets et Massy Palaiseau. Les informations sont consultables sur l'application https://t.co/ijY0yo4Edo. Bonne journée. Mat",0,0,0,0,0
@@ -4218,12 +4218,12 @@ Entre Denfert Rochereau et Aéroport CDG/Mitry prévoir 1 train sur 2 toute la j
 1080883983880257541,2019-01-03 17:49:58,Un train à destination de St Rémy stationne à Gare du Nord suite à une panne. #RERB,5,0,0,0,0
 1080884724367876097,2019-01-03 17:52:54,"(Train en panne à Gare du Nord): fin d'incident, le train repart à destination de St-Rémy. Le retard en direction du sud de la ligne est estimé à 10 minutes. #RERB",2,1,0,0,0
 1080885049627738112,2019-01-03 17:54:12,"@ArnaudCHAILLIE @Jeannot911 Bonjour Arnaud, pas de panne de signalisation, il s'agissait d'une panne sur son matériel. L'incident est désormais terminé, le train a quitté Gare du Nord. ^b",0,1,0,0,0
-1080885817478955009,2019-01-03 17:57:15,Un train à destination de Robinson stationne à Villeparisis suite à un accident grave de personne. Plus d'informations à venir. #RERB,6,3,0,0,0
+1080885817478955009,2019-01-03 17:57:15,Un train à destination de Robinson stationne à Villeparisis suite à un accident grave de personne. Plus d'informations à venir. #RERB,7,4,0,0,0
 1080886991644958720,2019-01-03 18:01:55,"En raison d'un accident grave de personne à Villeparisis, le trafic #RERB est interrompu entre Aulnay et Mitry dans les deux sens de circulation. L'heure de reprise est estimée à 21h30. Itinéraires de substitution: https://t.co/BZasg6Wyr0.",8,6,0,0,0
 1080888184446152704,2019-01-03 18:06:39,"@Melooooody77 Bonjour, oui effectivement... Bonne soirée à vous. ^b",0,4,0,0,0
 1080888894860808192,2019-01-03 18:09:29,"@zazooub91 Bonjour, oui des trains circulent entre ces deux gares, le trafic reste néanmoins perturbé suite à l'accident grave de personne. ^b",0,0,0,0,0
 1080890863864201222,2019-01-03 18:17:18,"@C6775Rugby Bonsoir, oui des trains circulent entre ces deux gares. Bonne soirée. ^b",2,0,0,0,0
-1080897696981024768,2019-01-03 18:44:27,Un train à destination d'Aulnay-sous-Bois stationne à Port-Royal suite à une panne. #RERB,2,1,0,0,0
+1080897696981024768,2019-01-03 18:44:27,Un train à destination d'Aulnay-sous-Bois stationne à Port-Royal suite à une panne. #RERB,2,3,0,0,0
 1080898555097812992,2019-01-03 18:47:52,"@JieffeBi Bonsoir, c'est en répercussion d'une panne sur un train à Port-Royal, je ne sais pas quand la panne sera résolue. Toutes nos excuses. ^b",0,0,1,0,0
 1080898797247647745,2019-01-03 18:48:50,"@ChristianDomine Bonsoir, dans l'autre sens les trains circulent mais le trafic est perturbé suite à un accident grave de personne à Villeparisis. ^b",0,0,0,0,0
 1080899914023034880,2019-01-03 18:53:16,"@Nono23969218 Bonsoir, les affichages ne sont pas à jour, tous les trains à destination de Mitry sont terminus Aulnay suite à l'accident grave de personne à Villeparisis. ^b",0,0,0,0,0
@@ -4231,3 +4231,10 @@ Entre Denfert Rochereau et Aéroport CDG/Mitry prévoir 1 train sur 2 toute la j
 1080903491361619970,2019-01-03 19:07:29,"@Ml_pitigoi Bonsoir Marie-Louise, l'incident est désormais terminé. Suite à une mesure de régulation, il sera terminus à Châtelet. Toutes nos excuses. ^b",0,0,1,1,0
 1080904620656943104,2019-01-03 19:11:58,"@baduelpaul Bonsoir Paul, merci de votre signalement, je transmets à nos équipes. Toutes nos excuses pour la gêne occasionnée ! ^b",0,1,1,0,0
 1080905812086845442,2019-01-03 19:16:42,"@candoulives Bonsoir Alison, le trafic est toujours interrompu entre Aulnay et Mitry. Pour votre rendre à Sevran-Livry, vous pouvez prendre le bus 605 à Aulnay. Bon courage. ^b",0,0,0,0,1
+1080907570766725121,2019-01-03 19:23:41,Le trafic est fortement perturbé sur l'ensemble de la ligne #RERB et interrompu entre Aulnay et Mitry dans les deux sens de circulation (accident grave de personne à Villeparisis). La reprise du trafic est estimée à 21h30. Itinéraires de substitution: https://t.co/4BsHgXJ2av,3,1,0,0,0
+1080907714514038786,2019-01-03 19:24:16,@candoulives Merci beaucoup Alison ! ^b,0,0,0,0,0
+1080909567565848576,2019-01-03 19:31:37,"@Lea_Lacoste Bonsoir, Villeparisis est une gare de la section de Mitry et non de l'aéroport CDG. Bonne soirée. ^b",0,0,0,0,0
+1080910517818933248,2019-01-03 19:35:24,"@GIGA1198s @Lea_Lacoste Bonsoir, sachez que deux heures d'interruption sont nécessaires le temps que pompiers, samu, police puissent intervenir. C'est l'officier de police judiciaire qui autorise de pouvoir reprendre la circulation des trains. ^b",0,0,0,0,0
+1080911388279795714,2019-01-03 19:38:51,(Accident grave de personne à Villeparisis): fin d'interruption de trafic entre Aulnay et Mitry. La gare de Villeparisis n'est pas desservie dans les deux sens de circulation jusqu'à 21h30 environ. Le trafic #RERB reste perturbé sur l'ensemble de la ligne.,0,0,0,0,0
+1080912799054712832,2019-01-03 19:44:28,"20:44, l'arrêt n'est pas marqué à Villeparisis (accident grave de personne)  #RERB",1,1,0,0,0
+1080912804834553856,2019-01-03 19:44:29,"20:43, le trafic reprend progressivement sur la ligne (accident grave de personne)  #RERB",0,0,0,0,0
