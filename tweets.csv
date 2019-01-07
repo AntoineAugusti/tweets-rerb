@@ -1406,11 +1406,11 @@ Des bus de remplacement desserviront toutes les gares entre Aulnay sous Bois et 
 1059091762675924992,2018-11-04 14:35:27,"@Lorin6401 Bonjour, les travaux se terminent ce soir à la fin de service. Le trafic prévu dès demain à la prise de service est un trafic régulier. Bonne journée. ^b",0,0,0,0,0
 1059092180168593410,2018-11-04 14:37:07,"@AndrewMitul Bonjour, les travaux se terminent ce soir à la fin de service. Le trafic prévu dès demain à la prise de service est un trafic régulier. Je comprends tout à fait votre point de vue mais ces travaux sont néanmoins nécessaires. Bon dimanche. ^b",0,0,0,0,0
 1059093677350535169,2018-11-04 14:43:04,"@Vinced_93 Bonjour, oui les travaux se terminent ce soir. Le trafic prévu pour la journée de demain est un trafic régulier. Bonne journée. ^b",0,0,0,0,0
-1059099059175260160,2018-11-04 15:04:27,"Ce soir dès 22h30, les trains #RERB seront terminus Châtelet-les-Halles. Les bus de substitution partiront de Gare du Nord.",5,3,0,0,0
 1059099060471250944,2018-11-04 15:04:27,"En direction du nord:
 -dernier départ de Châtelet à destination de La Plaine SDF: 22h29
 -dernier départ de Châtelet à destination de Gare du Nord: 22h44
  Après 22h44, tous les trains seront terminus Châtelet. #RERB",3,2,0,0,0
+1059099059175260160,2018-11-04 15:04:27,"Ce soir dès 22h30, les trains #RERB seront terminus Châtelet-les-Halles. Les bus de substitution partiront de Gare du Nord.",5,3,0,0,0
 1059099061670813696,2018-11-04 15:04:28,"En direction du sud:
 -dernier départ à La Plaine à 22h41 (passage à Châtelet à 22h53)
 -dernier départ à Gare du Nord à 22h56 (passage à Châtelet à 22h59). #RERB",3,2,0,0,0
@@ -4275,6 +4275,13 @@ Entre Denfert Rochereau et Aéroport CDG/Mitry prévoir 1 train sur 2 toute la j
 1081216953266683905,2019-01-04 15:53:04,@razhades Ahhh j'espère aussi ! Bonnes courses ! 😉 ^b,0,1,0,0,0
 1081228814850625537,2019-01-04 16:40:12,"@CetaceLaBaleine Bonsoir, toutes nos excuses, il s'agit d'une mesure de régulation suite au signal d'alarme tiré dans un train à Gare du Nord. ^b",0,0,1,1,0
 1081528727811559429,2019-01-05 12:31:57,"@lacitedesveuves Bonjour, la ligne du RER B circule normalement aujourd'hui 5 janvier. Bonne journée. Vivi",0,0,0,0,0
-1082140710978113536,2019-01-07 05:03:45,"Bonjour, Alexandra pour échanger avec vous jusqu'à 13h30 sur la ligne #RERB. Bonne journée à tous et bonne semaine !",0,4,0,0,0
+1082140710978113536,2019-01-07 05:03:45,"Bonjour, Alexandra pour échanger avec vous jusqu'à 13h30 sur la ligne #RERB. Bonne journée à tous et bonne semaine !",0,5,0,0,0
 1082146388023148544,2019-01-07 05:26:18,"@MuG22154415 Bonjour, merci beaucoup ! Meilleurs vœux ! Bonne journée 🙂 ^b",0,0,0,0,0
 1082154389131923456,2019-01-07 05:58:06,"@razhades Bonjour Hadès, j'espère que vous avez passé un bon week-end ! J'espère que tout restera calme, c'est mieux pour tout le monde 😉 Bon courage pour cette nouvelle semaine ! ^b",0,0,0,0,1
+1082155055237734400,2019-01-07 06:00:45,"@ABC51799929 Bonjour, merci de votre retour ! Ravie que vos trajets se soient déroulés ainsi ! Bonne journée ! 🙂 ^b",0,0,0,0,0
+1082163017025052675,2019-01-07 06:32:23,"@razhades Oui je comprends, l'affluence n'est pas la même ! Bon courage à vous! 😉 ^b",0,1,0,0,1
+1082164963681189888,2019-01-07 06:40:07,"@celine9356 Bonjour Céline, oui effectivement quelques retards sur la branche Mitry en répercussion d'un train en panne très tôt ce matin. Toutes nos excuses ! ^b",0,0,1,0,0
+1082165265947918336,2019-01-07 06:41:19,"@Damian52261396 Bonjour Damian, quelques retards sur la branche Mitry / Paris en répercussion d'un train en panne très tôt ce matin. Toutes nos excuses ! ^b",0,0,1,0,0
+1082166585597591552,2019-01-07 06:46:34,"@Damian52261396 Bien sûr, je vous comprends tout à fait. Navrée de cette situation ! ^b",0,0,0,0,0
+1082168195266564096,2019-01-07 06:52:58,"@celine9356 Oui bien sûr, je reviendrais vers vous dans la mesure du possible 🙂 Bonne journée. ^b",0,0,0,0,0
+1082170040202526721,2019-01-07 07:00:17,"@Nialiex Bonjour, je vais transmettre, merci à vous ! Bonne journée 🙂 ^b",0,0,0,0,0
