@@ -3174,9 +3174,9 @@ Massy-Verrières et Fontaine-Michalon. Le train est actuellement à l'approche d
 1070283993139036160,2018-12-05 11:49:23,"@razhades Bonjour Hadès, ohhh mais non j'avais pas vu ! Alors concernant les trains à destination d'Orsay, c'est vrai qu'ils sont souvent assurés au départ de Châtelet pendant les heures de pointe suite à des mesures de régulation. Bonne journée, à tout à l'heure ! ^b",0,3,0,1,0
 1070287496431439872,2018-12-05 12:03:18,"@Melooooody77 @razhades Plus rien ne va 😁 Désolée, encore une fois ! ^b",0,3,0,0,0
 1070339180499222530,2018-12-05 15:28:41,@razhades Bien rentré ? Bonne soirée à vous ! 😉 ^b,0,2,0,0,0
-1070366241708273665,2018-12-05 17:16:13,"#RERB  En raison d’un mouvement social qui fait suite à l’agression d’un  conducteur, le trafic sera perturbé sur la ligne le 7 décembre.",106,59,0,0,0
 1070366243012706306,2018-12-05 17:16:13,"Entre Saint-Rémy/Robinson et Denfert Rochereau prévoir 2 trains sur 3 aux heures de pointe, 1 train sur 2 aux heures creuses.
 Entre Denfert Rochereau et Aéroport CDG/Mitry prévoir 1 train sur 2 toute la journée.",19,6,0,0,0
+1070366241708273665,2018-12-05 17:16:13,"#RERB  En raison d’un mouvement social qui fait suite à l’agression d’un  conducteur, le trafic sera perturbé sur la ligne le 7 décembre.",106,59,0,0,0
 1070367486921580549,2018-12-05 17:21:10,"@SamRLIVPIVIF Bonsoir, non pas de changement de train à Gare du Nord. Bonne soirée. ^b",0,1,0,0,0
 1070368443516506113,2018-12-05 17:24:58,"@YBourti Bonsoir, non ce mouvement social concerne la journée de vendredi, le 7 décembre. Bonne soirée à vous. ^b",0,1,0,0,0
 1070368660932517888,2018-12-05 17:25:49,@SamRLIVPIVIF Je vous en prie ! Merci à vous et bon courage également 🙂 ^b,0,1,0,0,1
@@ -4480,10 +4480,21 @@ Luc",0,0,0,0,0
 1083400786288300032,2019-01-10 16:30:50,"@laurama70406396 Bonjour Laura, oui bien sûr. Les trains en direction de Mitry sont les missions ""I"". Bonne fin de journée à vous ! Joy",0,2,0,0,0
 1083407158572707840,2019-01-10 16:56:09,Fin d'incident entre La Plaine et Gare du Nord. Retour à un trafic régulier sur l'ensemble de la ligne #RERB,2,3,0,0,0
 1083407239204007936,2019-01-10 16:56:29,"17:55, le trafic est rétabli sur la ligne (incident voie)  #RERB",0,3,0,0,0
-1083590294791225344,2019-01-11 05:03:53,"Bonjour à tous, Alexandra pour échanger avec vous sur la ligne #RERB jusqu'à 13h30. Bonne journée et bon week-end !",1,3,0,0,0
+1083590294791225344,2019-01-11 05:03:53,"Bonjour à tous, Alexandra pour échanger avec vous sur la ligne #RERB jusqu'à 13h30. Bonne journée et bon week-end !",1,5,0,0,0
 1083590662329679872,2019-01-11 05:05:20,"@razhades Bonjour Hadès, le travailleur de nuit ! Bon courage pour la fin 🙂 ^b",0,2,0,0,1
 1083590910540173312,2019-01-11 05:06:19,"@Melooooody77  Bonjour, bon courage pour la fin de service ! 🙂 ^b",0,2,0,0,1
 1083592219230199808,2019-01-11 05:11:31,"@MuG22154415 Bonjour, bonne journée à vous et bon week-end ! 🙂 ^b",0,0,0,0,0
 1083596236698079234,2019-01-11 05:27:29,"@sebvoyages Bonjour, le train est reparti de Gare du Nord. Bonne journée ! ^b",0,2,0,0,0
 1083597707288162304,2019-01-11 05:33:20,"@kikithehead Bonjour, merci de votre signalement ! Je transmets à nos équipes. Bonne journée. ^b",0,1,0,0,0
 1083602369840140288,2019-01-11 05:51:51,"@Curchonada Bonjour, dans quelle gare êtes-vous ? Dans quelle direction allez-vous ? Merci ! ^b",0,0,0,0,0
+1083605231307554816,2019-01-11 06:03:14,"@OlivierDelatte Bonjour Olivier, le train a rencontré une anomalie sur sur matériel, des vérifications ont été effectuées avant de pouvoir repartir. Bonne journée. ^b",0,0,0,0,0
+1083606956236066816,2019-01-11 06:10:05,"@Jeannot911 Bonjour Jeannot, ECCO45 juste devant vous a rencontré une anomalie sur son matériel, des vérifications ont été effectuées avant de pouvoir repartir. Bonne journée. ^b",0,0,0,0,0
+1083608374728708096,2019-01-11 06:15:43,"@voix_des_rer Bonjour, merci de votre retour ! Bonne journée ! ^b",0,0,0,0,0
+1083608861905440768,2019-01-11 06:17:39,"@ABC51799929 Bonjour, toutes nos excuses pour ce retard ! Dans quel train êtes-vous ? Merci ! ^b",0,0,1,0,0
+1083613010898415617,2019-01-11 06:34:09,@Curchonada Pas de soucis ! Bonne journée ! 🙂 ^b,0,0,0,0,0
+1083613949944365056,2019-01-11 06:37:52,"@Yann91 Bonjour, IDIL87 a été supprimé suite à une anomalie sur son matériel. Toutes nos excuses ! ^b",0,0,1,0,0
+1083615378230730752,2019-01-11 06:43:33,"@mama_rer Bonjour, toutes nos excuses, ce train a été supprimé suite à une panne. ^b",0,0,1,0,0
+1083616104918986752,2019-01-11 06:46:26,@mama_rer Je transmets votre message Ana. Bonne journée ! ^b,0,0,0,0,0
+1083616963497263104,2019-01-11 06:49:51,"@Clavanel Bonjour, effectivement le prochain train ne s'arrêtera pas dans votre gare suite à une mesure de régulation, il est rendu direct entre Mitry et Aulnay ! Toutes nos excuses ! ^b",0,0,1,1,0
+1083617849799856128,2019-01-11 06:53:22,"@Clavanel Oui bien sûr, je comprends tout à fait votre ressenti sur cette situation. Je me charge de remonter nos échanges. Bonne journée à vous, tout de même. ^b",0,0,0,0,0
+1083618242025934849,2019-01-11 06:54:56,"@FaissatQuentin Bonjour, pas d'incident majeur sur la ligne, des mesures de régulation sont effectuées afin de limiter les retards. Bonne journée ! ^b",0,0,0,1,0
