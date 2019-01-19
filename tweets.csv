@@ -1975,7 +1975,7 @@ https://t.co/234uIqz1rZ",7,6,0,0,0
 1063467094480744448,2018-11-16 16:21:28,"17:20, le trafic est perturbé de St-Remy / Robinson vers Aeroport CdG 2 / Mitry - Claye (panne de signalisation)  #RERB",0,1,0,0,0
 1063468856755347458,2018-11-16 16:28:28,"17:27, le trafic est perturbé de Gare du Nord vers Aeroport CdG 2 / Mitry - Claye (panne de signalisation)  #RERB",1,0,0,0,0
 1063477668199436299,2018-11-16 17:03:29,"18:02, le trafic est rétabli sur la ligne (panne de signalisation)  #RERB",1,5,0,0,0
-1063513688366288898,2018-11-16 19:26:37,"20:25, le trafic est perturbé sur la ligne (train en panne)  #RERB",7,13,0,0,0
+1063513688366288898,2018-11-16 19:26:37,"20:25, le trafic est perturbé sur la ligne (train en panne)  #RERB",7,12,0,0,0
 1063591426968231941,2018-11-17 00:35:31,"01:34, le trafic est rétabli sur la ligne (train en panne)  #RERB",0,2,0,0,0
 1063784950577725442,2018-11-17 13:24:31,"14:22, le trafic est interrompu entre Gare du Nord et Chatelet-Les Halles. Reprise estimée à 15:00. (bagage oublié)  #RERB",9,6,0,0,0
 1063786917286895621,2018-11-17 13:32:19,Les équipes spécialisées sont sur place. Ils attendent l'évacuation des quais pour intervenir. #RERB,4,5,0,0,0
@@ -2590,7 +2590,7 @@ Massy-Verrières et Fontaine-Michalon. Le train est actuellement à l'approche d
 1066948586989150208,2018-11-26 06:55:40,"@souu_san Bonjour, oui effectivement il s'agit de cette mission. ^b",0,0,0,0,0
 1066949995700674560,2018-11-26 07:01:16,"@souu_san Oui je vois que vous êtes à l'approche de Gentilly, je dirais une arrivée dans 15/20 minutes à Châtelet. ^b",0,0,0,0,0
 1066950525504184320,2018-11-26 07:03:22,"@Melooooody77 Bonjour, oui effectivement votre train a été rendu terminus Aulnay suite à une mesure de régulation à la suite de l'incident du Guichet et du retard engendré sur la ligne. Toutes nos excuses. ^b",0,1,1,1,0
-1066951155182379008,2018-11-26 07:05:53,Un train à destination de Mitry stationne à Laplace suite à l'actionnement d'un signal d'alarme #RERB,3,3,0,0,0
+1066951155182379008,2018-11-26 07:05:53,Un train à destination de Mitry stationne à Laplace suite à l'actionnement d'un signal d'alarme #RERB,3,2,0,0,0
 1066951307980873728,2018-11-26 07:06:29,"@Melooooody77 Je vous en prie, bonne reprise à vous. ^b",0,1,0,0,0
 1066951923646046208,2018-11-26 07:08:56,"@GIGA1198s Bonjour, une personne a fait un malaise. L'incident est terminé, vous allez pouvoir repartir car la personne a été prise en charge par nos agents. Bon courage pour la poursuite de votre trajet. ^b",0,1,0,0,1
 1066952210314141696,2018-11-26 07:10:04,"(Signal d'alarme à Laplace): fin d'incident, le train va pouvoir repartir à destination de Mitry. #RERB",2,1,0,0,0
@@ -4732,7 +4732,7 @@ SNCF Réseau…",13,0,0,0,0
 1086232138805067776,2019-01-18 12:01:37,"@Sandra_krkn  Bonjour Sandra, merci beaucoup ! Vous pouvez effectivement le déposer en gare, nos agents l'enregistreront. Bonne journée ! 🙂 ^b",0,0,0,0,0
 1086267436431826944,2019-01-18 14:21:53,Un train à destination de St Rémy stationne à Gare du Nord suite à l'actionnement d'un signal d'alarme. #RERB,0,3,0,0,0
 1086268383186821120,2019-01-18 14:25:39,Fin d'incident à Gare du Nord (actionnement d'un signal d'alarme). Le train va pouvoir repartir à destination de St Rémy. #RERB,0,1,0,0,0
-1086300685388394496,2019-01-18 16:34:00,Un train à destination de St Rémy stationne au Parc des Expositions suite à un dégagement de fumée. #RERB,4,6,0,0,0
+1086300685388394496,2019-01-18 16:34:00,Un train à destination de St Rémy stationne au Parc des Expositions suite à un dégagement de fumée. #RERB,4,7,0,0,0
 1086302147493445632,2019-01-18 16:39:49,"@Mathild03105514 Bonjour Mathilde, je suis désolée de cette situation rencontrée sur la ligne. Ce genre de comportement est effectivement déplorable. Bonne soirée à vous, tout de même. ^b",0,0,0,0,0
 1086303060064907265,2019-01-18 16:43:26,"@DoubleXP_93 Bonsoir, quelques minutes de retard sont engendrées en direction du sud de la ligne. Le train stationne toujours, les autres trains en direction de Paris passent tout de même au Parc des Expositions mais sur un autre quai. ^b",0,1,0,0,0
 1086305843363106818,2019-01-18 16:54:30,@DoubleXP_93 Je vous en prie ! Bonne soirée ! 🙂 ^b,0,0,0,0,0
