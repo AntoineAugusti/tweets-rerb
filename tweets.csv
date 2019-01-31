@@ -3174,9 +3174,9 @@ Massy-Verrières et Fontaine-Michalon. Le train est actuellement à l'approche d
 1070283993139036160,2018-12-05 11:49:23,"@razhades Bonjour Hadès, ohhh mais non j'avais pas vu ! Alors concernant les trains à destination d'Orsay, c'est vrai qu'ils sont souvent assurés au départ de Châtelet pendant les heures de pointe suite à des mesures de régulation. Bonne journée, à tout à l'heure ! ^b",0,3,0,1,0
 1070287496431439872,2018-12-05 12:03:18,"@Melooooody77 @razhades Plus rien ne va 😁 Désolée, encore une fois ! ^b",0,3,0,0,0
 1070339180499222530,2018-12-05 15:28:41,@razhades Bien rentré ? Bonne soirée à vous ! 😉 ^b,0,2,0,0,0
+1070366241708273665,2018-12-05 17:16:13,"#RERB  En raison d’un mouvement social qui fait suite à l’agression d’un  conducteur, le trafic sera perturbé sur la ligne le 7 décembre.",106,58,0,0,0
 1070366243012706306,2018-12-05 17:16:13,"Entre Saint-Rémy/Robinson et Denfert Rochereau prévoir 2 trains sur 3 aux heures de pointe, 1 train sur 2 aux heures creuses.
 Entre Denfert Rochereau et Aéroport CDG/Mitry prévoir 1 train sur 2 toute la journée.",19,6,0,0,0
-1070366241708273665,2018-12-05 17:16:13,"#RERB  En raison d’un mouvement social qui fait suite à l’agression d’un  conducteur, le trafic sera perturbé sur la ligne le 7 décembre.",106,58,0,0,0
 1070367486921580549,2018-12-05 17:21:10,"@SamRLIVPIVIF Bonsoir, non pas de changement de train à Gare du Nord. Bonne soirée. ^b",0,1,0,0,0
 1070368443516506113,2018-12-05 17:24:58,"@YBourti Bonsoir, non ce mouvement social concerne la journée de vendredi, le 7 décembre. Bonne soirée à vous. ^b",0,1,0,0,0
 1070368660932517888,2018-12-05 17:25:49,@SamRLIVPIVIF Je vous en prie ! Merci à vous et bon courage également 🙂 ^b,0,1,0,0,1
@@ -5289,14 +5289,14 @@ Reprise estimée à 17h15. #RERB.",0,2,0,0,0
 1090647267047075840,2019-01-30 16:25:46,"@Zenlillyx Aurélie, nous avions l'ordre de la police de ne pas évacuer le train concerné par l'accident. ^b",0,0,0,0,0
 1090649611356786689,2019-01-30 16:35:05,"@Nicoco_B Bonjour Nicolas, PAPO70 à destination de St Rémy est à l'approche de votre gare. Bonne soirée. ^b",0,0,0,0,0
 1090650132457111552,2019-01-30 16:37:09,"@Zenlillyx Non, effectivement pas d'évacuation spontanée, des annonces ont été transmises dans la mesure du possible pour maintenir les voyageurs informés de l'évolution de la situation. La police était également sur place. ^b",0,1,0,0,0
-1090651471882915840,2019-01-30 16:42:28,"17:41, le trafic est rétabli de Bourg-la-Reine vers St-Remy / Robinson (malaise voyageur)  #RERB",0,0,0,0,0
+1090651471882915840,2019-01-30 16:42:28,"17:41, le trafic est rétabli de Bourg-la-Reine vers St-Remy / Robinson (malaise voyageur)  #RERB",0,1,0,0,0
 1090651932056866816,2019-01-30 16:44:18,"@Nassimento_ Bonjour, l'incident est terminé. ^b",0,0,0,0,0
 1090652779754991618,2019-01-30 16:47:40,"@GladouM Bonsoir, deux missions KUBY ont été supprimées suite à des mesures de régulation. Dans quelle gare allez-vous ? ^b",0,0,0,1,0
 1090653406220435461,2019-01-30 16:50:10,"@GladouM Merci, les compensations seront effectuées sur les missions à destination de St Rémy. Arrêt supplémentaire en gare de Fontaine-Michalon et Massy-Verrières. ^b",0,0,0,0,0
 1090653847511597057,2019-01-30 16:51:55,"@GladouM Parfait, vous avez bien fait, les compensations ont bien été ajoutées sur ce train. Lors d'une suppression d'une mission ""K"", les compensations sont effectuées sur les trains à destination de St Rémy. ^b",0,1,0,0,0
 1090654363931082752,2019-01-30 16:53:58,"@GladouM A vous aussi, également merci ! 🙂 ^b",0,0,0,0,0
 1090654836138360832,2019-01-30 16:55:50,"@ThDaud Bonsoir, le prochain train est retardé. Je n'ai pas plus d'info à ce sujet. ^b",0,0,0,0,0
-1090656174805057537,2019-01-30 17:01:10,Un train à destination de Mitry stationne à Gare du Nord suite à l'actionnement d'un signal d'alarme. #RERB,1,0,0,0,0
+1090656174805057537,2019-01-30 17:01:10,Un train à destination de Mitry stationne à Gare du Nord suite à l'actionnement d'un signal d'alarme. #RERB,1,1,0,0,0
 1090656758534672384,2019-01-30 17:03:29,(Signal d'alarme à Gare du Nord): le train à destination de Mitry va pouvoir repartir. Fin d'incident. #RERB,1,2,0,0,0
 1090660558301474821,2019-01-30 17:18:35,"@Lorand63 Bonjour, les divers incidents sont terminés, le trafic est de nouveau régulier. ^b",0,1,0,0,0
 1090665436449001474,2019-01-30 17:37:58,"@lolait93 Bonsoir, ce problème de badge concerne uniquement la gare de Vert-Galant ? Merci. ^b",0,1,0,0,0
@@ -5328,3 +5328,9 @@ Reprise estimée à 17h15. #RERB.",0,2,0,0,0
 1090774273315299328,2019-01-31 00:50:27,"01:46, le trafic est rétabli entre Gare du Nord et Aeroport CdG 2 / Mitry - Claye (panne électrique)  #RERB",1,1,0,0,0
 1090812527544541189,2019-01-31 03:22:27,"@JamelBoost Bonjour, je ne peux vous répondre pour l'instant les équipes de maintenance SNCF ainsi que celle de la RATP sont toujours sur placent. Je vous joins le lien vers leur site : https://t.co/Ut67HyITPN Bonne journée. Vivi",0,0,0,0,0
 1090813440858472448,2019-01-31 03:26:05,@JamelBoost Je vous conseille de revérifier plus tard je pense qu'ils n'ont pas encore mis leur site à jour. Vivi,0,0,0,0,0
+1090822876691943425,2019-01-31 04:03:34,"05:02, le trafic est perturbé sur la ligne (panne électrique)  #RERB",3,3,0,0,0
+1090829148795359232,2019-01-31 04:28:30,"05:27, le trafic est interrompu entre Gare du Nord et Aeroport CdG 2 / Mitry - Claye. Reprise estimée à 06:00. (panne électrique)  #RERB",1,1,0,0,0
+1090835312236994562,2019-01-31 04:52:59,"@steven23000 Bonjour, pour le moment nous n'avons pas de remontée de nos mainteneurs. Il est difficile dans ce cas de se prononcer sur une heure de reprise. Bon courage à vous et bonne journée. Kriss",0,0,0,0,1
+1090836427158503424,2019-01-31 04:57:25,"@Milie93100 Bonjour, le trafic est toujours interrompu sur le tronçon Gare du Nord et CDG/Mitry. Nous n'avons pas d'heure de reprise pour le moment. Bonne journée. Kriss",0,0,0,0,0
+1090836707610636288,2019-01-31 04:58:32,"@Milie93100 Bonjour, je vous confirme que le trafic est interrompu sur votre trajet. Nous espérons rétablir le trafic dans les meilleurs délais. Veuillez nous excuser de la gêne occasionnée. PFM",0,0,1,0,0
+1090836852893016065,2019-01-31 04:59:07,"@IBourdjioua Bonjour, l'interruption est bien dans les deux directions. Kriss",0,0,0,0,0
