@@ -1230,8 +1230,8 @@ Interruption des circulations les 3 &amp; 4 novembre pour modernisation des inst
 1057900020706488322,2018-11-01 07:39:54,"@CheronDavid  8:35. Bonjour, en raison de l'interruption de trafic (pour travaux) entre les Baconnets et Massy Palaiseau, les manoeuvres des trains génèrent un retard en direction de Paris. Bonne journée, Mat.",0,0,0,0,0
 1057911146420862976,2018-11-01 08:24:07,"@TropeLfb1 Bonjour, il faut compter entre 15 et 20 minutes. Bonne journée. Kriss",0,0,0,0,0
 1057927321636679680,2018-11-01 09:28:23,[Point travaux 🚧 #RERB Massy-Verrières] La dépose des tabliers du pont ferroviaire est en cours. https://t.co/C0HmPDRtNW,18,32,0,0,0
-1057929520387444736,2018-11-01 09:37:07,"@Its_NoemY 10:35 Bonjour, je vous confirme qu'un service de remplacement Bus est mis en place avec une fréquence de 6 minutes aux heures de pointe, et 15 minutes aux heures creuses. Bonne journée. Mat.",0,0,0,0,0
 1057929518390931456,2018-11-01 09:37:07,[Travaux 🚧 #RERB] Le trafic est interrompu entre Massy-Palaiseau et les Baconnets du 01/11 au 04/11 inclus. Une navette bus est mise en place entre ces deux gares. Nos agents sont à votre disposition pour vous informer pendant toute la durée des travaux : https://t.co/ImUfUqLV8x,11,19,0,0,0
+1057929520387444736,2018-11-01 09:37:07,"@Its_NoemY 10:35 Bonjour, je vous confirme qu'un service de remplacement Bus est mis en place avec une fréquence de 6 minutes aux heures de pointe, et 15 minutes aux heures creuses. Bonne journée. Mat.",0,0,0,0,0
 1057937494833090560,2018-11-01 10:08:48,"@Youfry_  11:07 Bonjour, il faut compter environ 30 minutes sur ce trajet en fonction de la circulation routière. Bonne journée. Mat.",0,0,0,0,0
 1057940861986766848,2018-11-01 10:22:11,"@Bobox81729516 11:19 Bonjour, en raison des travaux sur la ligne B, je vous invite à prendre un train MONA ligne RER C pour un trajet d'environ 40 minutes depuis Saint-Michel. Bonne journée. Mat.",0,1,0,0,0
 1057947705320882176,2018-11-01 10:49:23,"@PicardPa  11:44 Bonjour, Depuis Saint-Michel, votre trajet s'arrêtera aux Baconnets. Un service de navette bus est mis en place entre les Baconnets et Massy Palaiseau. Les informations sont consultables sur l'application https://t.co/ijY0yo4Edo. Bonne journée. Mat",0,0,0,0,0
@@ -1406,11 +1406,11 @@ Des bus de remplacement desserviront toutes les gares entre Aulnay sous Bois et 
 1059091762675924992,2018-11-04 14:35:27,"@Lorin6401 Bonjour, les travaux se terminent ce soir à la fin de service. Le trafic prévu dès demain à la prise de service est un trafic régulier. Bonne journée. ^b",0,0,0,0,0
 1059092180168593410,2018-11-04 14:37:07,"@AndrewMitul Bonjour, les travaux se terminent ce soir à la fin de service. Le trafic prévu dès demain à la prise de service est un trafic régulier. Je comprends tout à fait votre point de vue mais ces travaux sont néanmoins nécessaires. Bon dimanche. ^b",0,0,0,0,0
 1059093677350535169,2018-11-04 14:43:04,"@Vinced_93 Bonjour, oui les travaux se terminent ce soir. Le trafic prévu pour la journée de demain est un trafic régulier. Bonne journée. ^b",0,0,0,0,0
+1059099059175260160,2018-11-04 15:04:27,"Ce soir dès 22h30, les trains #RERB seront terminus Châtelet-les-Halles. Les bus de substitution partiront de Gare du Nord.",5,3,0,0,0
 1059099060471250944,2018-11-04 15:04:27,"En direction du nord:
 -dernier départ de Châtelet à destination de La Plaine SDF: 22h29
 -dernier départ de Châtelet à destination de Gare du Nord: 22h44
  Après 22h44, tous les trains seront terminus Châtelet. #RERB",3,2,0,0,0
-1059099059175260160,2018-11-04 15:04:27,"Ce soir dès 22h30, les trains #RERB seront terminus Châtelet-les-Halles. Les bus de substitution partiront de Gare du Nord.",5,3,0,0,0
 1059099061670813696,2018-11-04 15:04:28,"En direction du sud:
 -dernier départ à La Plaine à 22h41 (passage à Châtelet à 22h53)
 -dernier départ à Gare du Nord à 22h56 (passage à Châtelet à 22h59). #RERB",3,2,0,0,0
@@ -5254,7 +5254,7 @@ Reprise estimée à 17h15. #RERB.",0,2,0,0,0
 1090571633344086016,2019-01-30 11:25:13,"@MilyElo Toutes nos excuses, pour le moment les pompiers ne nous autorisent pas à évacuer votre train. Je vous invite à patienter en attendant nos équipes. Joy",0,0,1,0,0
 1090573606084587521,2019-01-30 11:33:04,"@RC67358463 Bonjour, vous pouvez emprunter le ""bus direct"" ou Roissy bus pour rejoindre Paris. Toutes nos excuses. ^b",0,0,1,0,0
 1090574984374878209,2019-01-30 11:38:32,"@RhysFrodoBrown Bonjour, vous pouvez prendre le bus 15 jusqu'à ""rond point Pierre Semart"" puis le bus 351 jusqu'à CDG1 puis le CDGVal. ^b",0,0,0,0,0
-1090576659307249665,2019-01-30 11:45:12,[Accident grave de voyageur à Villepinte] : Les pompes funèbres sont sur place. Les autorités ne nous autorisent pas à évacuer le train entre Sevran-Beaudottes et Villepinte. #RERB,52,22,0,0,0
+1090576659307249665,2019-01-30 11:45:12,[Accident grave de voyageur à Villepinte] : Les pompes funèbres sont sur place. Les autorités ne nous autorisent pas à évacuer le train entre Sevran-Beaudottes et Villepinte. #RERB,52,23,0,0,0
 1090577189353996288,2019-01-30 11:47:18,"@BadGalMauritius Bonjour, je transmets votre signalement. Effectivement l'application rencontre des soucis techniques et n'est donc pas à jour. Nos équipes sont mobilisées pour régler ce problème au plus vite. ^b",0,1,0,0,0
 1090577984413683712,2019-01-30 11:50:28,"@razhades  Bonjour Hadès, les pompiers ainsi que la police ne nous donnent pas l'autorisation d'évacuer le train suite à l'accident grave de personne à Villepinte. ^b",0,2,0,0,0
 1090579880062926849,2019-01-30 11:58:00,"@razhades Si nous avions eu l'autorisation, nos équipes auraient pu procéder à une évacuation encadrée par nos équipes dans le but que tous les voyageurs puissent rejoindre la gare suivante. ^b",0,3,0,0,0
@@ -5262,7 +5262,7 @@ Reprise estimée à 17h15. #RERB.",0,2,0,0,0
 1090585833953026049,2019-01-30 12:21:39,"@DocFM1 Bonjour, il existe un numéro vert: 0 200 120 821. Numéro joignable 7j/7 de 09h00 à 20h00. ^b",0,0,0,0,0
 1090586374347071488,2019-01-30 12:23:48,"@Space_X_Sheriff Bonjour, en répercussion de l'accident grave de personne, le trafic est perturbé sur l'ensemble de la ligne. ^b",0,0,0,0,0
 1090587248972709888,2019-01-30 12:27:16,"@MarieEve_BelAir Bonjour, oui en répercussion de l'accident grave de personne , le trafic est perturbé sur l'ensemble de la ligne. N’hésitez pas à revenir vers moi au cours de votre trajet. ^b",0,0,0,0,0
-1090587842764521474,2019-01-30 12:29:38,@DocFM1 Vous avez raison ! Merci de votre message ! ^b,0,3,0,0,0
+1090587842764521474,2019-01-30 12:29:38,@DocFM1 Vous avez raison ! Merci de votre message ! ^b,0,4,0,0,0
 1090588858847281154,2019-01-30 12:33:40,"@SaIemLaIo Bonjour, au départ de quelle gare ? Merci. ^b",0,0,0,0,0
 1090589684235931648,2019-01-30 12:36:57,@SaIemLaIo Oui vous pourrez emprunter un train pour Châtelet au départ de Châtelet. N'hésitez pas à revenir vers moi au cours de votre trajet. ^b,0,0,0,0,0
 1090590386941292544,2019-01-30 12:39:45,"@B_Lambert75 Bertrand, nous attendons l'autorisation de la police pour faire rouler des trains sur le lieu de l'accident. Une fois, cette autorisation donnée, des trains pourront circuler de nouveau et vous pourrez rejoindre Roissy. ^b",0,6,0,0,0
@@ -5451,8 +5451,8 @@ Reprise estimée à 17h15. #RERB.",0,2,0,0,0
 1090938496188145664,2019-01-31 11:43:00,"@razhades Hadès, je serai présente ce soir pendant la pointe pour vous accompagner ! A tout à l'heure ! Joy",0,2,0,0,0
 1090974766939492352,2019-01-31 14:07:08,"ℹ️ Travaux de remise en état des installations #RERB en gare d’Aulnay-sous-Bois : prévoir 3 trains sur 4 en pointe de soirée.
 Retrouvez vos horaires sur l’appli SNCF ou les sites https://t.co/rcwnrZtW00 et https://t.co/ijY0yo4Edo",13,13,0,0,0
-1090981038459969536,2019-01-31 14:32:03,"[Nouvel article blog] Depuis hier soir, 21h10, un arrachement de la caténaire au niveau de la gare d’Aulnay-sous-Bois perturbe très fortement le trafic sur le #RERB https://t.co/BVMnIe1pJW https://t.co/rieyf4OInJ",17,17,0,0,0
-1090999514469711873,2019-01-31 15:45:28,"Re-bonjour à tous, Joy de retour pour vous accompagner pendant la pointe de soirée. Suite aux travaux de remise en état des installations en gare d'Aulnay-sous-bois, prévoir 3 trains sur 4 en pointe de soirée #RERB",8,11,0,0,0
+1090981038459969536,2019-01-31 14:32:03,"[Nouvel article blog] Depuis hier soir, 21h10, un arrachement de la caténaire au niveau de la gare d’Aulnay-sous-Bois perturbe très fortement le trafic sur le #RERB https://t.co/BVMnIe1pJW https://t.co/rieyf4OInJ",17,18,0,0,0
+1090999514469711873,2019-01-31 15:45:28,"Re-bonjour à tous, Joy de retour pour vous accompagner pendant la pointe de soirée. Suite aux travaux de remise en état des installations en gare d'Aulnay-sous-bois, prévoir 3 trains sur 4 en pointe de soirée #RERB",8,12,0,0,0
 1091004076962271232,2019-01-31 16:03:36,"@Melouubht Bonsoir, non le trafic reste perturbé actuellement. Joy",0,0,0,0,0
 1091004454055436289,2019-01-31 16:05:06,"@Chaussade9 Bonjour, le trafic reste perturbé, moins que ce matin mais si vous avez la possibilité de prendre un autre itinéraire je vous le conseille. Toutes nos excuses pour cette situation. Bonne soirée à vous ! Joy",0,0,1,0,0
 1091004626873262081,2019-01-31 16:05:47,@blackdmusic1 Nous espérons que la situation sera rétablie demain matin. Je serai présente dès 6h pour vous informer. Joy,0,4,0,0,0
