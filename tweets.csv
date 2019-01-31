@@ -1406,11 +1406,11 @@ Des bus de remplacement desserviront toutes les gares entre Aulnay sous Bois et 
 1059091762675924992,2018-11-04 14:35:27,"@Lorin6401 Bonjour, les travaux se terminent ce soir à la fin de service. Le trafic prévu dès demain à la prise de service est un trafic régulier. Bonne journée. ^b",0,0,0,0,0
 1059092180168593410,2018-11-04 14:37:07,"@AndrewMitul Bonjour, les travaux se terminent ce soir à la fin de service. Le trafic prévu dès demain à la prise de service est un trafic régulier. Je comprends tout à fait votre point de vue mais ces travaux sont néanmoins nécessaires. Bon dimanche. ^b",0,0,0,0,0
 1059093677350535169,2018-11-04 14:43:04,"@Vinced_93 Bonjour, oui les travaux se terminent ce soir. Le trafic prévu pour la journée de demain est un trafic régulier. Bonne journée. ^b",0,0,0,0,0
-1059099059175260160,2018-11-04 15:04:27,"Ce soir dès 22h30, les trains #RERB seront terminus Châtelet-les-Halles. Les bus de substitution partiront de Gare du Nord.",5,3,0,0,0
 1059099060471250944,2018-11-04 15:04:27,"En direction du nord:
 -dernier départ de Châtelet à destination de La Plaine SDF: 22h29
 -dernier départ de Châtelet à destination de Gare du Nord: 22h44
  Après 22h44, tous les trains seront terminus Châtelet. #RERB",3,2,0,0,0
+1059099059175260160,2018-11-04 15:04:27,"Ce soir dès 22h30, les trains #RERB seront terminus Châtelet-les-Halles. Les bus de substitution partiront de Gare du Nord.",5,3,0,0,0
 1059099061670813696,2018-11-04 15:04:28,"En direction du sud:
 -dernier départ à La Plaine à 22h41 (passage à Châtelet à 22h53)
 -dernier départ à Gare du Nord à 22h56 (passage à Châtelet à 22h59). #RERB",3,2,0,0,0
@@ -3174,9 +3174,9 @@ Massy-Verrières et Fontaine-Michalon. Le train est actuellement à l'approche d
 1070283993139036160,2018-12-05 11:49:23,"@razhades Bonjour Hadès, ohhh mais non j'avais pas vu ! Alors concernant les trains à destination d'Orsay, c'est vrai qu'ils sont souvent assurés au départ de Châtelet pendant les heures de pointe suite à des mesures de régulation. Bonne journée, à tout à l'heure ! ^b",0,3,0,1,0
 1070287496431439872,2018-12-05 12:03:18,"@Melooooody77 @razhades Plus rien ne va 😁 Désolée, encore une fois ! ^b",0,3,0,0,0
 1070339180499222530,2018-12-05 15:28:41,@razhades Bien rentré ? Bonne soirée à vous ! 😉 ^b,0,2,0,0,0
+1070366241708273665,2018-12-05 17:16:13,"#RERB  En raison d’un mouvement social qui fait suite à l’agression d’un  conducteur, le trafic sera perturbé sur la ligne le 7 décembre.",106,58,0,0,0
 1070366243012706306,2018-12-05 17:16:13,"Entre Saint-Rémy/Robinson et Denfert Rochereau prévoir 2 trains sur 3 aux heures de pointe, 1 train sur 2 aux heures creuses.
 Entre Denfert Rochereau et Aéroport CDG/Mitry prévoir 1 train sur 2 toute la journée.",19,6,0,0,0
-1070366241708273665,2018-12-05 17:16:13,"#RERB  En raison d’un mouvement social qui fait suite à l’agression d’un  conducteur, le trafic sera perturbé sur la ligne le 7 décembre.",106,58,0,0,0
 1070367486921580549,2018-12-05 17:21:10,"@SamRLIVPIVIF Bonsoir, non pas de changement de train à Gare du Nord. Bonne soirée. ^b",0,1,0,0,0
 1070368443516506113,2018-12-05 17:24:58,"@YBourti Bonsoir, non ce mouvement social concerne la journée de vendredi, le 7 décembre. Bonne soirée à vous. ^b",0,1,0,0,0
 1070368660932517888,2018-12-05 17:25:49,@SamRLIVPIVIF Je vous en prie ! Merci à vous et bon courage également 🙂 ^b,0,1,0,0,1
@@ -3587,7 +3587,7 @@ Entre Denfert Rochereau et Aéroport CDG/Mitry prévoir 1 train sur 2 toute la j
 1072821952849604608,2018-12-12 11:54:20,"Bonjour à tous, Joy pour vous accompagner jusqu'à 20h00. N'hésitez pas à me solliciter pendant votre trajet sur le #RERB. Bonne journée !",1,10,0,0,0
 1072841256605233153,2018-12-12 13:11:02,"@cyrilbla Bonjour Cyril, je n'ai pas encore d'infos sur l'impact de la grève sur la ligne ce vendredi. Bonne journée à vous ! Joy",0,0,0,0,0
 1072847992527511553,2018-12-12 13:37:48,"@Parisie91784284 Bonjour, en effet il y a bien un préavis de grève pour la journée de vendredi, je n'ai pas encore d'infos concernant l'impact sur la ligne. Bonne journée à vous ! Joy",0,0,0,0,0
-1072879154570379264,2018-12-12 15:41:38,"En raison d’un mouvement social national le vendredi 14 décembre, le trafic sera perturbé sur le #RERB. Prévoir 4 trains sur 5 en heures de pointe et 3 trains sur 4 en heures creuses. Horaires disponibles sur les applications RATP et https://t.co/OknqVMIcgY",69,38,0,0,0
+1072879154570379264,2018-12-12 15:41:38,"En raison d’un mouvement social national le vendredi 14 décembre, le trafic sera perturbé sur le #RERB. Prévoir 4 trains sur 5 en heures de pointe et 3 trains sur 4 en heures creuses. Horaires disponibles sur les applications RATP et https://t.co/OknqVMIcgY",69,39,0,0,0
 1072885250013958149,2018-12-12 16:05:51,"@zazooub91 Bonjour, il n'y aura pas de changement à effectuer à Gare du Nord. Bonne fin de journée à vous ! Joy",1,1,0,0,0
 1072887466154180608,2018-12-12 16:14:39,"@yoanmamou Bonjour, pas de soucis actuellement, vous avez le INKE53 actuellement à Palaiseau. Bonne fin de journée ! Joy",0,0,0,0,0
 1072888054216572933,2018-12-12 16:17:00,"@yoanmamou Oui toutes mes excuses je me suis trompée dans le nom de la mission, c'est bien le ICOR53. Joy",0,0,1,0,0
@@ -4941,7 +4941,7 @@ Nous lançons avec @RATPg…",55,0,0,0,0
 1087846748469510144,2019-01-22 22:57:30,"23:56, le trafic est interrompu de Gare du Nord vers Plaine stade de F. Reprise estimée à fin de service. (accident grave de personne)  #RERB",9,9,0,0,0
 1087857818089201664,2019-01-22 23:41:29,"00:40, le trafic est perturbé sur la ligne (accident grave de personne)  #RERB",3,5,0,0,0
 1087874432977256449,2019-01-23 00:47:31,"01:46, le trafic est rétabli sur la ligne (accident grave de personne)  #RERB",0,2,0,0,0
-1087939314493870080,2019-01-23 05:05:20,"Bonjour, Alexandra pour échanger avec vous jusqu'à 13h30. N'hésitez pas à me solliciter lors de votre trajet sur le #RERB. Bonne journée à tous !",1,12,0,0,0
+1087939314493870080,2019-01-23 05:05:20,"Bonjour, Alexandra pour échanger avec vous jusqu'à 13h30. N'hésitez pas à me solliciter lors de votre trajet sur le #RERB. Bonne journée à tous !",1,13,0,0,0
 1087941845102063616,2019-01-23 05:15:23,"@Micky90745497 Bonjour, oui le trafic est régulier sur l'ensemble de la ligne. N'hésitez pas à revenir vers moi au cours de votre trajet. Bonne journée ! 🙂 ^b",0,1,0,0,0
 1087942428726829058,2019-01-23 05:17:42,"@Melouubht Bonjour, il n'y a pas de perturbations liées aux conditions météorologiques. Bonne journée. ^b",0,0,0,0,0
 1087944068922032128,2019-01-23 05:24:13,"@Melouubht Non, je suis désolée, je n'ai pas d'infos à ce sujet. ^b",0,1,0,0,0
@@ -5021,7 +5021,7 @@ Reprise estimée à 17h15. #RERB.",0,2,0,0,0
 1088486911805661184,2019-01-24 17:21:17,"@Megafab1 Nous n'avons pas plus d'infos pour le moment, bonne soirée à vous ! Joy",0,0,0,0,0
 1088487492142145542,2019-01-24 17:23:35,[ 🚨 Signal d'alarme ] Fin d'incident en gare de Vert Galant #RERB,0,3,0,0,0
 1088493834030510081,2019-01-24 17:48:47,"@MartineRopars Bonjour, le prochain Orsay est actuellement à l'approche de Gare du Nord. Bonne soirée à vous ! Joy",0,0,0,0,0
-1088498067215667200,2019-01-24 18:05:37,"[Bagage oublié] 19:03, le trafic est rétabli entre Orly-Ouest et Orly-Sud. #RERB",0,5,0,0,0
+1088498067215667200,2019-01-24 18:05:37,"[Bagage oublié] 19:03, le trafic est rétabli entre Orly-Ouest et Orly-Sud. #RERB",0,6,0,0,0
 1088664493998202880,2019-01-25 05:06:56,"Bonjour, Alexandra pour échanger avec vous jusqu'à 13h30. N'hésitez pas à me solliciter lors de votre trajet sur le #RERB. Bonne journée à tous et bon week-end !",1,10,0,0,0
 1088665537259937792,2019-01-25 05:11:05,"@MuG22154415 Bonjour ! Passez une bonne journée et avec un peu d'avance, bon week-end ! ^b",0,0,0,0,0
 1088673360958156800,2019-01-25 05:42:10,"@Maha_Hyp Bonjour, merci de votre signalement, je le transmets à nos équipes. Malheureusement, le chauffage ne peut pas être activé depuis le poste de conduite, l'action ne sera pas immédiate. Bonne journée à vous. ^b",0,0,0,0,0
@@ -5302,7 +5302,7 @@ Reprise estimée à 17h15. #RERB.",0,2,0,0,0
 1090665436449001474,2019-01-30 17:37:58,"@lolait93 Bonsoir, ce problème de badge concerne uniquement la gare de Vert-Galant ? Merci. ^b",0,1,0,0,0
 1090678589958307840,2019-01-30 18:30:14,"@ABDOU94240 Bonsoir ! Il n'y a pas d'incident en cours sur la ligne, quelques minutes de retard néanmoins pendant les heures de pointe. Vous pouvez prévoir 10 minutes en plus sur votre trajet. Bon entrainement ! 🙂 ^b",0,0,0,0,0
 1090678882083184640,2019-01-30 18:31:23,"@nme94 Bonsoir Nilson, je transmets votre message à nos équipes ! Bonne soirée à vous. ^b",0,1,0,0,0
-1090679572293738496,2019-01-30 18:34:08,"Exceptionnellement, je serais absente jusqu'à lundi. Je vous retrouve donc mardi à 06h00. Bonne soirée à tous ! Alexandra",8,18,0,0,0
+1090679572293738496,2019-01-30 18:34:08,"Exceptionnellement, je serais absente jusqu'à lundi. Je vous retrouve donc mardi à 06h00. Bonne soirée à tous ! Alexandra",8,19,0,0,0
 1090680410789609472,2019-01-30 18:37:28,"@rerb6r Bonsoir, merci beaucoup ! A mardi 🙂 ^b",0,0,0,0,0
 1090682328794443781,2019-01-30 18:45:05,"@C677515 Bonsoir, Joy sera présente demain et vendredi de 06h00 à 13h00. Et lundi de 13h à 20h00. Également, une permanence générale se chargera de communiquer sur ce compte. Bonne soirée. ^b",1,2,0,0,0
 1090682694575575040,2019-01-30 18:46:32,"@Tholgrim Bonsoir, oui à destination de Massy mais il sera direct entre  Cité et Bourg-la-Reine et Antony et Massy. Bonne soirée. ^b",0,0,0,0,0
@@ -5451,8 +5451,8 @@ Reprise estimée à 17h15. #RERB.",0,2,0,0,0
 1090938496188145664,2019-01-31 11:43:00,"@razhades Hadès, je serai présente ce soir pendant la pointe pour vous accompagner ! A tout à l'heure ! Joy",0,2,0,0,0
 1090974766939492352,2019-01-31 14:07:08,"ℹ️ Travaux de remise en état des installations #RERB en gare d’Aulnay-sous-Bois : prévoir 3 trains sur 4 en pointe de soirée.
 Retrouvez vos horaires sur l’appli SNCF ou les sites https://t.co/rcwnrZtW00 et https://t.co/ijY0yo4Edo",13,14,0,0,0
-1090981038459969536,2019-01-31 14:32:03,"[Nouvel article blog] Depuis hier soir, 21h10, un arrachement de la caténaire au niveau de la gare d’Aulnay-sous-Bois perturbe très fortement le trafic sur le #RERB https://t.co/BVMnIe1pJW https://t.co/rieyf4OInJ",21,23,0,0,0
-1090999514469711873,2019-01-31 15:45:28,"Re-bonjour à tous, Joy de retour pour vous accompagner pendant la pointe de soirée. Suite aux travaux de remise en état des installations en gare d'Aulnay-sous-bois, prévoir 3 trains sur 4 en pointe de soirée #RERB",8,13,0,0,0
+1090981038459969536,2019-01-31 14:32:03,"[Nouvel article blog] Depuis hier soir, 21h10, un arrachement de la caténaire au niveau de la gare d’Aulnay-sous-Bois perturbe très fortement le trafic sur le #RERB https://t.co/BVMnIe1pJW https://t.co/rieyf4OInJ",22,24,0,0,0
+1090999514469711873,2019-01-31 15:45:28,"Re-bonjour à tous, Joy de retour pour vous accompagner pendant la pointe de soirée. Suite aux travaux de remise en état des installations en gare d'Aulnay-sous-bois, prévoir 3 trains sur 4 en pointe de soirée #RERB",8,14,0,0,0
 1091004076962271232,2019-01-31 16:03:36,"@Melouubht Bonsoir, non le trafic reste perturbé actuellement. Joy",0,0,0,0,0
 1091004454055436289,2019-01-31 16:05:06,"@Chaussade9 Bonjour, le trafic reste perturbé, moins que ce matin mais si vous avez la possibilité de prendre un autre itinéraire je vous le conseille. Toutes nos excuses pour cette situation. Bonne soirée à vous ! Joy",0,0,1,0,0
 1091004626873262081,2019-01-31 16:05:47,@blackdmusic1 Nous espérons que la situation sera rétablie demain matin. Je serai présente dès 6h pour vous informer. Joy,0,4,0,0,0
@@ -5474,9 +5474,9 @@ Retrouvez vos horaires sur l’appli SNCF ou les sites https://t.co/rcwnrZtW00 e
 1091011948232228866,2019-01-31 16:34:53,@bintz_agathe Super ! Bonne soirée à vous ! Joy,0,0,0,0,0
 1091012360440111105,2019-01-31 16:36:31,@BDefait Je comprends bien 🙂 Merci pour vos encouragements ! Joy,0,0,0,0,0
 1091014457046847491,2019-01-31 16:44:51,"@ponceto91 Bonsoir Olivier, je vous conseille de prendre le premier train et d'effectuer un changement en gare de Bourg la Reine. Joy",0,0,0,0,0
-1091015334822400000,2019-01-31 16:48:20,"🚨 Suite à l'actionnement d'un signal d'alarme sur la mission INKE21 à destination de Mitry, le train stationne actuellement en gare d'Aulnay sous Bois #RERB",1,4,0,0,0
+1091015334822400000,2019-01-31 16:48:20,"🚨 Suite à l'actionnement d'un signal d'alarme sur la mission INKE21 à destination de Mitry, le train stationne actuellement en gare d'Aulnay sous Bois #RERB",1,5,0,0,0
 1091015662162587649,2019-01-31 16:49:38,"@jeromehuet Jérôme, votre train est arrêté suite à un signal d'alarme. Joy",0,0,0,0,0
-1091016851335847944,2019-01-31 16:54:22,[ 🚨 Signal d'alarme ] Fin d'incident en gare d'Aulnay sous Bois #RERB,0,4,0,0,0
+1091016851335847944,2019-01-31 16:54:22,[ 🚨 Signal d'alarme ] Fin d'incident en gare d'Aulnay sous Bois #RERB,0,6,0,0,0
 1091017591953469441,2019-01-31 16:57:18,"@Clyiss Bonsoir, PAPO38 actuellement à Massy Verrières desservira toutes les gares jusqu'à St Rémy. Joy",0,0,0,0,0
 1091019487086895105,2019-01-31 17:04:50,"@Vaniphy Bonsoir, je confirme ! Joy",0,0,0,0,0
 1091019664862400512,2019-01-31 17:05:32,@maroone7 Le trafic est perturbé sur l'ensemble de la ligne. Joy,0,0,0,0,0
