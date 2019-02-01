@@ -1230,8 +1230,8 @@ Interruption des circulations les 3 &amp; 4 novembre pour modernisation des inst
 1057900020706488322,2018-11-01 07:39:54,"@CheronDavid  8:35. Bonjour, en raison de l'interruption de trafic (pour travaux) entre les Baconnets et Massy Palaiseau, les manoeuvres des trains génèrent un retard en direction de Paris. Bonne journée, Mat.",0,0,0,0,0
 1057911146420862976,2018-11-01 08:24:07,"@TropeLfb1 Bonjour, il faut compter entre 15 et 20 minutes. Bonne journée. Kriss",0,0,0,0,0
 1057927321636679680,2018-11-01 09:28:23,[Point travaux 🚧 #RERB Massy-Verrières] La dépose des tabliers du pont ferroviaire est en cours. https://t.co/C0HmPDRtNW,18,32,0,0,0
-1057929518390931456,2018-11-01 09:37:07,[Travaux 🚧 #RERB] Le trafic est interrompu entre Massy-Palaiseau et les Baconnets du 01/11 au 04/11 inclus. Une navette bus est mise en place entre ces deux gares. Nos agents sont à votre disposition pour vous informer pendant toute la durée des travaux : https://t.co/ImUfUqLV8x,11,19,0,0,0
 1057929520387444736,2018-11-01 09:37:07,"@Its_NoemY 10:35 Bonjour, je vous confirme qu'un service de remplacement Bus est mis en place avec une fréquence de 6 minutes aux heures de pointe, et 15 minutes aux heures creuses. Bonne journée. Mat.",0,0,0,0,0
+1057929518390931456,2018-11-01 09:37:07,[Travaux 🚧 #RERB] Le trafic est interrompu entre Massy-Palaiseau et les Baconnets du 01/11 au 04/11 inclus. Une navette bus est mise en place entre ces deux gares. Nos agents sont à votre disposition pour vous informer pendant toute la durée des travaux : https://t.co/ImUfUqLV8x,11,19,0,0,0
 1057937494833090560,2018-11-01 10:08:48,"@Youfry_  11:07 Bonjour, il faut compter environ 30 minutes sur ce trajet en fonction de la circulation routière. Bonne journée. Mat.",0,0,0,0,0
 1057940861986766848,2018-11-01 10:22:11,"@Bobox81729516 11:19 Bonjour, en raison des travaux sur la ligne B, je vous invite à prendre un train MONA ligne RER C pour un trajet d'environ 40 minutes depuis Saint-Michel. Bonne journée. Mat.",0,1,0,0,0
 1057947705320882176,2018-11-01 10:49:23,"@PicardPa  11:44 Bonjour, Depuis Saint-Michel, votre trajet s'arrêtera aux Baconnets. Un service de navette bus est mis en place entre les Baconnets et Massy Palaiseau. Les informations sont consultables sur l'application https://t.co/ijY0yo4Edo. Bonne journée. Mat",0,0,0,0,0
@@ -1406,11 +1406,11 @@ Des bus de remplacement desserviront toutes les gares entre Aulnay sous Bois et 
 1059091762675924992,2018-11-04 14:35:27,"@Lorin6401 Bonjour, les travaux se terminent ce soir à la fin de service. Le trafic prévu dès demain à la prise de service est un trafic régulier. Bonne journée. ^b",0,0,0,0,0
 1059092180168593410,2018-11-04 14:37:07,"@AndrewMitul Bonjour, les travaux se terminent ce soir à la fin de service. Le trafic prévu dès demain à la prise de service est un trafic régulier. Je comprends tout à fait votre point de vue mais ces travaux sont néanmoins nécessaires. Bon dimanche. ^b",0,0,0,0,0
 1059093677350535169,2018-11-04 14:43:04,"@Vinced_93 Bonjour, oui les travaux se terminent ce soir. Le trafic prévu pour la journée de demain est un trafic régulier. Bonne journée. ^b",0,0,0,0,0
+1059099059175260160,2018-11-04 15:04:27,"Ce soir dès 22h30, les trains #RERB seront terminus Châtelet-les-Halles. Les bus de substitution partiront de Gare du Nord.",5,3,0,0,0
 1059099060471250944,2018-11-04 15:04:27,"En direction du nord:
 -dernier départ de Châtelet à destination de La Plaine SDF: 22h29
 -dernier départ de Châtelet à destination de Gare du Nord: 22h44
  Après 22h44, tous les trains seront terminus Châtelet. #RERB",3,2,0,0,0
-1059099059175260160,2018-11-04 15:04:27,"Ce soir dès 22h30, les trains #RERB seront terminus Châtelet-les-Halles. Les bus de substitution partiront de Gare du Nord.",5,3,0,0,0
 1059099061670813696,2018-11-04 15:04:28,"En direction du sud:
 -dernier départ à La Plaine à 22h41 (passage à Châtelet à 22h53)
 -dernier départ à Gare du Nord à 22h56 (passage à Châtelet à 22h59). #RERB",3,2,0,0,0
@@ -5451,7 +5451,7 @@ Reprise estimée à 17h15. #RERB.",0,2,0,0,0
 1090938496188145664,2019-01-31 11:43:00,"@razhades Hadès, je serai présente ce soir pendant la pointe pour vous accompagner ! A tout à l'heure ! Joy",0,2,0,0,0
 1090974766939492352,2019-01-31 14:07:08,"ℹ️ Travaux de remise en état des installations #RERB en gare d’Aulnay-sous-Bois : prévoir 3 trains sur 4 en pointe de soirée.
 Retrouvez vos horaires sur l’appli SNCF ou les sites https://t.co/rcwnrZtW00 et https://t.co/ijY0yo4Edo",13,14,0,0,0
-1090981038459969536,2019-01-31 14:32:03,"[Nouvel article blog] Depuis hier soir, 21h10, un arrachement de la caténaire au niveau de la gare d’Aulnay-sous-Bois perturbe très fortement le trafic sur le #RERB https://t.co/BVMnIe1pJW https://t.co/rieyf4OInJ",22,24,0,0,0
+1090981038459969536,2019-01-31 14:32:03,"[Nouvel article blog] Depuis hier soir, 21h10, un arrachement de la caténaire au niveau de la gare d’Aulnay-sous-Bois perturbe très fortement le trafic sur le #RERB https://t.co/BVMnIe1pJW https://t.co/rieyf4OInJ",22,25,0,0,0
 1090999514469711873,2019-01-31 15:45:28,"Re-bonjour à tous, Joy de retour pour vous accompagner pendant la pointe de soirée. Suite aux travaux de remise en état des installations en gare d'Aulnay-sous-bois, prévoir 3 trains sur 4 en pointe de soirée #RERB",8,14,0,0,0
 1091004076962271232,2019-01-31 16:03:36,"@Melouubht Bonsoir, non le trafic reste perturbé actuellement. Joy",0,0,0,0,0
 1091004454055436289,2019-01-31 16:05:06,"@Chaussade9 Bonjour, le trafic reste perturbé, moins que ce matin mais si vous avez la possibilité de prendre un autre itinéraire je vous le conseille. Toutes nos excuses pour cette situation. Bonne soirée à vous ! Joy",0,0,1,0,0
@@ -5491,4 +5491,14 @@ Retrouvez vos horaires sur l’appli SNCF ou les sites https://t.co/rcwnrZtW00 e
 1091183732067917830,2019-02-01 03:57:29,"04:55, le trafic est perturbé sur la ligne (incident voie)  #RERB",3,2,0,0,0
 1091193550308560896,2019-02-01 04:36:30,"@baratincyril3 Bonjour, les trains circulent bien sur votre trajet. Bonne journée. PFM",0,0,0,0,0
 1091197170659848193,2019-02-01 04:50:53,"@Milie93100 Bonjour, le trafic est perturbé sur la ligne à cause de la panne d'alimentation électrique à Aulnay. Bonne journée. PFM",0,0,0,0,0
-1091198666587672578,2019-02-01 04:56:50,"Bonjour à tous, Joy pour vous accompagner jusqu'à 13h00. En raison de la remise en état des installations en gare d'Aulnay-sous-Bois, le trafic est actuellement perturbé sur l'ensemble de la ligne #RERB. Bonne journée et bon week-end !",0,0,0,0,0
+1091198666587672578,2019-02-01 04:56:50,"Bonjour à tous, Joy pour vous accompagner jusqu'à 13h00. En raison de la remise en état des installations en gare d'Aulnay-sous-Bois, le trafic est actuellement perturbé sur l'ensemble de la ligne #RERB. Bonne journée et bon week-end !",0,4,0,0,0
+1091199869262409728,2019-02-01 05:01:37,"@nojqosa77 Bonjour, normalement nous pourrons assurer les 20 trains par heure en période de pointe. Joy",0,0,0,0,0
+1091200689588588545,2019-02-01 05:04:52,"@elphiemyriam Bonjour Elphie, non nous allons pouvoir assurer un trafic normal pour la pointe. Bonne journée à vous ! Joy",0,0,0,0,0
+1091200933906841601,2019-02-01 05:05:50,"@EstelleRiquet Bonjour Estelle, beaucoup de moins de problèmes actuellement et nous allons pouvoir assurer un trafic normal pour la pointe. Bonne journée à vous ! Joy",0,1,0,0,0
+1091204089206263808,2019-02-01 05:18:23,Retour à un trafic régulier sur l'ensemble de la ligne #RERB,2,8,0,0,0
+1091204293728894976,2019-02-01 05:19:11,"@tiph04125766 Bonjour, oui pas de problèmes entre ces deux gares. Joy",0,0,0,0,0
+1091204816800530432,2019-02-01 05:21:16,"@Jeannot911 Bonjour Jeannot, oui pas de problèmes 🙂 ! Bonne journée à vous ! Joy",0,1,0,0,0
+1091205358717202432,2019-02-01 05:23:25,"@amc_______ Bonjour, oui pas de problèmes au départ de CDG. Bonne journée à vous ! Joy",0,0,0,0,0
+1091205668579745792,2019-02-01 05:24:39,"@oukht93 Bonjour, le prochain train au départ de CDG est la mission KOCQ42 prévu dans 6 minutes. Joy",0,1,0,0,0
+1091207885617537024,2019-02-01 05:33:28,"@razhades Bonjour Hadès, oui en effet 😅 ! Bonne journée à vous également ! Joy",0,1,0,0,0
+1091214577390489600,2019-02-01 06:00:03,"@Magaloush93 Bonjour, pour le moment cette mission n'est pas supprimée. Joy",0,0,0,0,0
