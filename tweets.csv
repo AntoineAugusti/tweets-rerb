@@ -1230,8 +1230,8 @@ Interruption des circulations les 3 &amp; 4 novembre pour modernisation des inst
 1057900020706488322,2018-11-01 07:39:54,"@CheronDavid  8:35. Bonjour, en raison de l'interruption de trafic (pour travaux) entre les Baconnets et Massy Palaiseau, les manoeuvres des trains génèrent un retard en direction de Paris. Bonne journée, Mat.",0,0,0,0,0
 1057911146420862976,2018-11-01 08:24:07,"@TropeLfb1 Bonjour, il faut compter entre 15 et 20 minutes. Bonne journée. Kriss",0,0,0,0,0
 1057927321636679680,2018-11-01 09:28:23,[Point travaux 🚧 #RERB Massy-Verrières] La dépose des tabliers du pont ferroviaire est en cours. https://t.co/C0HmPDRtNW,18,32,0,0,0
-1057929518390931456,2018-11-01 09:37:07,[Travaux 🚧 #RERB] Le trafic est interrompu entre Massy-Palaiseau et les Baconnets du 01/11 au 04/11 inclus. Une navette bus est mise en place entre ces deux gares. Nos agents sont à votre disposition pour vous informer pendant toute la durée des travaux : https://t.co/ImUfUqLV8x,11,19,0,0,0
 1057929520387444736,2018-11-01 09:37:07,"@Its_NoemY 10:35 Bonjour, je vous confirme qu'un service de remplacement Bus est mis en place avec une fréquence de 6 minutes aux heures de pointe, et 15 minutes aux heures creuses. Bonne journée. Mat.",0,0,0,0,0
+1057929518390931456,2018-11-01 09:37:07,[Travaux 🚧 #RERB] Le trafic est interrompu entre Massy-Palaiseau et les Baconnets du 01/11 au 04/11 inclus. Une navette bus est mise en place entre ces deux gares. Nos agents sont à votre disposition pour vous informer pendant toute la durée des travaux : https://t.co/ImUfUqLV8x,11,19,0,0,0
 1057937494833090560,2018-11-01 10:08:48,"@Youfry_  11:07 Bonjour, il faut compter environ 30 minutes sur ce trajet en fonction de la circulation routière. Bonne journée. Mat.",0,0,0,0,0
 1057940861986766848,2018-11-01 10:22:11,"@Bobox81729516 11:19 Bonjour, en raison des travaux sur la ligne B, je vous invite à prendre un train MONA ligne RER C pour un trajet d'environ 40 minutes depuis Saint-Michel. Bonne journée. Mat.",0,1,0,0,0
 1057947705320882176,2018-11-01 10:49:23,"@PicardPa  11:44 Bonjour, Depuis Saint-Michel, votre trajet s'arrêtera aux Baconnets. Un service de navette bus est mis en place entre les Baconnets et Massy Palaiseau. Les informations sont consultables sur l'application https://t.co/ijY0yo4Edo. Bonne journée. Mat",0,0,0,0,0
@@ -1406,11 +1406,11 @@ Des bus de remplacement desserviront toutes les gares entre Aulnay sous Bois et 
 1059091762675924992,2018-11-04 14:35:27,"@Lorin6401 Bonjour, les travaux se terminent ce soir à la fin de service. Le trafic prévu dès demain à la prise de service est un trafic régulier. Bonne journée. ^b",0,0,0,0,0
 1059092180168593410,2018-11-04 14:37:07,"@AndrewMitul Bonjour, les travaux se terminent ce soir à la fin de service. Le trafic prévu dès demain à la prise de service est un trafic régulier. Je comprends tout à fait votre point de vue mais ces travaux sont néanmoins nécessaires. Bon dimanche. ^b",0,0,0,0,0
 1059093677350535169,2018-11-04 14:43:04,"@Vinced_93 Bonjour, oui les travaux se terminent ce soir. Le trafic prévu pour la journée de demain est un trafic régulier. Bonne journée. ^b",0,0,0,0,0
+1059099059175260160,2018-11-04 15:04:27,"Ce soir dès 22h30, les trains #RERB seront terminus Châtelet-les-Halles. Les bus de substitution partiront de Gare du Nord.",5,3,0,0,0
 1059099060471250944,2018-11-04 15:04:27,"En direction du nord:
 -dernier départ de Châtelet à destination de La Plaine SDF: 22h29
 -dernier départ de Châtelet à destination de Gare du Nord: 22h44
  Après 22h44, tous les trains seront terminus Châtelet. #RERB",3,2,0,0,0
-1059099059175260160,2018-11-04 15:04:27,"Ce soir dès 22h30, les trains #RERB seront terminus Châtelet-les-Halles. Les bus de substitution partiront de Gare du Nord.",5,3,0,0,0
 1059099061670813696,2018-11-04 15:04:28,"En direction du sud:
 -dernier départ à La Plaine à 22h41 (passage à Châtelet à 22h53)
 -dernier départ à Gare du Nord à 22h56 (passage à Châtelet à 22h59). #RERB",3,2,0,0,0
@@ -5230,7 +5230,7 @@ Reprise estimée à 17h15. #RERB.",0,2,0,0,0
 1090522255283634176,2019-01-30 08:09:01,Le trafic est actuellement perturbé sur l'ensemble de la ligne suite aux conditions climatiques ainsi qu'un malaise voyageur en gare de St Michel (incident terminé) #RERB,11,8,0,0,0
 1090530265120813056,2019-01-30 08:40:50,"@Maxime92160 Bonjour, pouvez vous me donner le numéro de la voiture ? Joy",0,0,0,0,0
 1090544150901153792,2019-01-30 09:36:01,Retour à un trafic régulier sur l'ensemble de la ligne #RERB,6,6,0,0,0
-1090553393456836608,2019-01-30 10:12:45,"Suite à un accident grave de personne en gare de Villepinte, le trafic est interrompu entre Aulnay et CDG dans les deux sens de circulation et perturbé sur le reste de la ligne. Reprise estimée à 13h30 https://t.co/3XigsnqeuZ #RERB",16,6,0,0,0
+1090553393456836608,2019-01-30 10:12:45,"Suite à un accident grave de personne en gare de Villepinte, le trafic est interrompu entre Aulnay et CDG dans les deux sens de circulation et perturbé sur le reste de la ligne. Reprise estimée à 13h30 https://t.co/3XigsnqeuZ #RERB",16,5,0,0,0
 1090554145482911744,2019-01-30 10:15:44,"@flixmath Bonjour, oui malheureusement... Joy",0,0,0,0,0
 1090555442193936385,2019-01-30 10:20:53,"@miko75011 Bonjour Michel, pour le moment je n'ai pas encore d'informations. Etes-vous à hauteur d'un quai ? Je vous informe dès que j'ai plus d'informations. Joy",0,0,0,0,0
 1090556489436143616,2019-01-30 10:25:03,"@gcfsie Bonjour, le trafic est perturbé sur le reste de la ligne. Joy",0,0,0,0,0
@@ -5390,7 +5390,7 @@ Reprise estimée à 17h15. #RERB.",0,2,0,0,0
 1090869337953615872,2019-01-31 07:08:12,[ 🚨 Signal d'alarme ] Fin d'incident en gare de Baconnets #RERB,2,2,0,0,0
 1090870146028224512,2019-01-31 07:11:24,"[ 🚨 Signal d'alarme ] Fin d'incident en gare de La Courneuve Aubervilliers, reprise progressive de la circulation entre CDG / Mitry et Gare du Nord #RERB",3,3,0,0,0
 1090870904052240394,2019-01-31 07:14:25,"@Megafab1 Bonjour, dans quel train êtes vous ? Joy",0,1,0,0,0
-1090871395872108544,2019-01-31 07:16:22,"❌ Suite à un défaut d'alimentation électrique en gare d'Aulnay-sous-Bois, le trafic est actuellement fortement perturbé sur l'ensemble de la ligne. Prévoir 2 trains sur 3 dans les deux sens de circulation. Horaires sur https://t.co/u9RGVlco1F  et https://t.co/OknqVMIcgY",26,11,0,0,0
+1090871395872108544,2019-01-31 07:16:22,"❌ Suite à un défaut d'alimentation électrique en gare d'Aulnay-sous-Bois, le trafic est actuellement fortement perturbé sur l'ensemble de la ligne. Prévoir 2 trains sur 3 dans les deux sens de circulation. Horaires sur https://t.co/u9RGVlco1F  et https://t.co/OknqVMIcgY",26,12,0,0,0
 1090871700823179264,2019-01-31 07:17:35,"@Liise7up Bonjour, nous avons actuellement eu deux incidents. Toutes nos excuses pour la gêne occasionnée sur votre trajet. Le trafic est toujours fortement perturbé sur l'ensemble de la ligne. Joy",2,0,1,0,0
 1090872105938403329,2019-01-31 07:19:12,"@RER_BETAIL Bonjour, le trafic n'est pas régulier mais fortement perturbé sur l'ensemble de la ligne suite à un défaut d'alimentation électrique en gare d'Aulnay. Joy",0,0,0,0,0
 1090872909072084992,2019-01-31 07:22:23,"@flirtyexo Bonjourn, le prochain train en direction de Drancy est la mission KUBE66. Toutes nos excuses pour ce manque d'infos en gare ! Joy",0,1,1,0,0
@@ -5510,4 +5510,4 @@ Retrouvez vos horaires sur l’appli SNCF ou les sites https://t.co/rcwnrZtW00 e
 1091243023051210752,2019-02-01 07:53:05,@Lianifarida2 Bonjour et bonne journée à vous ! Joy,0,1,0,0,0
 1091269340433911811,2019-02-01 09:37:40,"@poenasinelege Bonjour Maéline, il n'y a pas de retard actuellement sur la ligne. Bonne journée à vous ! Joy",0,1,0,0,0
 1091269412001320965,2019-02-01 09:37:57,"@poenasinelege Bonjour Maéline, il n'y a pas de retard actuellement sur la ligne. Bonne journée à vous ! Joy",0,1,0,0,0
-1091315340141887488,2019-02-01 12:40:27,🚧 Récap des #TravauxRERB_2019 pour vous aider à mieux voyager la semaine du 4 au 10 février: pas de travaux prévus sur votre ligne la semaine prochaine.,6,11,0,0,0
+1091315340141887488,2019-02-01 12:40:27,🚧 Récap des #TravauxRERB_2019 pour vous aider à mieux voyager la semaine du 4 au 10 février: pas de travaux prévus sur votre ligne la semaine prochaine.,7,12,0,0,0
