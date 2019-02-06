@@ -3174,9 +3174,9 @@ Massy-Verrières et Fontaine-Michalon. Le train est actuellement à l'approche d
 1070283993139036160,2018-12-05 11:49:23,"@razhades Bonjour Hadès, ohhh mais non j'avais pas vu ! Alors concernant les trains à destination d'Orsay, c'est vrai qu'ils sont souvent assurés au départ de Châtelet pendant les heures de pointe suite à des mesures de régulation. Bonne journée, à tout à l'heure ! ^b",0,3,0,1,0
 1070287496431439872,2018-12-05 12:03:18,"@Melooooody77 @razhades Plus rien ne va 😁 Désolée, encore une fois ! ^b",0,3,0,0,0
 1070339180499222530,2018-12-05 15:28:41,@razhades Bien rentré ? Bonne soirée à vous ! 😉 ^b,0,2,0,0,0
-1070366241708273665,2018-12-05 17:16:13,"#RERB  En raison d’un mouvement social qui fait suite à l’agression d’un  conducteur, le trafic sera perturbé sur la ligne le 7 décembre.",105,58,0,0,0
 1070366243012706306,2018-12-05 17:16:13,"Entre Saint-Rémy/Robinson et Denfert Rochereau prévoir 2 trains sur 3 aux heures de pointe, 1 train sur 2 aux heures creuses.
 Entre Denfert Rochereau et Aéroport CDG/Mitry prévoir 1 train sur 2 toute la journée.",19,6,0,0,0
+1070366241708273665,2018-12-05 17:16:13,"#RERB  En raison d’un mouvement social qui fait suite à l’agression d’un  conducteur, le trafic sera perturbé sur la ligne le 7 décembre.",105,58,0,0,0
 1070367486921580549,2018-12-05 17:21:10,"@SamRLIVPIVIF Bonsoir, non pas de changement de train à Gare du Nord. Bonne soirée. ^b",0,1,0,0,0
 1070368443516506113,2018-12-05 17:24:58,"@YBourti Bonsoir, non ce mouvement social concerne la journée de vendredi, le 7 décembre. Bonne soirée à vous. ^b",0,1,0,0,0
 1070368660932517888,2018-12-05 17:25:49,@SamRLIVPIVIF Je vous en prie ! Merci à vous et bon courage également 🙂 ^b,0,1,0,0,1
@@ -4500,7 +4500,7 @@ Luc",0,0,0,0,0
 1083618242025934849,2019-01-11 06:54:56,"@FaissatQuentin Bonjour, pas d'incident majeur sur la ligne, des mesures de régulation sont effectuées afin de limiter les retards. Bonne journée ! ^b",0,0,0,1,0
 1083621601793507329,2019-01-11 07:08:17,"@jeromehuet Bonjour Jérôme, des trains ont été rendus direct, j'en suis navrée ! Toutes nos excuses. ^b",0,0,1,0,0
 1083621929385451521,2019-01-11 07:09:35,Un train à destination de Robinson stationne à La Plaine suite à une panne. #RERB,2,1,0,0,0
-1083623086744915974,2019-01-11 07:14:11,"(Train en panne à La Plaine) : fin d'incident, le train va pouvoir repartir. #RERB",1,0,0,0,0
+1083623086744915974,2019-01-11 07:14:11,"(Train en panne à La Plaine) : fin d'incident, le train va pouvoir repartir. #RERB",1,1,0,0,0
 1083623464416800768,2019-01-11 07:15:41,"@Majdoou Bonjour, en direction de Paris ? Un train stationne à La Plaine suite à une avarie sur son matériel mais va pouvoir repartir. ^b",0,0,0,0,0
 1083624523092672512,2019-01-11 07:19:53,"En répercussion d'un train en panne à La Plaine Stade de France (incident terminé), le trafic #RERB est perturbé en direction de St Rémy / Robinson",4,1,0,0,0
 1083624766634950656,2019-01-11 07:20:51,"@lj007dj Bonjour, le train a pu repartir de La Plaine SDF, l'incident est terminé mais le trafic est perturbé en direction du sud de la ligne. ^b",0,0,0,0,0
@@ -5682,5 +5682,14 @@ Pour en savoir + ➡️ https://t.co/RfyWimyOvp https://t.co/Kh3uQcyius",8,4,0,0
 1093123119777226752,2019-02-06 12:23:55,"❌ Suite à un bagage oublié en gare de CDG1, le trafic est interrompu entre Aulnay-sous-Bois et l'Aéroport CDG dans les deux sens de circulation. Heure de reprise estimée à 13h45 https://t.co/UZALzVy8z4 #RERB",1,1,0,0,0
 1093123672682962944,2019-02-06 12:26:07,"@njfouda Bonjour, pour le moment le trafic est interrompu entre Aulnay et l'Aéroport CDG, reprise de la circulation estimée à 13h45. Joy",0,0,0,0,0
 1093124987035312128,2019-02-06 12:31:20,"❌ Suite à un bagage oublié en gare de CDG1, le trafic est interrompu entre Parc des Expositions et l'Aéroport CDG 2 dans les deux sens de circulation. Heure de reprise estimée à 13h45 https://t.co/UZALzVy8z4 #RERB",1,0,0,0,0
-1093126932424736775,2019-02-06 12:39:04,"✅ Fin d'incident en gare de CDG1, reprise des circulations entre Parc des Expositions et Aéroport CDG2. Le trafic est actuellement perturbé entre Aulnay sous Bois et CDG2 #RERB",0,0,0,0,0
-1093127798506561536,2019-02-06 12:42:31,"13:41, le trafic est rétabli sur la ligne (bagage oublié)  #RERB",0,1,0,0,0
+1093126932424736775,2019-02-06 12:39:04,"✅ Fin d'incident en gare de CDG1, reprise des circulations entre Parc des Expositions et Aéroport CDG2. Le trafic est actuellement perturbé entre Aulnay sous Bois et CDG2 #RERB",0,1,0,0,0
+1093127798506561536,2019-02-06 12:42:31,"13:41, le trafic est rétabli sur la ligne (bagage oublié)  #RERB",0,2,0,0,0
+1093181579814494214,2019-02-06 16:16:13,"@FabienSNCF2001 Bonjour Fabien, merci pour votre signalement ! Je transmets à nos équipes ! Bonne journée à vous ! Joy",0,0,0,0,0
+1093181910732468224,2019-02-06 16:17:32,"🚨 Suite à l'actionnement d'un signal d'alarme sur la mission LEVE40 à destination de Orsay, le train stationne actuellement en gare de Gare du Nord #RERB",0,1,0,0,0
+1093182956926132227,2019-02-06 16:21:41,[ 🚨 Signal d'alarme ] Fin d'incident à Gare du Nord #RERB,1,0,0,0,0
+1093186830344900614,2019-02-06 16:37:05,"@aventurierdurer Bonjour, comment puis je vous aider ? Joy",0,0,0,0,0
+1093188780394188800,2019-02-06 16:44:50,"🚨 Suite à l'actionnement d'un signal d'alarme sur la mission ECCI51 à destination de CDG, le train stationne actuellement en gare de Châtelet #RERB",3,1,0,0,0
+1093189334801571847,2019-02-06 16:47:02,[ 🚨 Signal d'alarme ] Fin d'incident en gare de Châtelet #RERB,0,0,0,0,0
+1093189931365818369,2019-02-06 16:49:24,"@zouzou361 Bonsoir, pas de soucis en direction de Paris. Joy",0,0,0,0,0
+1093190484871266305,2019-02-06 16:51:36,"@Sawu7518 Bonsoir, un train a pris quelques minutes de retard ce qui explique votre vitesse, toutes nos excuses. Joy",0,0,1,0,0
+1093190797275615233,2019-02-06 16:52:51,"@aventurierdurer Il s'agit de mesures de régulation, toutes nos excuses ! Bonne soirée à vous ! Joy",0,0,1,1,0
