@@ -1406,11 +1406,11 @@ Des bus de remplacement desserviront toutes les gares entre Aulnay sous Bois et 
 1059091762675924992,2018-11-04 14:35:27,"@Lorin6401 Bonjour, les travaux se terminent ce soir à la fin de service. Le trafic prévu dès demain à la prise de service est un trafic régulier. Bonne journée. ^b",0,0,0,0,0
 1059092180168593410,2018-11-04 14:37:07,"@AndrewMitul Bonjour, les travaux se terminent ce soir à la fin de service. Le trafic prévu dès demain à la prise de service est un trafic régulier. Je comprends tout à fait votre point de vue mais ces travaux sont néanmoins nécessaires. Bon dimanche. ^b",0,0,0,0,0
 1059093677350535169,2018-11-04 14:43:04,"@Vinced_93 Bonjour, oui les travaux se terminent ce soir. Le trafic prévu pour la journée de demain est un trafic régulier. Bonne journée. ^b",0,0,0,0,0
+1059099059175260160,2018-11-04 15:04:27,"Ce soir dès 22h30, les trains #RERB seront terminus Châtelet-les-Halles. Les bus de substitution partiront de Gare du Nord.",5,3,0,0,0
 1059099060471250944,2018-11-04 15:04:27,"En direction du nord:
 -dernier départ de Châtelet à destination de La Plaine SDF: 22h29
 -dernier départ de Châtelet à destination de Gare du Nord: 22h44
  Après 22h44, tous les trains seront terminus Châtelet. #RERB",3,2,0,0,0
-1059099059175260160,2018-11-04 15:04:27,"Ce soir dès 22h30, les trains #RERB seront terminus Châtelet-les-Halles. Les bus de substitution partiront de Gare du Nord.",5,3,0,0,0
 1059099061670813696,2018-11-04 15:04:28,"En direction du sud:
 -dernier départ à La Plaine à 22h41 (passage à Châtelet à 22h53)
 -dernier départ à Gare du Nord à 22h56 (passage à Châtelet à 22h59). #RERB",3,2,0,0,0
@@ -3654,7 +3654,7 @@ Entre Denfert Rochereau et Aéroport CDG/Mitry prévoir 1 train sur 2 toute la j
 1073143682088517633,2018-12-13 09:12:46,"@RomainFrapp Bonjour Romain, il faut prévoir 4 trains sur 5 en heures de pointe et 3 trains sur 4 en heures creuses. Tous les horaires sont disponibles sur les applications et sur: https://t.co/NNzMTbczod. Bonne journée. ^b",0,0,0,0,0
 1073174456468680705,2018-12-13 11:15:03,"@GabianLa Bonjour Gabriel, oui il s'agit d'une intervention sur la voie suite à la panne de signalisation à Denfert.  ^b",0,0,0,0,0
 1073176171741962240,2018-12-13 11:21:52,"@RaghuKannan Bonjour, il y a eu une intervention sur la voie suite à la panne de signalisation, un train à destination de Robinson est passé à contre-sens à Denfert. Tout est désormais terminé. ^b",0,0,0,0,0
-1073185790413426688,2018-12-13 12:00:05,"Bonjour à tous, Joy pour vous accompagner jusqu'à 20h00. N'hésitez pas à me solliciter pendant votre trajet sur le #RERB. Bonne journée !",0,3,0,0,0
+1073185790413426688,2018-12-13 12:00:05,"Bonjour à tous, Joy pour vous accompagner jusqu'à 20h00. N'hésitez pas à me solliciter pendant votre trajet sur le #RERB. Bonne journée !",0,2,0,0,0
 1073213108745879552,2018-12-13 13:48:39,"[ 🚨 Signal d'alarme ] Suite à l'actionnement d'un signal d'alarme sur la mission PIST58 en direction de St Rémy, le train stationne actuellement en gare de Croix de Berny #RERB.",1,3,0,0,0
 1073213776491626497,2018-12-13 13:51:18,[ 🚨 Signal d'alarme ] L'incident est désormais terminé en gare de Croix de Berny #RERB,1,1,0,0,0
 1073218725862629377,2018-12-13 14:10:58,"@Tutur_weiss Bonjour Arthur, vous avez actuellement un train à l'approche ! Bonne journée à vous ! Joy",0,0,0,0,0
@@ -4054,7 +4054,7 @@ Entre Denfert Rochereau et Aéroport CDG/Mitry prévoir 1 train sur 2 toute la j
 1076017554953568257,2018-12-21 07:32:31,"@golden_indie Bonjour, concernant notre ligne, vous trouverez les horaires sur notre blog 👉 https://t.co/aAXuta1wD1 ! Bonne journée et belles fêtes de fin d'année ! Joy",0,1,0,0,0
 1076018156534222848,2018-12-21 07:34:54,"@ltpkorp Bonjour, votre train va pouvoir repartir. Bonne journée à vous ! Joy",0,0,0,0,0
 1076018611498766336,2018-12-21 07:36:43,"@gegene007 Bonjour Geneviève, la vitesse des trains est réduite suite aux conditions climatiques. Toutes nos excuses ! bonne journée à vous tout de même ! Joy",0,0,1,0,0
-1076020700702539776,2018-12-21 07:45:01,Le retard sur la ligne est actuellement estimé à 10 minutes dans les deux sens de circulation #RERB,2,7,0,0,0
+1076020700702539776,2018-12-21 07:45:01,Le retard sur la ligne est actuellement estimé à 10 minutes dans les deux sens de circulation #RERB,2,8,0,0,0
 1076022128141582336,2018-12-21 07:50:41,"@GabianLa Bonjour, toutes nos excuses mais je vais devoir vous dire qu'à cause des conditions climatiques, les trains circulent plus lentement, de ce fait le retard sur la ligne est actuellement estimé à 10 minutes. Bonne journée tout de même ! Joy",0,0,1,0,0
 1076022719358140416,2018-12-21 07:53:02,"@ArnaudCHAILLIE Bonjour Arnaud, toutes nos excuses pour ce manque d'infos en gare, je remonte votre tweet et je vais contacter la gare ! Bonne journée à vous tout de même ! Joy",0,1,1,0,0
 1076027522566029312,2018-12-21 08:12:07,"@Nialiex Bonjour, merci pour votre retour sur votre trajet ! Je vous souhaite également de belles fêtes de fin d'année 🎄 et une bonne journée ! Joy",0,2,0,0,0
@@ -4316,7 +4316,7 @@ Entre Denfert Rochereau et Aéroport CDG/Mitry prévoir 1 train sur 2 toute la j
 1082314507773509632,2019-01-07 16:34:21,@ClemGwen Votre train va pouvoir repartir. La personne a été évacuée. Joy,0,1,0,0,0
 1082317933223784448,2019-01-07 16:47:58,"@razhades Bonjour Hadès, pas de soucis actuellement sur la ligne ! Joy",0,1,0,0,0
 1082320301332008962,2019-01-07 16:57:23,@razhades Pas de problèmes 😉  ! Joy,0,1,0,0,0
-1082331183982280710,2019-01-07 17:40:37,"[🚨 Signal d'alarme ] Suite à l'actionnement d'un signal d'alarme sur la mission EVOL75 à destination de l'Aéroport CDG, le train stationne actuellement en gare de Drancy #RERB",3,2,0,0,0
+1082331183982280710,2019-01-07 17:40:37,"[🚨 Signal d'alarme ] Suite à l'actionnement d'un signal d'alarme sur la mission EVOL75 à destination de l'Aéroport CDG, le train stationne actuellement en gare de Drancy #RERB",3,3,0,0,0
 1082332605012414464,2019-01-07 17:46:16,[🚨 Signal d'alarme ] Fin d'incident en gare de Drancy #RERB,0,1,0,0,0
 1082335603402919938,2019-01-07 17:58:11,"@LaFibreSAV Bonjour, toutes nos excuses ! Pas d'incident majeur sur la ligne actuellement, il s'agit de mesures de régulation. Bonne soirée à vous tout de même. Joy",0,1,1,1,0
 1082336445812129792,2019-01-07 18:01:32,"🚨 Suite à l'actionnement d'un signal d'alarme sur la mission ILOU17 à destination de Mitry, le train stationne actuellement en gare de Bourg-la-Reine #RERB",1,3,0,0,0
@@ -4335,7 +4335,7 @@ Entre Denfert Rochereau et Aéroport CDG/Mitry prévoir 1 train sur 2 toute la j
 1082535713957208064,2019-01-08 07:13:21,"@fares_bannour Bonjour, toutes nos excuses, je transmets à nos équipes. ^b",0,1,1,0,0
 1082541988598169600,2019-01-08 07:38:17,"@passagerrieux Bonjour, je transmets à nos équipes ! Merci de votre signalement ! Bonne journée ! ^b",0,0,0,0,0
 1082543185140875264,2019-01-08 07:43:02,"@dzetalol Bonjour, toutes mes excuses je n'avais pas vu votre message. Ces mesures de régulation ont été effectuées suite à l'actionnement d'un signal d'alarme très tôt ce matin. Ces mesures ont été prises afin de limiter les retards. Bon courage à vous ! ^b",0,0,1,1,1
-1082546536511426560,2019-01-08 07:56:21,"Suite à l'actionnement d'un signal d'alarme, un train à destination de Massy-Palaiseau stationne à Gare du Nord. #RERB",0,2,0,0,0
+1082546536511426560,2019-01-08 07:56:21,"Suite à l'actionnement d'un signal d'alarme, un train à destination de Massy-Palaiseau stationne à Gare du Nord. #RERB",0,3,0,0,0
 1082547676019900416,2019-01-08 08:00:53,"(Signal d'alarme à Gare du Nord): fin d'incident, le train repart à destination de Massy-Palaiseau. #RERB",0,3,0,0,0
 1082553558967480320,2019-01-08 08:24:15,"@Elise_Gabrielle Bonjour Elise, merci de votre retour ! Très bonne journée à vous ! 🙂 ^b",0,1,0,0,0
 1082556407520595969,2019-01-08 08:35:35,"@TamoNeki22 Bonjour, oui le trafic est actuellement régulier sur la ligne. Bonne journée ! ^b",0,1,0,0,0
@@ -4753,14 +4753,14 @@ SNCF Réseau…",13,0,0,0,0
 Merci de patienter. ViNi",0,4,0,0,0
 1086880875915235328,2019-01-20 06:59:28,"07:58, le trafic reprend progressivement entre Palaiseau et Les Baconnets (mesure de sécurité)  #RERB",0,2,0,0,0
 1086880917245886465,2019-01-20 06:59:38,"Incident terminé à Massy Palaiseau le trafic reprend progressivement sur l'ensemble de la ligne.
-Bon dimanche a tous ViNi",2,7,0,0,0
+Bon dimanche a tous ViNi",2,8,0,0,0
 1086888440866762752,2019-01-20 07:29:32,"08:28, le trafic est rétabli entre Palaiseau et Les Baconnets (mesure de sécurité)  #RERB",1,4,0,0,0
 1087215258555633664,2019-01-21 05:08:11,"Bonjour à tous, Joy pour vous accompagner jusqu'à 13h00. N'hésitez pas à me solliciter pendant votre trajet sur le #RERB. Bonne journée et bonne semaine !",1,5,0,0,0
 1087235189695307776,2019-01-21 06:27:23,"🚨 Suite à un malaise voyageur sur la mission PCIL46 à destination de St Rémy, le train stationne actuellement en gare de Cité Universitaire #RERB",6,9,0,0,0
 1087235534777450496,2019-01-21 06:28:46,"@razhades Bonjour Hadès, en effet votre train accuse 04 minutes de retard. Bonne journée à vous ! Joy",0,0,0,0,0
 1087237302173294592,2019-01-21 06:35:47,"@Space_X_Sheriff Bonjour, votre train va pouvoir reprendre sa marche. Joy",0,0,0,0,0
 1087237857520087042,2019-01-21 06:37:59,"@OlivierDroid92 Bonjour Olivier, votre train ne sera plus terminus de Laplace. Joy",0,0,0,0,0
-1087238300266651649,2019-01-21 06:39:45,"[ 🚨 Signal d'alarme ] Fin d'incident en gare de Cité Universitaire, la personne va être prise en charge par les secours en gare de Laplace #RERB",3,2,0,0,0
+1087238300266651649,2019-01-21 06:39:45,"[ 🚨 Signal d'alarme ] Fin d'incident en gare de Cité Universitaire, la personne va être prise en charge par les secours en gare de Laplace #RERB",3,3,0,0,0
 1087240219332624384,2019-01-21 06:47:22,"@Chaussade9 Bonjour, je remonte votre tweet ! Merci pour votre signalement ! Bonne journée ! Joy",0,0,0,0,0
 1087240450359132163,2019-01-21 06:48:17,"@Melooooody77 Bonjour Mélody et merci pour lui ! Je remonte votre tweet ! Bonne journée à vous, Joy",0,1,0,0,0
 1087240695134515200,2019-01-21 06:49:16,"@FrancoiseFlore1 Bonjour, je remonte votre tweet, pouvez vous me communiquer le numéro de la voiture ? Joy",0,0,0,0,0
@@ -5534,7 +5534,7 @@ Retrouvez vos horaires sur l’appli SNCF ou les sites https://t.co/rcwnrZtW00 e
 1092381974390554624,2019-02-04 11:18:52,@razhades Belle journée Hadès :) ^T,0,2,0,0,0
 1092393306678616064,2019-02-04 12:03:54,"Bonjour à tous, Joy pour vous accompagner jusqu'à 20h00. N'hésitez pas à me solliciter pendant votre trajet sur le #RERB. Bonne journée et bonne semaine 🙂 !",1,6,0,0,0
 1092400041115959296,2019-02-04 12:30:40,"[RAPPEL TRAVAUX] Pas de #RERB entre Saint-Rémy-lès-Chevreuse et Gif-sur-Yvette les 16 et 17 février 2019 🚧
-Pour en savoir + ➡️ https://t.co/RfyWimyOvp https://t.co/Kh3uQcyius",7,4,0,0,0
+Pour en savoir + ➡️ https://t.co/RfyWimyOvp https://t.co/Kh3uQcyius",8,4,0,0,0
 1092424309056987136,2019-02-04 14:07:06,"@JoDALTON242 Bonjour, avez-vous effectué un signalement auprès de nos agents en gare ? Joy",0,0,0,0,0
 1092425336770445312,2019-02-04 14:11:11,@JoDALTON242 Pouvez vous me donner les caractéristiques de votre sac ainsi que ce qu'il contient ? Joy,0,0,0,0,0
 1092427114891100167,2019-02-04 14:18:15,@JoDALTON242 Parfait merci pour ces précisions. Nous avons effectué un signalement auprès de toutes les gares. Je vous informerai si j'ai des nouvelles de votre sac ! Bonne journée à vous tout de même ! Joy,0,0,0,0,0
@@ -5676,8 +5676,8 @@ Pour en savoir + ➡️ https://t.co/RfyWimyOvp https://t.co/Kh3uQcyius",7,4,0,0
 1093053155947020288,2019-02-06 07:45:54,"@yorissse Bonjour, effectivement USER04 a été rendu terminus à Aulnay suite à un incident sur un autre train (PCIL78). Une mesure de régulation a donc été effectuée par nos équipes. Toutes nos excuses pour la gêne occasionnée. ^b",0,0,1,1,0
 1093053757695377408,2019-02-06 07:48:18,"@LassadSAIDANI2 Bonjour Lassad, oui effectivement des mesures de régulation sont régulièrement effectuées. Des trains sont alors sans arrêts entre Aulnay et Paris Gare du Nord. Bonne journée. ^b",0,0,0,1,0
 1093053879690891264,2019-02-06 07:48:47,@yorissse Je vous en prie ! Bonne journée à vous également. 🙂 ^b,1,1,0,0,0
-1093116504739065857,2019-02-06 11:57:38,"Bonjour à tous, Joy pour vous accompagner jusqu'à 20h00. N'hésitez pas à me solliciter pendant votre trajet sur le #RERB. Bonne journée à tous !",1,4,0,0,0
-1093117920933224450,2019-02-06 12:03:16,"@jerometommasino Bonjour, merci pour vos encouragements et bonne journée à vous 😊 ! Joy",0,1,0,0,0
+1093116504739065857,2019-02-06 11:57:38,"Bonjour à tous, Joy pour vous accompagner jusqu'à 20h00. N'hésitez pas à me solliciter pendant votre trajet sur le #RERB. Bonne journée à tous !",1,5,0,0,0
+1093117920933224450,2019-02-06 12:03:16,"@jerometommasino Bonjour, merci pour vos encouragements et bonne journée à vous 😊 ! Joy",0,2,0,0,0
 1093121601770528769,2019-02-06 12:17:53,"❌ Suite à un bagage oublié en gare de CDG1, les trains ne marquent pas d'arrêts en gare de CDG1 #RERB",2,1,0,0,0
 1093123119777226752,2019-02-06 12:23:55,"❌ Suite à un bagage oublié en gare de CDG1, le trafic est interrompu entre Aulnay-sous-Bois et l'Aéroport CDG dans les deux sens de circulation. Heure de reprise estimée à 13h45 https://t.co/UZALzVy8z4 #RERB",1,1,0,0,0
 1093123672682962944,2019-02-06 12:26:07,"@njfouda Bonjour, pour le moment le trafic est interrompu entre Aulnay et l'Aéroport CDG, reprise de la circulation estimée à 13h45. Joy",0,0,0,0,0
