@@ -1406,11 +1406,11 @@ Des bus de remplacement desserviront toutes les gares entre Aulnay sous Bois et 
 1059091762675924992,2018-11-04 14:35:27,"@Lorin6401 Bonjour, les travaux se terminent ce soir à la fin de service. Le trafic prévu dès demain à la prise de service est un trafic régulier. Bonne journée. ^b",0,0,0,0,0
 1059092180168593410,2018-11-04 14:37:07,"@AndrewMitul Bonjour, les travaux se terminent ce soir à la fin de service. Le trafic prévu dès demain à la prise de service est un trafic régulier. Je comprends tout à fait votre point de vue mais ces travaux sont néanmoins nécessaires. Bon dimanche. ^b",0,0,0,0,0
 1059093677350535169,2018-11-04 14:43:04,"@Vinced_93 Bonjour, oui les travaux se terminent ce soir. Le trafic prévu pour la journée de demain est un trafic régulier. Bonne journée. ^b",0,0,0,0,0
-1059099059175260160,2018-11-04 15:04:27,"Ce soir dès 22h30, les trains #RERB seront terminus Châtelet-les-Halles. Les bus de substitution partiront de Gare du Nord.",5,3,0,0,0
 1059099060471250944,2018-11-04 15:04:27,"En direction du nord:
 -dernier départ de Châtelet à destination de La Plaine SDF: 22h29
 -dernier départ de Châtelet à destination de Gare du Nord: 22h44
  Après 22h44, tous les trains seront terminus Châtelet. #RERB",3,2,0,0,0
+1059099059175260160,2018-11-04 15:04:27,"Ce soir dès 22h30, les trains #RERB seront terminus Châtelet-les-Halles. Les bus de substitution partiront de Gare du Nord.",5,3,0,0,0
 1059099061670813696,2018-11-04 15:04:28,"En direction du sud:
 -dernier départ à La Plaine à 22h41 (passage à Châtelet à 22h53)
 -dernier départ à Gare du Nord à 22h56 (passage à Châtelet à 22h59). #RERB",3,2,0,0,0
@@ -5265,7 +5265,7 @@ Reprise estimée à 17h15. #RERB.",0,2,0,0,0
 1090587842764521474,2019-01-30 12:29:38,@DocFM1 Vous avez raison ! Merci de votre message ! ^b,0,4,0,0,0
 1090588858847281154,2019-01-30 12:33:40,"@SaIemLaIo Bonjour, au départ de quelle gare ? Merci. ^b",0,0,0,0,0
 1090589684235931648,2019-01-30 12:36:57,@SaIemLaIo Oui vous pourrez emprunter un train pour Châtelet au départ de Châtelet. N'hésitez pas à revenir vers moi au cours de votre trajet. ^b,0,0,0,0,0
-1090590386941292544,2019-01-30 12:39:45,"@B_Lambert75 Bertrand, nous attendons l'autorisation de la police pour faire rouler des trains sur le lieu de l'accident. Une fois, cette autorisation donnée, des trains pourront circuler de nouveau et vous pourrez rejoindre Roissy. ^b",0,5,0,0,0
+1090590386941292544,2019-01-30 12:39:45,"@B_Lambert75 Bertrand, nous attendons l'autorisation de la police pour faire rouler des trains sur le lieu de l'accident. Une fois, cette autorisation donnée, des trains pourront circuler de nouveau et vous pourrez rejoindre Roissy. ^b",0,6,0,0,0
 1090590858129354752,2019-01-30 12:41:37,"@SaIemLaIo Ah effectivement, il y a un petit soucis dans ma phrase ! Vous pourrez emprunter un train à La Courneuve pour rejoindre Châtelet. ^b",0,0,0,0,0
 1090591923038023685,2019-01-30 12:45:51,[Accident grave de personne à Villepinte]: Nous sommes dans l'attente de  l'autorisation de la police pour faire circuler des trains sur le lieu de l'accident. #RERB,4,7,0,0,0
 1090592913212563459,2019-01-30 12:49:47,"@CindyBui__ Bonjour, je suis vraiment désolée je n'ai aucune info à ce sujet. Je reviendrais vers vous si j'arrive à en obtenir. Bon courage. ^b",0,0,0,0,1
@@ -5401,7 +5401,7 @@ Reprise estimée à 17h15. #RERB.",0,2,0,0,0
 1090875353973825538,2019-01-31 07:32:06,"ℹ️ Suite à un défaut d'alimentation électrique en gare d'Aulnay-sous-Bois, les trains en direction de Mitry seront directs entre La Plaine et Aulnay-sous-Bois #RERB",10,4,0,0,0
 1090875802718228485,2019-01-31 07:33:53,"@danieldu78711 Bonjour, oui, le prochain train en direction de Robinson est la mission SOSI60 actuellement à GDN. Joy",0,0,0,0,0
 1090876741571276800,2019-01-31 07:37:37,"@laudwn_ Bonjour, le prochain train est la mission PLAC14 au départ de Mitry dans quelques minutes. Joy",0,0,0,0,0
-1090877248368971779,2019-01-31 07:39:38,"@julyie9292 Bonjour, il y a actuellement un train qui entre en gare et qui va pouvoir effectuer une mission voyageur en direction de Paris. Joy",0,1,0,0,0
+1090877248368971779,2019-01-31 07:39:38,"@julyie9292 Bonjour, il y a actuellement un train qui entre en gare et qui va pouvoir effectuer une mission voyageur en direction de Paris. Joy",0,0,0,0,0
 1090877365394264064,2019-01-31 07:40:06,@MrnDream Dans quel train êtes vous ? Joy,0,0,0,0,0
 1090877588568977411,2019-01-31 07:40:59,"@ImInArkham Bonjour, le trafic est actuellement fortement perturbé sur l'ensemble de la ligne mais les trains circulent entre ces deux gares. Joy",0,0,0,0,0
 1090877916605542400,2019-01-31 07:42:17,"@ChaigneauThomas Bonjour, nous avons contacté la gare. Joy",0,1,0,0,0
