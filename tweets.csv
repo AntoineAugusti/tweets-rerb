@@ -1406,11 +1406,11 @@ Des bus de remplacement desserviront toutes les gares entre Aulnay sous Bois et 
 1059091762675924992,2018-11-04 14:35:27,"@Lorin6401 Bonjour, les travaux se terminent ce soir à la fin de service. Le trafic prévu dès demain à la prise de service est un trafic régulier. Bonne journée. ^b",0,0,0,0,0
 1059092180168593410,2018-11-04 14:37:07,"@AndrewMitul Bonjour, les travaux se terminent ce soir à la fin de service. Le trafic prévu dès demain à la prise de service est un trafic régulier. Je comprends tout à fait votre point de vue mais ces travaux sont néanmoins nécessaires. Bon dimanche. ^b",0,0,0,0,0
 1059093677350535169,2018-11-04 14:43:04,"@Vinced_93 Bonjour, oui les travaux se terminent ce soir. Le trafic prévu pour la journée de demain est un trafic régulier. Bonne journée. ^b",0,0,0,0,0
+1059099059175260160,2018-11-04 15:04:27,"Ce soir dès 22h30, les trains #RERB seront terminus Châtelet-les-Halles. Les bus de substitution partiront de Gare du Nord.",5,3,0,0,0
 1059099060471250944,2018-11-04 15:04:27,"En direction du nord:
 -dernier départ de Châtelet à destination de La Plaine SDF: 22h29
 -dernier départ de Châtelet à destination de Gare du Nord: 22h44
  Après 22h44, tous les trains seront terminus Châtelet. #RERB",3,2,0,0,0
-1059099059175260160,2018-11-04 15:04:27,"Ce soir dès 22h30, les trains #RERB seront terminus Châtelet-les-Halles. Les bus de substitution partiront de Gare du Nord.",5,3,0,0,0
 1059099061670813696,2018-11-04 15:04:28,"En direction du sud:
 -dernier départ à La Plaine à 22h41 (passage à Châtelet à 22h53)
 -dernier départ à Gare du Nord à 22h56 (passage à Châtelet à 22h59). #RERB",3,2,0,0,0
@@ -5249,7 +5249,7 @@ Reprise estimée à 17h15. #RERB.",0,2,0,0,0
 1090567375311814656,2019-01-30 11:08:18,"@MilyElo Bonjour, nos équipes effectuent un état des lieux de la situation afin d'envisager une évacuation. Je vous conseille de ne surtout pas descendre du train. Joy",0,0,0,0,0
 1090568881700302848,2019-01-30 11:14:17,"[ Accident grave de voyageur ] Les pompiers, la police ainsi que nos équipes sont actuellement sur place et effectuent un état des lieux de la situation afin d'envisager une évacuation du train actuellement entre Sevran Beaudottes et Villepinte #RERB",21,11,0,0,0
 1090569508127940609,2019-01-30 11:16:47,"@metsuga Bonjour, vous êtes dans le train concerné par l'accident, je vous invite à patienter en attendant l'intervention de nos équipes. Les équipes de secours sont actuellement en cours de vérification pour envisager une évacuation de votre train. Joy",0,2,0,0,0
-1090570664174596097,2019-01-30 11:21:22,"[ Accident grave de voyageur ] Sous l'autorité des pompiers actuellement sur place, nous ne pouvons pas évacuer le train entre Sevran Beaudottes et Villepinte #RERB",14,13,0,0,0
+1090570664174596097,2019-01-30 11:21:22,"[ Accident grave de voyageur ] Sous l'autorité des pompiers actuellement sur place, nous ne pouvons pas évacuer le train entre Sevran Beaudottes et Villepinte #RERB",14,14,0,0,0
 1090570937546752000,2019-01-30 11:22:27,"@SirWalter09 Bonjour, le trafic n'est pas interrompu entre Denfert et St Rémy. Joy",1,0,0,0,0
 1090571633344086016,2019-01-30 11:25:13,"@MilyElo Toutes nos excuses, pour le moment les pompiers ne nous autorisent pas à évacuer votre train. Je vous invite à patienter en attendant nos équipes. Joy",0,0,1,0,0
 1090573606084587521,2019-01-30 11:33:04,"@RC67358463 Bonjour, vous pouvez emprunter le ""bus direct"" ou Roissy bus pour rejoindre Paris. Toutes nos excuses. ^b",0,0,1,0,0
@@ -5451,7 +5451,7 @@ Reprise estimée à 17h15. #RERB.",0,2,0,0,0
 1090938496188145664,2019-01-31 11:43:00,"@razhades Hadès, je serai présente ce soir pendant la pointe pour vous accompagner ! A tout à l'heure ! Joy",0,2,0,0,0
 1090974766939492352,2019-01-31 14:07:08,"ℹ️ Travaux de remise en état des installations #RERB en gare d’Aulnay-sous-Bois : prévoir 3 trains sur 4 en pointe de soirée.
 Retrouvez vos horaires sur l’appli SNCF ou les sites https://t.co/rcwnrZtW00 et https://t.co/ijY0yo4Edo",13,17,0,0,0
-1090981038459969536,2019-01-31 14:32:03,"[Nouvel article blog] Depuis hier soir, 21h10, un arrachement de la caténaire au niveau de la gare d’Aulnay-sous-Bois perturbe très fortement le trafic sur le #RERB https://t.co/BVMnIe1pJW https://t.co/rieyf4OInJ",24,30,0,0,0
+1090981038459969536,2019-01-31 14:32:03,"[Nouvel article blog] Depuis hier soir, 21h10, un arrachement de la caténaire au niveau de la gare d’Aulnay-sous-Bois perturbe très fortement le trafic sur le #RERB https://t.co/BVMnIe1pJW https://t.co/rieyf4OInJ",24,31,0,0,0
 1090999514469711873,2019-01-31 15:45:28,"Re-bonjour à tous, Joy de retour pour vous accompagner pendant la pointe de soirée. Suite aux travaux de remise en état des installations en gare d'Aulnay-sous-bois, prévoir 3 trains sur 4 en pointe de soirée #RERB",8,17,0,0,0
 1091004076962271232,2019-01-31 16:03:36,"@Melouubht Bonsoir, non le trafic reste perturbé actuellement. Joy",0,0,0,0,0
 1091004454055436289,2019-01-31 16:05:06,"@Chaussade9 Bonjour, le trafic reste perturbé, moins que ce matin mais si vous avez la possibilité de prendre un autre itinéraire je vous le conseille. Toutes nos excuses pour cette situation. Bonne soirée à vous ! Joy",0,0,1,0,0
@@ -5676,3 +5676,4 @@ Pour en savoir + ➡️ https://t.co/RfyWimyOvp https://t.co/Kh3uQcyius",7,4,0,0
 1093053155947020288,2019-02-06 07:45:54,"@yorissse Bonjour, effectivement USER04 a été rendu terminus à Aulnay suite à un incident sur un autre train (PCIL78). Une mesure de régulation a donc été effectuée par nos équipes. Toutes nos excuses pour la gêne occasionnée. ^b",0,0,1,1,0
 1093053757695377408,2019-02-06 07:48:18,"@LassadSAIDANI2 Bonjour Lassad, oui effectivement des mesures de régulation sont régulièrement effectuées. Des trains sont alors sans arrêts entre Aulnay et Paris Gare du Nord. Bonne journée. ^b",0,0,0,1,0
 1093053879690891264,2019-02-06 07:48:47,@yorissse Je vous en prie ! Bonne journée à vous également. 🙂 ^b,1,1,0,0,0
+1093116504739065857,2019-02-06 11:57:38,"Bonjour à tous, Joy pour vous accompagner jusqu'à 20h00. N'hésitez pas à me solliciter pendant votre trajet sur le #RERB. Bonne journée à tous !",0,0,0,0,0
