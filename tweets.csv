@@ -1406,11 +1406,11 @@ Des bus de remplacement desserviront toutes les gares entre Aulnay sous Bois et 
 1059091762675924992,2018-11-04 14:35:27,"@Lorin6401 Bonjour, les travaux se terminent ce soir à la fin de service. Le trafic prévu dès demain à la prise de service est un trafic régulier. Bonne journée. ^b",0,0,0,0,0
 1059092180168593410,2018-11-04 14:37:07,"@AndrewMitul Bonjour, les travaux se terminent ce soir à la fin de service. Le trafic prévu dès demain à la prise de service est un trafic régulier. Je comprends tout à fait votre point de vue mais ces travaux sont néanmoins nécessaires. Bon dimanche. ^b",0,0,0,0,0
 1059093677350535169,2018-11-04 14:43:04,"@Vinced_93 Bonjour, oui les travaux se terminent ce soir. Le trafic prévu pour la journée de demain est un trafic régulier. Bonne journée. ^b",0,0,0,0,0
+1059099059175260160,2018-11-04 15:04:27,"Ce soir dès 22h30, les trains #RERB seront terminus Châtelet-les-Halles. Les bus de substitution partiront de Gare du Nord.",5,3,0,0,0
 1059099060471250944,2018-11-04 15:04:27,"En direction du nord:
 -dernier départ de Châtelet à destination de La Plaine SDF: 22h29
 -dernier départ de Châtelet à destination de Gare du Nord: 22h44
  Après 22h44, tous les trains seront terminus Châtelet. #RERB",3,2,0,0,0
-1059099059175260160,2018-11-04 15:04:27,"Ce soir dès 22h30, les trains #RERB seront terminus Châtelet-les-Halles. Les bus de substitution partiront de Gare du Nord.",5,3,0,0,0
 1059099061670813696,2018-11-04 15:04:28,"En direction du sud:
 -dernier départ à La Plaine à 22h41 (passage à Châtelet à 22h53)
 -dernier départ à Gare du Nord à 22h56 (passage à Châtelet à 22h59). #RERB",3,2,0,0,0
@@ -3174,9 +3174,9 @@ Massy-Verrières et Fontaine-Michalon. Le train est actuellement à l'approche d
 1070283993139036160,2018-12-05 11:49:23,"@razhades Bonjour Hadès, ohhh mais non j'avais pas vu ! Alors concernant les trains à destination d'Orsay, c'est vrai qu'ils sont souvent assurés au départ de Châtelet pendant les heures de pointe suite à des mesures de régulation. Bonne journée, à tout à l'heure ! ^b",0,3,0,1,0
 1070287496431439872,2018-12-05 12:03:18,"@Melooooody77 @razhades Plus rien ne va 😁 Désolée, encore une fois ! ^b",0,3,0,0,0
 1070339180499222530,2018-12-05 15:28:41,@razhades Bien rentré ? Bonne soirée à vous ! 😉 ^b,0,2,0,0,0
-1070366241708273665,2018-12-05 17:16:13,"#RERB  En raison d’un mouvement social qui fait suite à l’agression d’un  conducteur, le trafic sera perturbé sur la ligne le 7 décembre.",105,58,0,0,0
 1070366243012706306,2018-12-05 17:16:13,"Entre Saint-Rémy/Robinson et Denfert Rochereau prévoir 2 trains sur 3 aux heures de pointe, 1 train sur 2 aux heures creuses.
 Entre Denfert Rochereau et Aéroport CDG/Mitry prévoir 1 train sur 2 toute la journée.",19,6,0,0,0
+1070366241708273665,2018-12-05 17:16:13,"#RERB  En raison d’un mouvement social qui fait suite à l’agression d’un  conducteur, le trafic sera perturbé sur la ligne le 7 décembre.",105,58,0,0,0
 1070367486921580549,2018-12-05 17:21:10,"@SamRLIVPIVIF Bonsoir, non pas de changement de train à Gare du Nord. Bonne soirée. ^b",0,1,0,0,0
 1070368443516506113,2018-12-05 17:24:58,"@YBourti Bonsoir, non ce mouvement social concerne la journée de vendredi, le 7 décembre. Bonne soirée à vous. ^b",0,1,0,0,0
 1070368660932517888,2018-12-05 17:25:49,@SamRLIVPIVIF Je vous en prie ! Merci à vous et bon courage également 🙂 ^b,0,1,0,0,1
@@ -5645,7 +5645,7 @@ Pour en savoir + ➡️ https://t.co/RfyWimyOvp https://t.co/Kh3uQcyius",5,4,0,0
 1092853570527997952,2019-02-05 18:32:50,"@mayongagadet Bonsoir, le trafic est interrompu dans les deux sens de circulation. Toutes nos excuses. Joy",0,0,1,0,0
 1092854153041330176,2019-02-05 18:35:08,"@QualityObserver Bonsoir, pas de circulation entre Aulnay et CDG dans les deux sens jusqu'à 20h15. Toutes nos excuses ! Joy",0,0,1,0,0
 1092856117863071753,2019-02-05 18:42:57,"@QualityObserver Bonsoir, dans quelle gare êtes vous ? Joy",0,0,0,0,0
-1092857501069004800,2019-02-05 18:48:27,"❌Suite à un accident grave de personne en gare de Sevran Beaudottes, le trafic  est actuellement interrompu entre Aulnay sous Bois et Aéroport CDG  dans les deux sens de circulation. Reprise estimée à 22h15 #RERB https://t.co/Fa5pH27RIU",6,7,0,0,0
+1092857501069004800,2019-02-05 18:48:27,"❌Suite à un accident grave de personne en gare de Sevran Beaudottes, le trafic  est actuellement interrompu entre Aulnay sous Bois et Aéroport CDG  dans les deux sens de circulation. Reprise estimée à 22h15 #RERB https://t.co/Fa5pH27RIU",6,8,0,0,0
 1092860022252597249,2019-02-05 18:58:28,"19:57, le trafic est interrompu de Aulnay vers Aeroport Charles de Gaulle 2 TGV. Reprise estimée à 22:15. (accident grave de personne)  #RERB",5,4,0,0,0
 1092860694628888578,2019-02-05 19:01:08,"@Futze_Fury Bonsoir, je vous invite à utiliser les itinéraires de substitution https://t.co/Fa5pH27RIU ! Des navettes vont être mises en place. Joy",0,0,0,0,0
 1092860866838646784,2019-02-05 19:01:49,"🚨 Suite à l'actionnement d'un signal d'alarme sur la mission PAZZ01 à destination de St Rémy, le train stationne actuellement en gare de Châtelet #RERB",4,3,0,0,0
@@ -5658,13 +5658,21 @@ Pour en savoir + ➡️ https://t.co/RfyWimyOvp https://t.co/Kh3uQcyius",5,4,0,0
 1092874394102308864,2019-02-05 19:55:34,"@roro_elaouni Bonsoir, le trafic est perturbé sur l'ensemble de la ligne mais les trains circulent sur la branche Mitry. Joy",0,1,0,0,0
 1092875882212020225,2019-02-05 20:01:29,"21:00, le trafic reprend progressivement de Aulnay vers Aeroport Charles de Gaulle 2 TGV (accident grave de personne)  #RERB",3,3,0,0,0
 1092887463880769536,2019-02-05 20:47:30,"21:46, le trafic est rétabli de Aulnay vers Aeroport Charles de Gaulle 2 TGV (accident grave de personne)  #RERB",2,5,0,0,0
-1093012225407750146,2019-02-06 05:03:16,"Bonjour, Alexandra pour échanger avec vous jusqu'à 13h30 sur la ligne #RERB. Bonne journée à tous !",1,5,0,0,0
-1093017770755788800,2019-02-06 05:25:18,"@jong_deux_leDuc Bonjour, le trafic est actuellement régulier sur l'ensemble de la ligne. Bonne journée à vous. ^b",0,1,0,0,0
+1093012225407750146,2019-02-06 05:03:16,"Bonjour, Alexandra pour échanger avec vous jusqu'à 13h30 sur la ligne #RERB. Bonne journée à tous !",1,6,0,0,0
+1093017770755788800,2019-02-06 05:25:18,"@jong_deux_leDuc Bonjour, le trafic est actuellement régulier sur l'ensemble de la ligne. Bonne journée à vous. ^b",0,2,0,0,0
 1093021102056579072,2019-02-06 05:38:32,"@MinusKarimus @jong_deux_leDuc Bonjour, oui toutes nos excuses. Ce train a été rendu direct suite à une mesure de régulation. ^b",0,1,1,1,0
 1093023226052206593,2019-02-06 05:46:59,"@razhades Bonjour Hadès, allez oui tout va bien se passer ! A tout à l'heure 😉 ^b",0,2,0,0,0
 1093023596207841280,2019-02-06 05:48:27,"@Palmaxssson Bonjour, au départ de quelle gare ? ^b",0,0,0,0,0
 1093025380091547648,2019-02-06 05:55:32,"@Palmaxssson Merci à vous Michel, je transmets à nos équipes concernant les écrans. Bon courage pour la poursuite de votre trajet. ^b",0,1,0,0,1
-1093026446103187458,2019-02-06 05:59:46,Un train à destination de Massy-Palaiseau stationne à Châtelet suite à l'actionnement d'un signal d'alarme. #RERB,0,2,0,0,0
-1093027898959822853,2019-02-06 06:05:33,(Actionnement d'un signal d'alarme): fin d'incident à Châtelet. Le train à destination de Massy-Palaiseau va pouvoir repartir. #RERB,1,2,0,0,0
+1093026446103187458,2019-02-06 05:59:46,Un train à destination de Massy-Palaiseau stationne à Châtelet suite à l'actionnement d'un signal d'alarme. #RERB,0,4,0,0,0
+1093027898959822853,2019-02-06 06:05:33,(Actionnement d'un signal d'alarme): fin d'incident à Châtelet. Le train à destination de Massy-Palaiseau va pouvoir repartir. #RERB,2,6,0,0,0
 1093028569733840896,2019-02-06 06:08:13,"@SebastienCholay Bonjour Sébastien, ICAR47 a subi une gêne circulation avec un autre train de la ligne. Il cumule actuellement 6 minutes de retard sur son parcours. Le train va pouvoir retrouver son allure normale. ^b",0,0,0,0,0
-1093038138811969538,2019-02-06 06:46:14,"@Lianifarida2 Bonjour, merci beaucoup ! Bonne journée à vous également ! 😉 ^b",0,1,0,0,0
+1093038138811969538,2019-02-06 06:46:14,"@Lianifarida2 Bonjour, merci beaucoup ! Bonne journée à vous également ! 😉 ^b",0,2,0,0,0
+1093044440921505792,2019-02-06 07:11:17,"@jolliyaya Bonjour, merci de votre signalement, je transmets à nos équipes techniques. Le chauffage ne peut malheureusement pas être activé depuis le poste de conduite. L'action ne sera pas immédiate. Bonne journée. ^b",0,0,0,0,0
+1093047967534252033,2019-02-06 07:25:17,"@P_Ophelia Bonjour Ophélia, merci de votre signalement. Je transmets pour la gare de Gif-sur-Yvette. Toutes nos excuses ! ^b",0,0,1,0,0
+1093050169724227585,2019-02-06 07:34:03,"@stephan61172581 Bonjour Steph, au départ de quelle gare ? ^b",0,0,0,0,0
+1093050636738924544,2019-02-06 07:35:54,"@GIGA1198s Bonjour, effectivement il y a eu un changement. IDOL19 est devenu EBRE25 à Massy-Palaiseau. Toutes nos excuses. ^b",0,0,1,0,0
+1093051565362032640,2019-02-06 07:39:35,"@salima_amamra Bonjour Salima, merci pour votre message pour le conducteur, je transmets ! Bon courage pour la poursuite de votre trajet. Bonne journée. ^b",0,0,0,0,1
+1093053155947020288,2019-02-06 07:45:54,"@yorissse Bonjour, effectivement USER04 a été rendu terminus à Aulnay suite à un incident sur un autre train (PCIL78). Une mesure de régulation a donc été effectuée par nos équipes. Toutes nos excuses pour la gêne occasionnée. ^b",0,0,1,1,0
+1093053757695377408,2019-02-06 07:48:18,"@LassadSAIDANI2 Bonjour Lassad, oui effectivement des mesures de régulation sont régulièrement effectuées. Des trains sont alors sans arrêts entre Aulnay et Paris Gare du Nord. Bonne journée. ^b",0,0,0,1,0
+1093053879690891264,2019-02-06 07:48:47,@yorissse Je vous en prie ! Bonne journée à vous également. 🙂 ^b,1,1,0,0,0
