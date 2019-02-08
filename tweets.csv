@@ -1406,11 +1406,11 @@ Des bus de remplacement desserviront toutes les gares entre Aulnay sous Bois et 
 1059091762675924992,2018-11-04 14:35:27,"@Lorin6401 Bonjour, les travaux se terminent ce soir à la fin de service. Le trafic prévu dès demain à la prise de service est un trafic régulier. Bonne journée. ^b",0,0,0,0,0
 1059092180168593410,2018-11-04 14:37:07,"@AndrewMitul Bonjour, les travaux se terminent ce soir à la fin de service. Le trafic prévu dès demain à la prise de service est un trafic régulier. Je comprends tout à fait votre point de vue mais ces travaux sont néanmoins nécessaires. Bon dimanche. ^b",0,0,0,0,0
 1059093677350535169,2018-11-04 14:43:04,"@Vinced_93 Bonjour, oui les travaux se terminent ce soir. Le trafic prévu pour la journée de demain est un trafic régulier. Bonne journée. ^b",0,0,0,0,0
+1059099059175260160,2018-11-04 15:04:27,"Ce soir dès 22h30, les trains #RERB seront terminus Châtelet-les-Halles. Les bus de substitution partiront de Gare du Nord.",5,3,0,0,0
 1059099060471250944,2018-11-04 15:04:27,"En direction du nord:
 -dernier départ de Châtelet à destination de La Plaine SDF: 22h29
 -dernier départ de Châtelet à destination de Gare du Nord: 22h44
  Après 22h44, tous les trains seront terminus Châtelet. #RERB",3,2,0,0,0
-1059099059175260160,2018-11-04 15:04:27,"Ce soir dès 22h30, les trains #RERB seront terminus Châtelet-les-Halles. Les bus de substitution partiront de Gare du Nord.",5,3,0,0,0
 1059099061670813696,2018-11-04 15:04:28,"En direction du sud:
 -dernier départ à La Plaine à 22h41 (passage à Châtelet à 22h53)
 -dernier départ à Gare du Nord à 22h56 (passage à Châtelet à 22h59). #RERB",3,2,0,0,0
@@ -4083,7 +4083,7 @@ Entre Denfert Rochereau et Aéroport CDG/Mitry prévoir 1 train sur 2 toute la j
 1076171256125444096,2018-12-21 17:43:16,"@JanayDesign Bonjour, au départ de quelle gare ? Merci. ^b",0,0,0,0,0
 1076183268683325442,2018-12-21 18:31:00,@Nialiex Bonsoir ! Merci beaucoup pour votre message ! Bonnes vacances à vous et passez de très belles fêtes de fin d'année 😊 Bonne soirée! ^b,0,1,0,0,0
 1076184499548024832,2018-12-21 18:35:53,"@ltr Bonsoir Lionel, effectivement suite à des mesures de régulation, les trains sont rendus terminus à CDG1. Toutes nos excuses pour la gêne occasionnée. Je me charge de remonter votre message. ^b",0,0,1,1,0
-1076186246106501120,2018-12-21 18:42:50,Je vous retrouve mercredi 2 janvier à 12h30. Joy sera présente lundi 24/12 dès 06h00. Je vous souhaite de très belles fêtes de fin d’année !  🎄 Alexandra,6,43,0,0,0
+1076186246106501120,2018-12-21 18:42:50,Je vous retrouve mercredi 2 janvier à 12h30. Joy sera présente lundi 24/12 dès 06h00. Je vous souhaite de très belles fêtes de fin d’année !  🎄 Alexandra,6,42,0,0,0
 1076186963722600448,2018-12-21 18:45:41,"@smorrissey95 Bonsoir, merci et bonnes fêtes à vous ! ^b",0,1,0,0,0
 1076187505182019584,2018-12-21 18:47:50,"@MuG22154415 Bonsoir, merci beaucoup, bonnes fêtes de fin d'année à vous ! ^b",0,0,0,0,0
 1076187707859177472,2018-12-21 18:48:38,"@Steph_Marechal Merci Stéphane, bonnes fêtes de fin d'année ! 🙂 ^b",0,0,0,0,0
@@ -5811,3 +5811,7 @@ Pour en savoir + ➡️ https://t.co/RfyWimyOvp https://t.co/Kh3uQcyius",8,4,0,0
 1093842891468955648,2019-02-08 12:04:02,"Bonjour à tous, Joy pour vous accompagner jusqu'à 20h00. N'hésitez pas à me solliciter pendant votre trajet sur le #RERB. Joy",0,4,0,0,0
 1093849756433072133,2019-02-08 12:31:19,"@Melooooody77 Bonjour Mélody, merci pour votre signalement nous allons contacter la gare ! Bonne journée à vous ! Joy",0,1,0,0,0
 1093856390517530624,2019-02-08 12:57:41,"@geoffroydlf Bonjour Geoffroy, alors vous pouvez dire à votre collègue qu'il vous doit des capsules de café parce que la mission EBRE01 a bien été directe entre La Plaine et CDG ce matin 😉 ! Bonne journée à vous et pensez à nous pour le café 😅 ! Joy",0,0,0,0,0
+1093893575723700224,2019-02-08 15:25:26,"@margaux_pietri Bonsoir Margaux, je mets @ClientsRATP dans la boucle pour vous aider 🙂 ! Bonne journée à vous ! Joy",0,0,0,0,0
+1093900525790261248,2019-02-08 15:53:03,"🚧 Petit récap des #TravauxRERB_2019 
+Pour vous aider à mieux voyager la semaine du 11 au 17  février : https://t.co/9rjr8Dqg3A #RERB https://t.co/2Gu3oVoYDM",1,1,0,0,0
+1093901619656302592,2019-02-08 15:57:24,"@Hadou600 Bonjour, dans quelle direction allez vous ? Joy",0,0,0,0,0
