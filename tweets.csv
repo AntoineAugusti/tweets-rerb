@@ -1406,11 +1406,11 @@ Des bus de remplacement desserviront toutes les gares entre Aulnay sous Bois et 
 1059091762675924992,2018-11-04 14:35:27,"@Lorin6401 Bonjour, les travaux se terminent ce soir à la fin de service. Le trafic prévu dès demain à la prise de service est un trafic régulier. Bonne journée. ^b",0,0,0,0,0
 1059092180168593410,2018-11-04 14:37:07,"@AndrewMitul Bonjour, les travaux se terminent ce soir à la fin de service. Le trafic prévu dès demain à la prise de service est un trafic régulier. Je comprends tout à fait votre point de vue mais ces travaux sont néanmoins nécessaires. Bon dimanche. ^b",0,0,0,0,0
 1059093677350535169,2018-11-04 14:43:04,"@Vinced_93 Bonjour, oui les travaux se terminent ce soir. Le trafic prévu pour la journée de demain est un trafic régulier. Bonne journée. ^b",0,0,0,0,0
-1059099059175260160,2018-11-04 15:04:27,"Ce soir dès 22h30, les trains #RERB seront terminus Châtelet-les-Halles. Les bus de substitution partiront de Gare du Nord.",5,3,0,0,0
 1059099060471250944,2018-11-04 15:04:27,"En direction du nord:
 -dernier départ de Châtelet à destination de La Plaine SDF: 22h29
 -dernier départ de Châtelet à destination de Gare du Nord: 22h44
  Après 22h44, tous les trains seront terminus Châtelet. #RERB",3,2,0,0,0
+1059099059175260160,2018-11-04 15:04:27,"Ce soir dès 22h30, les trains #RERB seront terminus Châtelet-les-Halles. Les bus de substitution partiront de Gare du Nord.",5,3,0,0,0
 1059099061670813696,2018-11-04 15:04:28,"En direction du sud:
 -dernier départ à La Plaine à 22h41 (passage à Châtelet à 22h53)
 -dernier départ à Gare du Nord à 22h56 (passage à Châtelet à 22h59). #RERB",3,2,0,0,0
@@ -5715,7 +5715,7 @@ Pour en savoir + ➡️ https://t.co/RfyWimyOvp https://t.co/Kh3uQcyius",8,4,0,0
 1093453496446320640,2019-02-07 10:16:43,Un train à destination de l'aéroport CDG stationne en gare du Blanc-Mesnil suite à un accident grave de personne. Plus d'informations à venir. #RERB,2,3,0,0,0
 1093454728405630976,2019-02-07 10:21:37,"Suite à un accident grave de personne au Blanc-Mesnil, le trafic #RERB est interrompu entre les gares d'Aulnay et du Bourget dans les deux sens de circulation. La reprise est estimée à 13h30. Itinéraires de substitution: https://t.co/d6zU8OBBBZ",10,7,0,0,0
 1093455819126030336,2019-02-07 10:25:57,"@Haem0ne Bonjour, dans quelle direction ? Merci. ^b",0,0,0,0,0
-1093456464826507264,2019-02-07 10:28:31,(Accident grave de personne au Blanc-Mesnil): les pompiers sont sur place et prennent en charge la victime. #RERB,4,7,0,0,0
+1093456464826507264,2019-02-07 10:28:31,(Accident grave de personne au Blanc-Mesnil): les pompiers sont sur place et prennent en charge la victime. #RERB,5,8,0,0,0
 1093456736755818496,2019-02-07 10:29:36,@Haem0ne Étés-vous toujours à l'arrêt ? Merci. ^b,0,0,0,0,0
 1093457115245694976,2019-02-07 10:31:06,"@Haem0ne e vous en prie, bon courage pour la poursuite de votre trajet. ^b",0,0,0,0,1
 1093458211460517888,2019-02-07 10:35:27,"@Carole_Boaji Bonjour Carole, le trafic est interrompu entre Aulnay et Le Bourget dans les deux sens de circulation. Malheureusement il n'y a pas de train en direction de Paris au départ de votre gare. ^b",0,0,0,0,0
