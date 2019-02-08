@@ -1406,11 +1406,11 @@ Des bus de remplacement desserviront toutes les gares entre Aulnay sous Bois et 
 1059091762675924992,2018-11-04 14:35:27,"@Lorin6401 Bonjour, les travaux se terminent ce soir à la fin de service. Le trafic prévu dès demain à la prise de service est un trafic régulier. Bonne journée. ^b",0,0,0,0,0
 1059092180168593410,2018-11-04 14:37:07,"@AndrewMitul Bonjour, les travaux se terminent ce soir à la fin de service. Le trafic prévu dès demain à la prise de service est un trafic régulier. Je comprends tout à fait votre point de vue mais ces travaux sont néanmoins nécessaires. Bon dimanche. ^b",0,0,0,0,0
 1059093677350535169,2018-11-04 14:43:04,"@Vinced_93 Bonjour, oui les travaux se terminent ce soir. Le trafic prévu pour la journée de demain est un trafic régulier. Bonne journée. ^b",0,0,0,0,0
+1059099059175260160,2018-11-04 15:04:27,"Ce soir dès 22h30, les trains #RERB seront terminus Châtelet-les-Halles. Les bus de substitution partiront de Gare du Nord.",5,3,0,0,0
 1059099060471250944,2018-11-04 15:04:27,"En direction du nord:
 -dernier départ de Châtelet à destination de La Plaine SDF: 22h29
 -dernier départ de Châtelet à destination de Gare du Nord: 22h44
  Après 22h44, tous les trains seront terminus Châtelet. #RERB",3,2,0,0,0
-1059099059175260160,2018-11-04 15:04:27,"Ce soir dès 22h30, les trains #RERB seront terminus Châtelet-les-Halles. Les bus de substitution partiront de Gare du Nord.",5,3,0,0,0
 1059099061670813696,2018-11-04 15:04:28,"En direction du sud:
 -dernier départ à La Plaine à 22h41 (passage à Châtelet à 22h53)
 -dernier départ à Gare du Nord à 22h56 (passage à Châtelet à 22h59). #RERB",3,2,0,0,0
@@ -3637,7 +3637,7 @@ Entre Denfert Rochereau et Aéroport CDG/Mitry prévoir 1 train sur 2 toute la j
 1073117415746224128,2018-12-13 07:28:24,"@Magaloush93 Bonjour, les horaires sont disponibles sur le blog, en haut de page: https://t.co/V0b42Y8UBZ. ^b",0,1,0,0,0
 1073118127473524736,2018-12-13 07:31:13,"@gegene007 Bonjour, toutes nos excuses ! Effectivement EBRE01 cumule 9 minutes de retard sur son parcours, à Cité u. C'est en répercussion de l'incident de signalisation de Denfert. ^b",0,0,1,0,0
 1073118489265741825,2018-12-13 07:32:40,"@DossouYovoGuy Merci de votre retour, oui SORI10 😉. Bon courage pour la poursuite de votre trajet. ^b",0,1,0,0,1
-1073119155644190720,2018-12-13 07:35:18,(Panne de signalisation à Denfert): fin d'incident. 10 minutes de retard sont cumulées sur l'ensemble de la ligne #RERB,9,5,0,0,0
+1073119155644190720,2018-12-13 07:35:18,(Panne de signalisation à Denfert): fin d'incident. 10 minutes de retard sont cumulées sur l'ensemble de la ligne #RERB,9,4,0,0,0
 1073119395080232961,2018-12-13 07:36:16,"@Huez14 Bonjour, prochain départ pour Paris à 08h42. Bonne journée ! ^b",0,1,0,0,0
 1073120298294304768,2018-12-13 07:39:51,"@swant0t Bonjour, effectivement le prochain passage sera à 08h51 à Villeparisis pour rejoindre Paris. Toutes nos excuses pour la gêne occasionnée. ^b",0,0,1,0,0
 1073121341916766210,2018-12-13 07:44:00,"@cris_dalmeida Bonjour Cristina, dans quel train êtes-vous ? Malheureusement le chauffage ne peut pas être activé depuis la cabine de conduite, je peux néanmoins transmettre à nos équipes techniques. Bonne journée. ^b",0,0,0,0,0
