@@ -1406,11 +1406,11 @@ Des bus de remplacement desserviront toutes les gares entre Aulnay sous Bois et 
 1059091762675924992,2018-11-04 14:35:27,"@Lorin6401 Bonjour, les travaux se terminent ce soir à la fin de service. Le trafic prévu dès demain à la prise de service est un trafic régulier. Bonne journée. ^b",0,0,0,0,0
 1059092180168593410,2018-11-04 14:37:07,"@AndrewMitul Bonjour, les travaux se terminent ce soir à la fin de service. Le trafic prévu dès demain à la prise de service est un trafic régulier. Je comprends tout à fait votre point de vue mais ces travaux sont néanmoins nécessaires. Bon dimanche. ^b",0,0,0,0,0
 1059093677350535169,2018-11-04 14:43:04,"@Vinced_93 Bonjour, oui les travaux se terminent ce soir. Le trafic prévu pour la journée de demain est un trafic régulier. Bonne journée. ^b",0,0,0,0,0
-1059099059175260160,2018-11-04 15:04:27,"Ce soir dès 22h30, les trains #RERB seront terminus Châtelet-les-Halles. Les bus de substitution partiront de Gare du Nord.",5,3,0,0,0
 1059099060471250944,2018-11-04 15:04:27,"En direction du nord:
 -dernier départ de Châtelet à destination de La Plaine SDF: 22h29
 -dernier départ de Châtelet à destination de Gare du Nord: 22h44
  Après 22h44, tous les trains seront terminus Châtelet. #RERB",3,2,0,0,0
+1059099059175260160,2018-11-04 15:04:27,"Ce soir dès 22h30, les trains #RERB seront terminus Châtelet-les-Halles. Les bus de substitution partiront de Gare du Nord.",5,3,0,0,0
 1059099061670813696,2018-11-04 15:04:28,"En direction du sud:
 -dernier départ à La Plaine à 22h41 (passage à Châtelet à 22h53)
 -dernier départ à Gare du Nord à 22h56 (passage à Châtelet à 22h59). #RERB",3,2,0,0,0
@@ -5188,7 +5188,7 @@ Reprise estimée à 17h15. #RERB.",0,2,0,0,0
 1090343700012650497,2019-01-29 20:19:30,"21:18, le trafic est rétabli sur la ligne (panne de signalisation)  #RERB",1,5,0,0,0
 1090467529984753670,2019-01-30 04:31:33,"05:31, le trafic est perturbé de Saint-Remy-les-Chevreuse vers Mitry-Claye (conditions climatiques)  #RERB",7,7,0,0,0
 1090472542647795717,2019-01-30 04:51:28,"05:50, le trafic est rétabli sur la ligne (conditions climatiques)  #RERB",4,10,0,0,0
-1090472547546730496,2019-01-30 04:51:29,"Bonjour à tous, Joy pour vous accompagner jusqu'à 13h00. N'hésitez pas à me solliciter pendant votre trajet sur le #RERB. Bonne journée à tous ❄️",1,16,0,0,0
+1090472547546730496,2019-01-30 04:51:29,"Bonjour à tous, Joy pour vous accompagner jusqu'à 13h00. N'hésitez pas à me solliciter pendant votre trajet sur le #RERB. Bonne journée à tous ❄️",2,16,0,0,0
 1090473446524571648,2019-01-30 04:55:04,"@SBecret Bonjour, le trafic est rétabli sur la ligne. L'Orlybus ne fonctionne pas ce matin suite aux conditions climatiques mais vous pouvez prendre l'OrlyVal. Bonne journée à vous ! Joy",0,0,0,0,0
 1090473555949703169,2019-01-30 04:55:30,@MuG22154415 Bonjour à vous et bonne journée ! Joy,0,0,0,0,0
 1090473801874395137,2019-01-30 04:56:29,"@KA_Ammark_k Bonjour Ammar, merci beaucoup et bonne journée à vous également ❄️🙂 ! Joy",0,1,0,0,0
