@@ -1406,11 +1406,11 @@ Des bus de remplacement desserviront toutes les gares entre Aulnay sous Bois et 
 1059091762675924992,2018-11-04 14:35:27,"@Lorin6401 Bonjour, les travaux se terminent ce soir à la fin de service. Le trafic prévu dès demain à la prise de service est un trafic régulier. Bonne journée. ^b",0,0,0,0,0
 1059092180168593410,2018-11-04 14:37:07,"@AndrewMitul Bonjour, les travaux se terminent ce soir à la fin de service. Le trafic prévu dès demain à la prise de service est un trafic régulier. Je comprends tout à fait votre point de vue mais ces travaux sont néanmoins nécessaires. Bon dimanche. ^b",0,0,0,0,0
 1059093677350535169,2018-11-04 14:43:04,"@Vinced_93 Bonjour, oui les travaux se terminent ce soir. Le trafic prévu pour la journée de demain est un trafic régulier. Bonne journée. ^b",0,0,0,0,0
-1059099059175260160,2018-11-04 15:04:27,"Ce soir dès 22h30, les trains #RERB seront terminus Châtelet-les-Halles. Les bus de substitution partiront de Gare du Nord.",5,3,0,0,0
 1059099060471250944,2018-11-04 15:04:27,"En direction du nord:
 -dernier départ de Châtelet à destination de La Plaine SDF: 22h29
 -dernier départ de Châtelet à destination de Gare du Nord: 22h44
  Après 22h44, tous les trains seront terminus Châtelet. #RERB",3,2,0,0,0
+1059099059175260160,2018-11-04 15:04:27,"Ce soir dès 22h30, les trains #RERB seront terminus Châtelet-les-Halles. Les bus de substitution partiront de Gare du Nord.",5,3,0,0,0
 1059099061670813696,2018-11-04 15:04:28,"En direction du sud:
 -dernier départ à La Plaine à 22h41 (passage à Châtelet à 22h53)
 -dernier départ à Gare du Nord à 22h56 (passage à Châtelet à 22h59). #RERB",3,2,0,0,0
@@ -5254,7 +5254,7 @@ Reprise estimée à 17h15. #RERB.",0,2,0,0,0
 1090571633344086016,2019-01-30 11:25:13,"@MilyElo Toutes nos excuses, pour le moment les pompiers ne nous autorisent pas à évacuer votre train. Je vous invite à patienter en attendant nos équipes. Joy",0,0,1,0,0
 1090573606084587521,2019-01-30 11:33:04,"@RC67358463 Bonjour, vous pouvez emprunter le ""bus direct"" ou Roissy bus pour rejoindre Paris. Toutes nos excuses. ^b",0,0,1,0,0
 1090574984374878209,2019-01-30 11:38:32,"@RhysFrodoBrown Bonjour, vous pouvez prendre le bus 15 jusqu'à ""rond point Pierre Semart"" puis le bus 351 jusqu'à CDG1 puis le CDGVal. ^b",0,0,0,0,0
-1090576659307249665,2019-01-30 11:45:12,[Accident grave de voyageur à Villepinte] : Les pompes funèbres sont sur place. Les autorités ne nous autorisent pas à évacuer le train entre Sevran-Beaudottes et Villepinte. #RERB,51,22,0,0,0
+1090576659307249665,2019-01-30 11:45:12,[Accident grave de voyageur à Villepinte] : Les pompes funèbres sont sur place. Les autorités ne nous autorisent pas à évacuer le train entre Sevran-Beaudottes et Villepinte. #RERB,50,22,0,0,0
 1090577189353996288,2019-01-30 11:47:18,"@BadGalMauritius Bonjour, je transmets votre signalement. Effectivement l'application rencontre des soucis techniques et n'est donc pas à jour. Nos équipes sont mobilisées pour régler ce problème au plus vite. ^b",0,1,0,0,0
 1090577984413683712,2019-01-30 11:50:28,"@razhades  Bonjour Hadès, les pompiers ainsi que la police ne nous donnent pas l'autorisation d'évacuer le train suite à l'accident grave de personne à Villepinte. ^b",0,3,0,0,0
 1090579880062926849,2019-01-30 11:58:00,"@razhades Si nous avions eu l'autorisation, nos équipes auraient pu procéder à une évacuation encadrée par nos équipes dans le but que tous les voyageurs puissent rejoindre la gare suivante. ^b",0,4,0,0,0
