@@ -1406,11 +1406,11 @@ Des bus de remplacement desserviront toutes les gares entre Aulnay sous Bois et 
 1059091762675924992,2018-11-04 14:35:27,"@Lorin6401 Bonjour, les travaux se terminent ce soir à la fin de service. Le trafic prévu dès demain à la prise de service est un trafic régulier. Bonne journée. ^b",0,0,0,0,0
 1059092180168593410,2018-11-04 14:37:07,"@AndrewMitul Bonjour, les travaux se terminent ce soir à la fin de service. Le trafic prévu dès demain à la prise de service est un trafic régulier. Je comprends tout à fait votre point de vue mais ces travaux sont néanmoins nécessaires. Bon dimanche. ^b",0,0,0,0,0
 1059093677350535169,2018-11-04 14:43:04,"@Vinced_93 Bonjour, oui les travaux se terminent ce soir. Le trafic prévu pour la journée de demain est un trafic régulier. Bonne journée. ^b",0,0,0,0,0
-1059099059175260160,2018-11-04 15:04:27,"Ce soir dès 22h30, les trains #RERB seront terminus Châtelet-les-Halles. Les bus de substitution partiront de Gare du Nord.",5,3,0,0,0
 1059099060471250944,2018-11-04 15:04:27,"En direction du nord:
 -dernier départ de Châtelet à destination de La Plaine SDF: 22h29
 -dernier départ de Châtelet à destination de Gare du Nord: 22h44
  Après 22h44, tous les trains seront terminus Châtelet. #RERB",3,2,0,0,0
+1059099059175260160,2018-11-04 15:04:27,"Ce soir dès 22h30, les trains #RERB seront terminus Châtelet-les-Halles. Les bus de substitution partiront de Gare du Nord.",5,3,0,0,0
 1059099061670813696,2018-11-04 15:04:28,"En direction du sud:
 -dernier départ à La Plaine à 22h41 (passage à Châtelet à 22h53)
 -dernier départ à Gare du Nord à 22h56 (passage à Châtelet à 22h59). #RERB",3,2,0,0,0
@@ -5824,9 +5824,13 @@ Pour vous aider à mieux voyager la semaine du 11 au 17  février : https://t.co
 1093941470179016709,2019-02-08 18:35:45,@fjamet Bonsoir Fanny et merci beaucoup pour votre message 😊 ! Bonne soirée à vous et bon week-end ! Joy,0,2,0,0,0
 1094635221872463872,2019-02-10 16:32:28,"17:31, le trafic est interrompu entre Aeroport Charles de Gaulle 1 et Aeroport CdG 2 / Mitry - Claye. Reprise estimée à 18:00. (bagage oublié)  #RERB",1,2,0,0,0
 1094638995034853382,2019-02-10 16:47:28,"17:45, le trafic est rétabli sur la ligne (bagage oublié)  #RERB",0,1,0,0,0
-1094820930000506881,2019-02-11 04:50:25,"Bonjour à tous, Joy pour vous accompagner jusqu'à 13h00. N'hésitez pas à me solliciter pendant votre trajet sur le #RERB. Bonne journée à tous et bonne semaine !",0,7,0,0,0
+1094820930000506881,2019-02-11 04:50:25,"Bonjour à tous, Joy pour vous accompagner jusqu'à 13h00. N'hésitez pas à me solliciter pendant votre trajet sur le #RERB. Bonne journée à tous et bonne semaine !",0,8,0,0,0
 1094830680477966336,2019-02-11 05:29:09,@Froumi1977 Bonjour et merci beaucoup pour votre message 😊 ! Bonne journée à vous ! Joy,0,0,0,0,0
 1094849254441525248,2019-02-11 06:42:58,"@ClemGwen Bonjour Gwen, pas de problèmes actuellement sur EMAL73. Bonne journée à vous ! Joy",0,0,0,0,0
-1094850572069556225,2019-02-11 06:48:12,"🚨 Suite à l'actionnement d'un signal d'alarme sur la mission EBON77 à destination de Aéroport CDG, le train stationne actuellement en gare de Laplace #RERB",2,2,0,0,0
+1094850572069556225,2019-02-11 06:48:12,"🚨 Suite à l'actionnement d'un signal d'alarme sur la mission EBON77 à destination de Aéroport CDG, le train stationne actuellement en gare de Laplace #RERB",3,4,0,0,0
 1094850795470798848,2019-02-11 06:49:05,"@thefastesthoe Bonjour, il y a actuellement un signal d'alarme sur votre train. Joy",0,0,0,0,0
-1094851489418432513,2019-02-11 06:51:51,[ 🚨 Signal d'alarme ] Fin d'incident en gare de Laplace  #RERB,1,1,0,0,0
+1094851489418432513,2019-02-11 06:51:51,[ 🚨 Signal d'alarme ] Fin d'incident en gare de Laplace  #RERB,2,2,0,0,0
+1094855112768524288,2019-02-11 07:06:14,"@followingagathe Bonjour Agathe, dans quelle gare êtes vous? Joy",0,0,0,0,0
+1094855818372149249,2019-02-11 07:09:03,"@Vaniphy Bonjour, en effet toutes nos excuses, ce train a été supprimé suite au signal d'alarme en gare de Laplace. Joy",0,0,1,0,0
+1094855912060317696,2019-02-11 07:09:25,@Vaniphy Bonne journée à vous également ! Joy,0,0,0,0,0
+1094857898100961280,2019-02-11 07:17:19,"❌ Suite à la panne d'un train en gare de Aéroport CDG2, le trafic est actuellement perturbé entre Aulnay-sous-Bois et Aéroport CDG2 dans les deux sens de circulation #RERB",3,2,0,0,0
