@@ -1406,11 +1406,11 @@ Des bus de remplacement desserviront toutes les gares entre Aulnay sous Bois et 
 1059091762675924992,2018-11-04 14:35:27,"@Lorin6401 Bonjour, les travaux se terminent ce soir à la fin de service. Le trafic prévu dès demain à la prise de service est un trafic régulier. Bonne journée. ^b",0,0,0,0,0
 1059092180168593410,2018-11-04 14:37:07,"@AndrewMitul Bonjour, les travaux se terminent ce soir à la fin de service. Le trafic prévu dès demain à la prise de service est un trafic régulier. Je comprends tout à fait votre point de vue mais ces travaux sont néanmoins nécessaires. Bon dimanche. ^b",0,0,0,0,0
 1059093677350535169,2018-11-04 14:43:04,"@Vinced_93 Bonjour, oui les travaux se terminent ce soir. Le trafic prévu pour la journée de demain est un trafic régulier. Bonne journée. ^b",0,0,0,0,0
-1059099059175260160,2018-11-04 15:04:27,"Ce soir dès 22h30, les trains #RERB seront terminus Châtelet-les-Halles. Les bus de substitution partiront de Gare du Nord.",5,3,0,0,0
 1059099060471250944,2018-11-04 15:04:27,"En direction du nord:
 -dernier départ de Châtelet à destination de La Plaine SDF: 22h29
 -dernier départ de Châtelet à destination de Gare du Nord: 22h44
  Après 22h44, tous les trains seront terminus Châtelet. #RERB",3,2,0,0,0
+1059099059175260160,2018-11-04 15:04:27,"Ce soir dès 22h30, les trains #RERB seront terminus Châtelet-les-Halles. Les bus de substitution partiront de Gare du Nord.",5,3,0,0,0
 1059099061670813696,2018-11-04 15:04:28,"En direction du sud:
 -dernier départ à La Plaine à 22h41 (passage à Châtelet à 22h53)
 -dernier départ à Gare du Nord à 22h56 (passage à Châtelet à 22h59). #RERB",3,2,0,0,0
@@ -3174,9 +3174,9 @@ Massy-Verrières et Fontaine-Michalon. Le train est actuellement à l'approche d
 1070283993139036160,2018-12-05 11:49:23,"@razhades Bonjour Hadès, ohhh mais non j'avais pas vu ! Alors concernant les trains à destination d'Orsay, c'est vrai qu'ils sont souvent assurés au départ de Châtelet pendant les heures de pointe suite à des mesures de régulation. Bonne journée, à tout à l'heure ! ^b",0,3,0,1,0
 1070287496431439872,2018-12-05 12:03:18,"@Melooooody77 @razhades Plus rien ne va 😁 Désolée, encore une fois ! ^b",0,3,0,0,0
 1070339180499222530,2018-12-05 15:28:41,@razhades Bien rentré ? Bonne soirée à vous ! 😉 ^b,0,2,0,0,0
+1070366241708273665,2018-12-05 17:16:13,"#RERB  En raison d’un mouvement social qui fait suite à l’agression d’un  conducteur, le trafic sera perturbé sur la ligne le 7 décembre.",105,58,0,0,0
 1070366243012706306,2018-12-05 17:16:13,"Entre Saint-Rémy/Robinson et Denfert Rochereau prévoir 2 trains sur 3 aux heures de pointe, 1 train sur 2 aux heures creuses.
 Entre Denfert Rochereau et Aéroport CDG/Mitry prévoir 1 train sur 2 toute la journée.",19,6,0,0,0
-1070366241708273665,2018-12-05 17:16:13,"#RERB  En raison d’un mouvement social qui fait suite à l’agression d’un  conducteur, le trafic sera perturbé sur la ligne le 7 décembre.",105,58,0,0,0
 1070367486921580549,2018-12-05 17:21:10,"@SamRLIVPIVIF Bonsoir, non pas de changement de train à Gare du Nord. Bonne soirée. ^b",0,1,0,0,0
 1070368443516506113,2018-12-05 17:24:58,"@YBourti Bonsoir, non ce mouvement social concerne la journée de vendredi, le 7 décembre. Bonne soirée à vous. ^b",0,1,0,0,0
 1070368660932517888,2018-12-05 17:25:49,@SamRLIVPIVIF Je vous en prie ! Merci à vous et bon courage également 🙂 ^b,0,1,0,0,1
@@ -5734,7 +5734,7 @@ Pour en savoir + ➡️ https://t.co/RfyWimyOvp https://t.co/Kh3uQcyius",9,5,0,0
 1093470660184154112,2019-02-07 11:24:55,"@SoniaNymeria Bonjour Sonia, oui mais le trafic est très perturbé suite à l'accident grave de personne. L'arrêt ne sera pas marqué au Blanc-Mesnil. ^b",0,0,0,0,0
 1093473112425934848,2019-02-07 11:34:40,"@BaptistaElias1 Bonjour Elias, non en répercussion de l'accident grave de personne, l'arrêt n'est pas marqué dans cette gare jusqu'à 13h30 environ. ^b",0,0,0,0,0
 1093473680439627777,2019-02-07 11:36:55,"@Sampiero47 Bonjour Hervé, des trains circulent mais le trafic reste perturbé sur l'ensemble de la ligne. ^b",0,0,0,0,0
-1093473963810963457,2019-02-07 11:38:03,(Accident grave de personne au Blanc-Mesnil) : la gare n'est desservie dans les deux sens de circulation jusqu'à 14h00. #RERB,2,10,0,0,0
+1093473963810963457,2019-02-07 11:38:03,(Accident grave de personne au Blanc-Mesnil) : la gare n'est desservie dans les deux sens de circulation jusqu'à 14h00. #RERB,2,11,0,0,0
 1093474925468401666,2019-02-07 11:41:52,"@Anaromis Bonjour, pour l'instant le départ est retardé suite à l'accident grave de personne au Blanc-Mesnil. ^b",0,0,0,0,0
 1093476292178128897,2019-02-07 11:47:18,"@popolino_ Bonjour, d'ici une dizaine de minutes un train à destination de Massy va être ajouté au départ de Châtelet. ^b",0,0,0,0,0
 1093477417824501760,2019-02-07 11:51:46,"@popolino_ Oui, je vous conseille déjà de vous avancer jusqu'à Massy car c'est le prochain départ de Denfert. Je n'ai pas plus d'infos pour un train qui desservira Palaiseau-Villebon. ^b",0,0,0,0,0
@@ -5813,7 +5813,7 @@ Pour en savoir + ➡️ https://t.co/RfyWimyOvp https://t.co/Kh3uQcyius",9,5,0,0
 1093856390517530624,2019-02-08 12:57:41,"@geoffroydlf Bonjour Geoffroy, alors vous pouvez dire à votre collègue qu'il vous doit des capsules de café parce que la mission EBRE01 a bien été directe entre La Plaine et CDG ce matin 😉 ! Bonne journée à vous et pensez à nous pour le café 😅 ! Joy",0,0,0,0,0
 1093893575723700224,2019-02-08 15:25:26,"@margaux_pietri Bonsoir Margaux, je mets @ClientsRATP dans la boucle pour vous aider 🙂 ! Bonne journée à vous ! Joy",0,0,0,0,0
 1093900525790261248,2019-02-08 15:53:03,"🚧 Petit récap des #TravauxRERB_2019 
-Pour vous aider à mieux voyager la semaine du 11 au 17  février : https://t.co/9rjr8Dqg3A #RERB https://t.co/2Gu3oVoYDM",3,9,0,0,0
+Pour vous aider à mieux voyager la semaine du 11 au 17  février : https://t.co/9rjr8Dqg3A #RERB https://t.co/2Gu3oVoYDM",3,10,0,0,0
 1093901619656302592,2019-02-08 15:57:24,"@Hadou600 Bonjour, dans quelle direction allez vous ? Joy",0,0,0,0,0
 1093903224002748416,2019-02-08 16:03:46,@Hadou600 Avez vous pu avoir un train ? Joy,0,0,0,0,0
 1093904456176099329,2019-02-08 16:08:40,"@razhades Bonsoir Hadès, alors je vous souhaite un très bon week-end et à lundi en matinée ! Joy",0,1,0,0,0
@@ -5843,3 +5843,6 @@ Pour vous aider à mieux voyager la semaine du 11 au 17  février : https://t.co
 1094998931262631936,2019-02-11 16:37:43,"@AutPlaine Oui, effectivement il y a eu une mesure de régulation et il a été rendu direct entre les gares de Roissy 1 et Aulnay. Toutes nos excuses. ^b",0,1,1,1,0
 1095000436489289729,2019-02-11 16:43:42,"@lucie_pllx Bonjour, vous devez prendre un ticket RER avec la gare de départ et la gare de destination. Vous pouvez vous rendre au guichet et vous faire conseiller par un agent. Bonne soirée. ^b",0,0,0,0,0
 1095001286007816193,2019-02-11 16:47:05,@lucie_pllx Non les T+ ne sont pas valables au départ et à destination de l'aéroport CDG. ^b,0,0,0,0,0
+1095012781819117568,2019-02-11 17:32:46,"@mary_astride Bonjour Mary-Astrid, merci beaucoup pour votre gentil message ! Bonne soirée à vous !  😉 ^b",0,1,0,0,0
+1095014680270131205,2019-02-11 17:40:18,Un train à destination de Robinson stationne à Denfert-Rochereau suite à l'actionnement d'un signal d'alarme. #RERB,1,1,0,0,0
+1095015278419890176,2019-02-11 17:42:41,(Signal d'alarme à Denfert-Rochereau) : fin d'incident. Le train à destination de Robinson va pouvoir repartir. #RERB,1,2,0,0,0
