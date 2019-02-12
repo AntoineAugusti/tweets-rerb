@@ -1406,11 +1406,11 @@ Des bus de remplacement desserviront toutes les gares entre Aulnay sous Bois et 
 1059091762675924992,2018-11-04 14:35:27,"@Lorin6401 Bonjour, les travaux se terminent ce soir à la fin de service. Le trafic prévu dès demain à la prise de service est un trafic régulier. Bonne journée. ^b",0,0,0,0,0
 1059092180168593410,2018-11-04 14:37:07,"@AndrewMitul Bonjour, les travaux se terminent ce soir à la fin de service. Le trafic prévu dès demain à la prise de service est un trafic régulier. Je comprends tout à fait votre point de vue mais ces travaux sont néanmoins nécessaires. Bon dimanche. ^b",0,0,0,0,0
 1059093677350535169,2018-11-04 14:43:04,"@Vinced_93 Bonjour, oui les travaux se terminent ce soir. Le trafic prévu pour la journée de demain est un trafic régulier. Bonne journée. ^b",0,0,0,0,0
+1059099059175260160,2018-11-04 15:04:27,"Ce soir dès 22h30, les trains #RERB seront terminus Châtelet-les-Halles. Les bus de substitution partiront de Gare du Nord.",5,3,0,0,0
 1059099060471250944,2018-11-04 15:04:27,"En direction du nord:
 -dernier départ de Châtelet à destination de La Plaine SDF: 22h29
 -dernier départ de Châtelet à destination de Gare du Nord: 22h44
  Après 22h44, tous les trains seront terminus Châtelet. #RERB",3,2,0,0,0
-1059099059175260160,2018-11-04 15:04:27,"Ce soir dès 22h30, les trains #RERB seront terminus Châtelet-les-Halles. Les bus de substitution partiront de Gare du Nord.",5,3,0,0,0
 1059099061670813696,2018-11-04 15:04:28,"En direction du sud:
 -dernier départ à La Plaine à 22h41 (passage à Châtelet à 22h53)
 -dernier départ à Gare du Nord à 22h56 (passage à Châtelet à 22h59). #RERB",3,2,0,0,0
@@ -5645,7 +5645,7 @@ Pour en savoir + ➡️ https://t.co/RfyWimyOvp https://t.co/Kh3uQcyius",9,5,0,0
 1092853570527997952,2019-02-05 18:32:50,"@mayongagadet Bonsoir, le trafic est interrompu dans les deux sens de circulation. Toutes nos excuses. Joy",0,0,1,0,0
 1092854153041330176,2019-02-05 18:35:08,"@QualityObserver Bonsoir, pas de circulation entre Aulnay et CDG dans les deux sens jusqu'à 20h15. Toutes nos excuses ! Joy",0,0,1,0,0
 1092856117863071753,2019-02-05 18:42:57,"@QualityObserver Bonsoir, dans quelle gare êtes vous ? Joy",0,0,0,0,0
-1092857501069004800,2019-02-05 18:48:27,"❌Suite à un accident grave de personne en gare de Sevran Beaudottes, le trafic  est actuellement interrompu entre Aulnay sous Bois et Aéroport CDG  dans les deux sens de circulation. Reprise estimée à 22h15 #RERB https://t.co/Fa5pH27RIU",6,8,0,0,0
+1092857501069004800,2019-02-05 18:48:27,"❌Suite à un accident grave de personne en gare de Sevran Beaudottes, le trafic  est actuellement interrompu entre Aulnay sous Bois et Aéroport CDG  dans les deux sens de circulation. Reprise estimée à 22h15 #RERB https://t.co/Fa5pH27RIU",6,9,0,0,0
 1092860022252597249,2019-02-05 18:58:28,"19:57, le trafic est interrompu de Aulnay vers Aeroport Charles de Gaulle 2 TGV. Reprise estimée à 22:15. (accident grave de personne)  #RERB",5,4,0,0,0
 1092860694628888578,2019-02-05 19:01:08,"@Futze_Fury Bonsoir, je vous invite à utiliser les itinéraires de substitution https://t.co/Fa5pH27RIU ! Des navettes vont être mises en place. Joy",0,0,0,0,0
 1092860866838646784,2019-02-05 19:01:49,"🚨 Suite à l'actionnement d'un signal d'alarme sur la mission PAZZ01 à destination de St Rémy, le train stationne actuellement en gare de Châtelet #RERB",4,3,0,0,0
@@ -5681,7 +5681,7 @@ Pour en savoir + ➡️ https://t.co/RfyWimyOvp https://t.co/Kh3uQcyius",9,5,0,0
 1093121601770528769,2019-02-06 12:17:53,"❌ Suite à un bagage oublié en gare de CDG1, les trains ne marquent pas d'arrêts en gare de CDG1 #RERB",2,1,0,0,0
 1093123119777226752,2019-02-06 12:23:55,"❌ Suite à un bagage oublié en gare de CDG1, le trafic est interrompu entre Aulnay-sous-Bois et l'Aéroport CDG dans les deux sens de circulation. Heure de reprise estimée à 13h45 https://t.co/UZALzVy8z4 #RERB",1,2,0,0,0
 1093123672682962944,2019-02-06 12:26:07,"@njfouda Bonjour, pour le moment le trafic est interrompu entre Aulnay et l'Aéroport CDG, reprise de la circulation estimée à 13h45. Joy",0,0,0,0,0
-1093124987035312128,2019-02-06 12:31:20,"❌ Suite à un bagage oublié en gare de CDG1, le trafic est interrompu entre Parc des Expositions et l'Aéroport CDG 2 dans les deux sens de circulation. Heure de reprise estimée à 13h45 https://t.co/UZALzVy8z4 #RERB",1,1,0,0,0
+1093124987035312128,2019-02-06 12:31:20,"❌ Suite à un bagage oublié en gare de CDG1, le trafic est interrompu entre Parc des Expositions et l'Aéroport CDG 2 dans les deux sens de circulation. Heure de reprise estimée à 13h45 https://t.co/UZALzVy8z4 #RERB",1,2,0,0,0
 1093126932424736775,2019-02-06 12:39:04,"✅ Fin d'incident en gare de CDG1, reprise des circulations entre Parc des Expositions et Aéroport CDG2. Le trafic est actuellement perturbé entre Aulnay sous Bois et CDG2 #RERB",1,2,0,0,0
 1093127798506561536,2019-02-06 12:42:31,"13:41, le trafic est rétabli sur la ligne (bagage oublié)  #RERB",0,4,0,0,0
 1093181579814494214,2019-02-06 16:16:13,"@FabienSNCF2001 Bonjour Fabien, merci pour votre signalement ! Je transmets à nos équipes ! Bonne journée à vous ! Joy",0,0,0,0,0
