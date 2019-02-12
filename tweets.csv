@@ -1406,11 +1406,11 @@ Des bus de remplacement desserviront toutes les gares entre Aulnay sous Bois et 
 1059091762675924992,2018-11-04 14:35:27,"@Lorin6401 Bonjour, les travaux se terminent ce soir à la fin de service. Le trafic prévu dès demain à la prise de service est un trafic régulier. Bonne journée. ^b",0,0,0,0,0
 1059092180168593410,2018-11-04 14:37:07,"@AndrewMitul Bonjour, les travaux se terminent ce soir à la fin de service. Le trafic prévu dès demain à la prise de service est un trafic régulier. Je comprends tout à fait votre point de vue mais ces travaux sont néanmoins nécessaires. Bon dimanche. ^b",0,0,0,0,0
 1059093677350535169,2018-11-04 14:43:04,"@Vinced_93 Bonjour, oui les travaux se terminent ce soir. Le trafic prévu pour la journée de demain est un trafic régulier. Bonne journée. ^b",0,0,0,0,0
+1059099059175260160,2018-11-04 15:04:27,"Ce soir dès 22h30, les trains #RERB seront terminus Châtelet-les-Halles. Les bus de substitution partiront de Gare du Nord.",5,3,0,0,0
 1059099060471250944,2018-11-04 15:04:27,"En direction du nord:
 -dernier départ de Châtelet à destination de La Plaine SDF: 22h29
 -dernier départ de Châtelet à destination de Gare du Nord: 22h44
  Après 22h44, tous les trains seront terminus Châtelet. #RERB",3,2,0,0,0
-1059099059175260160,2018-11-04 15:04:27,"Ce soir dès 22h30, les trains #RERB seront terminus Châtelet-les-Halles. Les bus de substitution partiront de Gare du Nord.",5,3,0,0,0
 1059099061670813696,2018-11-04 15:04:28,"En direction du sud:
 -dernier départ à La Plaine à 22h41 (passage à Châtelet à 22h53)
 -dernier départ à Gare du Nord à 22h56 (passage à Châtelet à 22h59). #RERB",3,2,0,0,0
@@ -5495,7 +5495,7 @@ Retrouvez vos horaires sur l’appli SNCF ou les sites https://t.co/rcwnrZtW00 e
 1091199869262409728,2019-02-01 05:01:37,"@nojqosa77 Bonjour, normalement nous pourrons assurer les 20 trains par heure en période de pointe. Joy",0,1,0,0,0
 1091200689588588545,2019-02-01 05:04:52,"@elphiemyriam Bonjour Elphie, non nous allons pouvoir assurer un trafic normal pour la pointe. Bonne journée à vous ! Joy",0,0,0,0,0
 1091200933906841601,2019-02-01 05:05:50,"@EstelleRiquet Bonjour Estelle, beaucoup de moins de problèmes actuellement et nous allons pouvoir assurer un trafic normal pour la pointe. Bonne journée à vous ! Joy",0,1,0,0,0
-1091204089206263808,2019-02-01 05:18:23,Retour à un trafic régulier sur l'ensemble de la ligne #RERB,5,26,0,0,0
+1091204089206263808,2019-02-01 05:18:23,Retour à un trafic régulier sur l'ensemble de la ligne #RERB,5,25,0,0,0
 1091204293728894976,2019-02-01 05:19:11,"@tiph04125766 Bonjour, oui pas de problèmes entre ces deux gares. Joy",0,0,0,0,0
 1091204816800530432,2019-02-01 05:21:16,"@Jeannot911 Bonjour Jeannot, oui pas de problèmes 🙂 ! Bonne journée à vous ! Joy",0,1,0,0,0
 1091205358717202432,2019-02-01 05:23:25,"@amc_______ Bonjour, oui pas de problèmes au départ de CDG. Bonne journée à vous ! Joy",0,0,0,0,0
