@@ -1406,11 +1406,11 @@ Des bus de remplacement desserviront toutes les gares entre Aulnay sous Bois et 
 1059091762675924992,2018-11-04 14:35:27,"@Lorin6401 Bonjour, les travaux se terminent ce soir à la fin de service. Le trafic prévu dès demain à la prise de service est un trafic régulier. Bonne journée. ^b",0,0,0,0,0
 1059092180168593410,2018-11-04 14:37:07,"@AndrewMitul Bonjour, les travaux se terminent ce soir à la fin de service. Le trafic prévu dès demain à la prise de service est un trafic régulier. Je comprends tout à fait votre point de vue mais ces travaux sont néanmoins nécessaires. Bon dimanche. ^b",0,0,0,0,0
 1059093677350535169,2018-11-04 14:43:04,"@Vinced_93 Bonjour, oui les travaux se terminent ce soir. Le trafic prévu pour la journée de demain est un trafic régulier. Bonne journée. ^b",0,0,0,0,0
+1059099059175260160,2018-11-04 15:04:27,"Ce soir dès 22h30, les trains #RERB seront terminus Châtelet-les-Halles. Les bus de substitution partiront de Gare du Nord.",5,3,0,0,0
 1059099060471250944,2018-11-04 15:04:27,"En direction du nord:
 -dernier départ de Châtelet à destination de La Plaine SDF: 22h29
 -dernier départ de Châtelet à destination de Gare du Nord: 22h44
  Après 22h44, tous les trains seront terminus Châtelet. #RERB",3,2,0,0,0
-1059099059175260160,2018-11-04 15:04:27,"Ce soir dès 22h30, les trains #RERB seront terminus Châtelet-les-Halles. Les bus de substitution partiront de Gare du Nord.",5,3,0,0,0
 1059099061670813696,2018-11-04 15:04:28,"En direction du sud:
 -dernier départ à La Plaine à 22h41 (passage à Châtelet à 22h53)
 -dernier départ à Gare du Nord à 22h56 (passage à Châtelet à 22h59). #RERB",3,2,0,0,0
@@ -3174,9 +3174,9 @@ Massy-Verrières et Fontaine-Michalon. Le train est actuellement à l'approche d
 1070283993139036160,2018-12-05 11:49:23,"@razhades Bonjour Hadès, ohhh mais non j'avais pas vu ! Alors concernant les trains à destination d'Orsay, c'est vrai qu'ils sont souvent assurés au départ de Châtelet pendant les heures de pointe suite à des mesures de régulation. Bonne journée, à tout à l'heure ! ^b",0,3,0,1,0
 1070287496431439872,2018-12-05 12:03:18,"@Melooooody77 @razhades Plus rien ne va 😁 Désolée, encore une fois ! ^b",0,3,0,0,0
 1070339180499222530,2018-12-05 15:28:41,@razhades Bien rentré ? Bonne soirée à vous ! 😉 ^b,0,2,0,0,0
-1070366241708273665,2018-12-05 17:16:13,"#RERB  En raison d’un mouvement social qui fait suite à l’agression d’un  conducteur, le trafic sera perturbé sur la ligne le 7 décembre.",105,58,0,0,0
 1070366243012706306,2018-12-05 17:16:13,"Entre Saint-Rémy/Robinson et Denfert Rochereau prévoir 2 trains sur 3 aux heures de pointe, 1 train sur 2 aux heures creuses.
 Entre Denfert Rochereau et Aéroport CDG/Mitry prévoir 1 train sur 2 toute la journée.",19,6,0,0,0
+1070366241708273665,2018-12-05 17:16:13,"#RERB  En raison d’un mouvement social qui fait suite à l’agression d’un  conducteur, le trafic sera perturbé sur la ligne le 7 décembre.",105,58,0,0,0
 1070367486921580549,2018-12-05 17:21:10,"@SamRLIVPIVIF Bonsoir, non pas de changement de train à Gare du Nord. Bonne soirée. ^b",0,1,0,0,0
 1070368443516506113,2018-12-05 17:24:58,"@YBourti Bonsoir, non ce mouvement social concerne la journée de vendredi, le 7 décembre. Bonne soirée à vous. ^b",0,1,0,0,0
 1070368660932517888,2018-12-05 17:25:49,@SamRLIVPIVIF Je vous en prie ! Merci à vous et bon courage également 🙂 ^b,0,1,0,0,1
@@ -6082,7 +6082,7 @@ Veuillez nous excuser de la gêne occasionnée. #RERB.",1,3,1,0,0
 1095935652498157568,2019-02-14 06:39:55,"@AntoineAugusti Bonjour Antoine, pas de problèmes actuellement sur la ligne ! Bonne journée à vous ! Joy",0,0,0,0,0
 1095935967649849344,2019-02-14 06:41:10,"@celine9356 Bonjour, toutes nos excuses pour cette situation, pouvez vous me donner le numéro de la voiture ? Joy",0,0,1,0,0
 1095937085960278017,2019-02-14 06:45:37,"@celine9356 Très bien merci pour votre signalement, je remonte l'info à nos équipes ! Bonne journée à vous ! Joy",0,0,0,0,0
-1095938318204895232,2019-02-14 06:50:31,"🔧 Suite à une avarie sur la mission QADO59 à destination de La Plaine, le train stationne actuellement en gare de La Plaine #RERB",2,8,0,0,0
+1095938318204895232,2019-02-14 06:50:31,"🔧 Suite à une avarie sur la mission QADO59 à destination de La Plaine, le train stationne actuellement en gare de La Plaine #RERB",2,9,0,0,0
 1095938692139675650,2019-02-14 06:52:00,"@_AnneLala Bonjour, nous avons actuellement un train qui stationne en gare de La Plaine pour une avarie sur le matériel. Joy",0,2,0,0,0
 1095940013760618499,2019-02-14 06:57:15,"@OlivierDelatte Bonjour Olivier, votre train va pouvoir repartir. Joy",0,0,0,0,0
 1095940129301151744,2019-02-14 06:57:43,🔧 Fin d'incident en gare de La Plaine #RERB,2,5,0,0,0
@@ -6104,7 +6104,7 @@ Veuillez nous excuser de la gêne occasionnée. #RERB.",1,3,1,0,0
 1095960704333553664,2019-02-14 08:19:28,"@MelodieItsMe Bonjour, comment puis je vous aider ? Joy",0,0,0,0,0
 1095961193611702272,2019-02-14 08:21:25,"@NicolasDagoneau Bonjour, le dernier St Rémy est actuellement à Cité Universitaire. Je vous conseille de prendre le premier train afin de vous rapprocher de votre gare d'arrivée. Bonne journée à vous ! Joy",0,0,0,0,0
 1095961853241577473,2019-02-14 08:24:02,"@Miette2p1 Bonjour, vous avez la mission KFON26 actuellement à quai ou EBRE33 à l'approche. Joy",0,0,0,0,0
-1095994229560627200,2019-02-14 10:32:41,[Nouvel article blog] Retour sur les incidents de ce mardi 12 février en matinée sur le #RERB : https://t.co/YGQI4KP0J9,6,5,0,0,0
+1095994229560627200,2019-02-14 10:32:41,[Nouvel article blog] Retour sur les incidents de ce mardi 12 février en matinée sur le #RERB : https://t.co/YGQI4KP0J9,6,6,0,0,0
 1095996013947613185,2019-02-14 10:39:47,"🚨 Suite à l'actionnement d'un signal d'alarme sur la mission EPAF79 à destination de l'Aéroport CDG, le train stationne actuellement à Sevran Beaudottes #RERB",2,3,0,0,0
 1095997085885841411,2019-02-14 10:44:02,[ 🚨 Signal d'alarme ] Fin d'incident en gare de Sevran Beaudottes #RERB,0,2,0,0,0
 1096004185768804352,2019-02-14 11:12:15,"Bonjour, Alexandra pour échanger avec vous sur la ligne #RERB. Bonne journée à tous ! 🙂",1,6,0,0,0
@@ -6117,7 +6117,29 @@ Veuillez nous excuser de la gêne occasionnée. #RERB.",1,3,1,0,0
 1096066462782054401,2019-02-14 15:19:43,"@yorissse Bonjour, la police est actuellement en cours d'intervention suite à un bagage oublié par un voyageur. Dans quelle direction allez-vous ? ^b",1,1,0,0,0
 1096067647618379782,2019-02-14 15:24:25,"Suite à un bagage oublié à l'aéroport CDG1, l'arrêt n'est pas marqué à l'aéroport CDG1 dans les deux sens de circulation. #RERB",0,2,0,0,0
 1096068161005330434,2019-02-14 15:26:28,@yorissse Merci de votre retour. Bonne journée à vous ! 🙂 ^b,0,1,0,0,0
-1096072799070965762,2019-02-14 15:44:54,Fin d'incident à l'aéroport CDG1 (bagage oublié). La gare est de nouveau desservie dans les deux sens de circulation. #RERB,1,0,0,0,0
+1096072799070965762,2019-02-14 15:44:54,Fin d'incident à l'aéroport CDG1 (bagage oublié). La gare est de nouveau desservie dans les deux sens de circulation. #RERB,2,1,0,0,0
 1096073125119299584,2019-02-14 15:46:11,"@Thechnium Bonjour, merci de votre signalement. Avez-vous le numéro du train ? ^b",0,0,0,0,0
 1096074019072344064,2019-02-14 15:49:44,"@Thechnium Merci, j'ai pu repérer le nom du train. Merci à vous, je transmets. Bonne journée. ^b",0,0,0,0,0
 1096076080711122944,2019-02-14 15:57:56,"@ltpkorp  Bonjour, il s'agit de PAPO30. ^b",0,0,0,0,0
+1096077653352894464,2019-02-14 16:04:11,"@ltpkorp Non, pas de soucis, j'ai du mal comprendre aussi. J'ai que le nom de la mission du train, le signalement a été fait à nos équipes de maintenance. ^b",0,0,0,0,0
+1096078635914665987,2019-02-14 16:08:05,"@ClemGwen Bonjour Gwen, merci pour votre signalement pour le conducteur, je transmets. Bonne soirée ! ^b",0,0,0,0,0
+1096081523026132993,2019-02-14 16:19:33,"Suite à la panne d'un train sans voyageurs à l'entrée de Massy-Verrières, le trafic est perturbé sur l'ensemble de la ligne. Des modifications de missions et des retards sont à prévoir. #RERB",5,10,0,0,0
+1096081985351626753,2019-02-14 16:21:24,"@yoanmamou Bonjour, alors effectivement dans le secteur de Massy le trafic est perturbé suite à un train en panne à l'entrée de Massy-Verrières. Vous avez pu prendre le train à destination de Mitry ? Il circule actuellement en contre-sens afin de ne pas bloquer la circulation. ^b",0,0,0,0,0
+1096082631274520576,2019-02-14 16:23:58,"@Velolito Bonjour, oui c'est en cours sur https://t.co/rcwnrZtW00 et https://t.co/ijY0yo4Edo. ^b",0,0,0,0,0
+1096082749453201411,2019-02-14 16:24:26,"@Chonchebail Bonjour, il circulait en direction du Nord. ^b",0,0,0,0,0
+1096083421112254464,2019-02-14 16:27:06,"@alcor_mizar215 Bonjour, effectivement c'est un tweet automatique avec peu d'infos. Le train en panne est a l'entrée de Massy-Verrières, en direction de Paris. ^b",0,0,0,0,0
+1096083596606140418,2019-02-14 16:27:48,@Chonchebail Merci beaucoup ! ^b,0,0,0,0,0
+1096083889154605057,2019-02-14 16:28:58,"@LolaTerrasson Bonjour Lola, pour l'instant les trains circulent avec 10/15 minutes de retard. ^b",0,0,0,0,0
+1096084127999246336,2019-02-14 16:29:55,@yoanmamou EINE63 qui est à quai. ^b,0,0,0,0,0
+1096084585274851328,2019-02-14 16:31:44,"@Izac75 Bonjour, au départ de quelle gare ? Il n'y a pas d'interruption de trafic sur la ligne mais des retards suite à un train en panne en direction de Paris (à Massy-Verrières). ^b",0,0,0,0,0
+1096085209714438147,2019-02-14 16:34:12,"@Mli67106624 Bonjour Méli, oui toutes nos excuses. Suite à l'incident les trains circulent avec une dizaine de minutes de retard. Merci pour vos encouragements ! ^b",0,0,1,0,0
+1096085328065122305,2019-02-14 16:34:41,"@lubv91440 Bonjour, oui le trafic est perturbé dans les deux sens de circulation. ^b",0,1,0,0,0
+1096085515319894017,2019-02-14 16:35:25,"@nicolascarlie14 Bonjour Nicolas, merci de votre message, je transmets ! ^b",0,0,0,0,0
+1096085731926335488,2019-02-14 16:36:17,(Train en panne à Massy-Verrières): fin d'incident. Le trafic #RERB reste perturbé sur l'ensemble de la ligne.,1,4,0,0,0
+1096086295712055296,2019-02-14 16:38:31,"@Izac75 L'incident est terminé, mais une marge est nécessaire en plus de votre trajet. Si vous partez maintenant, il faut compter 15 minutes en plus. ^b",0,0,0,0,0
+1096086619763953664,2019-02-14 16:39:49,@Mli67106624 Merci de votre retour et n’hésitez pas à revenir vers moi. ^b,0,1,0,0,0
+1096087192517136384,2019-02-14 16:42:05,"@A2line__M Bonsoir, non l'incident est arrivé à 17h15. ^b",0,1,0,0,0
+1096087710719184897,2019-02-14 16:44:09,@A2line__M Merci ! N'hésitez pas à revenir vers moi au cours de votre trajet. ^b,0,0,0,0,0
+1096088951864086528,2019-02-14 16:49:05,"@razhades Oui effectivement 5 minutes de retard sur ce train. Il y a du retard aussi en direction du sud car des trains roulaient en contre-sens dès Massy-Palaiseau, pour rejoindre Paris. Bon courage. ^b",0,1,0,0,1
+1096090402879389697,2019-02-14 16:54:51,"@razhades Je transmets, mais c'est un erreur, ce train continue son parcours jusqu'à Robinson. ^b",0,1,0,0,0
+1096090691527155712,2019-02-14 16:55:59,"@razhades Ahhh d'accord, j'ai eu peur ! ^b",0,1,0,0,0
