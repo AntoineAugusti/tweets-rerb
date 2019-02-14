@@ -1406,11 +1406,11 @@ Des bus de remplacement desserviront toutes les gares entre Aulnay sous Bois et 
 1059091762675924992,2018-11-04 14:35:27,"@Lorin6401 Bonjour, les travaux se terminent ce soir à la fin de service. Le trafic prévu dès demain à la prise de service est un trafic régulier. Bonne journée. ^b",0,0,0,0,0
 1059092180168593410,2018-11-04 14:37:07,"@AndrewMitul Bonjour, les travaux se terminent ce soir à la fin de service. Le trafic prévu dès demain à la prise de service est un trafic régulier. Je comprends tout à fait votre point de vue mais ces travaux sont néanmoins nécessaires. Bon dimanche. ^b",0,0,0,0,0
 1059093677350535169,2018-11-04 14:43:04,"@Vinced_93 Bonjour, oui les travaux se terminent ce soir. Le trafic prévu pour la journée de demain est un trafic régulier. Bonne journée. ^b",0,0,0,0,0
+1059099059175260160,2018-11-04 15:04:27,"Ce soir dès 22h30, les trains #RERB seront terminus Châtelet-les-Halles. Les bus de substitution partiront de Gare du Nord.",5,3,0,0,0
 1059099060471250944,2018-11-04 15:04:27,"En direction du nord:
 -dernier départ de Châtelet à destination de La Plaine SDF: 22h29
 -dernier départ de Châtelet à destination de Gare du Nord: 22h44
  Après 22h44, tous les trains seront terminus Châtelet. #RERB",3,2,0,0,0
-1059099059175260160,2018-11-04 15:04:27,"Ce soir dès 22h30, les trains #RERB seront terminus Châtelet-les-Halles. Les bus de substitution partiront de Gare du Nord.",5,3,0,0,0
 1059099061670813696,2018-11-04 15:04:28,"En direction du sud:
 -dernier départ à La Plaine à 22h41 (passage à Châtelet à 22h53)
 -dernier départ à Gare du Nord à 22h56 (passage à Châtelet à 22h59). #RERB",3,2,0,0,0
@@ -3174,9 +3174,9 @@ Massy-Verrières et Fontaine-Michalon. Le train est actuellement à l'approche d
 1070283993139036160,2018-12-05 11:49:23,"@razhades Bonjour Hadès, ohhh mais non j'avais pas vu ! Alors concernant les trains à destination d'Orsay, c'est vrai qu'ils sont souvent assurés au départ de Châtelet pendant les heures de pointe suite à des mesures de régulation. Bonne journée, à tout à l'heure ! ^b",0,3,0,1,0
 1070287496431439872,2018-12-05 12:03:18,"@Melooooody77 @razhades Plus rien ne va 😁 Désolée, encore une fois ! ^b",0,3,0,0,0
 1070339180499222530,2018-12-05 15:28:41,@razhades Bien rentré ? Bonne soirée à vous ! 😉 ^b,0,2,0,0,0
-1070366241708273665,2018-12-05 17:16:13,"#RERB  En raison d’un mouvement social qui fait suite à l’agression d’un  conducteur, le trafic sera perturbé sur la ligne le 7 décembre.",105,58,0,0,0
 1070366243012706306,2018-12-05 17:16:13,"Entre Saint-Rémy/Robinson et Denfert Rochereau prévoir 2 trains sur 3 aux heures de pointe, 1 train sur 2 aux heures creuses.
 Entre Denfert Rochereau et Aéroport CDG/Mitry prévoir 1 train sur 2 toute la journée.",19,6,0,0,0
+1070366241708273665,2018-12-05 17:16:13,"#RERB  En raison d’un mouvement social qui fait suite à l’agression d’un  conducteur, le trafic sera perturbé sur la ligne le 7 décembre.",105,58,0,0,0
 1070367486921580549,2018-12-05 17:21:10,"@SamRLIVPIVIF Bonsoir, non pas de changement de train à Gare du Nord. Bonne soirée. ^b",0,1,0,0,0
 1070368443516506113,2018-12-05 17:24:58,"@YBourti Bonsoir, non ce mouvement social concerne la journée de vendredi, le 7 décembre. Bonne soirée à vous. ^b",0,1,0,0,0
 1070368660932517888,2018-12-05 17:25:49,@SamRLIVPIVIF Je vous en prie ! Merci à vous et bon courage également 🙂 ^b,0,1,0,0,1
@@ -5987,7 +5987,7 @@ Veuillez nous excuser de la gêne occasionnée. #RERB.",1,3,1,0,0
 1095584277314572288,2019-02-13 07:23:41,@laudwn_ Bonjour dans quelle direction allez vous ? Joy,0,0,0,0,0
 1095584883290853376,2019-02-13 07:26:05,@laudwn_ Il faut prévoir 30 minutes de retard sur votre trajet. Toutes nos excuses !  Joy,0,0,1,0,0
 1095590170487861249,2019-02-13 07:47:06,"🚨 Suite à l'actionnement d'un signal d'alarme sur la mission SOSI92 à destination de Robinson, le train stationne actuellement à Gare du Nord #RERB",6,14,0,0,0
-1095593143385374720,2019-02-13 07:58:55,"❌ Suite à un bagage oublié ainsi qu'un malaise voyageur à Gare du Nord, le trafic est perturbé sur l'ensemble de la ligne #RERB",28,23,0,0,0
+1095593143385374720,2019-02-13 07:58:55,"❌ Suite à un bagage oublié ainsi qu'un malaise voyageur à Gare du Nord, le trafic est perturbé sur l'ensemble de la ligne #RERB",28,24,0,0,0
 1095593333991317505,2019-02-13 07:59:40,"@VeroF971 Bonjour, il y a actuellement un malaise voyageur et un bagage oublié à Gare du Nord. Joy",0,0,0,0,0
 1095594894708654082,2019-02-13 08:05:52,❌ Fin d'incidents (malaise voyageur et bagage oublié) à Gare du Nord. Le trafic reste perturbé sur l'ensemble de la ligne #RERB,5,10,0,0,0
 1095595191686348801,2019-02-13 08:07:03,"@MaissaHe Bonjour Maï, oui il y a bien des trains au départ de GDN pour Le Bourget. Bonne journée ! Joy",0,0,0,0,0
@@ -5998,7 +5998,7 @@ Veuillez nous excuser de la gêne occasionnée. #RERB.",1,3,1,0,0
 1095609116737880064,2019-02-13 09:02:23,"@carrotoctopus Bonjour, ERIC53 est actuellement en gare de Fontaine Michalon. Joy",0,0,0,0,0
 1095609576731410432,2019-02-13 09:04:13,"@Louisa78662960 Bonjour Louisa, dans quelle gare êtes vous ? Joy",0,0,0,0,0
 1095609937365999616,2019-02-13 09:05:39,@carrotoctopus Toutes nos excuses nous avons des problèmes d'affichage actuellement. Joy,0,1,1,0,0
-1095646903528816641,2019-02-13 11:32:32,"Bonjour à tous, Alexandra pour échanger avec vous jusqu'à 20h00. Le trafic #RERB est perturbé sur l'ensemble de la ligne suite à un bagage oublié et un malaise voyageur à Gare du Nord.",1,10,0,0,0
+1095646903528816641,2019-02-13 11:32:32,"Bonjour à tous, Alexandra pour échanger avec vous jusqu'à 20h00. Le trafic #RERB est perturbé sur l'ensemble de la ligne suite à un bagage oublié et un malaise voyageur à Gare du Nord.",1,11,0,0,0
 1095649881203658752,2019-02-13 11:44:22,"Suite à un bagage oublié à Bagneux, le trafic #RERB est interrompu entre les gares de Bourg-la-Reine et Laplace dans les deux sens de circulation. L'heure de reprise est estimée à 13h30. Itinéraires de substitution: https://t.co/c0Eo4oa8UW",3,9,0,0,0
 1095650396377399296,2019-02-13 11:46:25,"@razhades Bonjour Hadès, oui et maintenant nous avons un bagage oublié à Bagneux. Allez, restons positifs ! A tout à l'heure. 🙂 ^b",0,1,0,0,0
 1095650791438905344,2019-02-13 11:47:59,"@Emma_Bzl Bonjour, de quelle gare partez-vous ? Nous avons un nouveau bagage abandonné à Bagneux et le trafic est interrompu entre Bourg-la-Reine et Laplace dans les deux sens de circulation jusqu'à 13h30 environ. ^b",0,0,0,0,0
@@ -6032,7 +6032,7 @@ Veuillez nous excuser de la gêne occasionnée. #RERB.",1,3,1,0,0
 1095677708917444608,2019-02-13 13:34:57,"@ATordLesMaches Bonjour, à mon arrivée à 12h30, le trafic était toujours perturbé suite aux incidents de ce matin à Gare du Nord. Nous avons eu également à 12h45 un bagage oublié à Bagneux avec interruption de circulation sur ordre de la police. ^b",0,0,0,0,0
 1095678761633304577,2019-02-13 13:39:08,"@Yasko7711 Bonjour, le prochain train est PIST76 qui devrait quitter Roissy 2 dans quelques instants. Suite à une mesure de régulation, il sera direct entre Aulnay et Gare du Nord. ^b",0,0,0,1,0
 1095682795568095232,2019-02-13 13:55:09,"@ATordLesMaches Je vous en prie. L'obstacle était à Arcueil, l'incident ne perturbait plus le trafic à mon arrivée. Mais, le malaise voyageur ainsi qu'un bagage oublié à Gare du Nord perturbaient toujours le trafic. ^b",0,1,0,0,0
-1095691894934392833,2019-02-13 14:31:19,Retour à un trafic régulier sur l'ensemble de la ligne #RERB,2,7,0,0,0
+1095691894934392833,2019-02-13 14:31:19,Retour à un trafic régulier sur l'ensemble de la ligne #RERB,2,8,0,0,0
 1095714161357737984,2019-02-13 15:59:48,"@Maha_Hyp Bonjour, je n'ai pas d'infos à ce sujet mais je reviendrai vers vous si j'en obtiens. Bonne soirée. ^b",0,1,0,0,0
 1095714422398640128,2019-02-13 16:00:50,"@aventurierdurer Bonjour, je suis vraiment navrée de cette situation. Je transmets votre message à nos équipes. ^b",0,0,0,0,0
 1095716683090722818,2019-02-13 16:09:49,"@rerb6r Bonjour,vous avez actuelllement LAZZ26 à Luxembourg qui desservira Parc de Sceaux, Fontaine Michalon et Massy-Verrières. ^b",0,2,0,0,0
@@ -6045,14 +6045,14 @@ Veuillez nous excuser de la gêne occasionnée. #RERB.",1,3,1,0,0
 1095733028830232576,2019-02-13 17:14:46,"@Julien92FR Effectivement, ce train cumule 6 minutes de retard sur son parcours, mais je n'ai pas plus d'infos à ce sujet. ^b",0,0,0,0,0
 1095733308900683776,2019-02-13 17:15:53,Un train à destination de Mitry stationne en gare  de Vert-Galant suite à l'actionnement d'un signal d'alarme. #RERB,1,1,0,0,0
 1095734181508845569,2019-02-13 17:19:21,(Signal d'alarme / acte de malveillance à Vert-Galant): l'incident est terminé. Le train à destination de Mitry va pouvoir repartir. #RERB,1,3,0,0,0
-1095735191576940544,2019-02-13 17:23:22,"@french_raleuse Bonjour, pas d'incident en cours. Vous avez un train entre Gare du Nord et Châtelet (à destination de Robinson), un train pour St Rémy à gare du Nord. ^b",0,0,0,0,0
+1095735191576940544,2019-02-13 17:23:22,"@french_raleuse Bonjour, pas d'incident en cours. Vous avez un train entre Gare du Nord et Châtelet (à destination de Robinson), un train pour St Rémy à gare du Nord. ^b",0,1,0,0,0
 1095736251767050242,2019-02-13 17:27:34,"@Julien92FR Merci beaucoup Julien, bonne soirée à vous ! 😉 ^b",0,0,0,0,0
 1095736937506320384,2019-02-13 17:30:18,"@Nolwappy Bonjour, je vais vérifier. Dans quelle gare êtes-vous actuellement ? ^b",0,0,0,0,0
 1095737410753912839,2019-02-13 17:32:11,"@Nolwappy Oui, un arrêt est prévu à Parc-de-Sceaux. Bonne soirée à vous. ^b",0,0,0,0,0
 1095737939827609605,2019-02-13 17:34:17,"@petitpatapouf Bonjour, au départ de quelle gare ? Merci. ^b",0,0,0,0,0
 1095738102235127808,2019-02-13 17:34:56,"@Nolwappy Je vous en prie, c'est normal ! 😉 ^b",0,1,0,0,0
 1095738307739377665,2019-02-13 17:35:45,Un train à destination de l'aéroport CDG stationne au Bourget suite à l'actionnement d'un signal d'alarme. #RERB,1,5,0,0,0
-1095738822728523776,2019-02-13 17:37:47,"@LionelB75 Bonjour, pas d'incident en cours sur la ligne, mais effectivement des ralentissements entre Gare du Nord et Châtelet. PAPO78 est actuellement à Luxembourg. ^b",0,0,0,0,0
+1095738822728523776,2019-02-13 17:37:47,"@LionelB75 Bonjour, pas d'incident en cours sur la ligne, mais effectivement des ralentissements entre Gare du Nord et Châtelet. PAPO78 est actuellement à Luxembourg. ^b",0,1,0,0,0
 1095739120255729664,2019-02-13 17:38:58,"@Vaniphy Bonjour, il n'y a pas d'incident en cours mais effectivement des ralentissements entre Gare du Nord et Châtelet, ce qui retarde effectivement votre parcours, j'en suis désolée. ^b",0,1,0,0,0
 1095739376502558720,2019-02-13 17:39:59,(Signal d'alarme au Bourget): fin d'incident. Le train à destination de l'aéroport CDG va pouvoir repartir. #RERB,2,3,0,0,0
 1095740057821081601,2019-02-13 17:42:42,"@Megafab1 Bonsoir, une personne qui ne se sentait pas bien, mais qui à pu sortir du train avec l'aide du conducteur et des agents de la gare. Bonne soirée. ^b",0,1,0,0,0
@@ -6061,7 +6061,7 @@ Veuillez nous excuser de la gêne occasionnée. #RERB.",1,3,1,0,0
 1095743002071437316,2019-02-13 17:54:24,@lubv91440 Des ralentissements étaient certes présents entre Gare du Nord et Châtelet mais pourtant pas d'incident majeur. ^b,0,0,0,0,0
 1095743342384697344,2019-02-13 17:55:45,@LionelB75 Le prochain train pour St Rémy est à Châtelet. ^b,0,0,0,0,0
 1095744168318648320,2019-02-13 17:59:02,"@dzetalol Bonsoir, pardon je n'ai pas vu votre message. Des ralentissements sont effectivement en cours entre Gare du Nord et Châtelet. Et à l'instant, à Gare du Nord des vérifications sont être effectuées avant l'arrivée de chaque train suite à une anomalie de signalisation. ^b",0,0,0,0,0
-1095745140461916160,2019-02-13 18:02:54,"Suite à une anomalie de signalisation à Gare du Nord, le trafic #RERB est perturbé en direction de St Rémy / Robinson",10,11,0,0,0
+1095745140461916160,2019-02-13 18:02:54,"Suite à une anomalie de signalisation à Gare du Nord, le trafic #RERB est perturbé en direction de St Rémy / Robinson",11,11,0,0,0
 1095746375034253312,2019-02-13 18:07:48,"@ArnaudCHAILLIE Bonjour, il s'agit d'une anomalie sur un signal qui impose l'arrêt aux conducteurs. (comme si un train était juste devant) sauf qu'il n'y a pas de train. Des vérifications doivent donc être effectuées pour pouvoir repartir. ^b",0,5,0,0,0
 1095746860831125510,2019-02-13 18:09:44,"@fafafafa Bonsoir, j'en suis navrée. Il s'agit d'une anomalie sur un signal qui impose l'arrêt aux conducteurs. (comme si un train était juste devant) sauf qu'il n'y a pas de train. Des vérifications de sécurité doivent donc être effectuées pour pouvoir repartir. ^b",0,0,0,0,0
 1095747468128645120,2019-02-13 18:12:09,"@AdeMaintenant Bonjour, dans quelle gare êtes-vous et dans quelle direction allez-vous ? ^b",0,0,0,0,0
@@ -6082,10 +6082,10 @@ Veuillez nous excuser de la gêne occasionnée. #RERB.",1,3,1,0,0
 1095935652498157568,2019-02-14 06:39:55,"@AntoineAugusti Bonjour Antoine, pas de problèmes actuellement sur la ligne ! Bonne journée à vous ! Joy",0,0,0,0,0
 1095935967649849344,2019-02-14 06:41:10,"@celine9356 Bonjour, toutes nos excuses pour cette situation, pouvez vous me donner le numéro de la voiture ? Joy",0,0,1,0,0
 1095937085960278017,2019-02-14 06:45:37,"@celine9356 Très bien merci pour votre signalement, je remonte l'info à nos équipes ! Bonne journée à vous ! Joy",0,0,0,0,0
-1095938318204895232,2019-02-14 06:50:31,"🔧 Suite à une avarie sur la mission QADO59 à destination de La Plaine, le train stationne actuellement en gare de La Plaine #RERB",1,6,0,0,0
+1095938318204895232,2019-02-14 06:50:31,"🔧 Suite à une avarie sur la mission QADO59 à destination de La Plaine, le train stationne actuellement en gare de La Plaine #RERB",1,7,0,0,0
 1095938692139675650,2019-02-14 06:52:00,"@_AnneLala Bonjour, nous avons actuellement un train qui stationne en gare de La Plaine pour une avarie sur le matériel. Joy",0,2,0,0,0
 1095940013760618499,2019-02-14 06:57:15,"@OlivierDelatte Bonjour Olivier, votre train va pouvoir repartir. Joy",0,0,0,0,0
-1095940129301151744,2019-02-14 06:57:43,🔧 Fin d'incident en gare de La Plaine #RERB,2,3,0,0,0
+1095940129301151744,2019-02-14 06:57:43,🔧 Fin d'incident en gare de La Plaine #RERB,2,4,0,0,0
 1095940347073568769,2019-02-14 06:58:34,"@Vaniphy Bonjour, pouvez vous m'en dire plus ? Joy",0,0,0,0,0
 1095941423671771136,2019-02-14 07:02:51,"@Vaniphy En effet, le train a été supprimé en gare de Massy Palaiseau et ressorti en gare de Laplace par mesure de régulation. Toutes nos excuses ! Bonne journée à vous. Joy",0,0,1,1,0
 1095941674679889920,2019-02-14 07:03:51,"@celine9356 Céline, c'est transmis merci beaucoup ! Joy",0,0,0,0,0
@@ -6099,3 +6099,8 @@ Veuillez nous excuser de la gêne occasionnée. #RERB.",1,3,1,0,0
 1095953607520907264,2019-02-14 07:51:16,"@MissHulk2991 Oui en effet 😅 ! Merci beaucoup pour votre signalement, je remonte l'info à nos équipes ! Belle journée ! Joy",0,0,0,0,0
 1095954132723220480,2019-02-14 07:53:21,"@ArnaudR95 Bonjour Arnaud, pas de problèmes actuellement entre ces deux gares. Belle journée ! Joy",0,0,0,0,0
 1095954375812485120,2019-02-14 07:54:19,"@SarahMkf Bonjour Sarah, quelques minutes de retard sont à prévoir (de 3 à 5 minutes) mais pas d'incident en cours. Joy",0,0,0,0,0
+1095956593181634560,2019-02-14 08:03:08,"@VeroF971 Bonjour, dans quelle gare êtes vous ? Joy",0,0,0,0,0
+1095958112199155712,2019-02-14 08:09:10,"@VeroF971 Il s'agit des répercussions de l'avarie matériel en gare de La Plaine ce matin. Des trains ont dû être supprimés, toutes nos excuses ! Joy",0,1,1,0,0
+1095960704333553664,2019-02-14 08:19:28,"@MelodieItsMe Bonjour, comment puis je vous aider ? Joy",0,0,0,0,0
+1095961193611702272,2019-02-14 08:21:25,"@NicolasDagoneau Bonjour, le dernier St Rémy est actuellement à Cité Universitaire. Je vous conseille de prendre le premier train afin de vous rapprocher de votre gare d'arrivée. Bonne journée à vous ! Joy",0,0,0,0,0
+1095961853241577473,2019-02-14 08:24:02,"@Miette2p1 Bonjour, vous avez la mission KFON26 actuellement à quai ou EBRE33 à l'approche. Joy",0,0,0,0,0
