@@ -1406,11 +1406,11 @@ Des bus de remplacement desserviront toutes les gares entre Aulnay sous Bois et 
 1059091762675924992,2018-11-04 14:35:27,"@Lorin6401 Bonjour, les travaux se terminent ce soir à la fin de service. Le trafic prévu dès demain à la prise de service est un trafic régulier. Bonne journée. ^b",0,0,0,0,0
 1059092180168593410,2018-11-04 14:37:07,"@AndrewMitul Bonjour, les travaux se terminent ce soir à la fin de service. Le trafic prévu dès demain à la prise de service est un trafic régulier. Je comprends tout à fait votre point de vue mais ces travaux sont néanmoins nécessaires. Bon dimanche. ^b",0,0,0,0,0
 1059093677350535169,2018-11-04 14:43:04,"@Vinced_93 Bonjour, oui les travaux se terminent ce soir. Le trafic prévu pour la journée de demain est un trafic régulier. Bonne journée. ^b",0,0,0,0,0
-1059099059175260160,2018-11-04 15:04:27,"Ce soir dès 22h30, les trains #RERB seront terminus Châtelet-les-Halles. Les bus de substitution partiront de Gare du Nord.",5,3,0,0,0
 1059099060471250944,2018-11-04 15:04:27,"En direction du nord:
 -dernier départ de Châtelet à destination de La Plaine SDF: 22h29
 -dernier départ de Châtelet à destination de Gare du Nord: 22h44
  Après 22h44, tous les trains seront terminus Châtelet. #RERB",3,2,0,0,0
+1059099059175260160,2018-11-04 15:04:27,"Ce soir dès 22h30, les trains #RERB seront terminus Châtelet-les-Halles. Les bus de substitution partiront de Gare du Nord.",5,3,0,0,0
 1059099061670813696,2018-11-04 15:04:28,"En direction du sud:
 -dernier départ à La Plaine à 22h41 (passage à Châtelet à 22h53)
 -dernier départ à Gare du Nord à 22h56 (passage à Châtelet à 22h59). #RERB",3,2,0,0,0
@@ -6104,7 +6104,7 @@ Veuillez nous excuser de la gêne occasionnée. #RERB.",1,3,1,0,0
 1095960704333553664,2019-02-14 08:19:28,"@MelodieItsMe Bonjour, comment puis je vous aider ? Joy",0,0,0,0,0
 1095961193611702272,2019-02-14 08:21:25,"@NicolasDagoneau Bonjour, le dernier St Rémy est actuellement à Cité Universitaire. Je vous conseille de prendre le premier train afin de vous rapprocher de votre gare d'arrivée. Bonne journée à vous ! Joy",0,0,0,0,0
 1095961853241577473,2019-02-14 08:24:02,"@Miette2p1 Bonjour, vous avez la mission KFON26 actuellement à quai ou EBRE33 à l'approche. Joy",0,0,0,0,0
-1095994229560627200,2019-02-14 10:32:41,[Nouvel article blog] Retour sur les incidents de ce mardi 12 février en matinée sur le #RERB : https://t.co/YGQI4KP0J9,4,4,0,0,0
+1095994229560627200,2019-02-14 10:32:41,[Nouvel article blog] Retour sur les incidents de ce mardi 12 février en matinée sur le #RERB : https://t.co/YGQI4KP0J9,6,5,0,0,0
 1095996013947613185,2019-02-14 10:39:47,"🚨 Suite à l'actionnement d'un signal d'alarme sur la mission EPAF79 à destination de l'Aéroport CDG, le train stationne actuellement à Sevran Beaudottes #RERB",2,3,0,0,0
 1095997085885841411,2019-02-14 10:44:02,[ 🚨 Signal d'alarme ] Fin d'incident en gare de Sevran Beaudottes #RERB,0,2,0,0,0
 1096004185768804352,2019-02-14 11:12:15,"Bonjour, Alexandra pour échanger avec vous sur la ligne #RERB. Bonne journée à tous ! 🙂",1,6,0,0,0
@@ -6114,3 +6114,10 @@ Veuillez nous excuser de la gêne occasionnée. #RERB.",1,3,1,0,0
 1096041515942662146,2019-02-14 13:40:35,(Signal d'alarme à Bourg-la-Reine): fin d'incident. Le train à destination de l'aéroport CDG est reparti. #RERB,0,2,0,0,0
 1096041670238457856,2019-02-14 13:41:12,"@Poi_Sheng Bonjour, il s'agissait d'une altercation entre voyageurs. Le train est reparti. ^b",0,0,0,0,0
 1096042423501930496,2019-02-14 13:44:11,"@Poi_Sheng Oui, je comprends. Il est vrai quel les conditions de transport sont compliquées ces derniers jours. Toutes nos excuses. ^b",0,0,1,0,0
+1096066462782054401,2019-02-14 15:19:43,"@yorissse Bonjour, la police est actuellement en cours d'intervention suite à un bagage oublié par un voyageur. Dans quelle direction allez-vous ? ^b",1,1,0,0,0
+1096067647618379782,2019-02-14 15:24:25,"Suite à un bagage oublié à l'aéroport CDG1, l'arrêt n'est pas marqué à l'aéroport CDG1 dans les deux sens de circulation. #RERB",0,2,0,0,0
+1096068161005330434,2019-02-14 15:26:28,@yorissse Merci de votre retour. Bonne journée à vous ! 🙂 ^b,0,1,0,0,0
+1096072799070965762,2019-02-14 15:44:54,Fin d'incident à l'aéroport CDG1 (bagage oublié). La gare est de nouveau desservie dans les deux sens de circulation. #RERB,1,0,0,0,0
+1096073125119299584,2019-02-14 15:46:11,"@Thechnium Bonjour, merci de votre signalement. Avez-vous le numéro du train ? ^b",0,0,0,0,0
+1096074019072344064,2019-02-14 15:49:44,"@Thechnium Merci, j'ai pu repérer le nom du train. Merci à vous, je transmets. Bonne journée. ^b",0,0,0,0,0
+1096076080711122944,2019-02-14 15:57:56,"@ltpkorp  Bonjour, il s'agit de PAPO30. ^b",0,0,0,0,0
