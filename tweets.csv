@@ -1406,11 +1406,11 @@ Des bus de remplacement desserviront toutes les gares entre Aulnay sous Bois et 
 1059091762675924992,2018-11-04 14:35:27,"@Lorin6401 Bonjour, les travaux se terminent ce soir à la fin de service. Le trafic prévu dès demain à la prise de service est un trafic régulier. Bonne journée. ^b",0,0,0,0,0
 1059092180168593410,2018-11-04 14:37:07,"@AndrewMitul Bonjour, les travaux se terminent ce soir à la fin de service. Le trafic prévu dès demain à la prise de service est un trafic régulier. Je comprends tout à fait votre point de vue mais ces travaux sont néanmoins nécessaires. Bon dimanche. ^b",0,0,0,0,0
 1059093677350535169,2018-11-04 14:43:04,"@Vinced_93 Bonjour, oui les travaux se terminent ce soir. Le trafic prévu pour la journée de demain est un trafic régulier. Bonne journée. ^b",0,0,0,0,0
+1059099059175260160,2018-11-04 15:04:27,"Ce soir dès 22h30, les trains #RERB seront terminus Châtelet-les-Halles. Les bus de substitution partiront de Gare du Nord.",5,3,0,0,0
 1059099060471250944,2018-11-04 15:04:27,"En direction du nord:
 -dernier départ de Châtelet à destination de La Plaine SDF: 22h29
 -dernier départ de Châtelet à destination de Gare du Nord: 22h44
  Après 22h44, tous les trains seront terminus Châtelet. #RERB",3,2,0,0,0
-1059099059175260160,2018-11-04 15:04:27,"Ce soir dès 22h30, les trains #RERB seront terminus Châtelet-les-Halles. Les bus de substitution partiront de Gare du Nord.",5,3,0,0,0
 1059099061670813696,2018-11-04 15:04:28,"En direction du sud:
 -dernier départ à La Plaine à 22h41 (passage à Châtelet à 22h53)
 -dernier départ à Gare du Nord à 22h56 (passage à Châtelet à 22h59). #RERB",3,2,0,0,0
@@ -3654,7 +3654,7 @@ Entre Denfert Rochereau et Aéroport CDG/Mitry prévoir 1 train sur 2 toute la j
 1073143682088517633,2018-12-13 09:12:46,"@RomainFrapp Bonjour Romain, il faut prévoir 4 trains sur 5 en heures de pointe et 3 trains sur 4 en heures creuses. Tous les horaires sont disponibles sur les applications et sur: https://t.co/NNzMTbczod. Bonne journée. ^b",0,0,0,0,0
 1073174456468680705,2018-12-13 11:15:03,"@GabianLa Bonjour Gabriel, oui il s'agit d'une intervention sur la voie suite à la panne de signalisation à Denfert.  ^b",0,0,0,0,0
 1073176171741962240,2018-12-13 11:21:52,"@RaghuKannan Bonjour, il y a eu une intervention sur la voie suite à la panne de signalisation, un train à destination de Robinson est passé à contre-sens à Denfert. Tout est désormais terminé. ^b",0,0,0,0,0
-1073185790413426688,2018-12-13 12:00:05,"Bonjour à tous, Joy pour vous accompagner jusqu'à 20h00. N'hésitez pas à me solliciter pendant votre trajet sur le #RERB. Bonne journée !",0,2,0,0,0
+1073185790413426688,2018-12-13 12:00:05,"Bonjour à tous, Joy pour vous accompagner jusqu'à 20h00. N'hésitez pas à me solliciter pendant votre trajet sur le #RERB. Bonne journée !",0,3,0,0,0
 1073213108745879552,2018-12-13 13:48:39,"[ 🚨 Signal d'alarme ] Suite à l'actionnement d'un signal d'alarme sur la mission PIST58 en direction de St Rémy, le train stationne actuellement en gare de Croix de Berny #RERB.",1,3,0,0,0
 1073213776491626497,2018-12-13 13:51:18,[ 🚨 Signal d'alarme ] L'incident est désormais terminé en gare de Croix de Berny #RERB,1,1,0,0,0
 1073218725862629377,2018-12-13 14:10:58,"@Tutur_weiss Bonjour Arthur, vous avez actuellement un train à l'approche ! Bonne journée à vous ! Joy",0,0,0,0,0
@@ -6061,7 +6061,7 @@ Veuillez nous excuser de la gêne occasionnée. #RERB.",1,3,1,0,0
 1095743002071437316,2019-02-13 17:54:24,@lubv91440 Des ralentissements étaient certes présents entre Gare du Nord et Châtelet mais pourtant pas d'incident majeur. ^b,0,0,0,0,0
 1095743342384697344,2019-02-13 17:55:45,@LionelB75 Le prochain train pour St Rémy est à Châtelet. ^b,0,0,0,0,0
 1095744168318648320,2019-02-13 17:59:02,"@dzetalol Bonsoir, pardon je n'ai pas vu votre message. Des ralentissements sont effectivement en cours entre Gare du Nord et Châtelet. Et à l'instant, à Gare du Nord des vérifications sont être effectuées avant l'arrivée de chaque train suite à une anomalie de signalisation. ^b",0,0,0,0,0
-1095745140461916160,2019-02-13 18:02:54,"Suite à une anomalie de signalisation à Gare du Nord, le trafic #RERB est perturbé en direction de St Rémy / Robinson",11,14,0,0,0
+1095745140461916160,2019-02-13 18:02:54,"Suite à une anomalie de signalisation à Gare du Nord, le trafic #RERB est perturbé en direction de St Rémy / Robinson",11,15,0,0,0
 1095746375034253312,2019-02-13 18:07:48,"@ArnaudCHAILLIE Bonjour, il s'agit d'une anomalie sur un signal qui impose l'arrêt aux conducteurs. (comme si un train était juste devant) sauf qu'il n'y a pas de train. Des vérifications doivent donc être effectuées pour pouvoir repartir. ^b",0,5,0,0,0
 1095746860831125510,2019-02-13 18:09:44,"@fafafafa Bonsoir, j'en suis navrée. Il s'agit d'une anomalie sur un signal qui impose l'arrêt aux conducteurs. (comme si un train était juste devant) sauf qu'il n'y a pas de train. Des vérifications de sécurité doivent donc être effectuées pour pouvoir repartir. ^b",0,0,0,0,0
 1095747468128645120,2019-02-13 18:12:09,"@AdeMaintenant Bonjour, dans quelle gare êtes-vous et dans quelle direction allez-vous ? ^b",0,0,0,0,0
@@ -6107,5 +6107,6 @@ Veuillez nous excuser de la gêne occasionnée. #RERB.",1,3,1,0,0
 1095994229560627200,2019-02-14 10:32:41,[Nouvel article blog] Retour sur les incidents de ce mardi 12 février en matinée sur le #RERB : https://t.co/YGQI4KP0J9,2,3,0,0,0
 1095996013947613185,2019-02-14 10:39:47,"🚨 Suite à l'actionnement d'un signal d'alarme sur la mission EPAF79 à destination de l'Aéroport CDG, le train stationne actuellement à Sevran Beaudottes #RERB",2,3,0,0,0
 1095997085885841411,2019-02-14 10:44:02,[ 🚨 Signal d'alarme ] Fin d'incident en gare de Sevran Beaudottes #RERB,0,1,0,0,0
-1096004185768804352,2019-02-14 11:12:15,"Bonjour, Alexandra pour échanger avec vous sur la ligne #RERB. Bonne journée à tous ! 🙂",1,5,0,0,0
+1096004185768804352,2019-02-14 11:12:15,"Bonjour, Alexandra pour échanger avec vous sur la ligne #RERB. Bonne journée à tous ! 🙂",1,6,0,0,0
 1096005403941523456,2019-02-14 11:17:05,"@genarodimarzio Bonjour, merci de votre message ! Bonne journée à vous également 😉 ^b",0,1,0,0,0
+1096016432104726529,2019-02-14 12:00:55,"@razhades Bonjour Hadès ! Et bla bla bla 😅 Bonne journée, à tout à l'heure ! ^b",0,4,0,0,0
