@@ -1406,11 +1406,11 @@ Des bus de remplacement desserviront toutes les gares entre Aulnay sous Bois et 
 1059091762675924992,2018-11-04 14:35:27,"@Lorin6401 Bonjour, les travaux se terminent ce soir à la fin de service. Le trafic prévu dès demain à la prise de service est un trafic régulier. Bonne journée. ^b",0,0,0,0,0
 1059092180168593410,2018-11-04 14:37:07,"@AndrewMitul Bonjour, les travaux se terminent ce soir à la fin de service. Le trafic prévu dès demain à la prise de service est un trafic régulier. Je comprends tout à fait votre point de vue mais ces travaux sont néanmoins nécessaires. Bon dimanche. ^b",0,0,0,0,0
 1059093677350535169,2018-11-04 14:43:04,"@Vinced_93 Bonjour, oui les travaux se terminent ce soir. Le trafic prévu pour la journée de demain est un trafic régulier. Bonne journée. ^b",0,0,0,0,0
+1059099059175260160,2018-11-04 15:04:27,"Ce soir dès 22h30, les trains #RERB seront terminus Châtelet-les-Halles. Les bus de substitution partiront de Gare du Nord.",5,3,0,0,0
 1059099060471250944,2018-11-04 15:04:27,"En direction du nord:
 -dernier départ de Châtelet à destination de La Plaine SDF: 22h29
 -dernier départ de Châtelet à destination de Gare du Nord: 22h44
  Après 22h44, tous les trains seront terminus Châtelet. #RERB",3,2,0,0,0
-1059099059175260160,2018-11-04 15:04:27,"Ce soir dès 22h30, les trains #RERB seront terminus Châtelet-les-Halles. Les bus de substitution partiront de Gare du Nord.",5,3,0,0,0
 1059099061670813696,2018-11-04 15:04:28,"En direction du sud:
 -dernier départ à La Plaine à 22h41 (passage à Châtelet à 22h53)
 -dernier départ à Gare du Nord à 22h56 (passage à Châtelet à 22h59). #RERB",3,2,0,0,0
@@ -6466,7 +6466,7 @@ Pour vous aider à mieux voyager la semaine du 25 février au 3 mars: https://t.
 1099927706878332928,2019-02-25 07:02:55,"@Jeannot911 Bonjour Jeannot, toutes nos excuses, il s'agit d'une mesure de régulation. Bonne journée à vous ! Joy",0,1,1,1,0
 1099928833740980224,2019-02-25 07:07:24,"@KJurietti Bonjour, toutes nos excuses nous rencontrons des difficultés dans l'affichage de certaines gares actuellement ! Bonne journée à vous tout de même ! Joy",0,0,1,0,0
 1099928925747048448,2019-02-25 07:07:46,"@yves_laszlo Bonjour, toutes nos excuses nous rencontrons des difficultés dans l'affichage de certaines gares actuellement ! Bonne journée à vous tout de même ! Joy",0,0,1,0,0
-1099929588325629952,2019-02-25 07:10:24,"@Jeannot911  Jeannot, cette mesure de régulation a été réalisée suite à un décollement d'une affiche publicitaire en gare de St Michel qui a nécessité une intervention de nos agents. Joy",1,3,0,1,0
+1099929588325629952,2019-02-25 07:10:24,"@Jeannot911  Jeannot, cette mesure de régulation a été réalisée suite à un décollement d'une affiche publicitaire en gare de St Michel qui a nécessité une intervention de nos agents. Joy",1,4,0,1,0
 1099929690746351617,2019-02-25 07:10:48,"@PAGB13 Bonjour, toutes nos excuses nous rencontrons des difficultés dans l'affichage de certaines gares actuellement ! Bonne journée à vous tout de même ! Joy",0,0,1,0,0
 1099932035391635456,2019-02-25 07:20:07,"@P_Ophelia Bonjour, toutes nos excuses nous rencontrons des difficultés dans l'affichage de certaines gares actuellement ! Bonne journée à vous tout de même ! Joy",0,0,1,0,0
 1099962883805495297,2019-02-25 09:22:42,"@sgdkwnj Bonjour, toutes nos excuses nous rencontrons des difficultés dans l'affichage de certaines gares actuellement ! Bonne journée à vous tout de même ! Joy",0,0,1,0,0
@@ -6480,10 +6480,10 @@ Pour vous aider à mieux voyager la semaine du 25 février au 3 mars: https://t.
 1100018498984652801,2019-02-25 13:03:42,"@urbanressources Bonjour, non pas aveugle. Il n'y a personne de vendredi soir 20h00 jusqu'au lundi 06h00, donc nous n'avons pas vu votre tweet, tout simplement. Je transmets votre signalement. ^b",0,0,0,0,0
 1100026270832910336,2019-02-25 13:34:35,"@ErinRFloyd Je n'étais pas présente ce week-end donc il m'est difficile de vous répondre mais les horaires n'ont pourtant pas changés, ce train est bien maintenu pour l'aéroport CDG. Bonne journée. ^b",0,0,0,0,0
 1100062295680528384,2019-02-25 15:57:44,"@Zenlillyx Bonjour Aurélie, il y a effectivement une limitation de vitesse fixée à 40km/h jusqu'à la fin des travaux de la gare. Je n'ai pas plus d'infos à ce sujet. Bonne soirée à vous. ^b",0,0,0,0,0
-1100063929764663297,2019-02-25 16:04:13,"@Nialiex Bonjour, merci pour votre message ! Bonne soirée à vous !🙂^b",0,2,0,0,0
+1100063929764663297,2019-02-25 16:04:13,"@Nialiex Bonjour, merci pour votre message ! Bonne soirée à vous !🙂^b",0,3,0,0,0
 1100064255460761600,2019-02-25 16:05:31,Un train à destination de Massy-Palaiseau stationne à Drancy suite à l'actionnement d'un signal d'alarme. #RERB,1,2,0,0,0
 1100064852867977216,2019-02-25 16:07:53,"@cleymie Bonjour, merci de vos précisions. Nos agents sont en cours d'intervention. ^b",0,1,0,0,0
-1100065151523397632,2019-02-25 16:09:05,(Signal d'alarme à Drancy): le signal d'alarme a été tiré suite à un malaise voyageur à bord du train. #RERB,2,2,0,0,0
+1100065151523397632,2019-02-25 16:09:05,(Signal d'alarme à Drancy): le signal d'alarme a été tiré suite à un malaise voyageur à bord du train. #RERB,2,3,0,0,0
 1100065955932184576,2019-02-25 16:12:16,"@SaraHassani91 Bonjour Sara, les agents sont auprès de la personne. Elle ne peut pas sortir du train, les pompiers ont été appelés. La circulation n'est pas interrompue car les trains vont pouvoir passer sur d'autres voies entre Aulnay et Le Bourget. ^b",0,0,0,0,0
 1100067101509861376,2019-02-25 16:16:49,"@Julien92FR Bonjour Julien, oui les trains peuvent circuler sur d’autres voies entre Aulnay et Le Bourget. ^b",0,0,0,0,0
 1100067417722638339,2019-02-25 16:18:05,"@noemiebastos Bonjour, il y a actuellement un malaise voyageur à Drancy, le trafic n'est pas interrompu car les trains peuvent circuler sur d'autres voies. Néanmoins, le trafic est perturbé en direction du sud. ^b",0,1,0,0,0
@@ -6500,3 +6500,17 @@ Pour vous aider à mieux voyager la semaine du 25 février au 3 mars: https://t.
 1100076100892401669,2019-02-25 16:52:35,"@DidiBZH Je comprends tout à fait, je suis consciente que les conditions de transport sont particulièrement difficiles pour vous au quotidien. Bon courage à vous ! ^b",0,1,0,0,1
 1100077035089739777,2019-02-25 16:56:18,"@vongolebigoli Bonjour, pas d'incident vers 14h mais un malaise voyageur dans un train à Drancy en direction de Paris et la banlieue sud, vers 17h00. Bonne soirée. ^b",0,0,0,0,0
 1100077626566365184,2019-02-25 16:58:39,"@philo_b93 Ah oui, vous avez bien fait de descendre car une mesure de régulation a été effectuée et il a été rendu direct entre Cité U et Bourg-la-Reine. Bon courage. ^b",0,0,0,1,1
+1100078079903481856,2019-02-25 17:00:27,"@caro91230 Bonsoir Caroline, toutes nos excuses. Effectivement, il s'agit d'une mesure de régulation en répercussion du malaise voyageur à Drancy. Bon courage pour la poursuite de votre trajet. ^b",0,0,1,1,1
+1100078924711768065,2019-02-25 17:03:48,"@SebastienCholay Bonsoir Sébastien, oui effectivement suite au malaise voyageur à Drancy, des modifications et mesures de régulation ont été effectuées par nos équipes. Je suis navrée de ce changement. ^b",0,0,0,1,0
+1100080146655178755,2019-02-25 17:08:40,"@gegene007 Bonsoir, oui effectivement pour l'instant pas de desserte pour Massy-Verrières, je transmets aux équipes de régulation. ^b",0,0,0,1,0
+1100083478777991169,2019-02-25 17:21:54,"@gegene007 Effectivement, vous avez les informations avant moi. Vous êtes dans PAPO62 à Denfert et des arrêts supplémentaires ont été ajoutés à Fontaine-Michalon et Massy-Verrières. ^b",0,0,0,0,0
+1100084227989819392,2019-02-25 17:24:53,"@MegumiKahyna Bonsoir, au départ de quelle gare ? ^b",0,0,0,0,0
+1100086368850587648,2019-02-25 17:33:23,"@gegene007 Il n'y aura pas d'arrêt à Massy Verrières pour LEVE56, mais dans PA¨PO62, c'est le prochain train à passer. Il arrive à Parc de Sceaux. ^b",0,0,0,0,0
+1100087327756636161,2019-02-25 17:37:12,"@Phy00ca Bonsoir, oui effectivement ! Je remonte votre signalement à nos équipes. Toutes nos excuses. Bonne soirée à vous. ^b",0,0,1,0,0
+1100088526249623552,2019-02-25 17:41:57,"@Aptarus Bonjour, avez-vous le numéro du wagon ? Il est écrit vers les portes. Merci. ^b",0,0,0,0,0
+1100088754449121281,2019-02-25 17:42:52,"@LyonnaisB Bonsoir, dans quelle gare êtes-vous ? ^b",0,0,0,0,0
+1100089220784373760,2019-02-25 17:44:43,@Aptarus A destination de Robinson ? ^b,0,0,0,0,0
+1100089520719122432,2019-02-25 17:45:55,"@LyonnaisB Il y a actuellement, un train à destination de Massy-Palaiseau à St Michel. ^b",0,0,0,0,0
+1100089828891340801,2019-02-25 17:47:08,"@bco306 Bonsoir, 10 minutes de retard sont engendrées en direction du sud de la ligne. Le trafic est normal en direction de l'aéroport CDG et Mitry. ^b",0,0,0,0,0
+1100090713671385089,2019-02-25 17:50:39,@Aptarus Merci beaucoup ! Bonne soirée à vous ! ^b,0,0,0,0,0
+1100091084372406272,2019-02-25 17:52:07,@razhades @Nialiex Ahhhh j'aurais mieux fait de me taire ! 😥 Bonne soirée à vous aussi et à demain ! 😊 ^b,0,1,0,0,0
