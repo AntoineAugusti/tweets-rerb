@@ -1406,11 +1406,11 @@ Des bus de remplacement desserviront toutes les gares entre Aulnay sous Bois et 
 1059091762675924992,2018-11-04 14:35:27,"@Lorin6401 Bonjour, les travaux se terminent ce soir à la fin de service. Le trafic prévu dès demain à la prise de service est un trafic régulier. Bonne journée. ^b",0,0,0,0,0
 1059092180168593410,2018-11-04 14:37:07,"@AndrewMitul Bonjour, les travaux se terminent ce soir à la fin de service. Le trafic prévu dès demain à la prise de service est un trafic régulier. Je comprends tout à fait votre point de vue mais ces travaux sont néanmoins nécessaires. Bon dimanche. ^b",0,0,0,0,0
 1059093677350535169,2018-11-04 14:43:04,"@Vinced_93 Bonjour, oui les travaux se terminent ce soir. Le trafic prévu pour la journée de demain est un trafic régulier. Bonne journée. ^b",0,0,0,0,0
-1059099059175260160,2018-11-04 15:04:27,"Ce soir dès 22h30, les trains #RERB seront terminus Châtelet-les-Halles. Les bus de substitution partiront de Gare du Nord.",5,3,0,0,0
 1059099060471250944,2018-11-04 15:04:27,"En direction du nord:
 -dernier départ de Châtelet à destination de La Plaine SDF: 22h29
 -dernier départ de Châtelet à destination de Gare du Nord: 22h44
  Après 22h44, tous les trains seront terminus Châtelet. #RERB",3,2,0,0,0
+1059099059175260160,2018-11-04 15:04:27,"Ce soir dès 22h30, les trains #RERB seront terminus Châtelet-les-Halles. Les bus de substitution partiront de Gare du Nord.",5,3,0,0,0
 1059099061670813696,2018-11-04 15:04:28,"En direction du sud:
 -dernier départ à La Plaine à 22h41 (passage à Châtelet à 22h53)
 -dernier départ à Gare du Nord à 22h56 (passage à Châtelet à 22h59). #RERB",3,2,0,0,0
@@ -6519,7 +6519,7 @@ Pour vous aider à mieux voyager la semaine du 25 février au 3 mars: https://t.
 1100099425941286912,2019-02-25 18:25:16,"@HEATLIFER02 Bonsoir Quentin, avez-vous pu prendre un train ? Merci. ^b",0,0,0,0,0
 1100100845641830400,2019-02-25 18:30:55,@HEATLIFER02 Votre train cumule 10 minutes de retard sur son parcours. Il est arrivé en retard à sa gare de destination suite au malaise voyageur et malheureusement ce retard n'a pas pu être rattrapé. Toutes nos excuses. Bon courage pour la poursuite de votre trajet. ^b,0,0,1,0,1
 1100101774600478723,2019-02-25 18:34:36,@HEATLIFER02 Je vous en prie Quentin. Bonne soirée à vous et bon courage pour la poursuite de votre trajet. ^b,0,0,0,0,1
-1100261603071721473,2019-02-26 05:09:42,"Bonjour à tous, Joy pour vous accompagner jusqu'à 13h00. N'hésitez pas à me solliciter pendant votre trajet sur le #RERB. Bonne journée !",1,6,0,0,0
+1100261603071721473,2019-02-26 05:09:42,"Bonjour à tous, Joy pour vous accompagner jusqu'à 13h00. N'hésitez pas à me solliciter pendant votre trajet sur le #RERB. Bonne journée !",1,7,0,0,0
 1100262419471970304,2019-02-26 05:12:57,"@daronneisa Bonjour, toutes nos excuses pour cette situation il s'agit de mesures de régulation. Bonne journée à vous ! Joy",0,0,1,1,0
 1100280992265318401,2019-02-26 06:26:45,"@alexinparis240 Bonjour, toutes nos excuses pour cette situation. Nous avons rencontré des difficultés dans la préparation de votre train. Le prochain train est actuellement au départ de St Rémy. Bonne journée à vous tout de même ! Joy",0,0,1,0,0
 1100281172855275521,2019-02-26 06:27:28,"@razhades Bonjour Hadès, merci et bonne journée à vous 🙂  ! Joy",0,1,0,0,0
