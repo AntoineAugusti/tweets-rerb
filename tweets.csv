@@ -6623,7 +6623,7 @@ Pour vous aider à mieux voyager la semaine du 25 février au 3 mars: https://t.
 1100849057453481990,2019-02-27 20:04:02,@fanny152813 Le train est à l'approche de votre gare. ^b,0,1,0,0,0
 1100849845303164930,2019-02-27 20:07:10,"@parispyla Bonsoir, des trains circulent mais le trafic est perturbé. Vous pouvez sinon vous reporter sur la ligne 4 du métro. ^b",0,0,0,0,0
 1100850601943093248,2019-02-27 20:10:10,"@grandzo93 Bonsoir, lors d'un accident grave de personne, une interruption de trafic de deux heures est nécessaire afin de permettre aux pompiers, à la police d'intervenir. C'est eux qui nous donnent l'autorisation de reprendre les circulations. ^b",0,1,0,0,0
-1100852440293888001,2019-02-27 20:17:29,"21:16, le trafic est interrompu entre Gare du Nord et Aulnay. Reprise estimée à 22:00. (accident grave de personne)  #RERB",4,0,0,0,0
+1100852440293888001,2019-02-27 20:17:29,"21:16, le trafic est interrompu entre Gare du Nord et Aulnay. Reprise estimée à 22:00. (accident grave de personne)  #RERB",4,1,0,0,0
 1100860493726658560,2019-02-27 20:49:29,"21:47, le trafic reprend progressivement sur la ligne (accident grave de personne)  #RERB",2,5,0,0,0
 1100863772619612161,2019-02-27 21:02:31,"22:01, le trafic est perturbé sur la ligne (accident grave de personne)  #RERB",4,4,0,0,0
 1100986088674467840,2019-02-28 05:08:33,"Bonjour à tous, Joy pour vous accompagner jusqu'à 13h00. N'hésitez pas à me solliciter pendant votre trajet sur le #RERB. Bonne journée",2,12,0,0,0
@@ -6642,7 +6642,8 @@ Pour vous aider à mieux voyager la semaine du 25 février au 3 mars: https://t.
 1101024675881205760,2019-02-28 07:41:53,"@MrnDream Bonjour, dans quelle gare êtes vous ? Joy",0,0,0,0,0
 1101043100707942400,2019-02-28 08:55:06,"@natdab1 Bonjour, des bus de substitution seront mis en place pendant la période des travaux. Pour plus d'infos 👉 https://t.co/fmh0IpHPZ9. Bonne journée à vous ! Joy",0,0,0,0,0
 1101046399930642433,2019-02-28 09:08:12,"🚨 Suite à l'actionnement d'un signal d'alarme sur la mission ERIC59 à destination de L'Aéroport CDG, le train stationne actuellement en gare du Bagneux #RERB",0,2,0,0,0
-1101047640245055488,2019-02-28 09:13:08,"❌ Suite à un malaise voyageur à bord d'un train en gare de Bagneux, le trafic est actuellement perturbé en direction de l'Aéroport CDG / Mitry #RERB",4,6,0,0,0
+1101047640245055488,2019-02-28 09:13:08,"❌ Suite à un malaise voyageur à bord d'un train en gare de Bagneux, le trafic est actuellement perturbé en direction de l'Aéroport CDG / Mitry #RERB",4,7,0,0,0
 1101050538219704321,2019-02-28 09:24:39,"@AbdulvakhidW Bonjour, toutes nos excuses, il s'agit d'une mesure de régulation suite à un malaise voyageur en gare de Bagneux. Bonne journée à vous tout de même ! Joy",0,0,1,1,0
 1101051312987426816,2019-02-28 09:27:44,"❌ Fin d'incident en gare de Bagneux, le trafic reste perturbé en direction de l'Aéroport CDG / Mitry #RERB",1,1,0,0,0
 1101051990690402304,2019-02-28 09:30:25,"@AbdulvakhidW Je comprends, le train impacté à Bagneux était un train à destination de CDG, de ce fait pour pouvoir assurer un train aux voyageurs dans les gares entre Gare du Nord et CDG, votre train a été rendu omnibus. Bonne journée ! Joy",0,0,0,0,0
+1101066931682054144,2019-02-28 10:29:48,Retour à un trafic régulier sur l'ensemble de la ligne #RERB,2,2,0,0,0
