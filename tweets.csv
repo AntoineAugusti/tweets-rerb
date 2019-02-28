@@ -1406,11 +1406,11 @@ Des bus de remplacement desserviront toutes les gares entre Aulnay sous Bois et 
 1059091762675924992,2018-11-04 14:35:27,"@Lorin6401 Bonjour, les travaux se terminent ce soir à la fin de service. Le trafic prévu dès demain à la prise de service est un trafic régulier. Bonne journée. ^b",0,0,0,0,0
 1059092180168593410,2018-11-04 14:37:07,"@AndrewMitul Bonjour, les travaux se terminent ce soir à la fin de service. Le trafic prévu dès demain à la prise de service est un trafic régulier. Je comprends tout à fait votre point de vue mais ces travaux sont néanmoins nécessaires. Bon dimanche. ^b",0,0,0,0,0
 1059093677350535169,2018-11-04 14:43:04,"@Vinced_93 Bonjour, oui les travaux se terminent ce soir. Le trafic prévu pour la journée de demain est un trafic régulier. Bonne journée. ^b",0,0,0,0,0
+1059099059175260160,2018-11-04 15:04:27,"Ce soir dès 22h30, les trains #RERB seront terminus Châtelet-les-Halles. Les bus de substitution partiront de Gare du Nord.",5,3,0,0,0
 1059099060471250944,2018-11-04 15:04:27,"En direction du nord:
 -dernier départ de Châtelet à destination de La Plaine SDF: 22h29
 -dernier départ de Châtelet à destination de Gare du Nord: 22h44
  Après 22h44, tous les trains seront terminus Châtelet. #RERB",3,2,0,0,0
-1059099059175260160,2018-11-04 15:04:27,"Ce soir dès 22h30, les trains #RERB seront terminus Châtelet-les-Halles. Les bus de substitution partiront de Gare du Nord.",5,3,0,0,0
 1059099061670813696,2018-11-04 15:04:28,"En direction du sud:
 -dernier départ à La Plaine à 22h41 (passage à Châtelet à 22h53)
 -dernier départ à Gare du Nord à 22h56 (passage à Châtelet à 22h59). #RERB",3,2,0,0,0
@@ -6650,3 +6650,6 @@ Pour vous aider à mieux voyager la semaine du 25 février au 3 mars: https://t.
 1101081364483452928,2019-02-28 11:27:09,"Bonjour à tous, Alexandra pour échanger avec vous jusqu'à 20h00 sur la ligne #RERB. Bonne journée !",0,3,0,0,0
 1101094884763672576,2019-02-28 12:20:52,"@Jojow9777 Bonjour, toutes nos excuses, je n'ai pas d'infos à ce sujet. Il y a actuellement dans votre gare SOSO44, avez-vous pu le prendre ? Bonne journée. ^b",0,0,1,0,0
 1101095792176259072,2019-02-28 12:24:28,"@Jojow9777 Toutes nos excuses, je remonte votre message. Bon courage pour la poursuite de votre trajet. ^b",0,1,1,0,1
+1101109045413531653,2019-02-28 13:17:08,@razhades Bonjouuur ! Comment ça va aujourd'hui ? Bonne journée ! 😉 ^b,0,0,0,0,0
+1101112509489123328,2019-02-28 13:30:54,"@razhades Et bah c'est encore mieux ! Profitez bien de votre journée ""off"" ! 😊  A demain ! ^b",0,0,0,0,0
+1101112954316095494,2019-02-28 13:32:40,@razhades Et bon courage pour ce soir !!! 💪🏻 ^b,0,0,0,0,1
