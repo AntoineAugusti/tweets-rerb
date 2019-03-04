@@ -1406,11 +1406,11 @@ Des bus de remplacement desserviront toutes les gares entre Aulnay sous Bois et 
 1059091762675924992,2018-11-04 14:35:27,"@Lorin6401 Bonjour, les travaux se terminent ce soir à la fin de service. Le trafic prévu dès demain à la prise de service est un trafic régulier. Bonne journée. ^b",0,0,0,0,0
 1059092180168593410,2018-11-04 14:37:07,"@AndrewMitul Bonjour, les travaux se terminent ce soir à la fin de service. Le trafic prévu dès demain à la prise de service est un trafic régulier. Je comprends tout à fait votre point de vue mais ces travaux sont néanmoins nécessaires. Bon dimanche. ^b",0,0,0,0,0
 1059093677350535169,2018-11-04 14:43:04,"@Vinced_93 Bonjour, oui les travaux se terminent ce soir. Le trafic prévu pour la journée de demain est un trafic régulier. Bonne journée. ^b",0,0,0,0,0
+1059099059175260160,2018-11-04 15:04:27,"Ce soir dès 22h30, les trains #RERB seront terminus Châtelet-les-Halles. Les bus de substitution partiront de Gare du Nord.",5,3,0,0,0
 1059099060471250944,2018-11-04 15:04:27,"En direction du nord:
 -dernier départ de Châtelet à destination de La Plaine SDF: 22h29
 -dernier départ de Châtelet à destination de Gare du Nord: 22h44
  Après 22h44, tous les trains seront terminus Châtelet. #RERB",3,2,0,0,0
-1059099059175260160,2018-11-04 15:04:27,"Ce soir dès 22h30, les trains #RERB seront terminus Châtelet-les-Halles. Les bus de substitution partiront de Gare du Nord.",5,3,0,0,0
 1059099061670813696,2018-11-04 15:04:28,"En direction du sud:
 -dernier départ à La Plaine à 22h41 (passage à Châtelet à 22h53)
 -dernier départ à Gare du Nord à 22h56 (passage à Châtelet à 22h59). #RERB",3,2,0,0,0
@@ -3174,9 +3174,9 @@ Massy-Verrières et Fontaine-Michalon. Le train est actuellement à l'approche d
 1070283993139036160,2018-12-05 11:49:23,"@razhades Bonjour Hadès, ohhh mais non j'avais pas vu ! Alors concernant les trains à destination d'Orsay, c'est vrai qu'ils sont souvent assurés au départ de Châtelet pendant les heures de pointe suite à des mesures de régulation. Bonne journée, à tout à l'heure ! ^b",0,3,0,1,0
 1070287496431439872,2018-12-05 12:03:18,"@Melooooody77 @razhades Plus rien ne va 😁 Désolée, encore une fois ! ^b",0,3,0,0,0
 1070339180499222530,2018-12-05 15:28:41,@razhades Bien rentré ? Bonne soirée à vous ! 😉 ^b,0,2,0,0,0
-1070366241708273665,2018-12-05 17:16:13,"#RERB  En raison d’un mouvement social qui fait suite à l’agression d’un  conducteur, le trafic sera perturbé sur la ligne le 7 décembre.",104,58,0,0,0
 1070366243012706306,2018-12-05 17:16:13,"Entre Saint-Rémy/Robinson et Denfert Rochereau prévoir 2 trains sur 3 aux heures de pointe, 1 train sur 2 aux heures creuses.
 Entre Denfert Rochereau et Aéroport CDG/Mitry prévoir 1 train sur 2 toute la journée.",19,6,0,0,0
+1070366241708273665,2018-12-05 17:16:13,"#RERB  En raison d’un mouvement social qui fait suite à l’agression d’un  conducteur, le trafic sera perturbé sur la ligne le 7 décembre.",104,58,0,0,0
 1070367486921580549,2018-12-05 17:21:10,"@SamRLIVPIVIF Bonsoir, non pas de changement de train à Gare du Nord. Bonne soirée. ^b",0,1,0,0,0
 1070368443516506113,2018-12-05 17:24:58,"@YBourti Bonsoir, non ce mouvement social concerne la journée de vendredi, le 7 décembre. Bonne soirée à vous. ^b",0,1,0,0,0
 1070368660932517888,2018-12-05 17:25:49,@SamRLIVPIVIF Je vous en prie ! Merci à vous et bon courage également 🙂 ^b,0,1,0,0,1
@@ -6708,10 +6708,11 @@ Pour vous aider à mieux voyager la semaine du 25 février au 3 mars: https://t.
 1102455712955973632,2019-03-04 06:28:19,"@SebastienCholay Bonjour Sébastien, merci pour votre retour. Concernant les travaux du côté de BLR, vous trouverez plus d'infos sur notre blog dans la rubrique Mai 2019: https://t.co/8XqXDZhbTS ! Bonne journée à vous ! Joy",1,0,0,0,0
 1102456896278200326,2019-03-04 06:33:01,"@razhades Bonjour Hadès, bonne semaine et bonne journée à vous  😊 ! Joy",0,1,0,0,0
 1102463125243203585,2019-03-04 06:57:46,"@jeromehuet Bonjour Jérôme, nous allons contacter la gare merci pour votre signalement. Bonne journée à vous ! Joy",0,0,0,0,0
-1102466330295500800,2019-03-04 07:10:30,"🔧 Suite à une avarie sur la mission SOSI92 à destination de Robinson, le train stationne actuellement en gare de Drancy #RERB",2,6,0,0,0
+1102466330295500800,2019-03-04 07:10:30,"🔧 Suite à une avarie sur la mission SOSI92 à destination de Robinson, le train stationne actuellement en gare de Drancy #RERB",2,7,0,0,0
 1102466962553217025,2019-03-04 07:13:01,🔧 Fin d'incident en gare de Drancy #RERB,0,1,0,0,0
 1102470221812649985,2019-03-04 07:25:58,"@ahmedba Bonjour, dans quel train êtes vous ?Joy",0,1,0,0,0
 1102470408169758722,2019-03-04 07:26:42,"@stephan61172581 Bonjour, il faut compter un retard de 05 minutes sur votre trajet. Bonne journée à vous ! Joy",0,0,0,0,0
 1102471618809470976,2019-03-04 07:31:31,"@ThomasDucados Bonjour Thomas, le prochain Orsay est actuellement à Massy Verrières. Bonne journée à vous ! Joy",0,1,0,0,0
-1102488485179637760,2019-03-04 08:38:32,"🚨 Suite à l'actionnement d'un signal d'alarme sur la mission EPAF43 à destination de L'Aéroport CDG, le train stationne actuellement en gare de Denfert-Rochereau  #RERB",0,0,0,0,0
+1102488485179637760,2019-03-04 08:38:32,"🚨 Suite à l'actionnement d'un signal d'alarme sur la mission EPAF43 à destination de L'Aéroport CDG, le train stationne actuellement en gare de Denfert-Rochereau  #RERB",0,2,0,0,0
 1102489482257944576,2019-03-04 08:42:30,[ 🚨 Signal d'alarme ] Fin d'incident en gare de Denfert Rochereau #RERB,0,0,0,0,0
+1102498094111952897,2019-03-04 09:16:43,"@cmcp_s Bonjour, pas d'incidents actuellement sur la ligne ! Bonne journée à vous ! Joy",0,0,0,0,0
