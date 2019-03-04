@@ -1406,11 +1406,11 @@ Des bus de remplacement desserviront toutes les gares entre Aulnay sous Bois et 
 1059091762675924992,2018-11-04 14:35:27,"@Lorin6401 Bonjour, les travaux se terminent ce soir à la fin de service. Le trafic prévu dès demain à la prise de service est un trafic régulier. Bonne journée. ^b",0,0,0,0,0
 1059092180168593410,2018-11-04 14:37:07,"@AndrewMitul Bonjour, les travaux se terminent ce soir à la fin de service. Le trafic prévu dès demain à la prise de service est un trafic régulier. Je comprends tout à fait votre point de vue mais ces travaux sont néanmoins nécessaires. Bon dimanche. ^b",0,0,0,0,0
 1059093677350535169,2018-11-04 14:43:04,"@Vinced_93 Bonjour, oui les travaux se terminent ce soir. Le trafic prévu pour la journée de demain est un trafic régulier. Bonne journée. ^b",0,0,0,0,0
-1059099059175260160,2018-11-04 15:04:27,"Ce soir dès 22h30, les trains #RERB seront terminus Châtelet-les-Halles. Les bus de substitution partiront de Gare du Nord.",5,3,0,0,0
 1059099060471250944,2018-11-04 15:04:27,"En direction du nord:
 -dernier départ de Châtelet à destination de La Plaine SDF: 22h29
 -dernier départ de Châtelet à destination de Gare du Nord: 22h44
  Après 22h44, tous les trains seront terminus Châtelet. #RERB",3,2,0,0,0
+1059099059175260160,2018-11-04 15:04:27,"Ce soir dès 22h30, les trains #RERB seront terminus Châtelet-les-Halles. Les bus de substitution partiront de Gare du Nord.",5,3,0,0,0
 1059099061670813696,2018-11-04 15:04:28,"En direction du sud:
 -dernier départ à La Plaine à 22h41 (passage à Châtelet à 22h53)
 -dernier départ à Gare du Nord à 22h56 (passage à Châtelet à 22h59). #RERB",3,2,0,0,0
@@ -3887,7 +3887,7 @@ Entre Denfert Rochereau et Aéroport CDG/Mitry prévoir 1 train sur 2 toute la j
 1075254097597603840,2018-12-19 04:58:48,"Bonjour à tous, Joy pour vous accompagner jusqu'à 13h00. N'hésitez pas à me solliciter pendant votre trajet sur le #RERB. Bonne journée à tous ! Joy",0,0,0,0,0
 1075260439993434112,2018-12-19 05:24:00,[ 🔧 Avarie sur le matériel ] La mission KOCQ26 à destination de Massy Pal. stationne actuellement en gare du Bourget suite à une avarie sur son matériel #RERB,1,0,0,0,0
 1075261967986769921,2018-12-19 05:30:05,"@Dediddas Bonjour, les trains en direction de Paris passeront sur la voie directe au Bourget. Joy",0,0,0,0,0
-1075262924879466497,2018-12-19 05:33:53,"❌  Suite à la panne d'un train en gare du Bourget, le trafic est actuellement perturbé en direction de St Rémy / Robinson #RERB",12,11,0,0,0
+1075262924879466497,2018-12-19 05:33:53,"❌  Suite à la panne d'un train en gare du Bourget, le trafic est actuellement perturbé en direction de St Rémy / Robinson #RERB",11,11,0,0,0
 1075263376215957506,2018-12-19 05:35:40,"@LaurineGymnaste Bonjour Laurine, dans quelle gare êtes vous ? Joy",0,0,0,0,0
 1075263549755277312,2018-12-19 05:36:22,@rerb6r Bonjour à vous et bonne journée 🙂 ! Joy,0,0,0,0,0
 1075263805083525121,2018-12-19 05:37:23,@LaurineGymnaste Le retard est actuellement estimé à 10 minutes. Vous avez actuellement un train à quai ! Bonne journée à vous tout de même ! Joy,0,0,0,0,0
