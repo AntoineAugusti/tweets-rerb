@@ -1406,11 +1406,11 @@ Des bus de remplacement desserviront toutes les gares entre Aulnay sous Bois et 
 1059091762675924992,2018-11-04 14:35:27,"@Lorin6401 Bonjour, les travaux se terminent ce soir à la fin de service. Le trafic prévu dès demain à la prise de service est un trafic régulier. Bonne journée. ^b",0,0,0,0,0
 1059092180168593410,2018-11-04 14:37:07,"@AndrewMitul Bonjour, les travaux se terminent ce soir à la fin de service. Le trafic prévu dès demain à la prise de service est un trafic régulier. Je comprends tout à fait votre point de vue mais ces travaux sont néanmoins nécessaires. Bon dimanche. ^b",0,0,0,0,0
 1059093677350535169,2018-11-04 14:43:04,"@Vinced_93 Bonjour, oui les travaux se terminent ce soir. Le trafic prévu pour la journée de demain est un trafic régulier. Bonne journée. ^b",0,0,0,0,0
+1059099059175260160,2018-11-04 15:04:27,"Ce soir dès 22h30, les trains #RERB seront terminus Châtelet-les-Halles. Les bus de substitution partiront de Gare du Nord.",5,3,0,0,0
 1059099060471250944,2018-11-04 15:04:27,"En direction du nord:
 -dernier départ de Châtelet à destination de La Plaine SDF: 22h29
 -dernier départ de Châtelet à destination de Gare du Nord: 22h44
  Après 22h44, tous les trains seront terminus Châtelet. #RERB",3,2,0,0,0
-1059099059175260160,2018-11-04 15:04:27,"Ce soir dès 22h30, les trains #RERB seront terminus Châtelet-les-Halles. Les bus de substitution partiront de Gare du Nord.",5,3,0,0,0
 1059099061670813696,2018-11-04 15:04:28,"En direction du sud:
 -dernier départ à La Plaine à 22h41 (passage à Châtelet à 22h53)
 -dernier départ à Gare du Nord à 22h56 (passage à Châtelet à 22h59). #RERB",3,2,0,0,0
@@ -6201,8 +6201,8 @@ Veuillez nous excuser de la gêne occasionnée. #RERB.",1,3,1,0,0
 1096381003399077888,2019-02-15 12:09:35,"@razhades Je ne pourrais pas vous répondre, je n'ai pas du tout ces infos. Les trains sont pourtant révisés régulièrement dans nos ateliers de maintenance. ^b",0,3,0,0,0
 1096383857014833152,2019-02-15 12:20:55,"@barthetvr133 Bonjour, merci beaucoup pour votre message, c'est vraiment gentil ! 😊 Nous sommes toute les deux employées, avec Joy. Bonne journée ! 🙂",0,0,0,0,0
 1096385288648249344,2019-02-15 12:26:37,"@Nialiex @razhades Bonjour, oui bien sur je comprends tout à fait. Une maintenance est pourtant effectuée régulièrement dans les ateliers de maintenance afin d'assurer une sécurité optimale pour les voyageurs. Je transmets votre message. Bonne journée à vous. ^b",0,3,0,0,0
-1096393943703580672,2019-02-15 13:01:00,"⚠️ Clients à destination de l'aéroport CDG 1 et 2 le dimanche 17/02, sur ordre de la préfecture de Police, une opération de déminage interrompt le #RERB de 9h00 à 15 h entre Paris Gare du Nord et Aulnay-sous-Bois. Anticiper votre départ vers l'aéroport CDG. https://t.co/OpRB7W0rUd",14,10,0,0,0
 1096393942885679104,2019-02-15 13:01:00,"⚠️ Passengers going to CDG Airport on Sunday 17th of February 2019 : following a police department request, due to a bomb disposal operation, there will be no #RERB service between 09h00 AM and 03h00 PM between Gare du Nord and Aulnay. Plan in advance your trip to the Airport. https://t.co/MHwD0yVERr",7,4,0,0,0
+1096393943703580672,2019-02-15 13:01:00,"⚠️ Clients à destination de l'aéroport CDG 1 et 2 le dimanche 17/02, sur ordre de la préfecture de Police, une opération de déminage interrompt le #RERB de 9h00 à 15 h entre Paris Gare du Nord et Aulnay-sous-Bois. Anticiper votre départ vers l'aéroport CDG. https://t.co/OpRB7W0rUd",14,10,0,0,0
 1096394643414151169,2019-02-15 13:03:47,"@youri_bhd Bonjour, vous pouvez prendre le métro 5 à Gare du Nord jusqu'à Bobigny / Pablo Picasso puis le bus 93 jusqu'à CDG1. ^b",0,0,0,0,0
 1096395461202767874,2019-02-15 13:07:02,@youri_bhd Il faut compter 25 min de métro et 40 minutes de bus. Donc un peu plus d'une heure de trajet depuis Gare du Nord. ^b,0,0,0,0,0
 1096398164129660933,2019-02-15 13:17:47,"@youri_bhd Oui, si vous partez de St Lazare, c'est plus simple effectivement et plus rapide aussi. Normalement, le service RoissyBus roule mais à confirmer avant votre trajet. ^b",0,0,0,0,0
@@ -7247,7 +7247,7 @@ pas de travaux prévus sur votre ligne la semaine prochaine.",2,10,0,0,0
 1106529490384097280,2019-03-15 12:16:03,"@razhades Hello Hadès, oui !!! Bon courage et à tout à l'heure ! 🙂 ^b",0,0,0,0,1
 1106535166170857472,2019-03-15 12:38:36,"[Nouvel article blog] Ce week-end, début d’une très vaste opération de comptage voyageurs sur le #RERB ! https://t.co/GqZnSvbYpf https://t.co/D2koKblbB2",6,5,0,0,0
 1106541465981931520,2019-03-15 13:03:38,"@Nialiex Bonjour Audrey, le comptage se fait sur 3 jours : un samedi, un dimanche et un mardi ou un jeudi.
-Bon week-end ^T",1,1,0,0,0
+Bon week-end ^T",1,2,0,0,0
 1106541819150651392,2019-03-15 13:05:02,"@razhades Bonjour Hadès, le comptage se fait sur 3 jours : un samedi, un dimanche et un mardi ou un jeudi.
 Bon week-end ^T",0,2,0,0,0
 1106542098604609537,2019-03-15 13:06:09,"@MPupuceandco Bonjour Marie, le comptage se fait sur 3 jours : un samedi, un dimanche et un mardi ou un jeudi.
@@ -7255,4 +7255,9 @@ Bon week-end ^T",0,0,0,0,0
 1106569047263584258,2019-03-15 14:53:14,"@KatyushaZ50 Bonjour, merci pour votre signalement. Je transmets à nos équipes. Bonne journée ! ^b",0,0,0,0,0
 1106582119290204160,2019-03-15 15:45:11,Un train à destination d'Orsay stationne à St Michel suite à un malaise voyageur à bord. #RERB,2,3,0,0,0
 1106582313704583168,2019-03-15 15:45:57,"@gegene007 Bonjour Geneviève, KUBY18 est actuellement à l'approche de Gare du Nord. ^b",0,0,0,0,0
-1106583439472504839,2019-03-15 15:50:25,"(Malaise voyageur à St Michel): fin d'incident, le train à destination d'Orsay va pouvoir repartir. #RERB",0,0,0,0,0
+1106583439472504839,2019-03-15 15:50:25,"(Malaise voyageur à St Michel): fin d'incident, le train à destination d'Orsay va pouvoir repartir. #RERB",0,1,0,0,0
+1106591768991039488,2019-03-15 16:23:31,"@gegene007 Oui j'en suis navrée, KUBY18 cumule 15 min de retard sur son parcours. Toutes nos excuses pour la gêne occasionnée! ^b",0,0,1,0,0
+1106593549833908224,2019-03-15 16:30:36,Un train à destination de Massy-Palaiseau stationne en gare de Parc des Expositions suite à un problème de fermeture de portes. #RERB,1,2,0,0,0
+1106594996877250561,2019-03-15 16:36:21,(Problème de fermeture de portes à Parc des Expositions): le train ne prendra plus de voyageurs. #RERB,0,1,0,0,0
+1106598513851420673,2019-03-15 16:50:19,"@CcileBaudry1 Bonjour Cécile, merci de votre signalement pour le conducteur, je transmets ! Bonne soirée ! ^b",0,1,0,0,0
+1106599662339936258,2019-03-15 16:54:53,"@Maha_Hyp Bonsoir, oui effectivement la mission d'Orsay est passée devant le Massy-Palaiseau. C'est une mesure de régulation afin de ne pas impacter la mission retour, en direction du nord. Toutes nos excuses. ^b",0,0,1,1,0
