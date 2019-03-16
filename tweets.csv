@@ -6551,7 +6551,7 @@ Pour vous aider à mieux voyager la semaine du 25 février au 3 mars: https://t.
 1100439420405207042,2019-02-26 16:56:17,(Actionnement d'un signal d'alarme à Cité Universitaire): fin d'incident. Le train à destination d'Orsay va pouvoir repartir. #RERB,1,1,0,0,0
 1100440328895639552,2019-02-26 16:59:54,Un train à destination de Robinson stationne à St Michel suite à l'actionnement d'un signal d'alarme. #RERB,1,2,0,0,0
 1100440495870873601,2019-02-26 17:00:34,"@razhades Je transmets Hadès, je comprends votre message. Bon courage. ^b",0,1,0,0,1
-1100441001292939264,2019-02-26 17:02:34,(Signal d'alarme à St Michel): le train à destination de Robinson va pouvoir repartir. #RERB,1,2,0,0,0
+1100441001292939264,2019-02-26 17:02:34,(Signal d'alarme à St Michel): le train à destination de Robinson va pouvoir repartir. #RERB,1,3,0,0,0
 1100441275629793286,2019-02-26 17:03:39,"@twiit_Gamer Bonjour Quentin, oui tout à fait. Bon courage pour la poursuite de votre trajet. ^b",0,1,0,0,1
 1100441581331644416,2019-02-26 17:04:52,"@SoufianeChahoud Bonjour, une altercation entre voyageurs. Bonne soirée. ^b",0,1,0,0,0
 1100442012808040450,2019-02-26 17:06:35,@twiit_Gamer Merci de votre retour ! Bonne soirée. ^b,0,1,0,0,0
@@ -7235,7 +7235,7 @@ pas de travaux prévus sur votre ligne la semaine prochaine.",2,10,0,0,0
 1106265147646054401,2019-03-14 18:45:39,"@FlorentinKim Je vous en prie, bonne soirée également ! 🙂 ^b",0,0,0,0,0
 1106265223739199489,2019-03-14 18:45:57,"@Elise_Gabrielle Je vous en prie, bonne soirée Elise. ^b",0,1,0,0,0
 1106268012846428160,2019-03-14 18:57:02,"@FranckHG2 Oui tout à fait, je comprends votre ressenti. Après vérification, il y a une panne de courant à CDG1 donc l'impossibilité d'effectuer des annonces actuellement sur les quais. Je remonte toutefois votre message. Bonne soirée, tout de même. ^b",0,0,0,0,0
-1106420686871019520,2019-03-15 05:03:42,"Bonjour à tous, Joy pour vous accompagner jusqu'à 13h00. N'hésitez pas à me solliciter pendant votre trajet sur le #RERB. Bonne journée et bon week-end !",0,2,0,0,0
+1106420686871019520,2019-03-15 05:03:42,"Bonjour à tous, Joy pour vous accompagner jusqu'à 13h00. N'hésitez pas à me solliciter pendant votre trajet sur le #RERB. Bonne journée et bon week-end !",0,3,0,0,0
 1106442126475304960,2019-03-15 06:28:54,"🔧 Suite à une avarie sur le matériel de la mission IDIL79, le train sera terminus en gare de Palaiseau, prochain arrêt en gare de Palaiseau EMAL81 #RERB",5,5,0,0,0
 1106445221796163584,2019-03-15 06:41:12,"@razhades Bonjour Hadès, la mission QADO75 a été transformée en ILOT02 et sera terminus en gare de Mitry. Bonne journée à vous ! Joy",0,0,0,0,0
 1106447791176499201,2019-03-15 06:51:24,"@razhades Hadès, une mission à destination de Mitry a été supprimée suite à une avarie sur le matériel, de ce fait, la régulation a modifié une mission QADO en mission ILOT. Bonne journée à vous ! Joy",0,0,0,1,0
@@ -7271,7 +7271,7 @@ Bon week-end ^T",0,1,0,0,0
 1106615086800650240,2019-03-15 17:56:11,"@Seby75609119 Bonjour, dans quelle gare allez-vous ? ^b",0,0,0,0,0
 1106615396856139778,2019-03-15 17:57:25,Un train à destination de l'aéroport CDG stationne à Gare du Nord suite à l'actionnement d'un signal d'alarme. #RERB,1,1,0,0,0
 1106615630810279942,2019-03-15 17:58:20,"@_erwinb Bonjour Christophe, merci de votre signalement. Je transmets à nos équipes ! Bonne soirée. ^b",0,0,0,0,0
-1106616135292731394,2019-03-15 18:00:21,"(Signal d'alarme à Gare du Nord): fin d'incident, le train #RERB à destination de l'aéroport CDG va pouvoir repartir",0,0,0,0,0
+1106616135292731394,2019-03-15 18:00:21,"(Signal d'alarme à Gare du Nord): fin d'incident, le train #RERB à destination de l'aéroport CDG va pouvoir repartir",0,1,0,0,0
 1106617990299168769,2019-03-15 18:07:43,@Seby75609119 Avez-vous pu prendre un train ? Des dessertes ont été ajoutées sur la mission PAKE04 à destination de St Rémy. ^b,0,0,0,0,0
 1106620982196948992,2019-03-15 18:19:36,"@Seby75609119 Oui vous avez raison ! Toutes nos excuses, les arrêts supplémentaires n'ont pas été rajoutés tout de suite. Bon courage pour la poursuite de votre trajet. ^b",0,0,1,0,1
 1106624195415429121,2019-03-15 18:32:22,"@MaghraouiHisham Bonsoir Hisham, effectivement LEVI22 a rencontré des difficultés pour fermer ses potes à Châtelet mais a pu repartir. Bon courage pour la poursuite de votre trajet. ^b",0,0,0,0,1
@@ -7281,4 +7281,4 @@ Bon week-end ^T",0,1,0,0,0
 1106894067449909250,2019-03-16 12:24:45,"RT @Seuleenface: TWITTER
 Perdu mon portable vers 00h20 nuit du 15 mars
 Samsung Galaxy A5 (2017)
-Coque noire qui se ferme, dedans ma carte é…",243,0,0,0,0
+Coque noire qui se ferme, dedans ma carte é…",251,0,0,0,0
