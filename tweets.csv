@@ -1406,11 +1406,11 @@ Des bus de remplacement desserviront toutes les gares entre Aulnay sous Bois et 
 1059091762675924992,2018-11-04 14:35:27,"@Lorin6401 Bonjour, les travaux se terminent ce soir à la fin de service. Le trafic prévu dès demain à la prise de service est un trafic régulier. Bonne journée. ^b",0,0,0,0,0
 1059092180168593410,2018-11-04 14:37:07,"@AndrewMitul Bonjour, les travaux se terminent ce soir à la fin de service. Le trafic prévu dès demain à la prise de service est un trafic régulier. Je comprends tout à fait votre point de vue mais ces travaux sont néanmoins nécessaires. Bon dimanche. ^b",0,0,0,0,0
 1059093677350535169,2018-11-04 14:43:04,"@Vinced_93 Bonjour, oui les travaux se terminent ce soir. Le trafic prévu pour la journée de demain est un trafic régulier. Bonne journée. ^b",0,0,0,0,0
-1059099059175260160,2018-11-04 15:04:27,"Ce soir dès 22h30, les trains #RERB seront terminus Châtelet-les-Halles. Les bus de substitution partiront de Gare du Nord.",5,3,0,0,0
 1059099060471250944,2018-11-04 15:04:27,"En direction du nord:
 -dernier départ de Châtelet à destination de La Plaine SDF: 22h29
 -dernier départ de Châtelet à destination de Gare du Nord: 22h44
  Après 22h44, tous les trains seront terminus Châtelet. #RERB",3,2,0,0,0
+1059099059175260160,2018-11-04 15:04:27,"Ce soir dès 22h30, les trains #RERB seront terminus Châtelet-les-Halles. Les bus de substitution partiront de Gare du Nord.",5,3,0,0,0
 1059099061670813696,2018-11-04 15:04:28,"En direction du sud:
 -dernier départ à La Plaine à 22h41 (passage à Châtelet à 22h53)
 -dernier départ à Gare du Nord à 22h56 (passage à Châtelet à 22h59). #RERB",3,2,0,0,0
@@ -4872,7 +4872,7 @@ Nous lançons avec @RATPg…",55,0,0,0,0
 1087644482114342912,2019-01-22 09:33:46,"@JslMaud Bonjour Maud, pour l'instant pas de perturbations suite aux conditions météo. N'hésitez pas à revenir vers moi avant d'effectuer votre trajet. Bonne journée. ^b",0,0,0,0,0
 1087645206852308992,2019-01-22 09:36:39,"@NamiNoMugiwara Bonjour, merci de votre retour ! Bonne journée ! ^b",0,0,0,0,0
 1087647651804397568,2019-01-22 09:46:22,"@DeebyWest Bonjour, pour l'instant le trafic n'est pas impacté par la neige. Nous communiquerons tout change sur l'état de la circulation. Bonne journée. ^b",0,3,0,0,0
-1087648617127706625,2019-01-22 09:50:12,"Suite à la chute d'un objet sur les voies à Bourg-la-Reine, les trains stationnent à l'entrée de la gare, dans les deux sens de circulation. #RERB",7,14,0,0,0
+1087648617127706625,2019-01-22 09:50:12,"Suite à la chute d'un objet sur les voies à Bourg-la-Reine, les trains stationnent à l'entrée de la gare, dans les deux sens de circulation. #RERB",7,15,0,0,0
 1087649498401255424,2019-01-22 09:53:42,"@Groubill Bonjour, non bien sûr 😉  Bonne journée ! ^b",0,0,0,0,0
 1087649673039495168,2019-01-22 09:54:24,(Objet tombé sur les voies à Bourg-la-Reine): fin d'incident. #RERB,3,7,0,0,0
 1087649998702104578,2019-01-22 09:55:41,"@ac_noss Bonjour, oui les trains circulent sur l'ensemble de la ligne. Bonne journée ! ^b",0,0,0,0,0
@@ -7281,7 +7281,7 @@ Bon week-end ^T",0,1,0,0,0
 1106894067449909250,2019-03-16 12:24:45,"RT @Seuleenface: TWITTER
 Perdu mon portable vers 00h20 nuit du 15 mars
 Samsung Galaxy A5 (2017)
-Coque noire qui se ferme, dedans ma carte é…",296,0,0,0,0
+Coque noire qui se ferme, dedans ma carte é…",297,0,0,0,0
 1107363335861874689,2019-03-17 19:29:27,"20:28, le trafic est interrompu entre Aulnay et Mitry-Claye. Reprise estimée à 22:30. (accident grave de personne)  #RERB",2,4,0,0,0
 1107365220811448320,2019-03-17 19:36:57,"@Yasko7711 Bonjour, le trafic est maintenu entre CDG et Aulnay-sous-Bois. Bonne soirée. Kriss",0,0,0,0,0
 1107365947415973888,2019-03-17 19:39:50,"@axeld02290 Bonjour, je vous conseille de vous rendre sur le site https://t.co/FoiRDLFtgC
@@ -7559,7 +7559,12 @@ Bonne soirée.Kriss",0,1,0,0,0
 1108278022409457664,2019-03-20 08:04:06,"@DLehalle Bonjour, l'incident sur la ligne D qui impactait notre ligne est terminé. Merci pour votre message, bonne journée ! ^b",0,0,0,0,0
 1108278843775827968,2019-03-20 08:07:21,@DLehalle Merci beaucoup ! Bonne journée également ! 🙂 ^b,0,0,0,0,0
 1108282659510333441,2019-03-20 08:22:31,"[🌸🌱C’est le #Printemps ] Pour fêter le retour des beaux jours, nous vous proposons un jeu-concours sur le Blog. Répondez à quelques questions pour remporter de nombreuses balades sur le territoire #RERB et @RER_A  jusqu’au 22 mars ! Bonne chance 🍀 ! https://t.co/6K8rACTQSB",4,9,0,0,0
-1108338391324741633,2019-03-20 12:03:59,"Bonjour à tous, Joy pour vous accompagner jusqu'à 20h00. N'hésitez pas à me solliciter pendant votre trajet sur le #RERB. Bonne journée !",0,3,0,0,0
+1108338391324741633,2019-03-20 12:03:59,"Bonjour à tous, Joy pour vous accompagner jusqu'à 20h00. N'hésitez pas à me solliciter pendant votre trajet sur le #RERB. Bonne journée !",0,4,0,0,0
 1108346157128994816,2019-03-20 12:34:50,"@Miikette Bonjour, toutes nos excuses pour cette situation, je remonte votre tweet à nos équipes ! Bonne journée à vous ! Joy",0,0,1,0,0
 1108361410264875009,2019-03-20 13:35:27,"🚨 Suite à l'actionnement d'un signal d'alarme sur la mission PIST46 à destination de St Rémy, le train stationne actuellement en gare de Gif sur Yvette #RERB",0,1,0,0,0
 1108364437398999040,2019-03-20 13:47:28,[ 🚨 Signal d'alarme ] Fin d'incident en gare de Gif sur Yvette #RERB,0,1,0,0,0
+1108387140843507718,2019-03-20 15:17:41,@mary_astride Bonjour et belle première journée de printemps à vous 💐 ! Belle journée ! Joy,0,2,0,0,0
+1108389777118773251,2019-03-20 15:28:10,@razhades Oulala glagla 🤒 ! Personnellement je préfère quand même les fleurs 😅 ! Bonne journée à vous ! Joy,0,3,0,0,0
+1108394158950150146,2019-03-20 15:45:35,"Suite à un bagage oublié dans la mission SOME36, ce train a été supprimé au départ de Mitry #RERB",0,0,0,0,0
+1108395774835154944,2019-03-20 15:52:00,"@SebastienCholay Bonjour, la mission suivante au départ de Mitry SOME44 est actuellement à l'heure. Bonne journée. Joy",0,0,0,0,0
+1108397149715345408,2019-03-20 15:57:28,"🔧 Suite à une avarie sur la mission KUBY42 à destination de Massy Palaiseau, le train est supprimé à Aulnay sous Bois #RERB",0,0,0,0,0
