@@ -6133,7 +6133,7 @@ Veuillez nous excuser de la gêne occasionnée. #RERB.",1,3,1,0,0
 1096084127999246336,2019-02-14 16:29:55,@yoanmamou EINE63 qui est à quai. ^b,0,0,0,0,0
 1096084585274851328,2019-02-14 16:31:44,"@Izac75 Bonjour, au départ de quelle gare ? Il n'y a pas d'interruption de trafic sur la ligne mais des retards suite à un train en panne en direction de Paris (à Massy-Verrières). ^b",0,0,0,0,0
 1096085209714438147,2019-02-14 16:34:12,"@Mli67106624 Bonjour Méli, oui toutes nos excuses. Suite à l'incident les trains circulent avec une dizaine de minutes de retard. Merci pour vos encouragements ! ^b",0,0,1,0,0
-1096085328065122305,2019-02-14 16:34:41,"@lubv91440 Bonjour, oui le trafic est perturbé dans les deux sens de circulation. ^b",0,0,0,0,0
+1096085328065122305,2019-02-14 16:34:41,"@lubv91440 Bonjour, oui le trafic est perturbé dans les deux sens de circulation. ^b",0,1,0,0,0
 1096085515319894017,2019-02-14 16:35:25,"@nicolascarlie14 Bonjour Nicolas, merci de votre message, je transmets ! ^b",0,0,0,0,0
 1096085731926335488,2019-02-14 16:36:17,(Train en panne à Massy-Verrières): fin d'incident. Le trafic #RERB reste perturbé sur l'ensemble de la ligne.,1,7,0,0,0
 1096086295712055296,2019-02-14 16:38:31,"@Izac75 L'incident est terminé, mais une marge est nécessaire en plus de votre trajet. Si vous partez maintenant, il faut compter 15 minutes en plus. ^b",0,0,0,0,0
@@ -7837,3 +7837,15 @@ la fréquence des bus de substitution c'est aussi par ici👉: https://t.co/jRcO
 1110943857909346304,2019-03-27 16:37:10,"@SebastienCholay Bonjour Sébastien, pas d'arrêt supplémentaire pour LEVE48. Arrêts non marqués à Gentilly, Arcueil, Parc de Sceaux, Fontaine Michalon, Les Baconnets et Massy-Verrières. ^b",0,0,0,0,0
 1110948106949062656,2019-03-27 16:54:03,@SebastienCholay Dans quelle gare s'est-il arrêté précisément ? ^b,0,0,0,0,0
 1110948655807238146,2019-03-27 16:56:14,@SebastienCholay Je n'étais pas au courant de cet arrêt supplémentaire. ^b,0,0,0,0,0
+1110950371478900739,2019-03-27 17:03:03,"@SebastienCholay Oui, toutes nos excuses pour cette situation. Bonne soirée également. ^b",0,0,1,0,0
+1110950740120559616,2019-03-27 17:04:31,"@gegedize Bonjour, pour effectuer quel trajet ? ^b",0,0,0,0,0
+1110952081551167488,2019-03-27 17:09:51,@gegedize SOME60 est actuellement à Cité Universitaire. ^b,0,0,0,0,0
+1110952831891263492,2019-03-27 17:12:50,"@jolliyaya Bonjour, LEVE56 ne s'est pas arrêté à Laplace ? ^b",0,0,0,0,0
+1110953868618289152,2019-03-27 17:16:57,"@KJurietti Bonsoir Franck, effectivement PAPO54 cumule une dizaine de minutes de retard sur son parcours actuellement à Antony. Constatez-vous toujours ce ralentissent ? Il n'est pourtant gêné par aucun train devant lui. ^b",0,0,0,0,0
+1110954283569242116,2019-03-27 17:18:36,"@razhades J'ai vu vos messages, je les ai transmis. Toutes nos excuses ! Il y a eu une mesure de régulation effectuée à la dernière minute et pour Arcueil vous avez du laisser passer quelques trains 😥 ^b",0,1,1,1,0
+1110955023163367425,2019-03-27 17:21:32,"@KJurietti Ah oui, donc vous avez du encore plus subir les ralentissements. Le train devant vous est à Croix de Berny, normalement ça devrait rouler à allure normale. Bon courage à vous. ^b",0,1,0,0,1
+1110955563716890624,2019-03-27 17:23:41,"@pbcbn Bonsoir, vous pouvez déposer votre réclamation via le formulaire ci-joint: https://t.co/acVrQ3EmaW. Bonne soirée. ^b",0,0,0,0,0
+1110955736820056064,2019-03-27 17:24:22,"@KJurietti Bonne soirée, tout de même Franck. ^b",0,0,0,0,0
+1110959312032149504,2019-03-27 17:38:35,"@BertrandLapraye Bonjour Bertrand, ravie que votre trajet se soit déroulé ainsi. Merci pour votre message. Bonne soirée. ^b",0,0,0,0,0
+1110960408154857473,2019-03-27 17:42:56,"@Guylsan Bonsoir, vous avez LEVE96 entre La Plaine et Gare du Nord. ^b",0,1,0,0,0
+1110960952130916354,2019-03-27 17:45:06,"@Plusdetrains Bonsoir, des trains ont été supprimés et les arrêts non marqués seront ajoutés aux trains suivants. Bonne soirée. ^b",0,0,0,0,0
