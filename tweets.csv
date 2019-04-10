@@ -1015,12 +1015,12 @@ Interruption des circulations les 3 &amp; 4 novembre pour modernisation des inst
 1055784024386473984,2018-10-26 11:31:41,"@AndrewMitul Oui je comprends, concernant les malaises voyageur c'est assez délicat, certaines personnes ne peuvent pas sortir du train à cause de leur état et une intervention des secours est demandée. Ce genre d'incident perturbe effectivement le trafic. Bon week-end ! ^b",0,0,0,0,0
 1055804560621613057,2018-10-26 12:53:17,Les 3 et 4 novembre prochain le trafic du #RERB sera interrompu entre La Plaine Stade de France et Aéroport CDG/Mitry Claye. @SNCFReseau rénove 16 km de caténaires entre le Bourget et Aulnay-sous-Bois. https://t.co/VGEPlDK5gB,21,28,0,0,0
 1055804563138232320,2018-10-26 12:53:18,"Objectifs de l’opération : éviter les incidents sur la caténaire, adapter les installations à la croissance du trafic du RER B et optimiser le découpage électrique de la partie nord de la ligne B. Ce redécoupage permettra en cas d’incident d’isoler un secteur plus restreint. https://t.co/PH4bxHqo5l",4,3,0,0,0
+1055804567231840256,2018-10-26 12:53:19,"La caténaire est essentielle à la circulation. Elle permet d'alimenter électriquement les trains. Le captage du courant par le train s'effectue par un pantographe, bras articulé en forme de Z placé en toiture du train qui frotte la caténaire pour capter l'électricité.",2,3,0,0,0
 1055804565667414018,2018-10-26 12:53:19,"La rénovation de la caténaire est une opération complexe, elle se prépare depuis 3 ans et en 3 phases :
 - De janvier à l'été 2018 : travaux préparatoires;
 - Juillet-août 2018 : déroulage de la caténaire; 
 - 3 et 4 novembre : finition et mise en service.
  https://t.co/504ajzFacq",5,7,0,0,0
-1055804567231840256,2018-10-26 12:53:19,"La caténaire est essentielle à la circulation. Elle permet d'alimenter électriquement les trains. Le captage du courant par le train s'effectue par un pantographe, bras articulé en forme de Z placé en toiture du train qui frotte la caténaire pour capter l'électricité.",2,3,0,0,0
 1055817689854287872,2018-10-26 13:45:28,"@ltpkorp Bonjour, ces travaux sont nécessaires et ne peuvent qu'améliorer la situation. Bonne journée à vous et bon week-end. ^b",0,0,0,0,0
 1055818190847123456,2018-10-26 13:47:27,"@FrenchieNiam Bonjour, oui effectivement. Des bus de substitution sont mis en place ces deux jours. Bonne journée. ^b",0,0,0,0,0
 1055833053199773697,2018-10-26 14:46:30,"@CRAM_Gang Bonjour, effectivement l'affluence est importante cette semaine. Malheureusement, les infrastructures ne nous permettent pas pour l'instant de faire circuler des trains à deux étages. Bon courage pour la poursuite de votre trajet. Bonne soirée. ^b",0,0,0,0,1
@@ -1230,8 +1230,8 @@ Interruption des circulations les 3 &amp; 4 novembre pour modernisation des inst
 1057900020706488322,2018-11-01 07:39:54,"@CheronDavid  8:35. Bonjour, en raison de l'interruption de trafic (pour travaux) entre les Baconnets et Massy Palaiseau, les manoeuvres des trains génèrent un retard en direction de Paris. Bonne journée, Mat.",0,0,0,0,0
 1057911146420862976,2018-11-01 08:24:07,"@TropeLfb1 Bonjour, il faut compter entre 15 et 20 minutes. Bonne journée. Kriss",0,0,0,0,0
 1057927321636679680,2018-11-01 09:28:23,[Point travaux 🚧 #RERB Massy-Verrières] La dépose des tabliers du pont ferroviaire est en cours. https://t.co/C0HmPDRtNW,18,32,0,0,0
-1057929518390931456,2018-11-01 09:37:07,[Travaux 🚧 #RERB] Le trafic est interrompu entre Massy-Palaiseau et les Baconnets du 01/11 au 04/11 inclus. Une navette bus est mise en place entre ces deux gares. Nos agents sont à votre disposition pour vous informer pendant toute la durée des travaux : https://t.co/ImUfUqLV8x,11,19,0,0,0
 1057929520387444736,2018-11-01 09:37:07,"@Its_NoemY 10:35 Bonjour, je vous confirme qu'un service de remplacement Bus est mis en place avec une fréquence de 6 minutes aux heures de pointe, et 15 minutes aux heures creuses. Bonne journée. Mat.",0,0,0,0,0
+1057929518390931456,2018-11-01 09:37:07,[Travaux 🚧 #RERB] Le trafic est interrompu entre Massy-Palaiseau et les Baconnets du 01/11 au 04/11 inclus. Une navette bus est mise en place entre ces deux gares. Nos agents sont à votre disposition pour vous informer pendant toute la durée des travaux : https://t.co/ImUfUqLV8x,11,19,0,0,0
 1057937494833090560,2018-11-01 10:08:48,"@Youfry_  11:07 Bonjour, il faut compter environ 30 minutes sur ce trajet en fonction de la circulation routière. Bonne journée. Mat.",0,0,0,0,0
 1057940861986766848,2018-11-01 10:22:11,"@Bobox81729516 11:19 Bonjour, en raison des travaux sur la ligne B, je vous invite à prendre un train MONA ligne RER C pour un trajet d'environ 40 minutes depuis Saint-Michel. Bonne journée. Mat.",0,1,0,0,0
 1057947705320882176,2018-11-01 10:49:23,"@PicardPa  11:44 Bonjour, Depuis Saint-Michel, votre trajet s'arrêtera aux Baconnets. Un service de navette bus est mis en place entre les Baconnets et Massy Palaiseau. Les informations sont consultables sur l'application https://t.co/ijY0yo4Edo. Bonne journée. Mat",0,0,0,0,0
@@ -8369,7 +8369,7 @@ First train departing from CDG2 : KUBY50",6,7,0,0,0
 1115663313780772868,2019-04-09 17:10:36,"@fredgueguen92 Bonjour, êtes-vous toujours à Châtelet ? ^b",0,0,0,0,0
 1115663563610365953,2019-04-09 17:11:36,"@mehdim_88 @Kevin_Jacquet_ Bonsoir, la personne ne peut pas être déplacée, tout simplement. Les pompiers sont sur place. ^b",0,0,0,0,0
 1115664083993407488,2019-04-09 17:13:40,@V0u9es Tout dépend de la situation et de l'état de santé de la personne. La personne ne pouvait pas être déplacée et une intervention des pompiers était nécessaire. Les pompiers sont sur place. ^b,1,0,0,0,0
-1115664458335117312,2019-04-09 17:15:09,(Malaise voyageur à Denfert) : fin d'incident. Le train à destination de Massy-Palaiseau va pouvoir repartir. Le trafic est fortement perturbé en direction de St Rémy / Robinson. #RERB,1,2,0,0,0
+1115664458335117312,2019-04-09 17:15:09,(Malaise voyageur à Denfert) : fin d'incident. Le train à destination de Massy-Palaiseau va pouvoir repartir. Le trafic est fortement perturbé en direction de St Rémy / Robinson. #RERB,1,3,0,0,0
 1115665075136802816,2019-04-09 17:17:36,"@elaour1 Bonjour, compte tenu de l'état de santé de la personne, une intervention des pompiers était nécessaire. La personne ne pouvait pas être déplacée. L'incident est désormais terminé. ^b",0,0,0,0,0
 1115665405136261121,2019-04-09 17:18:55,"@Tutur_weiss Bonjour Arthur, je n'ai pas cette information mais malheureusement le train ne pouvait pas repartir sans l'intervention des pompiers. Bon courage. ^b",0,0,0,0,1
 1115665842421760006,2019-04-09 17:20:39,"@SenseniX Bonjour, compte tenu de l'état de santé de la personne, une intervention des pompiers était nécessaire. La personne ne pouvait pas être déplacée. L'incident est désormais terminé. ^b",0,0,0,0,0
@@ -8393,9 +8393,10 @@ First train departing from CDG2 : KUBY50",6,7,0,0,0
 1115675304796872704,2019-04-09 17:58:15,"@LC1805 Bonsoir, au départ de quelle gare ? ^b",0,0,0,0,0
 1115675625086386179,2019-04-09 17:59:31,"@Le_Champenois @hmazoyer Bonsoir, compte tenu du nombre très important du nombre de messages que j'ai reçu ce soir pendant l'incident, je ne peux malheureusement répondre à tout le monde. Toutes mes excuses. ^b",0,0,1,0,0
 1115689717859868672,2019-04-09 18:55:31,"20:54, le trafic est rétabli de Denfert vers St-Remy / Robinson (malaise voyageur)  #RERB",1,4,0,0,0
-1115828268907814913,2019-04-10 04:06:05,"Bonjour à tous, Joy pour vous accompagner jusqu'à 13h00. N'hésitez pas à me solliciter pendant votre trajet sur le #RERB. Bonne journée !",0,3,0,0,0
+1115828268907814913,2019-04-10 04:06:05,"Bonjour à tous, Joy pour vous accompagner jusqu'à 13h00. N'hésitez pas à me solliciter pendant votre trajet sur le #RERB. Bonne journée !",1,7,0,0,0
 1115829220490579969,2019-04-10 04:09:51,"@fafafafa Bonjour, pas de problème actuellement sur l'ensemble de la ligne. Bonne journée à vous ! Joy",0,0,0,0,0
 1115838765979795456,2019-04-10 04:47:47,"@SebastienCholay Bonjour Sébastien, la porte est actuellement en cours de réparation à l'instant même ! Bonne journée à vous 🙂 ! Joy",0,1,0,0,0
 1115848458483769350,2019-04-10 05:26:18,@SebastienCholay Toutes nos excuses pour cette situation. Je remonte votre tweet ! Bonne journée à vous également ! Joy,0,0,1,0,0
 1115851457927032832,2019-04-10 05:38:13,"@Julien92FR Bonjour, pas de problème actuellement sur la ligne. Bonne journée à vous ! Joy",0,0,0,0,0
 1115851814493151233,2019-04-10 05:39:38,"@razhades Bonjour Hadès, super 😁, merci pour votre retour ! Bonne journée à vous ! Joy",0,1,0,0,0
+1115862792622477312,2019-04-10 06:23:16,@DLehalle Bonjour et bonne journée à vous également ! Joy,0,0,0,0,0
