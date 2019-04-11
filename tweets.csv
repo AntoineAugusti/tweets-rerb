@@ -8417,7 +8417,7 @@ First train departing from CDG2 : KUBY50",6,7,0,0,0
 1115966913992110080,2019-04-10 13:17:00,"@SylvieSellath Bonjour, en direction du nord de la ligne (CDG/Mitry) ? ^b",0,0,0,0,0
 1115968132609454080,2019-04-10 13:21:51,"@SylvieSellath Merci de votre retour, les trains doivent être maintenus à quai dans quelques gares en répercussion de l'incident. N'hésitez pas à revenir vers moi ! ^b",0,1,0,0,0
 1115972472418050048,2019-04-10 13:39:05,"(Incident affectant la voie à Aulnay) : fin d'incident, le trafic #RERB reste perturbé en direction de l'aéroport CDG / Mitry",0,0,0,0,0
-1115977334472024074,2019-04-10 13:58:25,"En répercussion d'un incident affectant la voie à Aulnay (incident terminé), le trafic est perturbé sur l'ensemble de la ligne #RERB",2,2,0,0,0
+1115977334472024074,2019-04-10 13:58:25,"En répercussion d'un incident affectant la voie à Aulnay (incident terminé), le trafic est perturbé sur l'ensemble de la ligne #RERB",3,2,0,0,0
 1115978763840499712,2019-04-10 14:04:05,"@AlexMacombe Bonjour, pour l'instant je ne suis pas en mesure de vous indiquer une heure de retour à la normale, tout en sachant que nous entrons dans l'heure de pointe. N'hésitez pas à revenir vers moi. ^b",0,0,0,0,0
 1115984198874087424,2019-04-10 14:25:41,"@Patrick1127F Bonjour Patrick, le trafic est perturbé sur l'ensemble de la ligne. Le retard est estimé à 10 minutes, en plus de votre parcours. ^b",0,0,0,0,0
 1115986305228451845,2019-04-10 14:34:03,"@Boris_Jackson Bonjour, c'est en répercussion de l'incident qui s'est déroulé à Aulnay. Des modifications sont actuellement en cours pour rétablir le trafic au plus vite. ^b",0,0,0,0,0
@@ -8461,3 +8461,4 @@ Si vous devez voyagez, v…",7,0,0,0,0
 1116241610034110464,2019-04-11 07:28:33,"@liav54286240 Bonjour, j'ai remonté l'information à nos équipes 😉 ! Toutes nos excuses pour cette situation. Bonne journée à vous ! Joy",0,1,1,0,0
 1116245704547213312,2019-04-11 07:44:49,"❌ Fin d'incident à Gare du Nord, le trafic reste perturbé en direction de St Rémy / Robinson #RERB",2,3,0,0,0
 1116256879158726657,2019-04-11 08:29:13,✅ Retour à un trafic régulier sur l'ensemble de la ligne #RERB,0,0,0,0,0
+1116267664509370369,2019-04-11 09:12:05,"❌ Suite à un bagage oublié dans la mission KARI68 actuellement à Bourg la Reine, le train évacue ses voyageurs #RERB",5,0,0,0,0
