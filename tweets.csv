@@ -1015,12 +1015,12 @@ Interruption des circulations les 3 &amp; 4 novembre pour modernisation des inst
 1055784024386473984,2018-10-26 11:31:41,"@AndrewMitul Oui je comprends, concernant les malaises voyageur c'est assez délicat, certaines personnes ne peuvent pas sortir du train à cause de leur état et une intervention des secours est demandée. Ce genre d'incident perturbe effectivement le trafic. Bon week-end ! ^b",0,0,0,0,0
 1055804560621613057,2018-10-26 12:53:17,Les 3 et 4 novembre prochain le trafic du #RERB sera interrompu entre La Plaine Stade de France et Aéroport CDG/Mitry Claye. @SNCFReseau rénove 16 km de caténaires entre le Bourget et Aulnay-sous-Bois. https://t.co/VGEPlDK5gB,21,28,0,0,0
 1055804563138232320,2018-10-26 12:53:18,"Objectifs de l’opération : éviter les incidents sur la caténaire, adapter les installations à la croissance du trafic du RER B et optimiser le découpage électrique de la partie nord de la ligne B. Ce redécoupage permettra en cas d’incident d’isoler un secteur plus restreint. https://t.co/PH4bxHqo5l",4,3,0,0,0
+1055804567231840256,2018-10-26 12:53:19,"La caténaire est essentielle à la circulation. Elle permet d'alimenter électriquement les trains. Le captage du courant par le train s'effectue par un pantographe, bras articulé en forme de Z placé en toiture du train qui frotte la caténaire pour capter l'électricité.",2,3,0,0,0
 1055804565667414018,2018-10-26 12:53:19,"La rénovation de la caténaire est une opération complexe, elle se prépare depuis 3 ans et en 3 phases :
 - De janvier à l'été 2018 : travaux préparatoires;
 - Juillet-août 2018 : déroulage de la caténaire; 
 - 3 et 4 novembre : finition et mise en service.
  https://t.co/504ajzFacq",5,7,0,0,0
-1055804567231840256,2018-10-26 12:53:19,"La caténaire est essentielle à la circulation. Elle permet d'alimenter électriquement les trains. Le captage du courant par le train s'effectue par un pantographe, bras articulé en forme de Z placé en toiture du train qui frotte la caténaire pour capter l'électricité.",2,3,0,0,0
 1055817689854287872,2018-10-26 13:45:28,"@ltpkorp Bonjour, ces travaux sont nécessaires et ne peuvent qu'améliorer la situation. Bonne journée à vous et bon week-end. ^b",0,0,0,0,0
 1055818190847123456,2018-10-26 13:47:27,"@FrenchieNiam Bonjour, oui effectivement. Des bus de substitution sont mis en place ces deux jours. Bonne journée. ^b",0,0,0,0,0
 1055833053199773697,2018-10-26 14:46:30,"@CRAM_Gang Bonjour, effectivement l'affluence est importante cette semaine. Malheureusement, les infrastructures ne nous permettent pas pour l'instant de faire circuler des trains à deux étages. Bon courage pour la poursuite de votre trajet. Bonne soirée. ^b",0,0,0,0,1
@@ -8667,7 +8667,7 @@ Si vous devez voyagez, v…",7,0,0,0,0
 1118538141453946881,2019-04-17 15:34:09,"@audrey_a96 Bonjour Audrey, vous avez un train actuellement à Châtelet ce qui empêche votre train d'avancer. Toutes nos excuses. Bonne soirée à vous ! Joy",0,0,1,0,0
 1118538734696378374,2019-04-17 15:36:30,"@audrey_a96 Bonjour, êtes vous reparti ? Joy",0,0,0,0,0
 1118539970111836161,2019-04-17 15:41:24,"🚨 Suite à l'actionnement d'un signal d'alarme sur la mission ECCI31 à destination de Aéroport CDG, le train stationne actuellement à Parc des Expositions  #RERB",3,7,0,0,0
-1118540428217868290,2019-04-17 15:43:14,"🚨 Suite à l'actionnement d'un signal d'alarme sur la mission EPIN43 à destination de Aéroport CDG, le train stationne actuellement à Gare du Nord #RERB",4,5,0,0,0
+1118540428217868290,2019-04-17 15:43:14,"🚨 Suite à l'actionnement d'un signal d'alarme sur la mission EPIN43 à destination de Aéroport CDG, le train stationne actuellement à Gare du Nord #RERB",5,6,0,0,0
 1118540687593627650,2019-04-17 15:44:16,[ 🚨 Signal d'alarme ] Fin d'incident en gare de Parc des Expositions #RERB,2,4,0,0,0
 1118540834788511744,2019-04-17 15:44:51,[ 🚨 Signal d'alarme ] Fin d'incident en gare de Gare du Nord #RERB,2,3,0,0,0
 1118542816123158529,2019-04-17 15:52:43,"❌ Suite à l'actionnement de signaux d'alarme en gare de Parc des Expositions et Gare du Nord, le trafic est actuellement perturbé en direction de Aéroport CDG / Mitry #RERB",3,5,0,0,0
@@ -8686,5 +8686,5 @@ Si vous devez voyagez, v…",7,0,0,0,0
 1118565357705416704,2019-04-17 17:22:17,"@bvilleneuve92 Bonjour, les correspondances avec la ligne C ne sont pas assurées pour le moment. Bonne soirée ! Joy",0,0,0,0,0
 1118568483468599297,2019-04-17 17:34:43,"🔧 Suite à une avarie sur le matériel de la mission ILOU33 à destination de Mitry, le train évacue ses voyageurs en gare de Bagneux #RERB",1,4,0,0,0
 1118587723714109440,2019-04-17 18:51:10,"(Incident à Gare du Nord) C'est un court-circuit qui a provoqué une forte détonation et de fortes étincelles sur la caténaire, en direction de Charles De Gaulle 2 TGV/Mitry-Claye #RERB 1/2",8,9,0,0,0
-1118587887438761990,2019-04-17 18:51:49,"(Incident à Gare du Nord) L'incident est terminé et les vérifications d'usage effectuées, le train a pu reprendre sa course. Nous nous excusons pour la gêne occasionnée et vous souhaitons une fin de trajet plus calme #RERB 2/2",3,11,0,0,0
+1118587887438761990,2019-04-17 18:51:49,"(Incident à Gare du Nord) L'incident est terminé et les vérifications d'usage effectuées, le train a pu reprendre sa course. Nous nous excusons pour la gêne occasionnée et vous souhaitons une fin de trajet plus calme #RERB 2/2",4,11,0,0,0
 1118593606120615938,2019-04-17 19:14:32,"21:13, le trafic est rétabli sur la ligne (actionnement d'un signal d'alarme)  #RERB",0,3,0,0,0
