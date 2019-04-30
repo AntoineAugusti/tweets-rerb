@@ -1406,11 +1406,11 @@ Des bus de remplacement desserviront toutes les gares entre Aulnay sous Bois et 
 1059091762675924992,2018-11-04 14:35:27,"@Lorin6401 Bonjour, les travaux se terminent ce soir à la fin de service. Le trafic prévu dès demain à la prise de service est un trafic régulier. Bonne journée. ^b",0,0,0,0,0
 1059092180168593410,2018-11-04 14:37:07,"@AndrewMitul Bonjour, les travaux se terminent ce soir à la fin de service. Le trafic prévu dès demain à la prise de service est un trafic régulier. Je comprends tout à fait votre point de vue mais ces travaux sont néanmoins nécessaires. Bon dimanche. ^b",0,0,0,0,0
 1059093677350535169,2018-11-04 14:43:04,"@Vinced_93 Bonjour, oui les travaux se terminent ce soir. Le trafic prévu pour la journée de demain est un trafic régulier. Bonne journée. ^b",0,0,0,0,0
+1059099059175260160,2018-11-04 15:04:27,"Ce soir dès 22h30, les trains #RERB seront terminus Châtelet-les-Halles. Les bus de substitution partiront de Gare du Nord.",5,3,0,0,0
 1059099060471250944,2018-11-04 15:04:27,"En direction du nord:
 -dernier départ de Châtelet à destination de La Plaine SDF: 22h29
 -dernier départ de Châtelet à destination de Gare du Nord: 22h44
  Après 22h44, tous les trains seront terminus Châtelet. #RERB",3,2,0,0,0
-1059099059175260160,2018-11-04 15:04:27,"Ce soir dès 22h30, les trains #RERB seront terminus Châtelet-les-Halles. Les bus de substitution partiront de Gare du Nord.",5,3,0,0,0
 1059099061670813696,2018-11-04 15:04:28,"En direction du sud:
 -dernier départ à La Plaine à 22h41 (passage à Châtelet à 22h53)
 -dernier départ à Gare du Nord à 22h56 (passage à Châtelet à 22h59). #RERB",3,2,0,0,0
@@ -9098,15 +9098,20 @@ https://t.co/NmISKixtFS https://t.co/ftBgA7YgYO",6,2,0,0,0
 1122876368293957638,2019-04-29 14:52:42,"@rerb6r Sur mon écran de retard, le PINA14 accuse 1 minute de retard sur son trajet habituel. Joy",0,0,0,0,0
 1122899549712977926,2019-04-29 16:24:49,"🚨 Suite à l'actionnement d'un signal d'alarme sur la mission EVOL75 à destination de l'Aéroport CDG2, le train stationne actuellement à Gare du Nord #RERB",2,1,0,0,0
 1122900136282263554,2019-04-29 16:27:09,[ 🚨 Signal d'alarme ] Fin d'incident à Gare du Nord #RERB,0,1,0,0,0
-1123075987506454528,2019-04-30 04:05:55,"Bonjour, Alexandra pour vous accompagner jusqu'à 13h00 sur la ligne #RERB. Suite à des travaux, la gare de Croix-de-Berny est fermée jusqu'à fin de service dans les deux sens de circulation. Bonne journée à tous !",0,1,0,0,0
+1123075987506454528,2019-04-30 04:05:55,"Bonjour, Alexandra pour vous accompagner jusqu'à 13h00 sur la ligne #RERB. Suite à des travaux, la gare de Croix-de-Berny est fermée jusqu'à fin de service dans les deux sens de circulation. Bonne journée à tous !",0,2,0,0,0
 1123078225880592384,2019-04-30 04:14:49,"@razhades Hello Hadès, bien matinal ce matin ! 😉 Ahhhh merci, bon courage à vous ! 😊 A tout à l'heure ! ^b",0,1,0,0,1
 1123094183902945285,2019-04-30 05:18:14,"@ClemGwen Bonjour Gwen, merci de votre signalement concernant l'affichage à Gif. La gare nous a contactés à ce sujet et des équipes vont intervenir dès que possible. Bonne journée à vous. ^b",0,0,0,0,0
 1123094774486065152,2019-04-30 05:20:34,"@Yeyette19 Bonjour Luce, merci à vous. Une réparation est prévue dans les plus brefs délais concernant l'écran mais je n'ai pas de date précise à vous communiquer. Bonne journée à vous. 🙂 ^b",0,0,0,0,0
 1123096566552846337,2019-04-30 05:27:42,"@Jeannot911 Bonjour, ICAR47 a stationné quelques minutes à Cité U suite à une gêne à la fermeture des portes. Après plusieurs essais, il a pu repartir. Bonne journée. ^b",0,0,0,0,0
-1123099515387568128,2019-04-30 05:39:25,Des ralentissements et quelques minutes supplémentaires sur votre trajet sont à prévoir en direction de St Rémy / Robinson suite à une panne de signalisation à La Plaine Stade-de-France. #RERB,2,0,0,0,0
+1123099515387568128,2019-04-30 05:39:25,Des ralentissements et quelques minutes supplémentaires sur votre trajet sont à prévoir en direction de St Rémy / Robinson suite à une panne de signalisation à La Plaine Stade-de-France. #RERB,2,1,0,0,0
 1123099865096052738,2019-04-30 05:40:48,"@fmcinparis Bonjour, nous avons une anomalie de signalisation à La Plaine Stade de France, les trains doivent stationner plus longtemps à quai avant de pouvoir repartir. ^b",0,1,0,0,0
 1123100521970188289,2019-04-30 05:43:25,"@BDefait Bonjour Bruno, nous avons une anomalie de signalisation à La Plaine Stade-de-France, les trains doivent stationner un peu plus longtemps qu'à la normale avant de pouvoir repartir. ^b",0,0,0,0,0
-1123101058165825536,2019-04-30 05:45:33,"Suite à une panne de signalisation en gare de La Plaine Stade-de-France, le trafic #RERB est perturbé en direction de St Rémy / Robinson",3,5,0,0,0
+1123101058165825536,2019-04-30 05:45:33,"Suite à une panne de signalisation en gare de La Plaine Stade-de-France, le trafic #RERB est perturbé en direction de St Rémy / Robinson",4,9,0,0,0
 1123101445425856512,2019-04-30 05:47:05,@BDefait C'est plus précisément un signal qui impose l'arrêt en gare de La Plaine. Des vérifications sont donc nécessaires avant que les trains puissent repartir en direction de Paris. ^b,0,0,0,0,0
 1123102416436715520,2019-04-30 05:50:56,"@fredgueguen92 Bonjour Frédérique, c'est suite à une panne de signalisation en gare de La Plaine. Des mesures de régulation sont effectuées dans les deux sens de circulation. Toutes nos excuses. ^b",0,0,1,1,0
 1123103549360148480,2019-04-30 05:55:27,"@fmcinparis Bonjour Fiona, nous avons une anomalie de signalisation à La Plaine. Un signal impose l'arrêt donc les trains doivent stationner plus longtemps à quai avant de pouvoir repartir. ^b",0,0,0,0,0
+1123107384040280064,2019-04-30 06:10:41,"@Mosieur_Costard Bonjour, une dizaine de minutes de retard est engendrée sur la ligne. Des mesures de régulation et modifications sont effectuées. N'hésitez pas à revenir vers moi. ^b",0,0,0,1,0
+1123109488855265280,2019-04-30 06:19:03,"@Seb75LM Bonjour, la fermeture de certaines gares n'est pas prévue. N'hésitez pas à consulter le compte Twitter ainsi que le site https://t.co/ijY0yo4Edo et https://t.co/rcwnrZtW00 avant votre trajet. Bonne journée ! 🙂 ^b",0,1,0,0,0
+1123111299540504576,2019-04-30 06:26:14,"@TropeLfb1 Bonjour, IDOL27 a été supprimé, le prochain train qui va marquer un arrêt dans votre gare est EMOI21 est à Orsay. ^b",0,0,0,0,0
+1123118593292603392,2019-04-30 06:55:13,Retour à un trafic régulier sur l'ensemble de la ligne #RERB,0,0,0,0,0
+1123119623937900544,2019-04-30 06:59:19,"@Neko_Line Bonjour, merci beaucoup de votre message ! Bonne journée ! 😊 ^b",0,0,0,0,0
