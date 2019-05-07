@@ -1406,11 +1406,11 @@ Des bus de remplacement desserviront toutes les gares entre Aulnay sous Bois et 
 1059091762675924992,2018-11-04 14:35:27,"@Lorin6401 Bonjour, les travaux se terminent ce soir à la fin de service. Le trafic prévu dès demain à la prise de service est un trafic régulier. Bonne journée. ^b",0,0,0,0,0
 1059092180168593410,2018-11-04 14:37:07,"@AndrewMitul Bonjour, les travaux se terminent ce soir à la fin de service. Le trafic prévu dès demain à la prise de service est un trafic régulier. Je comprends tout à fait votre point de vue mais ces travaux sont néanmoins nécessaires. Bon dimanche. ^b",0,0,0,0,0
 1059093677350535169,2018-11-04 14:43:04,"@Vinced_93 Bonjour, oui les travaux se terminent ce soir. Le trafic prévu pour la journée de demain est un trafic régulier. Bonne journée. ^b",0,0,0,0,0
-1059099059175260160,2018-11-04 15:04:27,"Ce soir dès 22h30, les trains #RERB seront terminus Châtelet-les-Halles. Les bus de substitution partiront de Gare du Nord.",5,3,0,0,0
 1059099060471250944,2018-11-04 15:04:27,"En direction du nord:
 -dernier départ de Châtelet à destination de La Plaine SDF: 22h29
 -dernier départ de Châtelet à destination de Gare du Nord: 22h44
  Après 22h44, tous les trains seront terminus Châtelet. #RERB",3,2,0,0,0
+1059099059175260160,2018-11-04 15:04:27,"Ce soir dès 22h30, les trains #RERB seront terminus Châtelet-les-Halles. Les bus de substitution partiront de Gare du Nord.",5,3,0,0,0
 1059099061670813696,2018-11-04 15:04:28,"En direction du sud:
 -dernier départ à La Plaine à 22h41 (passage à Châtelet à 22h53)
 -dernier départ à Gare du Nord à 22h56 (passage à Châtelet à 22h59). #RERB",3,2,0,0,0
@@ -8504,7 +8504,7 @@ Si vous devez voyagez, v…",7,0,0,0,0
 1116583583861239809,2019-04-12 06:07:26,[ 🚨 Signal d'alarme ] Fin d'incident en gare de Cité Universitaire #RERB,4,3,0,0,0
 1116585940250583040,2019-04-12 06:16:47,"@Cece35669677 Bonjour, malheureusement le trafic est toujours perturbé sur l'ensemble de la ligne ! Toutes nos excuses. Bonne journée à vous ! Joy",0,0,1,0,0
 1116589648350892032,2019-04-12 06:31:32,"❌ Suite à un bagage oublié en gare de Aéroport CDG2, les trains sont terminus en gare de CDG1 #RERB. Heure de reprise estimée à 8h45. Pour vous rendre en gare de CDG2, veuillez emprunter le CDGVAL (navette gratuite).",3,4,0,0,0
-1116591756764569600,2019-04-12 06:39:54,"❌ Suite à la panne d'un train en gare de Drancy et d'un malaise voyageur à Gare du Nord (incidents terminés), le trafic est perturbé sur l'ensemble de la ligne #RERB",5,11,0,0,0
+1116591756764569600,2019-04-12 06:39:54,"❌ Suite à la panne d'un train en gare de Drancy et d'un malaise voyageur à Gare du Nord (incidents terminés), le trafic est perturbé sur l'ensemble de la ligne #RERB",5,12,0,0,0
 1116595934664646656,2019-04-12 06:56:30,"✅ Fin d'incident en gare de Aéroport CDG2, les trains desservent à nouveau la gare #RERB",0,3,0,0,0
 1116596759004762112,2019-04-12 06:59:47,"@Lchen69900305 Bonjour, tous les incidents sont terminés cependant le trafic reste perturbé sur l'ensemble de la ligne. Les trains circulent de nouveau jusqu'à CDG2. Bonne journée à vous. Joy",0,0,0,0,0
 1116597288510443523,2019-04-12 07:01:53,"@NinaMoGuerin Bonjour, le prochain départ de Robinson est prévu dans 4 minutes QAPO31. Joy",0,0,0,0,0
@@ -9311,3 +9311,9 @@ Les circulations ont repris ce matin entre Bourg-La-Reine et Massy-Palaiseau !",
 1125729745617018881,2019-05-07 11:51:01,"[ORLYVAL] Fin d'incident (bagage oublié), le trafic reprend progressivement sur la ligne #ORLYVAL",0,1,0,0,0
 1125754332136255488,2019-05-07 13:28:42,"@sgdlpst Bonjour, non pas d'impact sur la ligne. Bonne journée à vous. 🙂 ^b",0,1,0,0,0
 1125765324723376130,2019-05-07 14:12:23,"@Fontana14640304 Bonjour, le trafic sera bien interrompu entre Mitry-Claye et Aulnay-sous-bois. Les bus prennent le relai entre ces gares.",0,0,0,0,0
+1125783195977428992,2019-05-07 15:23:24,Un train à destination de Mitry stationne à Antony suite à l'actionnement d'un signal d'alarme. #RERB,0,2,0,0,0
+1125784255638978563,2019-05-07 15:27:37,"(Signal d'alarme à Antony): fin d'incident, le train à destination de Mitry va pouvoir repartir. #RERB",0,2,0,0,0
+1125784625148772354,2019-05-07 15:29:05,"@BenLeChatelier Bonjour, avez-vous un peu plus d'informations à me transmettre ? Dans quelle gare précisément ? Merci à vous. ^b",0,0,0,0,0
+1125786977553534976,2019-05-07 15:38:26,@BenLeChatelier Merci de vos précisions. Je me charge de transmettre votre message. Bonne soirée. ^b,0,0,0,0,0
+1125787215068573696,2019-05-07 15:39:22,Un train à destination de Mitry stationne à Gare du Nord suite à l'actionnement d'un signal d'alarme. #RERB,0,3,0,0,0
+1125788468846714880,2019-05-07 15:44:21,"(Signal d'alarme à Gare du Nord): fin d'incident, le train à destination de Mitry vient de repartir. #RERB",0,3,0,0,0
