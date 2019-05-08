@@ -1015,12 +1015,12 @@ Interruption des circulations les 3 &amp; 4 novembre pour modernisation des inst
 1055784024386473984,2018-10-26 11:31:41,"@AndrewMitul Oui je comprends, concernant les malaises voyageur c'est assez délicat, certaines personnes ne peuvent pas sortir du train à cause de leur état et une intervention des secours est demandée. Ce genre d'incident perturbe effectivement le trafic. Bon week-end ! ^b",0,0,0,0,0
 1055804560621613057,2018-10-26 12:53:17,Les 3 et 4 novembre prochain le trafic du #RERB sera interrompu entre La Plaine Stade de France et Aéroport CDG/Mitry Claye. @SNCFReseau rénove 16 km de caténaires entre le Bourget et Aulnay-sous-Bois. https://t.co/VGEPlDK5gB,21,28,0,0,0
 1055804563138232320,2018-10-26 12:53:18,"Objectifs de l’opération : éviter les incidents sur la caténaire, adapter les installations à la croissance du trafic du RER B et optimiser le découpage électrique de la partie nord de la ligne B. Ce redécoupage permettra en cas d’incident d’isoler un secteur plus restreint. https://t.co/PH4bxHqo5l",4,3,0,0,0
+1055804567231840256,2018-10-26 12:53:19,"La caténaire est essentielle à la circulation. Elle permet d'alimenter électriquement les trains. Le captage du courant par le train s'effectue par un pantographe, bras articulé en forme de Z placé en toiture du train qui frotte la caténaire pour capter l'électricité.",2,3,0,0,0
 1055804565667414018,2018-10-26 12:53:19,"La rénovation de la caténaire est une opération complexe, elle se prépare depuis 3 ans et en 3 phases :
 - De janvier à l'été 2018 : travaux préparatoires;
 - Juillet-août 2018 : déroulage de la caténaire; 
 - 3 et 4 novembre : finition et mise en service.
  https://t.co/504ajzFacq",5,7,0,0,0
-1055804567231840256,2018-10-26 12:53:19,"La caténaire est essentielle à la circulation. Elle permet d'alimenter électriquement les trains. Le captage du courant par le train s'effectue par un pantographe, bras articulé en forme de Z placé en toiture du train qui frotte la caténaire pour capter l'électricité.",2,3,0,0,0
 1055817689854287872,2018-10-26 13:45:28,"@ltpkorp Bonjour, ces travaux sont nécessaires et ne peuvent qu'améliorer la situation. Bonne journée à vous et bon week-end. ^b",0,0,0,0,0
 1055818190847123456,2018-10-26 13:47:27,"@FrenchieNiam Bonjour, oui effectivement. Des bus de substitution sont mis en place ces deux jours. Bonne journée. ^b",0,0,0,0,0
 1055833053199773697,2018-10-26 14:46:30,"@CRAM_Gang Bonjour, effectivement l'affluence est importante cette semaine. Malheureusement, les infrastructures ne nous permettent pas pour l'instant de faire circuler des trains à deux étages. Bon courage pour la poursuite de votre trajet. Bonne soirée. ^b",0,0,0,0,1
@@ -9338,5 +9338,6 @@ Les circulations ont repris ce matin entre Bourg-La-Reine et Massy-Palaiseau !",
 1126153107111591936,2019-05-08 15:53:18,"@maellefdm Bonjour, les trains circulent entre Gare du Nord et Robinson/St Rémy-lés-Cheuvreuse mais le trafic reste perturbé en raison de la panne d'un train à Aulnay sous Bois.Bonne fin de soirée.FX",0,0,0,0,0
 1126166063832600576,2019-05-08 16:44:47,"18:38, le trafic est interrompu entre Aeroport CdG 2 / Mitry - Claye et Gare du Nord. Reprise estimée à 20:30. (train en panne)  #RERB",5,2,0,0,0
 1126166272645976075,2019-05-08 16:45:37,"La résolution de l'incident s'avère plus compliqué que https://t.co/jmG1AvnCjI reprise du trafic est prolongée à 20h30.Nous vous invitons à prendre les lignes de bus 350, 351 et Roissybus pour faire le trajet Paris / Aéroport CDG-TGV2. #RERB",7,7,0,0,0
-1126189450428583936,2019-05-08 18:17:43,"20:10, le trafic est interrompu entre Aeroport Charles de Gaulle 2 TGV et Aulnay. Reprise estimée à 20:30. (train en panne)  #RERB",1,1,0,0,0
-1126194185000968202,2019-05-08 18:36:32,"20:29, le trafic est interrompu entre Aeroport Charles de Gaulle 2 TGV et Aulnay (train en panne)  #RERB",1,1,0,0,0
+1126189450428583936,2019-05-08 18:17:43,"20:10, le trafic est interrompu entre Aeroport Charles de Gaulle 2 TGV et Aulnay. Reprise estimée à 20:30. (train en panne)  #RERB",1,2,0,0,0
+1126194185000968202,2019-05-08 18:36:32,"20:29, le trafic est interrompu entre Aeroport Charles de Gaulle 2 TGV et Aulnay (train en panne)  #RERB",1,2,0,0,0
+1126205883204108288,2019-05-08 19:23:01,"21:17, le trafic est perturbé sur la ligne (train en panne)  #RERB",0,0,0,0,0
