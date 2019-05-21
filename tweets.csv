@@ -1015,12 +1015,12 @@ Interruption des circulations les 3 &amp; 4 novembre pour modernisation des inst
 1055784024386473984,2018-10-26 11:31:41,"@AndrewMitul Oui je comprends, concernant les malaises voyageur c'est assez délicat, certaines personnes ne peuvent pas sortir du train à cause de leur état et une intervention des secours est demandée. Ce genre d'incident perturbe effectivement le trafic. Bon week-end ! ^b",0,0,0,0,0
 1055804560621613057,2018-10-26 12:53:17,Les 3 et 4 novembre prochain le trafic du #RERB sera interrompu entre La Plaine Stade de France et Aéroport CDG/Mitry Claye. @SNCFReseau rénove 16 km de caténaires entre le Bourget et Aulnay-sous-Bois. https://t.co/VGEPlDK5gB,21,28,0,0,0
 1055804563138232320,2018-10-26 12:53:18,"Objectifs de l’opération : éviter les incidents sur la caténaire, adapter les installations à la croissance du trafic du RER B et optimiser le découpage électrique de la partie nord de la ligne B. Ce redécoupage permettra en cas d’incident d’isoler un secteur plus restreint. https://t.co/PH4bxHqo5l",4,3,0,0,0
-1055804567231840256,2018-10-26 12:53:19,"La caténaire est essentielle à la circulation. Elle permet d'alimenter électriquement les trains. Le captage du courant par le train s'effectue par un pantographe, bras articulé en forme de Z placé en toiture du train qui frotte la caténaire pour capter l'électricité.",2,3,0,0,0
 1055804565667414018,2018-10-26 12:53:19,"La rénovation de la caténaire est une opération complexe, elle se prépare depuis 3 ans et en 3 phases :
 - De janvier à l'été 2018 : travaux préparatoires;
 - Juillet-août 2018 : déroulage de la caténaire; 
 - 3 et 4 novembre : finition et mise en service.
  https://t.co/504ajzFacq",5,7,0,0,0
+1055804567231840256,2018-10-26 12:53:19,"La caténaire est essentielle à la circulation. Elle permet d'alimenter électriquement les trains. Le captage du courant par le train s'effectue par un pantographe, bras articulé en forme de Z placé en toiture du train qui frotte la caténaire pour capter l'électricité.",2,3,0,0,0
 1055817689854287872,2018-10-26 13:45:28,"@ltpkorp Bonjour, ces travaux sont nécessaires et ne peuvent qu'améliorer la situation. Bonne journée à vous et bon week-end. ^b",0,0,0,0,0
 1055818190847123456,2018-10-26 13:47:27,"@FrenchieNiam Bonjour, oui effectivement. Des bus de substitution sont mis en place ces deux jours. Bonne journée. ^b",0,0,0,0,0
 1055833053199773697,2018-10-26 14:46:30,"@CRAM_Gang Bonjour, effectivement l'affluence est importante cette semaine. Malheureusement, les infrastructures ne nous permettent pas pour l'instant de faire circuler des trains à deux étages. Bon courage pour la poursuite de votre trajet. Bonne soirée. ^b",0,0,0,0,1
@@ -1230,8 +1230,8 @@ Interruption des circulations les 3 &amp; 4 novembre pour modernisation des inst
 1057900020706488322,2018-11-01 07:39:54,"@CheronDavid  8:35. Bonjour, en raison de l'interruption de trafic (pour travaux) entre les Baconnets et Massy Palaiseau, les manoeuvres des trains génèrent un retard en direction de Paris. Bonne journée, Mat.",0,0,0,0,0
 1057911146420862976,2018-11-01 08:24:07,"@TropeLfb1 Bonjour, il faut compter entre 15 et 20 minutes. Bonne journée. Kriss",0,0,0,0,0
 1057927321636679680,2018-11-01 09:28:23,[Point travaux 🚧 #RERB Massy-Verrières] La dépose des tabliers du pont ferroviaire est en cours. https://t.co/C0HmPDRtNW,18,32,0,0,0
-1057929518390931456,2018-11-01 09:37:07,[Travaux 🚧 #RERB] Le trafic est interrompu entre Massy-Palaiseau et les Baconnets du 01/11 au 04/11 inclus. Une navette bus est mise en place entre ces deux gares. Nos agents sont à votre disposition pour vous informer pendant toute la durée des travaux : https://t.co/ImUfUqLV8x,11,19,0,0,0
 1057929520387444736,2018-11-01 09:37:07,"@Its_NoemY 10:35 Bonjour, je vous confirme qu'un service de remplacement Bus est mis en place avec une fréquence de 6 minutes aux heures de pointe, et 15 minutes aux heures creuses. Bonne journée. Mat.",0,0,0,0,0
+1057929518390931456,2018-11-01 09:37:07,[Travaux 🚧 #RERB] Le trafic est interrompu entre Massy-Palaiseau et les Baconnets du 01/11 au 04/11 inclus. Une navette bus est mise en place entre ces deux gares. Nos agents sont à votre disposition pour vous informer pendant toute la durée des travaux : https://t.co/ImUfUqLV8x,11,19,0,0,0
 1057937494833090560,2018-11-01 10:08:48,"@Youfry_  11:07 Bonjour, il faut compter environ 30 minutes sur ce trajet en fonction de la circulation routière. Bonne journée. Mat.",0,0,0,0,0
 1057940861986766848,2018-11-01 10:22:11,"@Bobox81729516 11:19 Bonjour, en raison des travaux sur la ligne B, je vous invite à prendre un train MONA ligne RER C pour un trajet d'environ 40 minutes depuis Saint-Michel. Bonne journée. Mat.",0,1,0,0,0
 1057947705320882176,2018-11-01 10:49:23,"@PicardPa  11:44 Bonjour, Depuis Saint-Michel, votre trajet s'arrêtera aux Baconnets. Un service de navette bus est mis en place entre les Baconnets et Massy Palaiseau. Les informations sont consultables sur l'application https://t.co/ijY0yo4Edo. Bonne journée. Mat",0,0,0,0,0
@@ -9762,14 +9762,26 @@ Petit récap des #TravauxRERB_2019 pour vous aider à mieux voyager la semaine d
 1130455751925936130,2019-05-20 12:50:28,(Avarie matériel au Bourget) : Fin d'incident. #RERB,0,3,0,0,0
 1130463279195873280,2019-05-20 13:20:23,"@Manon78190 Bonjour Manon, pour vous accompagnatrice c'est gratuit. Pour lui, si il est Francilien, il aura besoin d'un ticket ""tarif réduit"". Je vous conseille néanmoins  de confirmer mes propos auprès des agents des gares, au guichet. Bonne journée. ^b",0,2,0,0,0
 1130480102242967554,2019-05-20 14:27:14,"💬[Nouvel article Blog]: Retour sur incident du vendredi 17 mai #RERB
-Pour plus d'informations c'est par ici 👉https://t.co/CKX5aZus36",12,8,0,0,0
+Pour plus d'informations c'est par ici 👉https://t.co/CKX5aZus36",13,9,0,0,0
 1130511212997955584,2019-05-20 16:30:51,Un train à destination de Robinson stationne à Aulnay suite à l'actionnement d'un signal d'alarme. #RERB,0,0,0,0,0
 1130511620604616704,2019-05-20 16:32:28,"@JMVTT Bonjour, au départ de quelle gare ? Nous avons actuellement un train qui stationne à Aulnay suite à l'actionnement d'un signal d'alarme. ^b",0,0,0,0,0
 1130511969008652288,2019-05-20 16:33:51,"(Signal d'alarme à Aulnay) : fin d'incident, le train est reparti à destination de Robinson. #RERB",0,2,0,0,0
 1130512744095129600,2019-05-20 16:36:56,@JMVTT Actuellement 2/3 minutes de retard en direction de Bourg-la-Reine et la banlieue sud. ^b,0,0,0,0,0
 1130684603243651072,2019-05-21 03:59:51,"🙋 Bonjour à tous, Joy pour vous accompagner jusqu'à 13h00. N'hésitez pas à me solliciter pendant votre trajet sur le #RERB ! Bonne journée !",0,9,0,0,0
 1130687870283452416,2019-05-21 04:12:50,"@Melooooody77 Bonjour Melody, alors bonne nuit à vous 😉 ! Joy",0,1,0,0,0
-1130758570675441664,2019-05-21 08:53:46,"🔧 Suite à une avarie sur le matériel de la mission ILOT63, le train stationne actuellement entre les gares de La Courneuve et du Bourget #RERB",0,2,0,0,0
-1130758992932810752,2019-05-21 08:55:27,"❌ En raison de la panne d'un train en gare du Bourget, le trafic est actuellement perturbé en direction de Mitry / Aéroport CDG2 #RERB",2,1,0,0,0
-1130764188744339456,2019-05-21 09:16:05,"❌ Fin d'incident en gare du Bourget, le trafic reste perturbé en direction de Mitry / Aéroport CDG2 #RERB",0,3,0,0,0
+1130758570675441664,2019-05-21 08:53:46,"🔧 Suite à une avarie sur le matériel de la mission ILOT63, le train stationne actuellement entre les gares de La Courneuve et du Bourget #RERB",0,3,0,0,0
+1130758992932810752,2019-05-21 08:55:27,"❌ En raison de la panne d'un train en gare du Bourget, le trafic est actuellement perturbé en direction de Mitry / Aéroport CDG2 #RERB",2,2,0,0,0
+1130764188744339456,2019-05-21 09:16:05,"❌ Fin d'incident en gare du Bourget, le trafic reste perturbé en direction de Mitry / Aéroport CDG2 #RERB",0,5,0,0,0
 1130768889166663680,2019-05-21 09:34:46,@daronneisa Bonjour et merci pour votre signalement. Nous avons envoyé nos agents sur place. Bonne journée à vous ! Joy,0,0,0,0,0
+1130783204447805441,2019-05-21 10:31:39,"Bonjour à tous, Alexandra pour échanger avec vous jusqu'à 20h00 sur la ligne #RERB. Bonne journée !",1,3,0,0,0
+1130783620531183616,2019-05-21 10:33:18,Un train à destination de Massy-Palaiseau stationne à Cité Universitaire suite à l'actionnement d'un signal d'alarme. #RERB,0,1,0,0,0
+1130783999721398272,2019-05-21 10:34:49,"@_Game7_ Bonjour Swann, oui entre ces deux gares, le trafic est régulier. Bonne journée. ^b",0,0,0,0,0
+1130784576329142272,2019-05-21 10:37:06,(Signal d'alarme à Cité Universitaire) : le signal d'alarme a été tiré suite à un malaise voyageur à bord. Nos agents sont en cours d'intervention. Les pompiers sont demandés. #RERB,0,1,0,0,0
+1130785501571637248,2019-05-21 10:40:47,"En raison d'un malaise voyageur dans un train à Cité-Universitaire, le trafic #RERB est perturbé en direction de St Rémy / Robinson",0,2,0,0,0
+1130786844663320576,2019-05-21 10:46:07,"@valerie_pires2 Bonjour, nous attendons les pompiers actuellement. Vous êtes à Massy Palaiseau ? ^b",0,0,0,0,0
+1130787722975694849,2019-05-21 10:49:36,"(Malaise voyageur à Cité-Universitaire) : Nous attendons les pompiers. Une circulation en contre-sens est mise en place voie 1, en direction du sud de la ligne #RERB",0,1,0,0,0
+1130788162035507201,2019-05-21 10:51:21,(Malaise voyageur à Cité-Universitaire) : les pompiers sont sur place. #RERB,0,0,0,0,0
+1130789001034698752,2019-05-21 10:54:41,(Malaise voyageur à Cité-Universitaire) : la personne a été prise en charge par les pompiers. Le train à destination de Massy-Palaiseau va pouvoir repartir. Le trafic reste perturbé en direction de St Rémy / Robinson. #RERB,0,2,0,0,0
+1130789222456209408,2019-05-21 10:55:34,"@LiviaDobrev_ Bonjour, la personne a été prise en charge par les pompiers, le train va pouvoir repartir. Toutes nos excuses pour la gêne occasionnée. ^b",0,1,1,0,0
+1130789523615621120,2019-05-21 10:56:46,"@RelionJ Bonjour, il était avec nos agents et les pompiers sur le quai. Des annonces ont été effectuées sur le quai de Cité U. Le train va repartir, l'incident est terminé. ^b",0,0,0,0,0
+1130790231928496128,2019-05-21 10:59:35,"@machelavache Bonjour, merci de votre signalement, je transmets à nos équipes. Bonne journée. ^b",0,0,0,0,0
