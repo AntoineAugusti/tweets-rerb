@@ -1406,11 +1406,11 @@ Des bus de remplacement desserviront toutes les gares entre Aulnay sous Bois et 
 1059091762675924992,2018-11-04 14:35:27,"@Lorin6401 Bonjour, les travaux se terminent ce soir à la fin de service. Le trafic prévu dès demain à la prise de service est un trafic régulier. Bonne journée. ^b",0,0,0,0,0
 1059092180168593410,2018-11-04 14:37:07,"@AndrewMitul Bonjour, les travaux se terminent ce soir à la fin de service. Le trafic prévu dès demain à la prise de service est un trafic régulier. Je comprends tout à fait votre point de vue mais ces travaux sont néanmoins nécessaires. Bon dimanche. ^b",0,0,0,0,0
 1059093677350535169,2018-11-04 14:43:04,"@Vinced_93 Bonjour, oui les travaux se terminent ce soir. Le trafic prévu pour la journée de demain est un trafic régulier. Bonne journée. ^b",0,0,0,0,0
-1059099059175260160,2018-11-04 15:04:27,"Ce soir dès 22h30, les trains #RERB seront terminus Châtelet-les-Halles. Les bus de substitution partiront de Gare du Nord.",5,3,0,0,0
 1059099060471250944,2018-11-04 15:04:27,"En direction du nord:
 -dernier départ de Châtelet à destination de La Plaine SDF: 22h29
 -dernier départ de Châtelet à destination de Gare du Nord: 22h44
  Après 22h44, tous les trains seront terminus Châtelet. #RERB",3,2,0,0,0
+1059099059175260160,2018-11-04 15:04:27,"Ce soir dès 22h30, les trains #RERB seront terminus Châtelet-les-Halles. Les bus de substitution partiront de Gare du Nord.",5,3,0,0,0
 1059099061670813696,2018-11-04 15:04:28,"En direction du sud:
 -dernier départ à La Plaine à 22h41 (passage à Châtelet à 22h53)
 -dernier départ à Gare du Nord à 22h56 (passage à Châtelet à 22h59). #RERB",3,2,0,0,0
@@ -6201,8 +6201,8 @@ Veuillez nous excuser de la gêne occasionnée. #RERB.",1,3,1,0,0
 1096381003399077888,2019-02-15 12:09:35,"@razhades Je ne pourrais pas vous répondre, je n'ai pas du tout ces infos. Les trains sont pourtant révisés régulièrement dans nos ateliers de maintenance. ^b",0,3,0,0,0
 1096383857014833152,2019-02-15 12:20:55,"@barthetvr133 Bonjour, merci beaucoup pour votre message, c'est vraiment gentil ! 😊 Nous sommes toute les deux employées, avec Joy. Bonne journée ! 🙂",0,0,0,0,0
 1096385288648249344,2019-02-15 12:26:37,"@Nialiex @razhades Bonjour, oui bien sur je comprends tout à fait. Une maintenance est pourtant effectuée régulièrement dans les ateliers de maintenance afin d'assurer une sécurité optimale pour les voyageurs. Je transmets votre message. Bonne journée à vous. ^b",0,3,0,0,0
-1096393943703580672,2019-02-15 13:01:00,"⚠️ Clients à destination de l'aéroport CDG 1 et 2 le dimanche 17/02, sur ordre de la préfecture de Police, une opération de déminage interrompt le #RERB de 9h00 à 15 h entre Paris Gare du Nord et Aulnay-sous-Bois. Anticiper votre départ vers l'aéroport CDG. https://t.co/OpRB7W0rUd",14,10,0,0,0
 1096393942885679104,2019-02-15 13:01:00,"⚠️ Passengers going to CDG Airport on Sunday 17th of February 2019 : following a police department request, due to a bomb disposal operation, there will be no #RERB service between 09h00 AM and 03h00 PM between Gare du Nord and Aulnay. Plan in advance your trip to the Airport. https://t.co/MHwD0yVERr",7,4,0,0,0
+1096393943703580672,2019-02-15 13:01:00,"⚠️ Clients à destination de l'aéroport CDG 1 et 2 le dimanche 17/02, sur ordre de la préfecture de Police, une opération de déminage interrompt le #RERB de 9h00 à 15 h entre Paris Gare du Nord et Aulnay-sous-Bois. Anticiper votre départ vers l'aéroport CDG. https://t.co/OpRB7W0rUd",14,10,0,0,0
 1096394643414151169,2019-02-15 13:03:47,"@youri_bhd Bonjour, vous pouvez prendre le métro 5 à Gare du Nord jusqu'à Bobigny / Pablo Picasso puis le bus 93 jusqu'à CDG1. ^b",0,0,0,0,0
 1096395461202767874,2019-02-15 13:07:02,@youri_bhd Il faut compter 25 min de métro et 40 minutes de bus. Donc un peu plus d'une heure de trajet depuis Gare du Nord. ^b,0,0,0,0,0
 1096398164129660933,2019-02-15 13:17:47,"@youri_bhd Oui, si vous partez de St Lazare, c'est plus simple effectivement et plus rapide aussi. Normalement, le service RoissyBus roule mais à confirmer avant votre trajet. ^b",0,0,0,0,0
@@ -9118,7 +9118,7 @@ https://t.co/NmISKixtFS https://t.co/ftBgA7YgYO",6,2,0,0,0
 1123128063569616896,2019-04-30 07:32:51,"@KimouKami2506 Bonjour, je transmets votre message ! Bonne journée ! ^b",0,0,0,0,0
 1123156482994974720,2019-04-30 09:25:47,"👁️‍🗨️Après La Plaine-Stade de France, La Courneuve-Aubervilliers, Villepinte et le Parc des Expositions, de nouveaux espaces Co-Working vous accueillent en Gare du Bourget et de Sevran-Livry.#RERB https://t.co/xjjCyMvd02",1,4,0,0,0
 1123161778345730048,2019-04-30 09:46:49,"🚧[Travaux La Croix de Berny]  :
-avancement du terrassement de la gare #RERB. https://t.co/1AL7SBVa2u",9,15,0,0,0
+avancement du terrassement de la gare #RERB. https://t.co/1AL7SBVa2u",9,16,0,0,0
 1123165258519121920,2019-04-30 10:00:39,"Travaux prévus sur #RERB du 01/05/2019 04:30 au 05/05/2019 02:30. Pour plus d'informations, https://t.co/tvolzKAMKr",3,0,0,0,0
 1123183208424775682,2019-04-30 11:11:59,"🙋 ‍Bonjour à tous, Joy pour vous accompagner jusqu'à 20h00. N'hésitez pas à me solliciter pendant votre trajet sur le #RERB. Bonne journée ☀️ !",0,6,0,0,0
 1123197662281519104,2019-04-30 12:09:25,"@LizCherie Bonjour, pas d'interruption entre ces deux gares dimanche ! Bonne journée à vous ! Joy",0,0,0,0,0
@@ -9898,6 +9898,6 @@ Petit récap des #TravauxRERB_2019 pour vous aider à mieux voyager la semaine d
 1131958509233430528,2019-05-24 16:21:54,@cbesnardggmail1 Le SAMU et les pompiers sont actuellement sur place à Denfert et prennent en charge la personne. ^b,0,0,0,0,0
 1131960688501506048,2019-05-24 16:30:33,"@Tertiobutyle Bonjour, nos agents sont actuellement mobilisés pour faire le lien avec le SAMU, les pompiers, la Police et d'évacuer le quai concerné à Denfert. Itinéraires de substitution: https://t.co/C6ftysFaSb . ^b",0,0,0,0,0
 1131960782302961665,2019-05-24 16:30:55,"@Nolwappy Bonjour, je transmets, merci ! Bonne soirée. ^b",0,1,0,0,0
-1131963553261531136,2019-05-24 16:41:56,"@mickaelrollet1 @emirymi Nous n'avons pas à communiquer sur la nature du ""malaise"" voyageur. Cette personne nécessite des soins urgents et des mesures sont prises en conséquence. Le SAMU, pompiers et la police ont demandé l'arrêt des trains en direction du sud. ^b",0,1,0,0,0
+1131963553261531136,2019-05-24 16:41:56,"@mickaelrollet1 @emirymi Nous n'avons pas à communiquer sur la nature du ""malaise"" voyageur. Cette personne nécessite des soins urgents et des mesures sont prises en conséquence. Le SAMU, pompiers et la police ont demandé l'arrêt des trains en direction du sud. ^b",0,2,0,0,0
 1131964248916201474,2019-05-24 16:44:42,L'arrêt n'est pas marqué à Denfert-Rochereau en direction de St Rémy-Robinson jusqu'à 19h00 environ en répercussion d'une intervention du SAMU et des Pompiers sur le quai.https://t.co/DMU07gYnDM #RERB,0,2,0,0,0
 1131965454006857728,2019-05-24 16:49:29,(Intervention du SAMU à Denfert-Rochereau): Fin d'incident. L'arrêt est de nouveau marqué en direction de St Rémy / Robinson. (Premier train à desservir Denfert Rocherau: PAPO94 à Port-Royal) #RERB,0,4,0,0,0
