@@ -1406,11 +1406,11 @@ Des bus de remplacement desserviront toutes les gares entre Aulnay sous Bois et 
 1059091762675924992,2018-11-04 14:35:27,"@Lorin6401 Bonjour, les travaux se terminent ce soir à la fin de service. Le trafic prévu dès demain à la prise de service est un trafic régulier. Bonne journée. ^b",0,0,0,0,0
 1059092180168593410,2018-11-04 14:37:07,"@AndrewMitul Bonjour, les travaux se terminent ce soir à la fin de service. Le trafic prévu dès demain à la prise de service est un trafic régulier. Je comprends tout à fait votre point de vue mais ces travaux sont néanmoins nécessaires. Bon dimanche. ^b",0,0,0,0,0
 1059093677350535169,2018-11-04 14:43:04,"@Vinced_93 Bonjour, oui les travaux se terminent ce soir. Le trafic prévu pour la journée de demain est un trafic régulier. Bonne journée. ^b",0,0,0,0,0
+1059099059175260160,2018-11-04 15:04:27,"Ce soir dès 22h30, les trains #RERB seront terminus Châtelet-les-Halles. Les bus de substitution partiront de Gare du Nord.",5,3,0,0,0
 1059099060471250944,2018-11-04 15:04:27,"En direction du nord:
 -dernier départ de Châtelet à destination de La Plaine SDF: 22h29
 -dernier départ de Châtelet à destination de Gare du Nord: 22h44
  Après 22h44, tous les trains seront terminus Châtelet. #RERB",3,2,0,0,0
-1059099059175260160,2018-11-04 15:04:27,"Ce soir dès 22h30, les trains #RERB seront terminus Châtelet-les-Halles. Les bus de substitution partiront de Gare du Nord.",5,3,0,0,0
 1059099061670813696,2018-11-04 15:04:28,"En direction du sud:
 -dernier départ à La Plaine à 22h41 (passage à Châtelet à 22h53)
 -dernier départ à Gare du Nord à 22h56 (passage à Châtelet à 22h59). #RERB",3,2,0,0,0
@@ -9413,7 +9413,7 @@ https://t.co/r1RYckeyyX",3,7,0,0,0
 1127800541164318721,2019-05-13 04:59:37,"@ekinomoriN Bonjour, KUBE58 vient de partir de CDG2 en direction de Paris. ^b",0,0,0,0,0
 1127800899252965377,2019-05-13 05:01:02,"@WhatThePEB Bonjour, il y a un train actuellement à quai à Châtelet. Je viens de voir que votre train a pu quitter St Michel. ^b",0,0,0,0,0
 1127801253126393857,2019-05-13 05:02:26,@ekinomoriN Le prochain dans 3 minutes. ^b,0,0,0,0,0
-1127801473310523393,2019-05-13 05:03:19,Un train à destination de Robinson stationne à Châtelet suite à une bagarre entre voyageurs. Nos agents sont en cours d'intervention. #RERB,132,112,0,0,0
+1127801473310523393,2019-05-13 05:03:19,Un train à destination de Robinson stationne à Châtelet suite à une bagarre entre voyageurs. Nos agents sont en cours d'intervention. #RERB,132,111,0,0,0
 1127802185717305344,2019-05-13 05:06:09,"@ekinomoriN Comme indiqué sur Twitter, les applications mobiles, écrans et annonces sonores, le trafic est perturbé sur l'ensemble de la ligne. N'hésitez pas à revenir vers moi lors de votre trajet. ^b",0,0,0,0,0
 1127802543810207744,2019-05-13 05:07:34,(Bagarre à Châtelet): fin d'incident. Le train à destination de Robinson va pouvoir reprendre sa marche. #RERB,5,6,0,0,0
 1127803199371599872,2019-05-13 05:10:10,"@Ctom1114 Bonjour, suite aux difficultés de circulation sur la ligne ce matin, des départs du quai 3 Denfert sont effectués ""à l'instant"". Des annonces sonores sont effectuées et des agents des gares sont présents sur place pour guider les voyageurs. ^b",0,0,0,0,0
@@ -9972,7 +9972,7 @@ Petit récap des #TravauxRERB_2019 pour vous aider à mieux voyager la semaine d
 1133638642856079360,2019-05-29 07:38:09,🔧 La mission PIER48 évacue ses voyageurs en gare de Aulnay sous Bois suite à un problème de fermeture de portes #RERB,2,5,0,0,0
 1133667383825096704,2019-05-29 09:32:21,"@maanonxoo Bonjour Manon, un train vient de quitter Denfert. Bonne journée à vous ! Joy",0,0,0,0,0
 1133680343154876417,2019-05-29 10:23:51,"@noopyshap Bonjour, je transmets à nos équipes ! Bonne journée à vous tout de même. Joy",0,0,0,0,0
-1133680912175128578,2019-05-29 10:26:06,"🚨 Suite à l'actionnement d'un signal d'alarme sur la mission PIST10 à destination de St Rémy, le train stationne actuellement à Châtelet #RERB",0,5,0,0,0
+1133680912175128578,2019-05-29 10:26:06,"🚨 Suite à l'actionnement d'un signal d'alarme sur la mission PIST10 à destination de St Rémy, le train stationne actuellement à Châtelet #RERB",0,4,0,0,0
 1133682060881797120,2019-05-29 10:30:40,[ 🚨 Signal d'alarme ] Fin d'incident à Bourg la Reine #RERB,1,2,0,0,0
 1133683086263312386,2019-05-29 10:34:45,"Bonjour à tous, Alexandra pour vous accompagner jusqu'à 20h00 sur la ligne #RERB. Bonne journée !",0,4,0,0,0
 1133691439878217728,2019-05-29 11:07:56,"@sylvie666 Bonjour Sylvie, je me charge de remonter une nouvelle fois le signalement pour la gare de St-Michel. Toutes nos excuses pour la gêne occasionnée. Bonne journée. ^b",0,0,1,0,0
@@ -10210,14 +10210,14 @@ https://t.co/cMeMrfjzvH",5,11,0,0,0
 Petit récap des #TravauxRERB_2019 pour vous aider à mieux voyager la semaine du 10 au 16 juin : 
 Interruption des circulations à partir de 23h de mardi à vendredi, entre Aulnay-sous-Bois et l'Aéroport Charles de Gaulle. Information :👉 https://t.co/ID7LdbrhNP https://t.co/9FD7NWZf0o",4,3,0,0,0
 1136997242492149760,2019-06-07 14:04:01,"@wenjihyo Bonjour, oui bien sûr ! Bonne journée ! ^b",0,1,0,0,0
-1137004486675894272,2019-06-07 14:32:48,All #RERB staff members would like to wish #BTS fans an amazing concert. 🎶 https://t.co/5PKEWacNhA,7,25,0,0,0
 1137004484658417664,2019-06-07 14:32:48,Tous les agents du #RERB souhaitent un excellent concert aux fans de #BTS 🎶 https://t.co/He9oAtkOiv,23,82,0,0,0
+1137004486675894272,2019-06-07 14:32:48,All #RERB staff members would like to wish #BTS fans an amazing concert. 🎶 https://t.co/5PKEWacNhA,7,25,0,0,0
 1137005429706428416,2019-06-07 14:36:33,"@blackdmusic1 Bonjour, pas d'incident en cours mais il y a un concert au Stade de France ce soir, demain soir également. N'hésitez pas à revenir vers moi, si besoin. Bonne soirée. ^b",0,0,0,0,0
 1137006389564493825,2019-06-07 14:40:22,"@FabiolaSa6 Bonsoir, il est entre La Plaine Stade de France et Gare du Nord. Bonne soirée. ^b",0,1,0,0,0
 1137008819668754432,2019-06-07 14:50:01,"@sa_riaka @BTS_twt Bonjour, oui bien sûr. Dans quelle direction allez-vous ? Paris ? Bonne soiré et bon concert à vous 🎶 ! ^b",0,2,0,0,0
-1137010739116421123,2019-06-07 14:57:39,저희 RER B 전 승무원들은 BTS 팬들 모두에게 아주 멋진 콘서트가 되기를 바랍니다. https://t.co/aAHFG7UKmT,4,13,0,0,0
 1137010737480699905,2019-06-07 14:57:39,"6월 7일 금요일과 8일 토요일 양일간 BTS 팬들이 안전하게 STADE DE FRANCE  에 도착할 수 있도록, RER B 열차 운행 횟수를 보강하였습니다. 
   시간 절약을 위하여, 사전에 열차표를 예매해 주시기 바랍니다. (Ticket T  사용 불가 구간) https://t.co/xnhmlknc1z",25,53,0,0,0
+1137010739116421123,2019-06-07 14:57:39,저희 RER B 전 승무원들은 BTS 팬들 모두에게 아주 멋진 콘서트가 되기를 바랍니다. https://t.co/aAHFG7UKmT,4,13,0,0,0
 1137013144189054976,2019-06-07 15:07:12,"@Tutur_weiss Bonjour Arthur, je viens de vérifier et normalement ils fonctionnent. Oui effectivement environ 5 minutes de retard en direction du sud de la ligne (à cause de PINA14 en gare du Blanc-Mesnil). ^b",0,1,0,0,0
 1137013688672686082,2019-06-07 15:09:22,"@vtertulien Bonjour, à partir des heures de pointe (aux alentours de 17h), la gare d'Arcueil est desservie par les trains à destination de St-Rémy. ^b",0,1,0,0,0
 1137014000154226689,2019-06-07 15:10:36,"@Francedz213 Bonjour, sachez que nous essayons de répondre à tout le monde, dans la mesure du possible. Toutes nos excuses, si vous n'avez pas obtenu de réponse. ^b",0,4,1,0,0
@@ -10271,9 +10271,9 @@ Interruption des circulations à partir de 23h de mardi à vendredi, entre Aulna
 1138464050650783746,2019-06-11 15:12:35,"@Tutur_weiss Bonjour Arthur, merci pour votre signalement je remonte l'info ! Bonne fin de journée à vous. Joy",0,1,0,0,0
 1138466479391875072,2019-06-11 15:22:15,"@VctMarine Bonjour Marine, pas de soucis actuellement sur la ligne. Bonne fin de journée à vous ! Joy",0,0,0,0,0
 1138467426251788288,2019-06-11 15:26:00,"🚨 Suite à l'actionnement d'un signal d'alarme sur la mission LEVE24 à destination de Orsay, le train stationne actuellement en gare de Massy Palaiseau #RERB",2,2,0,0,0
-1138468069045612546,2019-06-11 15:28:34,🚨 Fin d'incident en gare de Massy Palaiseau #RERB,0,1,0,0,0
+1138468069045612546,2019-06-11 15:28:34,🚨 Fin d'incident en gare de Massy Palaiseau #RERB,0,2,0,0,0
 1138469259791745024,2019-06-11 15:33:17,"🚨 Suite à l'actionnement d'un signal d'alarme sur la mission LEVE40 à destination de Orsay, le train stationne actuellement en gare de Denfert Rochereau #RERB",0,2,0,0,0
-1138470366442078208,2019-06-11 15:37:41,🚨 Fin d'incident en gare de Denfert Rochereau #RERB,0,1,0,0,0
+1138470366442078208,2019-06-11 15:37:41,🚨 Fin d'incident en gare de Denfert Rochereau #RERB,0,2,0,0,0
 1138473400324767744,2019-06-11 15:49:45,"Suite à un bagage oublié dans la mission SOME52, le train stationne actuellement en gare de Châtelet #RERB",2,5,0,0,0
 1138473869847793664,2019-06-11 15:51:37,"@razhades Bonjour Hadès, êtes vous dans la mission SOME52 ? Joy",0,1,0,0,0
 1138475830592593920,2019-06-11 15:59:24,Fin d'incident en gare de Châtelet #RERB,2,3,0,0,0
@@ -10313,3 +10313,4 @@ Interruption des circulations à partir de 23h de mardi à vendredi, entre Aulna
 1138707812941488128,2019-06-12 07:21:13,"@Kmillephilibert  Bonjour, le prochain train a desservir Parc-de-Sceaux est actuellement à Massy-Verrières. Toutes nos excuses pour la gêne occasionnée. ^b",0,0,1,0,0
 1138711507305467904,2019-06-12 07:35:54,"@CetaceLaBaleine Bonjour, où êtes-vous actuellement  ? L'incident au Blanc-Mesnil est terminé, les répercussions également. Merci. ^b",0,0,0,0,0
 1138713185215799296,2019-06-12 07:42:34,"@CetaceLaBaleine Je viens de vérifier, il a effectivement du retard sur son parcours. Vous devez être à Drancy, il y a également un train juste devant vous, ce qui peut expliquer les ralentissements sur votre trajet. ^b",0,1,0,0,0
+1138728472908640256,2019-06-12 08:43:19,"@KiwiLoazo Bonjour, merci de votre signalement ! Je transmets ! Bonne journée. ^b",0,0,0,0,0
