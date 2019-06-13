@@ -1406,11 +1406,11 @@ Des bus de remplacement desserviront toutes les gares entre Aulnay sous Bois et 
 1059091762675924992,2018-11-04 14:35:27,"@Lorin6401 Bonjour, les travaux se terminent ce soir à la fin de service. Le trafic prévu dès demain à la prise de service est un trafic régulier. Bonne journée. ^b",0,0,0,0,0
 1059092180168593410,2018-11-04 14:37:07,"@AndrewMitul Bonjour, les travaux se terminent ce soir à la fin de service. Le trafic prévu dès demain à la prise de service est un trafic régulier. Je comprends tout à fait votre point de vue mais ces travaux sont néanmoins nécessaires. Bon dimanche. ^b",0,0,0,0,0
 1059093677350535169,2018-11-04 14:43:04,"@Vinced_93 Bonjour, oui les travaux se terminent ce soir. Le trafic prévu pour la journée de demain est un trafic régulier. Bonne journée. ^b",0,0,0,0,0
-1059099059175260160,2018-11-04 15:04:27,"Ce soir dès 22h30, les trains #RERB seront terminus Châtelet-les-Halles. Les bus de substitution partiront de Gare du Nord.",5,3,0,0,0
 1059099060471250944,2018-11-04 15:04:27,"En direction du nord:
 -dernier départ de Châtelet à destination de La Plaine SDF: 22h29
 -dernier départ de Châtelet à destination de Gare du Nord: 22h44
  Après 22h44, tous les trains seront terminus Châtelet. #RERB",3,2,0,0,0
+1059099059175260160,2018-11-04 15:04:27,"Ce soir dès 22h30, les trains #RERB seront terminus Châtelet-les-Halles. Les bus de substitution partiront de Gare du Nord.",5,3,0,0,0
 1059099061670813696,2018-11-04 15:04:28,"En direction du sud:
 -dernier départ à La Plaine à 22h41 (passage à Châtelet à 22h53)
 -dernier départ à Gare du Nord à 22h56 (passage à Châtelet à 22h59). #RERB",3,2,0,0,0
@@ -8112,7 +8112,7 @@ Plusieurs chantiers sont menés en parallèle, do…",46,0,0,0,0
 1112969844834566144,2019-04-02 06:47:43,"@Sawu7518 Bonjour, effectivement.. Je suis navrée de cette situation ! Des mesures sont appliquées en répercussion d'un problème de fermeture de portes à Fontaine-Michalon. Toutes nos excuses ! ^b",0,0,1,0,0
 1112970870195216384,2019-04-02 06:51:48,"@bizarrojess Bonjour, dans quelle gare êtes-vous actuellement ? Merci. ^b",0,0,0,0,0
 1112971344801681414,2019-04-02 06:53:41,"@Bru322 Bonjour Bruno, nous attendons l'autorisation de pouvoir repartir. Il y a un incident de signalisation qui vient de nous êtes signalé. Toutes nos excuses. ^b",0,0,1,0,0
-1112971688503906304,2019-04-02 06:55:03,"Suite à une panne de signalisation en gare de l'aéroport CDG1, le trafic #RERB est perturbé sur l'ensemble de la ligne.",9,9,0,0,0
+1112971688503906304,2019-04-02 06:55:03,"Suite à une panne de signalisation en gare de l'aéroport CDG1, le trafic #RERB est perturbé sur l'ensemble de la ligne.",9,8,0,0,0
 1112971932842983425,2019-04-02 06:56:01,"@Sawu7518 Effectivement, on nous a signalé à l'instant un incident de signalisation. Les trains attendent l'autorisation de pouvoir repartir, au compte goute. Toutes nos excuses. ^b",0,0,1,0,0
 1112972801475047424,2019-04-02 06:59:28,"08:58, le trafic est perturbé sur la ligne (panne de signalisation)  #RERB",0,0,0,0,0
 1112974033576919041,2019-04-02 07:04:22,@Bru322 Je vous en prie ! Bonne journée! ^b,0,0,0,0,0
