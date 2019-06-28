@@ -1406,11 +1406,11 @@ Des bus de remplacement desserviront toutes les gares entre Aulnay sous Bois et 
 1059091762675924992,2018-11-04 14:35:27,"@Lorin6401 Bonjour, les travaux se terminent ce soir à la fin de service. Le trafic prévu dès demain à la prise de service est un trafic régulier. Bonne journée. ^b",0,0,0,0,0
 1059092180168593410,2018-11-04 14:37:07,"@AndrewMitul Bonjour, les travaux se terminent ce soir à la fin de service. Le trafic prévu dès demain à la prise de service est un trafic régulier. Je comprends tout à fait votre point de vue mais ces travaux sont néanmoins nécessaires. Bon dimanche. ^b",0,0,0,0,0
 1059093677350535169,2018-11-04 14:43:04,"@Vinced_93 Bonjour, oui les travaux se terminent ce soir. Le trafic prévu pour la journée de demain est un trafic régulier. Bonne journée. ^b",0,0,0,0,0
-1059099059175260160,2018-11-04 15:04:27,"Ce soir dès 22h30, les trains #RERB seront terminus Châtelet-les-Halles. Les bus de substitution partiront de Gare du Nord.",5,3,0,0,0
 1059099060471250944,2018-11-04 15:04:27,"En direction du nord:
 -dernier départ de Châtelet à destination de La Plaine SDF: 22h29
 -dernier départ de Châtelet à destination de Gare du Nord: 22h44
  Après 22h44, tous les trains seront terminus Châtelet. #RERB",3,2,0,0,0
+1059099059175260160,2018-11-04 15:04:27,"Ce soir dès 22h30, les trains #RERB seront terminus Châtelet-les-Halles. Les bus de substitution partiront de Gare du Nord.",5,3,0,0,0
 1059099061670813696,2018-11-04 15:04:28,"En direction du sud:
 -dernier départ à La Plaine à 22h41 (passage à Châtelet à 22h53)
 -dernier départ à Gare du Nord à 22h56 (passage à Châtelet à 22h59). #RERB",3,2,0,0,0
@@ -8177,8 +8177,8 @@ Plusieurs chantiers sont menés en parallèle, do…",46,0,0,0,0
 1113029288721354753,2019-04-02 10:43:56,@TheLocalFrance Non pas de bus au terminal 3. ^b,0,0,0,0,0
 1113030120225361926,2019-04-02 10:47:14,"@TheLocalFrance Merci pour cette information, je vais transmettre à nos équipes !^b",0,0,0,0,0
 1113031111381344256,2019-04-02 10:51:10,Le trafic est interrompu sur le #RERB depuis 9h ce matin entre Parc des Expositions et Aéroport Charles de Gaulle 2. Cela fait suite à l’inondation de locaux techniques essentiels à l’exploitation ferroviaire. Cet incident est dû à des travaux sur les voiries aéroportuaires. https://t.co/nv8nWmqztv,25,21,0,0,0
-1113031114673868801,2019-04-02 10:51:11,Actuellement 12 bus sont en rotation et nous en aurons bientôt 20. Nous bénéficions d’un renfort avec des bus mis à disposition par Aéroport de Paris. https://t.co/exuaODCZPK,2,7,0,0,0
 1113031113629470720,2019-04-02 10:51:11,Heure de reprise estimée à 16h. Nous vous tiendrons informés de l’évolution de la situation. Pour l’heure nous sommes mobilisés pour faire circuler un maximum de bus entre Parc des Expositions et la gare routière de Roissypole.,2,7,0,0,0
+1113031114673868801,2019-04-02 10:51:11,Actuellement 12 bus sont en rotation et nous en aurons bientôt 20. Nous bénéficions d’un renfort avec des bus mis à disposition par Aéroport de Paris. https://t.co/exuaODCZPK,2,7,0,0,0
 1113031118448668673,2019-04-02 10:51:12,Les équipes techniques de SNCF Réseau sont mobilisées pour assainir les locaux techniques inondés et rétablir des circulations ferroviaires en toute sécurité.,3,9,0,0,0
 1113031117467254784,2019-04-02 10:51:12,"Pour l'heure nous assurons un train terminus toutes les 15 min. à Parc des Expositions depuis Gare du Nord. Ces trains sont omnibus. La situation est maintenant fluide du point de vue des rotations bus. Entre les gares CDG 1 et CDG2, il faut emprunter le métro automatique CDG VAL",3,7,0,0,0
 1113033008486014981,2019-04-02 10:58:43,"Bonjour à tous, Joy pour vous accompagner jusqu'à 20h00. Le trafic est interrompu entre Parc des Expositions et l'Aéroport CDG2 jusqu'à 16h00 environ (panne de signalisation consécutive à des travaux de voirie de l'Aéroport CDG) #RERB. https://t.co/IWNrZN91WI",1,3,0,0,0
@@ -10215,9 +10215,9 @@ Interruption des circulations à partir de 23h de mardi à vendredi, entre Aulna
 1137005429706428416,2019-06-07 14:36:33,"@blackdmusic1 Bonjour, pas d'incident en cours mais il y a un concert au Stade de France ce soir, demain soir également. N'hésitez pas à revenir vers moi, si besoin. Bonne soirée. ^b",0,0,0,0,0
 1137006389564493825,2019-06-07 14:40:22,"@FabiolaSa6 Bonsoir, il est entre La Plaine Stade de France et Gare du Nord. Bonne soirée. ^b",0,1,0,0,0
 1137008819668754432,2019-06-07 14:50:01,"@sa_riaka @BTS_twt Bonjour, oui bien sûr. Dans quelle direction allez-vous ? Paris ? Bonne soiré et bon concert à vous 🎶 ! ^b",0,2,0,0,0
-1137010739116421123,2019-06-07 14:57:39,저희 RER B 전 승무원들은 BTS 팬들 모두에게 아주 멋진 콘서트가 되기를 바랍니다. https://t.co/aAHFG7UKmT,4,13,0,0,0
 1137010737480699905,2019-06-07 14:57:39,"6월 7일 금요일과 8일 토요일 양일간 BTS 팬들이 안전하게 STADE DE FRANCE  에 도착할 수 있도록, RER B 열차 운행 횟수를 보강하였습니다. 
   시간 절약을 위하여, 사전에 열차표를 예매해 주시기 바랍니다. (Ticket T  사용 불가 구간) https://t.co/xnhmlknc1z",25,53,0,0,0
+1137010739116421123,2019-06-07 14:57:39,저희 RER B 전 승무원들은 BTS 팬들 모두에게 아주 멋진 콘서트가 되기를 바랍니다. https://t.co/aAHFG7UKmT,4,13,0,0,0
 1137013144189054976,2019-06-07 15:07:12,"@Tutur_weiss Bonjour Arthur, je viens de vérifier et normalement ils fonctionnent. Oui effectivement environ 5 minutes de retard en direction du sud de la ligne (à cause de PINA14 en gare du Blanc-Mesnil). ^b",0,1,0,0,0
 1137013688672686082,2019-06-07 15:09:22,"@vtertulien Bonjour, à partir des heures de pointe (aux alentours de 17h), la gare d'Arcueil est desservie par les trains à destination de St-Rémy. ^b",0,1,0,0,0
 1137014000154226689,2019-06-07 15:10:36,"@Francedz213 Bonjour, sachez que nous essayons de répondre à tout le monde, dans la mesure du possible. Toutes nos excuses, si vous n'avez pas obtenu de réponse. ^b",0,3,1,0,0
@@ -10945,7 +10945,7 @@ Interruption des circulations à partir de 23h de mardi à vendredi, entre Aulna
 1144128006371315712,2019-06-27 06:19:08,"@MichelUzan Bonjour, nul besoin d'insulter le conducteur, la ventilation réfrigérée ne peut pas être activée depuis le poste de conduite. Si il s'agit d'une rame rénovée, merci de me transmettre le numéro de la voiture, pour que je passe le signalement. ^b",0,0,0,0,0
 1144128184138502144,2019-06-27 06:19:50,"@LoriMyki Bonjour, il a été demandé aux conducteurs d'effectuer des annonces à ce sujet, dans la mesure du possible. Pourtant, dans les rames rénovées, comme indiqué sur les autocollants, les fenêtres doivent rester fermées. Bonne journée. ^b",0,0,0,0,0
 1144128785534672896,2019-06-27 06:22:14,"@Sweattagada Bonjour Pascale, navrée de cette situation. N'hésitez pas à me communiquer le numéro de voiture, que je puisse transmettre le signalement à nos équipes. ^b",0,0,0,0,0
-1144129230785130496,2019-06-27 06:24:00,"Suite à une suspicion de personnes sur les voies entre St Michel et Luxembourg (direction St Rémy / Robinson), une marche prudente est effectuée entre ces deux gares. #RERB",2,9,0,0,0
+1144129230785130496,2019-06-27 06:24:00,"Suite à une suspicion de personnes sur les voies entre St Michel et Luxembourg (direction St Rémy / Robinson), une marche prudente est effectuée entre ces deux gares. #RERB",2,10,0,0,0
 1144129822672719874,2019-06-27 06:26:21,"@_70NY5_ Bonjour, il a été demandé aux conducteurs d'effectuer des annonces à ce sujet, dans la mesure du possible. Pourtant, dans les rames rénovées, comme indiqué sur les autocollants, les fenêtres doivent rester fermées. Bonne journée. ^b",0,1,0,0,0
 1144130071822815233,2019-06-27 06:27:20,"@Sweattagada Merci à vous, je transmets ! Bon courage pour la poursuite de votre trajet. ^b",0,0,0,0,1
 1144130231252504576,2019-06-27 06:27:58,"@MichelUzan EBRE01, merci. ^b",0,1,0,0,0
@@ -11000,7 +11000,7 @@ Interruption des circulations à partir de 23h de mardi à vendredi, entre Aulna
 1144247025871073282,2019-06-27 14:12:04,"@DavidH____ Bonjour David, pour le moment pas de soucis sur la ligne ! Bonne journée à vous ! Joy",0,1,0,0,0
 1144248175940780035,2019-06-27 14:16:38,"@MrnDream Bonjour, si vous êtes dans une rame rénovée, merci de me communiquer le numéro de votre voiture que je puisse transmettre le signalement. Joy",0,0,0,0,0
 1144248643358273538,2019-06-27 14:18:30,"[Nouvel article Blog] Expérimentation de gestion de flux à Paris - Gare du Nord. Vous l’avez peut-être déjà remarqué, depuis ce lundi 24 juin, une expérimentation visant à mieux gérer les flux est en cours pour une durée de quelques semaines.  #RERB
-https://t.co/p0fkH1rUdK https://t.co/HPscjhNQQa",4,21,0,0,0
+https://t.co/p0fkH1rUdK https://t.co/HPscjhNQQa",4,22,0,0,0
 1144252417158131712,2019-06-27 14:33:30,[#canicule2019☀️] Nos agents #RERB  vous accueillent en gare de Villepinte et Villeparisis à 18h00 pour vous distribuer des bouteilles d’eau  ! 💦 Pensez à boire régulièrement et à vous ventiler pour éviter les risques de déshydratation. https://t.co/6kW70X5nPF,3,7,0,0,0
 1144255796261335041,2019-06-27 14:46:55,"@TeresaDauriac Bonjour, si vous êtes dans une rame rénovée, merci de me communiquer le numéro de votre voiture que je puisse transmettre le signalement. Joy",0,0,0,0,0
 1144258603496419330,2019-06-27 14:58:05,@TeresaDauriac C'est bien ça ! Merci pour votre signalement je remonte l'info à nos équipes ! Bonne journée ! Joy,0,0,0,0,0
@@ -11008,13 +11008,31 @@ https://t.co/p0fkH1rUdK https://t.co/HPscjhNQQa",4,21,0,0,0
 1144268846104227840,2019-06-27 15:38:47,"@V0u9es @Plusdetrains Bonjour, si vous êtes dans une rame rénovée, merci de me communiquer le numéro de votre voiture que je puisse transmettre le signalement. Joy",0,0,0,0,0
 1144275687517409281,2019-06-27 16:05:58,"@V0u9es Oui, c'est bien ça ! Joy",0,0,0,0,0
 1144285850672541697,2019-06-27 16:46:21,"@Lae_Mal Bonjour, je remonte l'info ! Merci pour votre signalement ! Bonne soirée à vous ! Joy",0,1,0,0,0
-1144309033056243712,2019-06-27 18:18:28,"20:15, le trafic est perturbé sur la ligne (train en panne)  #RERB",4,12,0,0,0
+1144309033056243712,2019-06-27 18:18:28,"20:15, le trafic est perturbé sur la ligne (train en panne)  #RERB",4,13,0,0,0
 1144330176823799808,2019-06-27 19:42:29,"21:41, le trafic est interrompu de Gare du Nord vers Aeroport CdG 2 / Mitry - Claye. Reprise estimée à 23:00. (train en panne)  #RERB",2,4,0,0,0
 1144334711600365569,2019-06-27 20:00:30,"21:59, le trafic est perturbé sur la ligne (train en panne)  #RERB",1,4,0,0,0
-1144396619842039808,2019-06-28 00:06:30,"02:05, le trafic est rétabli sur la ligne (train en panne)  #RERB",0,2,0,0,0
-1144456796242735104,2019-06-28 04:05:37,"Bonjour à tous, Alexandra pour vous accompagner sur la ligne #RERB jusqu'à 13h00 ! Bonne journée et bon week-end ! 🙌",0,5,0,0,0
+1144396619842039808,2019-06-28 00:06:30,"02:05, le trafic est rétabli sur la ligne (train en panne)  #RERB",0,3,0,0,0
+1144456796242735104,2019-06-28 04:05:37,"Bonjour à tous, Alexandra pour vous accompagner sur la ligne #RERB jusqu'à 13h00 ! Bonne journée et bon week-end ! 🙌",0,8,0,0,0
 1144461950379683841,2019-06-28 04:26:06,"@igehoam Bonjour, pour l'instant le trafic est régulier sur l'ensemble de la ligne. Vers quelle heure voulez-vous partir ? Dans tous les cas, n'hésitez pas à revenir vers moi ! Bonne journée ! 😉 ^b",0,1,0,0,0
 1144469885579214849,2019-06-28 04:57:38,"@V0u9es Bonjour, un train à destination de l'aéroport CDG ? ECCO53 ? Merci ! ^b",0,0,0,0,0
 1144472200323330050,2019-06-28 05:06:50,"@V0u9es Je vais transmettre, merci ! ^b",0,0,0,0,0
 1144479457266159616,2019-06-28 05:35:40,"@Yann91 Bonjour, c'est en répercussion d'une avarie sur le matériel.  Navrée de ce changement. ^b",0,0,0,0,0
 1144484979600084993,2019-06-28 05:57:37,"@ElZebr Bonjour Elena, bon courage pour la poursuite de votre parcours. Concernant les fenêtres, le message a également été transmis aux assistants de régulation présents sur les quais (à réaliser après leurs missions principales, bien entendu). Bonne journée. ^b",0,0,0,1,1
+1144486891032465408,2019-06-28 06:05:13,"@Esakama_ Bonjour, sa mission précédente a été supprimée en répercussion d'une panne matériel. ^b",0,0,0,0,0
+1144487357644546049,2019-06-28 06:07:04,Un train à destination de Mitry stationne à l'entrée de Mitry en répercussion d'une avarie sur son matériel. #RERB,1,3,0,0,0
+1144490248497352706,2019-06-28 06:18:33,"@ElZebr Malheureusement, cela ne sera pas possible, leur mission principale est de gérer le flux sur les quais dans le but que le train reparte au plus vite (éviter les sur-stationnements et créer du retard). ^b",0,0,0,0,0
+1144490567964848128,2019-06-28 06:19:49,"@Vaniphy Bonjour, pas de mesures de régulation concernant QADO91 et sera terminus à La Plaine SDF, comme prévu. ^b",0,1,0,1,0
+1144490746000502785,2019-06-28 06:20:32,@Yeyette19 @ElZebr Bonjour et merci beaucoup de votre retour ! 🙂 Bonne journée. ^b,0,0,0,0,0
+1144491559259258882,2019-06-28 06:23:46,"@MichelUzan Bonjour Michel, la ventilation réfrigérée ne peut pas être activée depuis le poste de conduite. ^b",0,0,0,0,0
+1144492813616156672,2019-06-28 06:28:45,@MichelUzan Les fenêtres sont-elles bien fermées ? Est-il possible de m'envoyer le numéro de votre voiture pour transmettre le signalement ? ^b,0,0,0,0,0
+1144493002028544000,2019-06-28 06:29:29,"@passagerrieux Bonjour, qu'avez-vous constaté ? Il n'y a pourtant pas d'incident en cours actuellement. ^b",0,0,0,0,0
+1144493193850785793,2019-06-28 06:30:15,@MichelUzan Direction CDG ? ^b,0,0,0,0,0
+1144494058254942208,2019-06-28 06:33:41,"@MichelUzan EMOI05, merci. Je transmets à nos services mais l'action ne sera pas immédiate. ^b",0,0,0,0,0
+1144495181615337479,2019-06-28 06:38:09,"@Cyborgpolitico Bonjour, avez-vous le numéro de votre voiture ? Merci. ^b",0,0,0,0,0
+1144496925128835072,2019-06-28 06:45:05,"@razhades Hello Hadès, merci pour votre message ! Fin de semaine et fin de la canicule 🙌 Bonne journée, bon courage et bon week-end ! A lundi, de matinée ! ^b 😉",0,1,0,0,1
+1144497966612226048,2019-06-28 06:49:13,"@joe_guez Bonjour, 80% des trains qui circulent sont des rames rénovées équipées de ventilation réfrigérée, mais malheureusement d'anciennes rames circulent également. Bon courage. ^b",0,0,0,0,1
+1144498451033423874,2019-06-28 06:51:09,"@FustierPierre Bonjour, s'agit-il d'une rame rénovée ? Est-il possible d'avoir le numéro de voiture. La ventilation réfrigérée ne peut pas être activée depuis le poste de conduite, je pourrais transmettre mais l'action ne sera pas immédiate. ^b",0,0,0,0,0
+1144498670173163521,2019-06-28 06:52:01,"@razhades En vacances, ça y est ? ^b",0,0,0,0,0
+1144499175066726400,2019-06-28 06:54:01,"@FustierPierre Merci Pierre, je transmets. Bon courage à vous pour la poursuite de votre trajet. ^b",0,0,0,0,1
+1144499734742220800,2019-06-28 06:56:15,@razhades J'espère bientôt de retour ! 🙂 A bientôt ! ^b,0,0,0,0,0
+1144500028158820359,2019-06-28 06:57:25,@razhades A bientôt j'espère ! 🙂 ^b,0,0,0,0,0
