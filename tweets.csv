@@ -1406,11 +1406,11 @@ Des bus de remplacement desserviront toutes les gares entre Aulnay sous Bois et 
 1059091762675924992,2018-11-04 14:35:27,"@Lorin6401 Bonjour, les travaux se terminent ce soir à la fin de service. Le trafic prévu dès demain à la prise de service est un trafic régulier. Bonne journée. ^b",0,0,0,0,0
 1059092180168593410,2018-11-04 14:37:07,"@AndrewMitul Bonjour, les travaux se terminent ce soir à la fin de service. Le trafic prévu dès demain à la prise de service est un trafic régulier. Je comprends tout à fait votre point de vue mais ces travaux sont néanmoins nécessaires. Bon dimanche. ^b",0,0,0,0,0
 1059093677350535169,2018-11-04 14:43:04,"@Vinced_93 Bonjour, oui les travaux se terminent ce soir. Le trafic prévu pour la journée de demain est un trafic régulier. Bonne journée. ^b",0,0,0,0,0
-1059099059175260160,2018-11-04 15:04:27,"Ce soir dès 22h30, les trains #RERB seront terminus Châtelet-les-Halles. Les bus de substitution partiront de Gare du Nord.",5,3,0,0,0
 1059099060471250944,2018-11-04 15:04:27,"En direction du nord:
 -dernier départ de Châtelet à destination de La Plaine SDF: 22h29
 -dernier départ de Châtelet à destination de Gare du Nord: 22h44
  Après 22h44, tous les trains seront terminus Châtelet. #RERB",3,2,0,0,0
+1059099059175260160,2018-11-04 15:04:27,"Ce soir dès 22h30, les trains #RERB seront terminus Châtelet-les-Halles. Les bus de substitution partiront de Gare du Nord.",5,3,0,0,0
 1059099061670813696,2018-11-04 15:04:28,"En direction du sud:
 -dernier départ à La Plaine à 22h41 (passage à Châtelet à 22h53)
 -dernier départ à Gare du Nord à 22h56 (passage à Châtelet à 22h59). #RERB",3,2,0,0,0
@@ -10722,8 +10722,8 @@ Interruption des circulations à partir de 23h de mardi à vendredi, entre Aulna
 1143499738513399808,2019-06-25 12:42:37,"@regretsen Oui effectivement, nous avons eu connaissance de cet incident par la gare du Bourget. Nous avons remontés aux équipes. Bonne journée. ^b",0,1,0,0,0
 1143500032664133634,2019-06-25 12:43:47,"@Lindsay_cr Merci de votre retour, je me charge de transmettre. 🙂 ^b",0,2,0,0,0
 1143517322205913088,2019-06-25 13:52:29,"@Sweattagada Merci à vous Pascale, bonne journée ! 🙂 ^b",0,0,0,0,0
-1143522620891181061,2019-06-25 14:13:33,"[#canicule2019☀️] Nos agents #RERB vous accueillent à Denfert-Rochereau dès 16h30, à Mitry à 17h30 et au Blanc-Mesnil à 18h00 pour vous distribuer des bouteilles d’eau ! 💦 Pensez à boire régulièrement et à vous ventiler pour éviter les risques de déshydratation.",2,17,0,0,0
 1143522621797076998,2019-06-25 14:13:33,https://t.co/fYzZCiFeyw,1,3,0,0,0
+1143522620891181061,2019-06-25 14:13:33,"[#canicule2019☀️] Nos agents #RERB vous accueillent à Denfert-Rochereau dès 16h30, à Mitry à 17h30 et au Blanc-Mesnil à 18h00 pour vous distribuer des bouteilles d’eau ! 💦 Pensez à boire régulièrement et à vous ventiler pour éviter les risques de déshydratation.",2,17,0,0,0
 1143528713709072385,2019-06-25 14:37:45,"@Yasko7711 Bonjour, il est actuellement à CDG2, il devrait partir d'ici quelques instants. ^b",0,0,0,0,0
 1143529010481324032,2019-06-25 14:38:56,"@Yasko7711 Il sera rendu direct jusqu'à Gare du Nord, en répercussion d'une mesure de régulation. ^b",0,0,0,1,0
 1143532910512955392,2019-06-25 14:54:26,"[#canicule2019☀️] Nos agents #RERB vous accueillent depuis 16h30 en gare de Denfert-Rochereau, pour vous distribuer des bouteilles d’eau ! Pensez à boire régulièrement et à vous ventiler pour éviter les risques de déshydratation. https://t.co/xdjqP5kI8f",5,15,0,0,0
@@ -11167,7 +11167,7 @@ Bonjour, s'agit-il d'une rame rénovée ? Est-il possible d'avoir le numéro de 
 1145972308798005248,2019-07-02 08:27:44,@Louffy086 Bonjour et bon retour ! Bonne journée ! 😉 ^b,0,1,0,0,0
 1145974970750840832,2019-07-02 08:38:18,"@Nialiex Pardon, je n'avais pas vu votre réponse. Il n'y a pas eu de terminus en gare de Châtelet ce matin. Bonne journée. ^b",0,1,0,0,0
 1146009796501544965,2019-07-02 10:56:41,"ℹ️ [Rappel] Joy est en congés cette semaine, je vous retrouve donc demain dès 06h00 sur la ligne #RERB. Bonne journée à tous ! Alexandra",0,4,0,0,0
-1146041427576705024,2019-07-02 13:02:23,"[#JapanExpo 2019] Sinon, vous pouvez aussi vous rendre à la @JapanExpo en #RERB 😉, merci à la voix de Sangoku aka @Lecordierb ! https://t.co/spY9pst164",380,1136,0,0,0
+1146041427576705024,2019-07-02 13:02:23,"[#JapanExpo 2019] Sinon, vous pouvez aussi vous rendre à la @JapanExpo en #RERB 😉, merci à la voix de Sangoku aka @Lecordierb ! https://t.co/spY9pst164",387,1151,0,0,0
 1146062195924426753,2019-07-02 14:24:54,"[Nouvel article blog] Marie Adam, nouvelle directrice de la ligne B unifiée #RERB
 https://t.co/GUtdver5gm https://t.co/s4g9XpwMnJ",11,39,0,0,0
 1146268361141231622,2019-07-03 04:04:08,"Bonjour, Alexandra pour vous accompagner sur la ligne #RERB jusqu'à 13h00. N'hésitez pas à me solliciter lors de votre trajet. Bonne journée à tous ! 😉",0,10,0,0,0
@@ -11191,11 +11191,16 @@ https://t.co/GUtdver5gm https://t.co/s4g9XpwMnJ",11,39,0,0,0
 1146317306219454464,2019-07-03 07:18:38,"@LoriMyki Bonjour, merci beaucoup pour votre message (QAPO31). Je transmets, merci pour lui ! Bonne journée ! 🙂 ^b",0,0,0,0,0
 1146324707504984064,2019-07-03 07:48:02,"@verveine1966 Bonjour, merci pour votre message que je charge de transmettre. Bonne journée. ^b",0,0,0,0,0
 1146356562472165376,2019-07-03 09:54:37,@Nialiex Je transmets votre message ! Bonne journée ! ^b,0,1,0,0,0
-1146358520914350080,2019-07-03 10:02:24,Venez-vous faire prendre en 📷 en gare du Parc des Expositions pendant la @japanexpo du 4 au 7 juillet. Les plus beaux déguisements seront récompensés. C'est Sangoku qui vous le dit @LecordierB #RERB https://t.co/kI5gCOSSUO,17,30,0,0,0
+1146358520914350080,2019-07-03 10:02:24,Venez-vous faire prendre en 📷 en gare du Parc des Expositions pendant la @japanexpo du 4 au 7 juillet. Les plus beaux déguisements seront récompensés. C'est Sangoku qui vous le dit @LecordierB #RERB https://t.co/kI5gCOSSUO,22,46,0,0,0
 1146360816654069762,2019-07-03 10:11:31,"@Nialiex C'est tout à fait normal, bonne journée Audrey ! 😉 ^b",0,1,0,0,0
 1146407414176145408,2019-07-03 13:16:41,"[Nouvel article blog] Mobilisation du #RERB pour la @japanexpo 
 https://t.co/ygyvksjL45 https://t.co/etDF3UiKwV",9,51,0,0,0
-1146630371003568133,2019-07-04 04:02:38,"Bonjour à tous, Alexandra pour vous accompagner jusqu'à 13h00 sur la ligne #RERB. N'hésitez pas à me solliciter lors de votre trajet. Bonne journée !",0,1,0,0,0
+1146630371003568133,2019-07-04 04:02:38,"Bonjour à tous, Alexandra pour vous accompagner jusqu'à 13h00 sur la ligne #RERB. N'hésitez pas à me solliciter lors de votre trajet. Bonne journée !",0,4,0,0,0
 1146642736960987136,2019-07-04 04:51:46,@papillons007 Bonjour et joyeux anniversaire à vous ! Passez une bonne journée ! 😊 ^b,0,1,0,0,0
-1146643862062084096,2019-07-04 04:56:14,Un train à destination de l'aéroport CDG stationne en gare de Drancy en répercussion de l'actionnement d'un signal d'alarme. #RERB,0,0,0,0,0
-1146644723253350400,2019-07-04 04:59:40,(Signal d'alarme à Drancy) : Fin d'incident. Le train à destination de l'aéroport CDG va pouvoir repartir. #RERB,0,0,0,0,0
+1146643862062084096,2019-07-04 04:56:14,Un train à destination de l'aéroport CDG stationne en gare de Drancy en répercussion de l'actionnement d'un signal d'alarme. #RERB,1,0,0,0,0
+1146644723253350400,2019-07-04 04:59:40,(Signal d'alarme à Drancy) : Fin d'incident. Le train à destination de l'aéroport CDG va pouvoir repartir. #RERB,2,1,0,0,0
+1146646388035469313,2019-07-04 05:06:17,"@caro91230 Bonjour Caroline, ECCO53 n'est pas supprimé mais cumule 7 minutes de retard sur son parcours. Il a été rendu direct entre Massy et Antony en répercussion d'une mesure de régulation. Il est actuellement à Bourg-la-Reine. Bonne journée, tout de même. ^b",0,0,0,1,0
+1146647422405398528,2019-07-04 05:10:23,Un train à destination de Mitry stationne à Aulnay en répercussion de l'actionnement d'un signal d'alarme. #RERB,0,1,0,0,0
+1146654291924520960,2019-07-04 05:37:41,"Un train à destination de Robinson stationne à Mitry en répercussion de l""actionnement d'un signal d'alarme. #RER",0,2,0,0,0
+1146657456778620929,2019-07-04 05:50:16,"@Yakalelo3 Bonjour, EMAL97 ? Actuellement à Gif ? ^b",0,0,0,0,0
+1146658278417604608,2019-07-04 05:53:32,"(Signal d'alarme à Mitry) : Fin d'incident, le train à destination de Robinson est reparti. #RERB",0,0,0,0,0
