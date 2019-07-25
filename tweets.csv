@@ -1406,11 +1406,11 @@ Des bus de remplacement desserviront toutes les gares entre Aulnay sous Bois et 
 1059091762675924992,2018-11-04 14:35:27,"@Lorin6401 Bonjour, les travaux se terminent ce soir à la fin de service. Le trafic prévu dès demain à la prise de service est un trafic régulier. Bonne journée. ^b",0,0,0,0,0
 1059092180168593410,2018-11-04 14:37:07,"@AndrewMitul Bonjour, les travaux se terminent ce soir à la fin de service. Le trafic prévu dès demain à la prise de service est un trafic régulier. Je comprends tout à fait votre point de vue mais ces travaux sont néanmoins nécessaires. Bon dimanche. ^b",0,0,0,0,0
 1059093677350535169,2018-11-04 14:43:04,"@Vinced_93 Bonjour, oui les travaux se terminent ce soir. Le trafic prévu pour la journée de demain est un trafic régulier. Bonne journée. ^b",0,0,0,0,0
-1059099059175260160,2018-11-04 15:04:27,"Ce soir dès 22h30, les trains #RERB seront terminus Châtelet-les-Halles. Les bus de substitution partiront de Gare du Nord.",5,3,0,0,0
 1059099060471250944,2018-11-04 15:04:27,"En direction du nord:
 -dernier départ de Châtelet à destination de La Plaine SDF: 22h29
 -dernier départ de Châtelet à destination de Gare du Nord: 22h44
  Après 22h44, tous les trains seront terminus Châtelet. #RERB",3,2,0,0,0
+1059099059175260160,2018-11-04 15:04:27,"Ce soir dès 22h30, les trains #RERB seront terminus Châtelet-les-Halles. Les bus de substitution partiront de Gare du Nord.",5,3,0,0,0
 1059099061670813696,2018-11-04 15:04:28,"En direction du sud:
 -dernier départ à La Plaine à 22h41 (passage à Châtelet à 22h53)
 -dernier départ à Gare du Nord à 22h56 (passage à Châtelet à 22h59). #RERB",3,2,0,0,0
@@ -8177,8 +8177,8 @@ Plusieurs chantiers sont menés en parallèle, do…",46,0,0,0,0
 1113029288721354753,2019-04-02 10:43:56,@TheLocalFrance Non pas de bus au terminal 3. ^b,0,0,0,0,0
 1113030120225361926,2019-04-02 10:47:14,"@TheLocalFrance Merci pour cette information, je vais transmettre à nos équipes !^b",0,0,0,0,0
 1113031111381344256,2019-04-02 10:51:10,Le trafic est interrompu sur le #RERB depuis 9h ce matin entre Parc des Expositions et Aéroport Charles de Gaulle 2. Cela fait suite à l’inondation de locaux techniques essentiels à l’exploitation ferroviaire. Cet incident est dû à des travaux sur les voiries aéroportuaires. https://t.co/nv8nWmqztv,25,21,0,0,0
-1113031113629470720,2019-04-02 10:51:11,Heure de reprise estimée à 16h. Nous vous tiendrons informés de l’évolution de la situation. Pour l’heure nous sommes mobilisés pour faire circuler un maximum de bus entre Parc des Expositions et la gare routière de Roissypole.,2,7,0,0,0
 1113031114673868801,2019-04-02 10:51:11,Actuellement 12 bus sont en rotation et nous en aurons bientôt 20. Nous bénéficions d’un renfort avec des bus mis à disposition par Aéroport de Paris. https://t.co/exuaODCZPK,2,7,0,0,0
+1113031113629470720,2019-04-02 10:51:11,Heure de reprise estimée à 16h. Nous vous tiendrons informés de l’évolution de la situation. Pour l’heure nous sommes mobilisés pour faire circuler un maximum de bus entre Parc des Expositions et la gare routière de Roissypole.,2,7,0,0,0
 1113031117467254784,2019-04-02 10:51:12,"Pour l'heure nous assurons un train terminus toutes les 15 min. à Parc des Expositions depuis Gare du Nord. Ces trains sont omnibus. La situation est maintenant fluide du point de vue des rotations bus. Entre les gares CDG 1 et CDG2, il faut emprunter le métro automatique CDG VAL",3,7,0,0,0
 1113031118448668673,2019-04-02 10:51:12,Les équipes techniques de SNCF Réseau sont mobilisées pour assainir les locaux techniques inondés et rétablir des circulations ferroviaires en toute sécurité.,3,9,0,0,0
 1113033008486014981,2019-04-02 10:58:43,"Bonjour à tous, Joy pour vous accompagner jusqu'à 20h00. Le trafic est interrompu entre Parc des Expositions et l'Aéroport CDG2 jusqu'à 16h00 environ (panne de signalisation consécutive à des travaux de voirie de l'Aéroport CDG) #RERB. https://t.co/IWNrZN91WI",1,3,0,0,0
@@ -10203,21 +10203,21 @@ https://t.co/cMeMrfjzvH",5,11,0,0,0
 1136930824786448385,2019-06-07 09:40:06,"🚨 Suite à un malaise voyageur sur la mission EPAU03 à destination de CDG2, le train stationne actuellement en gare de Orsay #RERB",0,0,0,0,0
 1136931678474199040,2019-06-07 09:43:29,"🚨 Fin d'incident en gare de Orsay, le train sera direct jusqu'à Massy Palaiseau #RERB",0,0,0,0,0
 1136946720393302016,2019-06-07 10:43:16,"Bonjour à tous, Alexandra pour échanger avec vous jusqu'à 20h00. N'hésitez pas à me solliciter lors de votre trajet sur la ligne #RERB. Bonne journée et bon week-end ! 🙌",0,8,0,0,0
-1136949612969955328,2019-06-07 10:54:45,"Vendredi 7 et samedi 8 juin, pour permettre aux fans de #BTS de se rendre au Stade de France en toute quiétude, la desserte du #RERB est renforcée ces deux journées. Pour vous permettre de gagner du temps, pensez à acheter vos titres de transport en avance (Ticket T non valable) https://t.co/UVLJXcX7gW",30,56,0,0,0
+1136949612969955328,2019-06-07 10:54:45,"Vendredi 7 et samedi 8 juin, pour permettre aux fans de #BTS de se rendre au Stade de France en toute quiétude, la desserte du #RERB est renforcée ces deux journées. Pour vous permettre de gagner du temps, pensez à acheter vos titres de transport en avance (Ticket T non valable) https://t.co/UVLJXcX7gW",30,57,0,0,0
 1136949614584709120,2019-06-07 10:54:46,"#RERB service will be increased on Friday 7 and Saturday 8 June, to allow #BTS fans to go to the Stade de France in total peace of mind. In order to save time, consider buying your tickets in advance (Ticket T not valid). https://t.co/mNqOReOBMw",6,19,0,0,0
 1136951624465821697,2019-06-07 11:02:45,"@CrciLouis Bonjour Louis, merci pour elle, je passe le message ! Bonne journée ! 😊 ^b",0,0,0,0,0
 1136970413249093634,2019-06-07 12:17:25,"🚧[Rappel Travaux]: 
 Petit récap des #TravauxRERB_2019 pour vous aider à mieux voyager la semaine du 10 au 16 juin : 
 Interruption des circulations à partir de 23h de mardi à vendredi, entre Aulnay-sous-Bois et l'Aéroport Charles de Gaulle. Information :👉 https://t.co/ID7LdbrhNP https://t.co/9FD7NWZf0o",5,3,0,0,0
 1136997242492149760,2019-06-07 14:04:01,"@wenjihyo Bonjour, oui bien sûr ! Bonne journée ! ^b",0,1,0,0,0
-1137004484658417664,2019-06-07 14:32:48,Tous les agents du #RERB souhaitent un excellent concert aux fans de #BTS 🎶 https://t.co/He9oAtkOiv,23,82,0,0,0
-1137004486675894272,2019-06-07 14:32:48,All #RERB staff members would like to wish #BTS fans an amazing concert. 🎶 https://t.co/5PKEWacNhA,7,22,0,0,0
+1137004484658417664,2019-06-07 14:32:48,Tous les agents du #RERB souhaitent un excellent concert aux fans de #BTS 🎶 https://t.co/He9oAtkOiv,23,83,0,0,0
+1137004486675894272,2019-06-07 14:32:48,All #RERB staff members would like to wish #BTS fans an amazing concert. 🎶 https://t.co/5PKEWacNhA,7,23,0,0,0
 1137005429706428416,2019-06-07 14:36:33,"@blackdmusic1 Bonjour, pas d'incident en cours mais il y a un concert au Stade de France ce soir, demain soir également. N'hésitez pas à revenir vers moi, si besoin. Bonne soirée. ^b",0,0,0,0,0
 1137006389564493825,2019-06-07 14:40:22,"@FabiolaSa6 Bonsoir, il est entre La Plaine Stade de France et Gare du Nord. Bonne soirée. ^b",0,1,0,0,0
 1137008819668754432,2019-06-07 14:50:01,"@sa_riaka @BTS_twt Bonjour, oui bien sûr. Dans quelle direction allez-vous ? Paris ? Bonne soiré et bon concert à vous 🎶 ! ^b",0,2,0,0,0
-1137010739116421123,2019-06-07 14:57:39,저희 RER B 전 승무원들은 BTS 팬들 모두에게 아주 멋진 콘서트가 되기를 바랍니다. https://t.co/aAHFG7UKmT,4,12,0,0,0
 1137010737480699905,2019-06-07 14:57:39,"6월 7일 금요일과 8일 토요일 양일간 BTS 팬들이 안전하게 STADE DE FRANCE  에 도착할 수 있도록, RER B 열차 운행 횟수를 보강하였습니다. 
-  시간 절약을 위하여, 사전에 열차표를 예매해 주시기 바랍니다. (Ticket T  사용 불가 구간) https://t.co/xnhmlknc1z",25,52,0,0,0
+  시간 절약을 위하여, 사전에 열차표를 예매해 주시기 바랍니다. (Ticket T  사용 불가 구간) https://t.co/xnhmlknc1z",25,53,0,0,0
+1137010739116421123,2019-06-07 14:57:39,저희 RER B 전 승무원들은 BTS 팬들 모두에게 아주 멋진 콘서트가 되기를 바랍니다. https://t.co/aAHFG7UKmT,4,13,0,0,0
 1137013144189054976,2019-06-07 15:07:12,"@Tutur_weiss Bonjour Arthur, je viens de vérifier et normalement ils fonctionnent. Oui effectivement environ 5 minutes de retard en direction du sud de la ligne (à cause de PINA14 en gare du Blanc-Mesnil). ^b",0,1,0,0,0
 1137013688672686082,2019-06-07 15:09:22,"@vtertulien Bonjour, à partir des heures de pointe (aux alentours de 17h), la gare d'Arcueil est desservie par les trains à destination de St-Rémy. ^b",0,1,0,0,0
 1137014000154226689,2019-06-07 15:10:36,"@Francedz213 Bonjour, sachez que nous essayons de répondre à tout le monde, dans la mesure du possible. Toutes nos excuses, si vous n'avez pas obtenu de réponse. ^b",0,3,1,0,0
@@ -10722,8 +10722,8 @@ Interruption des circulations à partir de 23h de mardi à vendredi, entre Aulna
 1143499738513399808,2019-06-25 12:42:37,"@regretsen Oui effectivement, nous avons eu connaissance de cet incident par la gare du Bourget. Nous avons remontés aux équipes. Bonne journée. ^b",0,1,0,0,0
 1143500032664133634,2019-06-25 12:43:47,"@Lindsay_cr Merci de votre retour, je me charge de transmettre. 🙂 ^b",0,2,0,0,0
 1143517322205913088,2019-06-25 13:52:29,"@Sweattagada Merci à vous Pascale, bonne journée ! 🙂 ^b",0,0,0,0,0
-1143522620891181061,2019-06-25 14:13:33,"[#canicule2019☀️] Nos agents #RERB vous accueillent à Denfert-Rochereau dès 16h30, à Mitry à 17h30 et au Blanc-Mesnil à 18h00 pour vous distribuer des bouteilles d’eau ! 💦 Pensez à boire régulièrement et à vous ventiler pour éviter les risques de déshydratation.",2,17,0,0,0
 1143522621797076998,2019-06-25 14:13:33,https://t.co/fYzZCiFeyw,1,3,0,0,0
+1143522620891181061,2019-06-25 14:13:33,"[#canicule2019☀️] Nos agents #RERB vous accueillent à Denfert-Rochereau dès 16h30, à Mitry à 17h30 et au Blanc-Mesnil à 18h00 pour vous distribuer des bouteilles d’eau ! 💦 Pensez à boire régulièrement et à vous ventiler pour éviter les risques de déshydratation.",2,17,0,0,0
 1143528713709072385,2019-06-25 14:37:45,"@Yasko7711 Bonjour, il est actuellement à CDG2, il devrait partir d'ici quelques instants. ^b",0,0,0,0,0
 1143529010481324032,2019-06-25 14:38:56,"@Yasko7711 Il sera rendu direct jusqu'à Gare du Nord, en répercussion d'une mesure de régulation. ^b",0,0,0,1,0
 1143532910512955392,2019-06-25 14:54:26,"[#canicule2019☀️] Nos agents #RERB vous accueillent depuis 16h30 en gare de Denfert-Rochereau, pour vous distribuer des bouteilles d’eau ! Pensez à boire régulièrement et à vous ventiler pour éviter les risques de déshydratation. https://t.co/xdjqP5kI8f",5,15,0,0,0
@@ -12288,7 +12288,7 @@ Bonjour, si vous êtes dans une rame rénovée, merci de me communiquer le numé
 1154357958794518529,2019-07-25 11:49:18,"@CLEMENTfreds Bonjour, nous ne disposons pas de climatisation dans les rames rénovées mais d'une ventilation réfrigérée qui fait descendre la température de quelques degrés dans les rames (fenêtres fermées). Bonne journée à vous ! Joy",0,0,0,0,0
 1154362922505838592,2019-07-25 12:09:02,"@dylan_onuggets Bonjour, en effet, le forfait anti-pollution est reconduit pour aujourd'hui. Bonne journée ! Joy",0,2,0,0,0
 1154369555042590722,2019-07-25 12:35:23,"@clementhouchoua Bonjour Clément, je remonte votre signalement. Bonne journée à vous et bon service ! Joy",0,2,0,0,0
-1154376267011186689,2019-07-25 13:02:03,"[🔴 Info trafic #Canicule 🌡️] Cet après-midi, une limitation temporaire de vitesse est mise en place sur le #RERB, en raison de l’application des mesures « fortes chaleurs ». Plus d’explications sur le Blog 👇 https://t.co/ZJAKVXowzt",10,8,0,0,0
+1154376267011186689,2019-07-25 13:02:03,"[🔴 Info trafic #Canicule 🌡️] Cet après-midi, une limitation temporaire de vitesse est mise en place sur le #RERB, en raison de l’application des mesures « fortes chaleurs ». Plus d’explications sur le Blog 👇 https://t.co/ZJAKVXowzt",12,9,0,0,0
 1154377026004013057,2019-07-25 13:05:04,"❌ En raison d'un incident affectant la voie en gare d'Aulnay sous Bois, le trafic est actuellement ralenti sur l'ensemble de la ligne #RERB",7,3,0,0,0
 1154378761145655296,2019-07-25 13:11:58,@Sharpyno Bonjour Norah et merci pour vos encouragements 🙌🏼. Bon courage à vous également ! Joy,0,0,0,0,1
 1154379219666948096,2019-07-25 13:13:47,"@razhades Bonjour Hadès, profitez bien de vos derniers jours de vacances ! Bonne journée ! Joy",0,1,0,0,0
@@ -12307,14 +12307,14 @@ Bonjour, si vous êtes dans une rame rénovée, merci de me communiquer le numé
 1154392800584245248,2019-07-25 14:07:45,"@Ss93Shark Bonjour, les pompiers sont sur les voies, alors il faut interrompre le trafic pour qu'ils puissent travailler en toute sécurité. Joy",0,0,0,0,0
 1154393351698993156,2019-07-25 14:09:57,"@caro91230 Caroline, le trafic est actuellement interrompu entre Le Bourget et GDN suite à l'intervention des pompiers sur les voies à La Plaine. Heure de reprise estimée à 16h30, toutes nos excuses pour cette situation ! https://t.co/MCcoWZdMdB  Joy",0,0,1,0,0
 1154393638677417989,2019-07-25 14:11:05,@french_raleuse Tant mieux 🙌. Toutes nos excuses pour ce manque d'info dans le train. Joy,0,0,1,0,0
-1154394659659157505,2019-07-25 14:15:09,"[#canicule☀️] Nos agents #RERB vous accueillent à partir de 16h30 en gare de Châtelet et Denfert, 17h00 à Drancy, 17h30 au Blanc-Mesnil et 18h00 à Villeparisis pour vous distribuer des bouteilles d’eau ! 💦 Pensez à boire régulièrement pour éviter les risques de déshydratation. https://t.co/dAnrq5lX0T",3,3,0,0,0
+1154394659659157505,2019-07-25 14:15:09,"[#canicule☀️] Nos agents #RERB vous accueillent à partir de 16h30 en gare de Châtelet et Denfert, 17h00 à Drancy, 17h30 au Blanc-Mesnil et 18h00 à Villeparisis pour vous distribuer des bouteilles d’eau ! 💦 Pensez à boire régulièrement pour éviter les risques de déshydratation. https://t.co/dAnrq5lX0T",3,5,0,0,0
 1154394786541047808,2019-07-25 14:15:39,"@Clavanel Bonjour, je comprends, pour le moment je n'ai pas plus d'informations à vous communiquer, les pompiers sont sur les voies et des vérifications sont en cours. Je vous informe dès que j'ai plus d'informations. Joy",0,0,0,0,0
 1154394922537164802,2019-07-25 14:16:11,"@jawarah_pearl Bonjour, malheureusement il est toujours interrompu. Toutes nos excuses ! Joy",0,0,1,0,0
 1154395110211248129,2019-07-25 14:16:56,"@SukiDayyo Bonjour, quel est votre trajet ? Joy",0,0,0,0,0
 1154395783195766785,2019-07-25 14:19:37,"❌ Suite à une intervention des pompiers sur les voies en gare de La Plaine, le trafic est actuellement interrompu entre Gare du Nord et Le Bourget dans les deux sens de circulation. Heure de reprise repoussée à 17h30 #RERB https://t.co/CUkpyVXowS",12,3,0,0,0
 1154396278438146048,2019-07-25 14:21:35,@SukiDayyo Alors vous pouvez prendre le train jusqu'à Gare du Nord. Cependant le  trafic est perturbé sur le reste de la ligne. Joy,0,0,0,0,0
 1154396751257853953,2019-07-25 14:23:27,"@P_Ophelia Bonjour, je vous conseille si possible de prendre un autre itinéraire, en effet le trafic est perturbé sur le reste de la ligne et le trafic restera interrompu jusqu'à 18h00. https://t.co/DMU07gYnDM Joy",0,0,0,0,0
-1154396911362805762,2019-07-25 14:24:05,"❌ Suite à une intervention des pompiers sur les voies en gare de La Plaine, le trafic est actuellement interrompu entre Gare du Nord et Le Bourget dans les deux sens de circulation. Heure de reprise repoussée à 18h00 #RERB https://t.co/CUkpyVXowS",9,6,0,0,0
+1154396911362805762,2019-07-25 14:24:05,"❌ Suite à une intervention des pompiers sur les voies en gare de La Plaine, le trafic est actuellement interrompu entre Gare du Nord et Le Bourget dans les deux sens de circulation. Heure de reprise repoussée à 18h00 #RERB https://t.co/CUkpyVXowS",13,8,0,0,0
 1154397193228492800,2019-07-25 14:25:13,"@caro91230 Caroline, je n'ai pas cette info. Toutes nos excuses je sais que cette situation est difficile pour vous. https://t.co/EhuOmyVbDB Joy",0,0,1,0,0
 1154397554769039361,2019-07-25 14:26:39,"@Soleiis Bonjoru Gaelle, toutes nos excuses mais les pompiers sont actuellement sur les voies. Pour la sécurité de ces derniers, le trafic reste interrompu jusqu'à 18h pour le moment. https://t.co/DMU07gYnDM Joy",0,0,1,0,0
 1154397855240642562,2019-07-25 14:27:51,"@SandBett Bonjour, non, il s'agit d'une intervention sur les voies. Joy",0,0,0,0,0
@@ -12326,7 +12326,7 @@ Bonjour, si vous êtes dans une rame rénovée, merci de me communiquer le numé
 1154399827964432389,2019-07-25 14:35:41,"@Jeannot911 Bonjour Jeannot, La mission VURE32 est actuellement au départ de GDN. Joy",0,0,0,0,0
 1154400043870408704,2019-07-25 14:36:32,"@popolino_ Bonjour, le prochain est actuellement au départ de GDN. Joy",0,0,0,0,0
 1154400389418168320,2019-07-25 14:37:55,"@holtcupcakes Bonjour, en effet, le trafic est perturbé sur le reste de la ligne. Toutes nos excuses ! Joy",0,0,1,0,0
-1154401260000436226,2019-07-25 14:41:22,🚨 ILLO31 stationne en gare de Châtelet suite à l'actionnement d'un signal d'alarme. #RERB,0,2,0,0,0
+1154401260000436226,2019-07-25 14:41:22,🚨 ILLO31 stationne en gare de Châtelet suite à l'actionnement d'un signal d'alarme. #RERB,0,4,0,0,0
 1154401475663147008,2019-07-25 14:42:14,@Ss93Shark Pour le moment l'heure de reprise est estimée à 18h00. Toutes nos excuses ! Joy,0,0,1,0,0
 1154401640117690369,2019-07-25 14:42:53,@Opheliophe Interrompu entre GDN et Le Bourget dans les deux sens et perturbé sur le reste de la ligne. Toutes nos excuses ! Joy,0,0,1,0,0
 1154401782719754240,2019-07-25 14:43:27,@HTsukiyo Dans quelle gare êtes vous ? Joy,0,0,0,0,0
@@ -12338,3 +12338,20 @@ Bonjour, si vous êtes dans une rame rénovée, merci de me communiquer le numé
 1154404384555569154,2019-07-25 14:53:47,@popolino_ Effectivement la mission qui vient de quitter Denfert était bien terminus en gare de Robinson. Joy,0,0,0,0,0
 1154404659295064064,2019-07-25 14:54:53,@LaurieCuvelier Les trains circulent mais le trafic est perturbé. Joy,0,0,0,0,0
 1154405834224558081,2019-07-25 14:59:33,@foxxmask KMOL48 est actuellement au départ de GDN. Joy,0,0,0,0,0
+1154406911724462080,2019-07-25 15:03:50,"@sgdlpst Bonjour, KPUT03 est à l'approche ! Joy",0,1,0,0,0
+1154407462147112964,2019-07-25 15:06:01,"@Jeannot911 Jeannot, dans quelle gare êtes vous ? Joy",0,0,0,0,0
+1154408636741050369,2019-07-25 15:10:41,"@pateli1708 Bonjour, le prochain train est un Robinson actuellement à quai. Joy",0,0,0,0,0
+1154409096013131776,2019-07-25 15:12:31,"@Melanie_Level7 Bonjour, vous trouvez les itinéraires de substitutions sur le blog : https://t.co/DMU07gYnDM. Joy",0,0,0,0,0
+1154409683509288962,2019-07-25 15:14:51,"@Rooney919191 Bonjour, vous pouvez prendre les trains en direction du Sud à Châtelet. Joy",0,0,0,0,0
+1154411657411604480,2019-07-25 15:22:41,"❌ Fin d'incident en gare de La Plaine, reprise progressive de la circulation entre Le Bourget et Gare du Nord. Le trafic est fortement perturbé sur l'ensemble de la ligne #RERB",1,7,0,0,0
+1154411979865513984,2019-07-25 15:23:58,"@Yakalelo3 Bonjour, dans quelle gare êtes vous ? Joy",0,0,0,0,0
+1154412639105224711,2019-07-25 15:26:35,"@Yakalelo3 Bonjour, le prochain Massy est actuellement au Bourget. Joy",0,0,0,0,0
+1154412998330658816,2019-07-25 15:28:01,"@stuffedpandapup Bonjour, les trains vont bien jusqu'à CDG. Joy",0,0,0,0,0
+1154413321468174336,2019-07-25 15:29:18,"@Caco785 Bonjour, sur quel quai êtes vous ? Joy",0,0,0,0,0
+1154413782195683329,2019-07-25 15:31:08,ℹ️ Les départs en direction du Nord en gare de Massy Palaiseau se feront exclusivement quai 2 #RERB,1,2,0,0,0
+1154414452462297089,2019-07-25 15:33:48,"@sydneydine Bonjour, je comprends tout à fait votre mécontentement, toutes nos excuses, cette journée est véritablement difficile ! Joy",0,1,1,0,0
+1154414698126807041,2019-07-25 15:34:46,"@Toufneylopez Bonjour, oui tout à fait. Joy",0,2,0,0,0
+1154415241620537344,2019-07-25 15:36:56,"@__Mrs______ Bonjour, c'est perturbé malheureusement. Joy",0,0,0,0,0
+1154415544147337218,2019-07-25 15:38:08,"@degioanni Bonjour, un train en direction de Mitry est actuellement au départ de Massy Pal. Joy",0,0,0,0,0
+1154416406999523335,2019-07-25 15:41:34,"@DLehalle Bonjour, le trafic a bien repris entre Le Bourget et Gare du Nord. Cependant il reste fortement perturbé. Joy",0,2,0,0,0
+1154420976404312065,2019-07-25 15:59:43,"@IsaSurTwit Bonjour, dans quelle gare êtes vous ? Joy",0,0,0,0,0
