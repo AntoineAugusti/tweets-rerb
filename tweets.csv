@@ -1406,11 +1406,11 @@ Des bus de remplacement desserviront toutes les gares entre Aulnay sous Bois et 
 1059091762675924992,2018-11-04 14:35:27,"@Lorin6401 Bonjour, les travaux se terminent ce soir à la fin de service. Le trafic prévu dès demain à la prise de service est un trafic régulier. Bonne journée. ^b",0,0,0,0,0
 1059092180168593410,2018-11-04 14:37:07,"@AndrewMitul Bonjour, les travaux se terminent ce soir à la fin de service. Le trafic prévu dès demain à la prise de service est un trafic régulier. Je comprends tout à fait votre point de vue mais ces travaux sont néanmoins nécessaires. Bon dimanche. ^b",0,0,0,0,0
 1059093677350535169,2018-11-04 14:43:04,"@Vinced_93 Bonjour, oui les travaux se terminent ce soir. Le trafic prévu pour la journée de demain est un trafic régulier. Bonne journée. ^b",0,0,0,0,0
-1059099059175260160,2018-11-04 15:04:27,"Ce soir dès 22h30, les trains #RERB seront terminus Châtelet-les-Halles. Les bus de substitution partiront de Gare du Nord.",5,3,0,0,0
 1059099060471250944,2018-11-04 15:04:27,"En direction du nord:
 -dernier départ de Châtelet à destination de La Plaine SDF: 22h29
 -dernier départ de Châtelet à destination de Gare du Nord: 22h44
  Après 22h44, tous les trains seront terminus Châtelet. #RERB",3,2,0,0,0
+1059099059175260160,2018-11-04 15:04:27,"Ce soir dès 22h30, les trains #RERB seront terminus Châtelet-les-Halles. Les bus de substitution partiront de Gare du Nord.",5,3,0,0,0
 1059099061670813696,2018-11-04 15:04:28,"En direction du sud:
 -dernier départ à La Plaine à 22h41 (passage à Châtelet à 22h53)
 -dernier départ à Gare du Nord à 22h56 (passage à Châtelet à 22h59). #RERB",3,2,0,0,0
@@ -8179,8 +8179,8 @@ Plusieurs chantiers sont menés en parallèle, do…",46,0,0,0,0
 1113031111381344256,2019-04-02 10:51:10,Le trafic est interrompu sur le #RERB depuis 9h ce matin entre Parc des Expositions et Aéroport Charles de Gaulle 2. Cela fait suite à l’inondation de locaux techniques essentiels à l’exploitation ferroviaire. Cet incident est dû à des travaux sur les voiries aéroportuaires. https://t.co/nv8nWmqztv,25,21,0,0,0
 1113031113629470720,2019-04-02 10:51:11,Heure de reprise estimée à 16h. Nous vous tiendrons informés de l’évolution de la situation. Pour l’heure nous sommes mobilisés pour faire circuler un maximum de bus entre Parc des Expositions et la gare routière de Roissypole.,2,7,0,0,0
 1113031114673868801,2019-04-02 10:51:11,Actuellement 12 bus sont en rotation et nous en aurons bientôt 20. Nous bénéficions d’un renfort avec des bus mis à disposition par Aéroport de Paris. https://t.co/exuaODCZPK,2,7,0,0,0
-1113031118448668673,2019-04-02 10:51:12,Les équipes techniques de SNCF Réseau sont mobilisées pour assainir les locaux techniques inondés et rétablir des circulations ferroviaires en toute sécurité.,3,9,0,0,0
 1113031117467254784,2019-04-02 10:51:12,"Pour l'heure nous assurons un train terminus toutes les 15 min. à Parc des Expositions depuis Gare du Nord. Ces trains sont omnibus. La situation est maintenant fluide du point de vue des rotations bus. Entre les gares CDG 1 et CDG2, il faut emprunter le métro automatique CDG VAL",3,7,0,0,0
+1113031118448668673,2019-04-02 10:51:12,Les équipes techniques de SNCF Réseau sont mobilisées pour assainir les locaux techniques inondés et rétablir des circulations ferroviaires en toute sécurité.,3,9,0,0,0
 1113033008486014981,2019-04-02 10:58:43,"Bonjour à tous, Joy pour vous accompagner jusqu'à 20h00. Le trafic est interrompu entre Parc des Expositions et l'Aéroport CDG2 jusqu'à 16h00 environ (panne de signalisation consécutive à des travaux de voirie de l'Aéroport CDG) #RERB. https://t.co/IWNrZN91WI",1,3,0,0,0
 1113037365155696644,2019-04-02 11:16:01,Le trafic est interrompu entre Parc des Expositions et l'Aéroport CDG2 jusqu'à fin de service (panne de signalisation consécutive à des travaux de voirie de l'Aéroport CDG) #RERB. https://t.co/IWNrZN91WI,16,7,0,0,0
 1113042210696712192,2019-04-02 11:35:17,"@oh_mag Bonjour, dans quelle gare êtes vous ? Joy",0,0,0,0,0
@@ -9746,7 +9746,7 @@ Petit récap des #TravauxRERB_2019 pour vous aider à mieux voyager la semaine d
 1130357209832013825,2019-05-20 06:18:54,"🚨 Suite à l'actionnement d'un signal d'alarme sur la mission EBON85 à destination de l'Aéroport CDG2, le train stationne actuellement à Gare du Nord #RERB",1,4,0,0,0
 1130357694190301184,2019-05-20 06:20:49,"@anaisicvl Bonjour, avez vous pu avoir un train ? Joy",0,0,0,0,0
 1130357804420743169,2019-05-20 06:21:16,[ 🚨 Signal d'alarme ] Fin d'incident à Gare du Nord #RERB,0,0,0,0,0
-1130363430072999936,2019-05-20 06:43:37,@AntoineAugusti Bonjour Antoine et merci pour lui ! Bonne journée à vous ! Joy,0,0,0,0,0
+1130363430072999936,2019-05-20 06:43:37,@AntoineAugusti Bonjour Antoine et merci pour lui ! Bonne journée à vous ! Joy,0,1,0,0,0
 1130374435670769665,2019-05-20 07:27:21,"@ismael93420 Bonjour Ismael, vous avez actuellement un train à quai ! Bonne journée ! Joy",0,0,0,0,0
 1130375791966081024,2019-05-20 07:32:44,"@melissahmd_ Bonjour Mélissa, le trafic n'est pas interrompu mais perturbé. Je n'ai pas d'info sur une reprise à un trafic régulier. Bonne journée à vous tout de même ! Joy",0,0,0,0,0
 1130380698005725184,2019-05-20 07:52:14,"@Cece35669677 Bonjour, malheureusement le trafic est toujours perturbé sur l'ensemble de la ligne. Bonne journée à vous ! Joy",0,1,0,0,0
@@ -9755,7 +9755,7 @@ Petit récap des #TravauxRERB_2019 pour vous aider à mieux voyager la semaine d
 1130392261152448513,2019-05-20 08:38:11,☑️ Retour à un trafic régulier sur l'ensemble de la ligne #RERB,1,1,0,0,0
 1130422000479088640,2019-05-20 10:36:21,"Bonjour à tous, Alexandra pour échanger avec vous sur la ligne #RERB jusqu'à 20h00. N'hésitez pas à me solliciter lors de votre trajet. Bonne journée et bonne semaine ! 🙂",0,5,0,0,0
 1130426624745328640,2019-05-20 10:54:44,"@Melooooody77 Bonjour, merci pour votre message ! Ahhhh oui, il y a au moins un heureux avec ce temps ! Bon courage si vous êtes en service ! 😉 Bonne journée ! ^b",0,3,0,0,1
-1130427013016248320,2019-05-20 10:56:16,@Melooooody77 Ahhh bon courage !  🙌 ^b,0,0,0,0,1
+1130427013016248320,2019-05-20 10:56:16,@Melooooody77 Ahhh bon courage !  🙌 ^b,0,1,0,0,1
 1130451497173606401,2019-05-20 12:33:34,"@UnArabeDe_Plus Bonjour, est-il est possible d'avoir un peu plus d'infos ? Merci. ^b",0,0,0,0,0
 1130452872884363264,2019-05-20 12:39:02,@UnArabeDe_Plus Quand devez-vous effectuer votre trajet ? Aujourd'hui ? ^b,0,0,0,0,0
 1130453394894856192,2019-05-20 12:41:06,Un train à destination de l'aéroport CDG stationne au Bourget en raison d'une avarie matériel. #RERB,0,2,0,0,0
@@ -9768,7 +9768,7 @@ Pour plus d'informations c'est par ici 👉https://t.co/CKX5aZus36",15,10,0,0,0
 1130511969008652288,2019-05-20 16:33:51,"(Signal d'alarme à Aulnay) : fin d'incident, le train est reparti à destination de Robinson. #RERB",0,2,0,0,0
 1130512744095129600,2019-05-20 16:36:56,@JMVTT Actuellement 2/3 minutes de retard en direction de Bourg-la-Reine et la banlieue sud. ^b,0,0,0,0,0
 1130684603243651072,2019-05-21 03:59:51,"🙋 Bonjour à tous, Joy pour vous accompagner jusqu'à 13h00. N'hésitez pas à me solliciter pendant votre trajet sur le #RERB ! Bonne journée !",0,10,0,0,0
-1130687870283452416,2019-05-21 04:12:50,"@Melooooody77 Bonjour Melody, alors bonne nuit à vous 😉 ! Joy",0,0,0,0,0
+1130687870283452416,2019-05-21 04:12:50,"@Melooooody77 Bonjour Melody, alors bonne nuit à vous 😉 ! Joy",0,1,0,0,0
 1130758570675441664,2019-05-21 08:53:46,"🔧 Suite à une avarie sur le matériel de la mission ILOT63, le train stationne actuellement entre les gares de La Courneuve et du Bourget #RERB",0,3,0,0,0
 1130758992932810752,2019-05-21 08:55:27,"❌ En raison de la panne d'un train en gare du Bourget, le trafic est actuellement perturbé en direction de Mitry / Aéroport CDG2 #RERB",4,3,0,0,0
 1130764188744339456,2019-05-21 09:16:05,"❌ Fin d'incident en gare du Bourget, le trafic reste perturbé en direction de Mitry / Aéroport CDG2 #RERB",0,5,0,0,0
@@ -9879,7 +9879,7 @@ Première séquence : Mise à jour du diagnostic et bilan GT 2",3,10,0,0,0
 1131881352658378752,2019-05-24 11:15:18,"@remisharrock Bonjour, je vous conseille de contacter le 3117 à ce sujet et toutes les informations que vous avez à disposition. Bonne journée. ^b",0,1,0,0,0
 1131881913965268992,2019-05-24 11:17:32,@remisharrock Il s'agit d'EPAU33. Bonne journée. ^b,0,0,0,0,0
 1131885012406681600,2019-05-24 11:29:51,@Melooooody77 Heureusement qu'on est vendredi ! Bonne journée à tous les deux! ^b,0,2,0,0,0
-1131888674902355968,2019-05-24 11:44:24,"@easy_serbian Bonjour, un signal impose l'arrêt. Le conducteur doit se rapprocher des équipes de régulation pour lui autoriser son départ. Votre train va pouvoir repartir d'ici peu. ^b",0,0,0,1,0
+1131888674902355968,2019-05-24 11:44:24,"@easy_serbian Bonjour, un signal impose l'arrêt. Le conducteur doit se rapprocher des équipes de régulation pour lui autoriser son départ. Votre train va pouvoir repartir d'ici peu. ^b",0,1,0,1,0
 1131889513075224576,2019-05-24 11:47:44,Quelques minutes de retard sont à prévoir sur votre trajet en direction de St Rémy / Robinson en répercussion d'une anomalie de signalisation à Gare du Nord. #RERB,0,4,0,0,0
 1131890507783778305,2019-05-24 11:51:41,"@nenesh_BK Bonjour, le dernier départ de Châtelet est à 00h47. Bonne journée. ^b",0,1,0,0,0
 1131896048769744896,2019-05-24 12:13:42,"🚧[Rappel Travaux]: 
@@ -10210,8 +10210,8 @@ https://t.co/cMeMrfjzvH",5,11,0,0,0
 Petit récap des #TravauxRERB_2019 pour vous aider à mieux voyager la semaine du 10 au 16 juin : 
 Interruption des circulations à partir de 23h de mardi à vendredi, entre Aulnay-sous-Bois et l'Aéroport Charles de Gaulle. Information :👉 https://t.co/ID7LdbrhNP https://t.co/9FD7NWZf0o",5,3,0,0,0
 1136997242492149760,2019-06-07 14:04:01,"@wenjihyo Bonjour, oui bien sûr ! Bonne journée ! ^b",0,1,0,0,0
-1137004484658417664,2019-06-07 14:32:48,Tous les agents du #RERB souhaitent un excellent concert aux fans de #BTS 🎶 https://t.co/He9oAtkOiv,22,83,0,0,0
 1137004486675894272,2019-06-07 14:32:48,All #RERB staff members would like to wish #BTS fans an amazing concert. 🎶 https://t.co/5PKEWacNhA,7,24,0,0,0
+1137004484658417664,2019-06-07 14:32:48,Tous les agents du #RERB souhaitent un excellent concert aux fans de #BTS 🎶 https://t.co/He9oAtkOiv,22,83,0,0,0
 1137005429706428416,2019-06-07 14:36:33,"@blackdmusic1 Bonjour, pas d'incident en cours mais il y a un concert au Stade de France ce soir, demain soir également. N'hésitez pas à revenir vers moi, si besoin. Bonne soirée. ^b",0,0,0,0,0
 1137006389564493825,2019-06-07 14:40:22,"@FabiolaSa6 Bonsoir, il est entre La Plaine Stade de France et Gare du Nord. Bonne soirée. ^b",0,1,0,0,0
 1137008819668754432,2019-06-07 14:50:01,"@sa_riaka @BTS_twt Bonjour, oui bien sûr. Dans quelle direction allez-vous ? Paris ? Bonne soiré et bon concert à vous 🎶 ! ^b",0,2,0,0,0
@@ -12661,7 +12661,7 @@ https://t.co/reNBBUeSPJ",0,0,0,0,0
 1156499072204836869,2019-07-31 09:37:20,"// RAPPEL  🚧 // En raison de travaux de renforcement de la structure des quais, la gare de Bagneux est fermé jusqu'au 25 août inclus, et les trains ne marquent pas l'arrêt. Merci d'utiliser les bus 197, 297 ou N14 / arrêts Grange Ory, Pont-Royal RER ou Bourg-la-Reine RER #RERB https://t.co/hP1Vl2r2VE",8,11,0,0,0
 1156513891150704640,2019-07-31 10:36:13,"Bonjour à tous, Alexandra pour échanger avec vous sur la ligne  #RERB jusqu'à 20h00. N’hésitez pas à me solliciter lors de votre trajet. Bonne journée !",0,5,0,0,0
 1156518033671753731,2019-07-31 10:52:40,"@razhades Hello Hadès, je comprends ! A très vite j'espère ! 😊 ^b",0,2,0,0,0
-1156524155497582593,2019-07-31 11:17:00,"@KevinRo00780133 Bonjour Kévin, à quelle heure hier soir ? Ce genre d'incident peut malheureusement arrivé. 80% des malaises voyageur peuvent être gérés par nos agents (quand la personne peut descendre du train) mais ce n'est pas toujours le cas. ^b",0,0,0,0,0
+1156524155497582593,2019-07-31 11:17:00,"@KevinRo00780133 Bonjour Kévin, à quelle heure hier soir ? Ce genre d'incident peut malheureusement arrivé. 80% des malaises voyageur peuvent être gérés par nos agents (quand la personne peut descendre du train) mais ce n'est pas toujours le cas. ^b",0,1,0,0,0
 1156526660856045568,2019-07-31 11:26:57,"ℹ️ Dimanche 4 août, en raison d'une brocante à Gif Sur Yvette, la navette bus sera déviée sur l’Avenue du Général Leclerc. Les arrêts seront reportés sur les arrêts du N122 « 11 Novembre – Courcelle Sur Yvette » de début à fin de service. #RERB",4,4,0,0,0
 1156527086225506305,2019-07-31 11:28:39,@KevinRo00780133 Les agents ont dû intervenir sur place. Le train a stationné longtemps ? ^b,0,0,0,0,0
 1156529179745292289,2019-07-31 11:36:58,@KevinRo00780133 Toutes nos excuses pour l'incident. Tout est mis en place pour que le train stationne le moins du temps possible à quai. Bonne journée. ^b,0,1,1,0,0
@@ -12698,7 +12698,7 @@ https://t.co/reNBBUeSPJ",0,0,0,0,0
 1156588839022018567,2019-07-31 15:34:02,@Mel0o0o0dy Le GTI me confirme qu'un seul train a été rendu direct de Mitry à Aulnay. ^b,0,0,0,0,0
 1156589495816478721,2019-07-31 15:36:38,"✅ (Signal d'alarme / malaise voyageur à Bourg-la-Reine) : Fin d'incident, le train à destination d'Orsay va pouvoir repartir. #RERB",0,2,0,0,0
 1156593661133672449,2019-07-31 15:53:11,"RT @IDFmobilites: Cet été, partagez vos trajets franciliens en profitant du dispositif covoiturage 👍
-➡️ 2 trajets/jour offerts aux abonnés…",17,0,0,0,0
+➡️ 2 trajets/jour offerts aux abonnés…",19,0,0,0,0
 1156595945653592066,2019-07-31 16:02:16,Un train à destination de l'aéroport CDG stationne à La Courneuve - Aubervilliers suite à l'actionnement d'un signal d'alarme. #RERB,2,2,0,0,0
 1156596805808853003,2019-07-31 16:05:41,"@TPouliquen Bonjour, non le signal d'alarme a été de manière justifiée. La police a tiré le signal d'alarme suite à une agression. Le train va pouvoir repartir. ^b",0,0,0,0,0
 1156597036441112578,2019-07-31 16:06:36,"(Signal d'alarme / intervention de la police à La Courneuve) : Fin d'incident, le train va pouvoir repartir à destination de l'aéroport CDG. #RERB",2,2,0,0,0
@@ -12791,3 +12791,6 @@ Cette desserte a plusieurs avantages : elle permet le stationnement nécessaire 
 1157279950526963713,2019-08-02 13:20:16,"@Capar58051309 Bonjour et merci de votre message. Effectivement, l'affichage des trains peut être erroné car il arrive qu'il ne soit pas mis à jour à temps. Je me charge de transmettre votre signalement. Bonne journée. ^b",0,0,0,0,0
 1157281288744779777,2019-08-02 13:25:35,"[🚧 Infos Travaux // RAPPEL] : Jusqu'au 25/08, la circulation des trains est interrompue entre Orsay-Ville et St-Rémy (des bus de substitution assurent la liaison) &amp; la gare de Bagneux est fermée. En + des bus 197, 297 et N14, des navettes circulent aux haures de pointe #RERB https://t.co/PVYDS23LIp",4,6,0,0,0
 1157284097263362049,2019-08-02 13:36:44,"@Nialiex Boujour Audrey, bien vu ! Bon, on va y arriver ! 😅 Merci à vous et bon week-end ! ^b",0,2,0,0,0
+1157290757549690882,2019-08-02 14:03:12,"@KevinRo00780133 Bonjour, la gare de Bagneux ou entre Orsay et St Rémy ? ^b",0,0,0,0,0
+1157293425940713478,2019-08-02 14:13:48,@KevinRo00780133 Il faut vous arrêter à Arcueil ou Bourg-la-Reine et prendre un bus pour rejoindre Bagneux. La gare sera fermée jusqu'à 25 août. ^b,0,0,0,0,0
+1157296358841356294,2019-08-02 14:25:28,@KevinRo00780133 Merci beaucoup et bonne soirée ! 😉 ^b,0,0,0,0,0
