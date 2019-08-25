@@ -4,14 +4,24 @@ executors:
   python36:
     docker:
       - image: circleci/python:3.6
-    working_directory: ~/repo
 
 jobs:
   fetch_csv:
     executor: python36
     steps:
-      - checkout:
-          path: ~/repo
+      - restore_cache:
+          keys:
+            - source-v1-{{ .Branch }}-{{ .Revision }}
+            - source-v1-{{ .Branch }}-
+            - source-v1-
+
+      - checkout
+
+      - save_cache:
+          key: source-v1-{{ .Branch }}-{{ .Revision }}
+          paths:
+            - ".git"
+
       - restore_cache:
           keys:
           - v1-dependencies-{{ checksum "requirements.txt" }}
@@ -38,8 +48,19 @@ jobs:
   push_csv:
     executor: python36
     steps:
-      - checkout:
-          path: ~/repo
+      - restore_cache:
+          keys:
+            - source-v1-{{ .Branch }}-{{ .Revision }}
+            - source-v1-{{ .Branch }}-
+            - source-v1-
+
+      - checkout
+
+      - save_cache:
+          key: source-v1-{{ .Branch }}-{{ .Revision }}
+          paths:
+            - ".git"
+
       - attach_workspace:
           at: /tmp
       - add_ssh_keys:
