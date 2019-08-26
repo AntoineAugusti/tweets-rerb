@@ -1406,11 +1406,11 @@ Des bus de remplacement desserviront toutes les gares entre Aulnay sous Bois et 
 1059091762675924992,2018-11-04 14:35:27,"@Lorin6401 Bonjour, les travaux se terminent ce soir à la fin de service. Le trafic prévu dès demain à la prise de service est un trafic régulier. Bonne journée. ^b",0,0,0,0,0
 1059092180168593410,2018-11-04 14:37:07,"@AndrewMitul Bonjour, les travaux se terminent ce soir à la fin de service. Le trafic prévu dès demain à la prise de service est un trafic régulier. Je comprends tout à fait votre point de vue mais ces travaux sont néanmoins nécessaires. Bon dimanche. ^b",0,0,0,0,0
 1059093677350535169,2018-11-04 14:43:04,"@Vinced_93 Bonjour, oui les travaux se terminent ce soir. Le trafic prévu pour la journée de demain est un trafic régulier. Bonne journée. ^b",0,0,0,0,0
+1059099059175260160,2018-11-04 15:04:27,"Ce soir dès 22h30, les trains #RERB seront terminus Châtelet-les-Halles. Les bus de substitution partiront de Gare du Nord.",5,3,0,0,0
 1059099060471250944,2018-11-04 15:04:27,"En direction du nord:
 -dernier départ de Châtelet à destination de La Plaine SDF: 22h29
 -dernier départ de Châtelet à destination de Gare du Nord: 22h44
  Après 22h44, tous les trains seront terminus Châtelet. #RERB",3,2,0,0,0
-1059099059175260160,2018-11-04 15:04:27,"Ce soir dès 22h30, les trains #RERB seront terminus Châtelet-les-Halles. Les bus de substitution partiront de Gare du Nord.",5,3,0,0,0
 1059099061670813696,2018-11-04 15:04:28,"En direction du sud:
 -dernier départ à La Plaine à 22h41 (passage à Châtelet à 22h53)
 -dernier départ à Gare du Nord à 22h56 (passage à Châtelet à 22h59). #RERB",3,2,0,0,0
@@ -12379,7 +12379,7 @@ Bonjour, si vous êtes dans une rame rénovée, merci de me communiquer le numé
 1154442048990302208,2019-07-25 17:23:27,"@FluffyMily Bonsoir, le prochain train est actuellement au départ de Massy. Joy",0,0,0,0,0
 1154442278485790722,2019-07-25 17:24:22,"@MystHer_ Bonsoir, non non je suis toujours là 😅 ! Joy",0,0,0,0,0
 1154442554135449600,2019-07-25 17:25:28,"@phildarvador Bonsoir, prochain mission EOLE37 actuellement à Palaiseau Villebon. Bonne soirée ! Joy",0,0,0,0,0
-1154443130462179328,2019-07-25 17:27:45,@MystHer_ 😮 Je vous envie ! Bonne soirée à vous et merci pour vos encouragements ! Joy,0,0,0,0,0
+1154443130462179328,2019-07-25 17:27:45,@MystHer_ 😮 Je vous envie ! Bonne soirée à vous et merci pour vos encouragements ! Joy,0,1,0,0,0
 1154468245660999680,2019-07-25 19:07:33,"21:06, le trafic est rétabli sur la ligne (mesure de sécurité)  #RERB",2,3,0,0,0
 1154601940271161345,2019-07-26 03:58:48,"Bonjour à vous, Alexandra pour vous accompagner en ce vendredi sur la ligne #RERB jusqu'à 13h00. Bonne journée à tous !",1,12,0,0,0
 1154605493127700480,2019-07-26 04:12:55,"@razhades Hello Hadès, m'en parlez pas... Vivement l'hiver, je vous rejoins ! Allez ça ira mieux demain 😴  Bonne journée ! ^b",0,4,0,0,0
@@ -12962,7 +12962,7 @@ Cette desserte a plusieurs avantages : elle permet le stationnement nécessaire 
 1162207261101449216,2019-08-16 03:39:38,"En raison d'une fin tardive de chantier à Châtelet les Halles, le trafic est perturbé sur l'ensemble de la ligne. #RERB",1,2,0,0,0
 1162209396576808961,2019-08-16 03:48:07,"@CarlitaKruger Bonjour CarlitaKruger , ce sont des travaux d'entretien de la voie.  Néo",0,1,0,0,0
 1162212674274357248,2019-08-16 04:01:09,Nos équipes de maintenance procèdent aux derniers essais avant de relancer l'exploitation. #RERB Phil,1,3,0,0,0
-1162215296339365888,2019-08-16 04:11:34,"@LongCillian Bonjour, nos équipes sont en train d’effectuer les derniers tests post-chantier avant de reprendre l’exploitation",0,0,0,0,0
+1162215296339365888,2019-08-16 04:11:34,"@LongCillian Bonjour, nos équipes sont en train d’effectuer les derniers tests post-chantier avant de reprendre l’exploitation",0,1,0,0,0
 1162215524194893826,2019-08-16 04:12:28,Le trafic reprend progressivement sur l'ensemble de la ligne. Prévoyez un allongement de votre temps de parcours vers St Rémy/Robinson d'environ 15 minutes. #RERB Phil,1,3,0,0,0
 1162215726049947653,2019-08-16 04:13:16,@Mel0o0o0dy @LongCillian Je vous confirme que le trafic reprendre progressivement sur la ligne !,1,2,0,0,0
 1162246655967555587,2019-08-16 06:16:10,Nos équipes mettent tout en œuvre pour revenir au plus vite à la fréquence normale de la ligne #RERB Bonne journée. Phil,1,1,0,0,0
@@ -13135,3 +13135,4 @@ Vous pouvez aussi aller à un guichet RATP dès la première heure pour demander
 1165880176267419648,2019-08-26 06:54:29,"08:53, le trafic est rétabli de St-Remy / Robinson vers Aeroport CdG 2 / Mitry - Claye (malaise voyageur)  #RERB",1,1,0,0,0
 1165884457884295168,2019-08-26 07:11:30,"09:10, le trafic est perturbé de Cite Universitaire vers Aeroport CdG 2 / Mitry - Claye (malaise voyageur)  #RERB",0,1,0,0,0
 1165889251587874816,2019-08-26 07:30:33,"09:26, le trafic est rétabli de Cite Universitaire vers Aeroport CdG 2 / Mitry - Claye (malaise voyageur)  #RERB",0,1,0,0,0
+1165920437429313536,2019-08-26 09:34:28,"@londonxmermaid Bonjour, oui tout à fait ! Bonne journée !",0,0,0,0,0
