@@ -1406,11 +1406,11 @@ Des bus de remplacement desserviront toutes les gares entre Aulnay sous Bois et 
 1059091762675924992,2018-11-04 14:35:27,"@Lorin6401 Bonjour, les travaux se terminent ce soir à la fin de service. Le trafic prévu dès demain à la prise de service est un trafic régulier. Bonne journée. ^b",0,0,0,0,0
 1059092180168593410,2018-11-04 14:37:07,"@AndrewMitul Bonjour, les travaux se terminent ce soir à la fin de service. Le trafic prévu dès demain à la prise de service est un trafic régulier. Je comprends tout à fait votre point de vue mais ces travaux sont néanmoins nécessaires. Bon dimanche. ^b",0,0,0,0,0
 1059093677350535169,2018-11-04 14:43:04,"@Vinced_93 Bonjour, oui les travaux se terminent ce soir. Le trafic prévu pour la journée de demain est un trafic régulier. Bonne journée. ^b",0,0,0,0,0
+1059099059175260160,2018-11-04 15:04:27,"Ce soir dès 22h30, les trains #RERB seront terminus Châtelet-les-Halles. Les bus de substitution partiront de Gare du Nord.",5,3,0,0,0
 1059099060471250944,2018-11-04 15:04:27,"En direction du nord:
 -dernier départ de Châtelet à destination de La Plaine SDF: 22h29
 -dernier départ de Châtelet à destination de Gare du Nord: 22h44
  Après 22h44, tous les trains seront terminus Châtelet. #RERB",3,2,0,0,0
-1059099059175260160,2018-11-04 15:04:27,"Ce soir dès 22h30, les trains #RERB seront terminus Châtelet-les-Halles. Les bus de substitution partiront de Gare du Nord.",5,3,0,0,0
 1059099061670813696,2018-11-04 15:04:28,"En direction du sud:
 -dernier départ à La Plaine à 22h41 (passage à Châtelet à 22h53)
 -dernier départ à Gare du Nord à 22h56 (passage à Châtelet à 22h59). #RERB",3,2,0,0,0
@@ -8179,8 +8179,8 @@ Plusieurs chantiers sont menés en parallèle, do…",46,0,0,0,0
 1113031111381344256,2019-04-02 10:51:10,Le trafic est interrompu sur le #RERB depuis 9h ce matin entre Parc des Expositions et Aéroport Charles de Gaulle 2. Cela fait suite à l’inondation de locaux techniques essentiels à l’exploitation ferroviaire. Cet incident est dû à des travaux sur les voiries aéroportuaires. https://t.co/nv8nWmqztv,25,21,0,0,0
 1113031114673868801,2019-04-02 10:51:11,Actuellement 12 bus sont en rotation et nous en aurons bientôt 20. Nous bénéficions d’un renfort avec des bus mis à disposition par Aéroport de Paris. https://t.co/exuaODCZPK,2,7,0,0,0
 1113031113629470720,2019-04-02 10:51:11,Heure de reprise estimée à 16h. Nous vous tiendrons informés de l’évolution de la situation. Pour l’heure nous sommes mobilisés pour faire circuler un maximum de bus entre Parc des Expositions et la gare routière de Roissypole.,2,7,0,0,0
-1113031118448668673,2019-04-02 10:51:12,Les équipes techniques de SNCF Réseau sont mobilisées pour assainir les locaux techniques inondés et rétablir des circulations ferroviaires en toute sécurité.,3,9,0,0,0
 1113031117467254784,2019-04-02 10:51:12,"Pour l'heure nous assurons un train terminus toutes les 15 min. à Parc des Expositions depuis Gare du Nord. Ces trains sont omnibus. La situation est maintenant fluide du point de vue des rotations bus. Entre les gares CDG 1 et CDG2, il faut emprunter le métro automatique CDG VAL",3,7,0,0,0
+1113031118448668673,2019-04-02 10:51:12,Les équipes techniques de SNCF Réseau sont mobilisées pour assainir les locaux techniques inondés et rétablir des circulations ferroviaires en toute sécurité.,3,9,0,0,0
 1113033008486014981,2019-04-02 10:58:43,"Bonjour à tous, Joy pour vous accompagner jusqu'à 20h00. Le trafic est interrompu entre Parc des Expositions et l'Aéroport CDG2 jusqu'à 16h00 environ (panne de signalisation consécutive à des travaux de voirie de l'Aéroport CDG) #RERB. https://t.co/IWNrZN91WI",1,3,0,0,0
 1113037365155696644,2019-04-02 11:16:01,Le trafic est interrompu entre Parc des Expositions et l'Aéroport CDG2 jusqu'à fin de service (panne de signalisation consécutive à des travaux de voirie de l'Aéroport CDG) #RERB. https://t.co/IWNrZN91WI,16,7,0,0,0
 1113042210696712192,2019-04-02 11:35:17,"@oh_mag Bonjour, dans quelle gare êtes vous ? Joy",0,0,0,0,0
@@ -9916,9 +9916,9 @@ Petit récap des #TravauxRERB_2019 pour vous aider à mieux voyager la semaine d
 1132915562726744065,2019-05-27 07:44:53,"❌ Suite à un bagage oublié en gare de Denfert Rochereau, cette gare n'est plus desservie jusqu'à 10h15 environ #RERB",1,2,0,0,0
 1132916593070084096,2019-05-27 07:48:59,"@Kmillephilibert Bonjour Camille, toutes nos excuses, en effet suite à un bagage oublié en gare, la gare de Denfert n'est plus desservie dans les deux sens de circulation jusqu'à 10h15 environ. Bonne journée à vous tout de même ! Joy",0,1,1,0,0
 1132918074670223360,2019-05-27 07:54:52,"✅ Fin d'incident en gare de Denfert Rochereau, l'arrêt est de nouveau marqué en gare #RERB",0,2,0,0,0
-1132944710241267713,2019-05-27 09:40:42,"@razhades Bonjour Hadès, j'étais en après midi la semaine du 13 Mai 😅. Cependant je serai en matinée encore cette semaine et la semaine prochaine. C'est un arrangement entre nous mais pour info j'aime bien les matinées 😅  ! Bonne journée à vous ! Joy",0,2,0,0,0
+1132944710241267713,2019-05-27 09:40:42,"@razhades Bonjour Hadès, j'étais en après midi la semaine du 13 Mai 😅. Cependant je serai en matinée encore cette semaine et la semaine prochaine. C'est un arrangement entre nous mais pour info j'aime bien les matinées 😅  ! Bonne journée à vous ! Joy",0,3,0,0,0
 1132957401219575808,2019-05-27 10:31:08,"Bonjour à tous, Alexandra pour vous accompagner en cette nouvelle semaine jusqu'à 20h00 sur la ligne #RERB. Bonne journée !",0,6,0,0,0
-1132960325857361920,2019-05-27 10:42:45,"@LukasExtar Bonjour, on préférerait pas de soucis du tout ! Pour l'instant, le trafic est régulier sur l'ensemble de la ligne. N'hésitez pas à revenir vers moi. Bonne journée. ^b",0,1,0,0,0
+1132960325857361920,2019-05-27 10:42:45,"@LukasExtar Bonjour, on préférerait pas de soucis du tout ! Pour l'instant, le trafic est régulier sur l'ensemble de la ligne. N'hésitez pas à revenir vers moi. Bonne journée. ^b",0,2,0,0,0
 1132969667209965568,2019-05-27 11:19:52,Un train à destination de Mitry stationne à Châtelet-les-Halles suite à l'actionnement d'un signal d'alarme. #RERB,1,2,0,0,0
 1132970943691800576,2019-05-27 11:24:57,"(Signal d'alarme à Châtelet-Les-Halles) : Fin d'incident, le train à destination de Mitry va pouvoir repartir. #RERB",0,1,0,0,0
 1133060237034962945,2019-05-27 17:19:46,"@dbenoist Bonsoir David, merci de votre signalement ! Je me charge de le transmettre à nos équipes techniques. Bonne journée ! ^b",0,1,0,0,0
@@ -9983,8 +9983,8 @@ Petit récap des #TravauxRERB_2019 pour vous aider à mieux voyager la semaine d
 1133754345802141697,2019-05-29 15:17:54,"@Claude_Mogador Un train, devant vous, a du s'arrêter quelques instants en répercussion d'un signal qui lui imposait l'arrêt. Des vérifications ont été effectuées pour qu'il reprenne sa marche, en toute sécurité. Le train concerné a pu repartir. ^b",0,0,0,0,0
 1133770933502660616,2019-05-29 16:23:49,"@megdevillez Bonjour, vous trouverez tous les horaires dans l'article de blog écrit à ce sujet: https://t.co/FM5ItkLLrQ. Bonne soirée. ^b",0,0,0,0,0
 1133779387957075977,2019-05-29 16:57:25,"@PalavraPami Bonsoir, je transmets, merci ! ^b",0,0,0,0,0
-1133780414710112256,2019-05-29 17:01:30,"@razhades @Melooooody77 @ElZebr Hello Hadès, bon je suis prête pour la lecture ! 😉 Bonne soirée ! ^b",0,1,0,0,0
-1133782106352640000,2019-05-29 17:08:13,@razhades  Vous allez être déçu mais la motivation n'aura pas duré bien longtemps ! 😥 ^b,0,1,0,0,0
+1133780414710112256,2019-05-29 17:01:30,"@razhades @Melooooody77 @ElZebr Hello Hadès, bon je suis prête pour la lecture ! 😉 Bonne soirée ! ^b",0,2,0,0,0
+1133782106352640000,2019-05-29 17:08:13,@razhades  Vous allez être déçu mais la motivation n'aura pas duré bien longtemps ! 😥 ^b,0,2,0,0,0
 1134308569031987200,2019-05-31 04:00:11,"🙋 Bonjour à tous, Joy pour vous accompagner jusqu'à 13h00. N'hésitez pas à me solliciter pendant votre trajet sur le #RERB ! Bonne journée !",0,8,0,0,0
 1134360551084187649,2019-05-31 07:26:45,"@ItsLittlee Bonjour Estelle, en effet nous avons quelques trains supprimés au départ de Mitry suite à des difficultés de préparation des trains. Toutes nos excuses ! Bonne journée à vous et bon week-end ! Joy",0,0,1,0,0
 1134405239577227264,2019-05-31 10:24:20,"Bonjour, Alexandra pour échanger avec vous sur la ligne #RERB jusqu'à 20h00. Bonne journée à tous et bon week-end !",0,6,0,0,0
@@ -10058,9 +10058,9 @@ Petit récap des #TravauxRERB_2019 pour vous aider à mieux voyager la semaine d
 1135487387180646400,2019-06-03 10:04:24,"@MaXaWauq Bonjour, pas de perturbation sur notre ligne demain 😉 ! Bonne journée à vous ! Joy",0,0,0,0,0
 1135494583981416448,2019-06-03 10:32:59,"Bonjour à tous, Alexandra pour échanger en cette nouvelle semaine jusqu'à 20h00 sur la ligne #RERB. Bonne journée à tous !",0,2,0,0,0
 1135499647227744259,2019-06-03 10:53:07,@razhades Bonjouuuuur Hadès ! Merci !! J'espère que vous avez passé un bon week-end ! Bon courage et bonne journée ! 😊 ^b,0,1,0,0,1
-1135503312420331522,2019-06-03 11:07:40,@razhades Bien trop probable !  😂 A tout à l'heure ! ^b,0,1,0,0,0
+1135503312420331522,2019-06-03 11:07:40,@razhades Bien trop probable !  😂 A tout à l'heure ! ^b,0,2,0,0,0
 1135510590405976065,2019-06-03 11:36:36,💬[Nouvel article Blog]: On vous prévient pour vous laisser le temps de prévoir.....👉https://t.co/uipYNgVZwk https://t.co/nc5XYxF8TM,41,35,0,0,0
-1135513077926060032,2019-06-03 11:46:29,"@Melooooody77 Bonjour Mélody ! Merci, bon courage également si vous êtes de service ! Ahhhh, là il est content ! 😅 Bonne journée ! ^b",0,2,0,0,1
+1135513077926060032,2019-06-03 11:46:29,"@Melooooody77 Bonjour Mélody ! Merci, bon courage également si vous êtes de service ! Ahhhh, là il est content ! 😅 Bonne journée ! ^b",0,3,0,0,1
 1135517220979785729,2019-06-03 12:02:57,"@CCailteau Bonjour, nous attendons une intervention des équipes de maintenance. Je n'ai pour l'instant pas de date de réparation. Toutes nos excuses pour la gêne occasionnée. ^b",0,0,1,0,0
 1135519254604931072,2019-06-03 12:11:01,"RT @Ligne4_RATP: [#SEDD2019] A l'occasion de la semaine du  #DéveloppementDurable, rendez-vous sur le parvis végétalisé de la gare de Denfe…",5,0,0,0,0
 1135520909685657601,2019-06-03 12:17:36,"@AntoineAugusti Bonjour, la desserte de l'aéroport se fera par bus direct depuis la gare de Mitry-Claye.",0,0,0,0,0
@@ -13131,5 +13131,7 @@ Vous pouvez aussi aller à un guichet RATP dès la première heure pour demander
 1165653824012455937,2019-08-25 15:55:03,"[Pic de #pollution] @IDFmobilites met en place, le lundi 26 août, le forfait journalier antipollution à 3,80 euros pour se déplacer en #TransportsIDF https://t.co/szjlne9Qpn",4,10,0,0,0
 1165664214792454144,2019-08-25 16:36:20,"@nial_mtl @RATPgroup @IDFmobilites @Paris @iledefrance @Defense_gouv @Min_Ecologie @Ligne6_RATP @Ligne4_RATP En effet, nous souhaitions que le nom soit dévoilé en même temps que les événements prévus !",0,0,0,0,0
 1165873978587648000,2019-08-26 06:29:52,"@MelanieSciarini Bonjour, je vous confirme que le trafic est en effet rétabli au départ de Saint-Rémy-lès-Chevreuse !",0,0,0,0,0
-1165877156372766720,2019-08-26 06:42:29,"08:41, le trafic est perturbé de St-Remy / Robinson vers Aeroport CdG 2 / Mitry - Claye (malaise voyageur)  #RERB",2,1,0,0,0
-1165880176267419648,2019-08-26 06:54:29,"08:53, le trafic est rétabli de St-Remy / Robinson vers Aeroport CdG 2 / Mitry - Claye (malaise voyageur)  #RERB",0,0,0,0,0
+1165877156372766720,2019-08-26 06:42:29,"08:41, le trafic est perturbé de St-Remy / Robinson vers Aeroport CdG 2 / Mitry - Claye (malaise voyageur)  #RERB",4,2,0,0,0
+1165880176267419648,2019-08-26 06:54:29,"08:53, le trafic est rétabli de St-Remy / Robinson vers Aeroport CdG 2 / Mitry - Claye (malaise voyageur)  #RERB",1,1,0,0,0
+1165884457884295168,2019-08-26 07:11:30,"09:10, le trafic est perturbé de Cite Universitaire vers Aeroport CdG 2 / Mitry - Claye (malaise voyageur)  #RERB",0,0,0,0,0
+1165889251587874816,2019-08-26 07:30:33,"09:26, le trafic est rétabli de Cite Universitaire vers Aeroport CdG 2 / Mitry - Claye (malaise voyageur)  #RERB",0,0,0,0,0
