@@ -1406,11 +1406,11 @@ Des bus de remplacement desserviront toutes les gares entre Aulnay sous Bois et 
 1059091762675924992,2018-11-04 14:35:27,"@Lorin6401 Bonjour, les travaux se terminent ce soir à la fin de service. Le trafic prévu dès demain à la prise de service est un trafic régulier. Bonne journée. ^b",0,0,0,0,0
 1059092180168593410,2018-11-04 14:37:07,"@AndrewMitul Bonjour, les travaux se terminent ce soir à la fin de service. Le trafic prévu dès demain à la prise de service est un trafic régulier. Je comprends tout à fait votre point de vue mais ces travaux sont néanmoins nécessaires. Bon dimanche. ^b",0,0,0,0,0
 1059093677350535169,2018-11-04 14:43:04,"@Vinced_93 Bonjour, oui les travaux se terminent ce soir. Le trafic prévu pour la journée de demain est un trafic régulier. Bonne journée. ^b",0,0,0,0,0
-1059099059175260160,2018-11-04 15:04:27,"Ce soir dès 22h30, les trains #RERB seront terminus Châtelet-les-Halles. Les bus de substitution partiront de Gare du Nord.",5,3,0,0,0
 1059099060471250944,2018-11-04 15:04:27,"En direction du nord:
 -dernier départ de Châtelet à destination de La Plaine SDF: 22h29
 -dernier départ de Châtelet à destination de Gare du Nord: 22h44
  Après 22h44, tous les trains seront terminus Châtelet. #RERB",3,2,0,0,0
+1059099059175260160,2018-11-04 15:04:27,"Ce soir dès 22h30, les trains #RERB seront terminus Châtelet-les-Halles. Les bus de substitution partiront de Gare du Nord.",5,3,0,0,0
 1059099061670813696,2018-11-04 15:04:28,"En direction du sud:
 -dernier départ à La Plaine à 22h41 (passage à Châtelet à 22h53)
 -dernier départ à Gare du Nord à 22h56 (passage à Châtelet à 22h59). #RERB",3,2,0,0,0
@@ -8179,8 +8179,8 @@ Plusieurs chantiers sont menés en parallèle, do…",46,0,0,0,0
 1113031111381344256,2019-04-02 10:51:10,Le trafic est interrompu sur le #RERB depuis 9h ce matin entre Parc des Expositions et Aéroport Charles de Gaulle 2. Cela fait suite à l’inondation de locaux techniques essentiels à l’exploitation ferroviaire. Cet incident est dû à des travaux sur les voiries aéroportuaires. https://t.co/nv8nWmqztv,25,21,0,0,0
 1113031114673868801,2019-04-02 10:51:11,Actuellement 12 bus sont en rotation et nous en aurons bientôt 20. Nous bénéficions d’un renfort avec des bus mis à disposition par Aéroport de Paris. https://t.co/exuaODCZPK,2,7,0,0,0
 1113031113629470720,2019-04-02 10:51:11,Heure de reprise estimée à 16h. Nous vous tiendrons informés de l’évolution de la situation. Pour l’heure nous sommes mobilisés pour faire circuler un maximum de bus entre Parc des Expositions et la gare routière de Roissypole.,2,7,0,0,0
-1113031117467254784,2019-04-02 10:51:12,"Pour l'heure nous assurons un train terminus toutes les 15 min. à Parc des Expositions depuis Gare du Nord. Ces trains sont omnibus. La situation est maintenant fluide du point de vue des rotations bus. Entre les gares CDG 1 et CDG2, il faut emprunter le métro automatique CDG VAL",3,7,0,0,0
 1113031118448668673,2019-04-02 10:51:12,Les équipes techniques de SNCF Réseau sont mobilisées pour assainir les locaux techniques inondés et rétablir des circulations ferroviaires en toute sécurité.,3,9,0,0,0
+1113031117467254784,2019-04-02 10:51:12,"Pour l'heure nous assurons un train terminus toutes les 15 min. à Parc des Expositions depuis Gare du Nord. Ces trains sont omnibus. La situation est maintenant fluide du point de vue des rotations bus. Entre les gares CDG 1 et CDG2, il faut emprunter le métro automatique CDG VAL",3,7,0,0,0
 1113033008486014981,2019-04-02 10:58:43,"Bonjour à tous, Joy pour vous accompagner jusqu'à 20h00. Le trafic est interrompu entre Parc des Expositions et l'Aéroport CDG2 jusqu'à 16h00 environ (panne de signalisation consécutive à des travaux de voirie de l'Aéroport CDG) #RERB. https://t.co/IWNrZN91WI",1,3,0,0,0
 1113037365155696644,2019-04-02 11:16:01,Le trafic est interrompu entre Parc des Expositions et l'Aéroport CDG2 jusqu'à fin de service (panne de signalisation consécutive à des travaux de voirie de l'Aéroport CDG) #RERB. https://t.co/IWNrZN91WI,16,7,0,0,0
 1113042210696712192,2019-04-02 11:35:17,"@oh_mag Bonjour, dans quelle gare êtes vous ? Joy",0,0,0,0,0
@@ -13115,7 +13115,7 @@ Vous pouvez aussi aller à un guichet RATP dès la première heure pour demander
 1164800848620167170,2019-08-23 07:25:37,"✅ Fin d'incident à are du Nord, le train reprend sa marche en direction de Massy Palaiseau  #RERB",0,2,0,0,0
 1164824276014288896,2019-08-23 08:58:43,"[ 🚧 INFO TRAVAUX] Lundi 25 Août, la gare de Bagneux ouvrira de nouveau ses portes à nos voyageurs. Suite aux travaux sur la structure de quai direction Paris, la gare restera en travaux jusqu'au 1er Septembre 2020 mais ceux-ci n'affecteront pas la circulation des trains #RERB https://t.co/fI4L48WvRH",0,0,0,0,0
 1164826347253821440,2019-08-23 09:06:57,"@Maha_Hyp C'est bien lundi 26, je vais modifier ça ! Merci pour votre signalement ! Bonne journée ! Joy",0,1,0,0,0
-1164826565626093569,2019-08-23 09:07:49,"[ 🚧 INFO TRAVAUX] Lundi 26 Août, la gare de Bagneux ouvrira de nouveau ses portes à nos voyageurs. Suite aux travaux sur la structure de quai direction Paris, la gare restera en travaux jusqu'au 1er Septembre 2020 mais ceux-ci n'affecteront pas la circulation des trains #RERB https://t.co/ybCp2zmCwO",7,17,0,0,0
+1164826565626093569,2019-08-23 09:07:49,"[ 🚧 INFO TRAVAUX] Lundi 26 Août, la gare de Bagneux ouvrira de nouveau ses portes à nos voyageurs. Suite aux travaux sur la structure de quai direction Paris, la gare restera en travaux jusqu'au 1er Septembre 2020 mais ceux-ci n'affecteront pas la circulation des trains #RERB https://t.co/ybCp2zmCwO",8,18,0,0,0
 1164873188855205890,2019-08-23 12:13:05,"@razhades Bonjour Hadès, certaines missions venant du sud ont pour terminus Gare du Nord. Ces trains doivent ensuite faire demi-tour avant d’entamer un nouveau trajet sur la branche sud, ce qui explique que les voies peuvent être différentes.",0,1,0,0,0
 1164934713347366912,2019-08-23 16:17:33,"18:16, le trafic est perturbé de St-Remy / Robinson vers Aeroport CdG 2 / Mitry - Claye (train en panne)  #RERB",2,7,0,0,0
 1164937209121820675,2019-08-23 16:27:28,"18:26, le trafic est perturbé sur la ligne (train en panne)  #RERB",3,4,0,0,0
@@ -13131,7 +13131,7 @@ Vous pouvez aussi aller à un guichet RATP dès la première heure pour demander
 1165653824012455937,2019-08-25 15:55:03,"[Pic de #pollution] @IDFmobilites met en place, le lundi 26 août, le forfait journalier antipollution à 3,80 euros pour se déplacer en #TransportsIDF https://t.co/szjlne9Qpn",4,10,0,0,0
 1165664214792454144,2019-08-25 16:36:20,"@nial_mtl @RATPgroup @IDFmobilites @Paris @iledefrance @Defense_gouv @Min_Ecologie @Ligne6_RATP @Ligne4_RATP En effet, nous souhaitions que le nom soit dévoilé en même temps que les événements prévus !",0,0,0,0,0
 1165873978587648000,2019-08-26 06:29:52,"@MelanieSciarini Bonjour, je vous confirme que le trafic est en effet rétabli au départ de Saint-Rémy-lès-Chevreuse !",0,0,0,0,0
-1165877156372766720,2019-08-26 06:42:29,"08:41, le trafic est perturbé de St-Remy / Robinson vers Aeroport CdG 2 / Mitry - Claye (malaise voyageur)  #RERB",4,2,0,0,0
+1165877156372766720,2019-08-26 06:42:29,"08:41, le trafic est perturbé de St-Remy / Robinson vers Aeroport CdG 2 / Mitry - Claye (malaise voyageur)  #RERB",4,3,0,0,0
 1165880176267419648,2019-08-26 06:54:29,"08:53, le trafic est rétabli de St-Remy / Robinson vers Aeroport CdG 2 / Mitry - Claye (malaise voyageur)  #RERB",1,1,0,0,0
-1165884457884295168,2019-08-26 07:11:30,"09:10, le trafic est perturbé de Cite Universitaire vers Aeroport CdG 2 / Mitry - Claye (malaise voyageur)  #RERB",0,0,0,0,0
-1165889251587874816,2019-08-26 07:30:33,"09:26, le trafic est rétabli de Cite Universitaire vers Aeroport CdG 2 / Mitry - Claye (malaise voyageur)  #RERB",0,0,0,0,0
+1165884457884295168,2019-08-26 07:11:30,"09:10, le trafic est perturbé de Cite Universitaire vers Aeroport CdG 2 / Mitry - Claye (malaise voyageur)  #RERB",0,1,0,0,0
+1165889251587874816,2019-08-26 07:30:33,"09:26, le trafic est rétabli de Cite Universitaire vers Aeroport CdG 2 / Mitry - Claye (malaise voyageur)  #RERB",0,1,0,0,0
