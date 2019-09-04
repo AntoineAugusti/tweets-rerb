@@ -1406,11 +1406,11 @@ Des bus de remplacement desserviront toutes les gares entre Aulnay sous Bois et 
 1059091762675924992,2018-11-04 14:35:27,"@Lorin6401 Bonjour, les travaux se terminent ce soir à la fin de service. Le trafic prévu dès demain à la prise de service est un trafic régulier. Bonne journée. ^b",0,0,0,0,0
 1059092180168593410,2018-11-04 14:37:07,"@AndrewMitul Bonjour, les travaux se terminent ce soir à la fin de service. Le trafic prévu dès demain à la prise de service est un trafic régulier. Je comprends tout à fait votre point de vue mais ces travaux sont néanmoins nécessaires. Bon dimanche. ^b",0,0,0,0,0
 1059093677350535169,2018-11-04 14:43:04,"@Vinced_93 Bonjour, oui les travaux se terminent ce soir. Le trafic prévu pour la journée de demain est un trafic régulier. Bonne journée. ^b",0,0,0,0,0
-1059099059175260160,2018-11-04 15:04:27,"Ce soir dès 22h30, les trains #RERB seront terminus Châtelet-les-Halles. Les bus de substitution partiront de Gare du Nord.",5,3,0,0,0
 1059099060471250944,2018-11-04 15:04:27,"En direction du nord:
 -dernier départ de Châtelet à destination de La Plaine SDF: 22h29
 -dernier départ de Châtelet à destination de Gare du Nord: 22h44
  Après 22h44, tous les trains seront terminus Châtelet. #RERB",3,2,0,0,0
+1059099059175260160,2018-11-04 15:04:27,"Ce soir dès 22h30, les trains #RERB seront terminus Châtelet-les-Halles. Les bus de substitution partiront de Gare du Nord.",5,3,0,0,0
 1059099061670813696,2018-11-04 15:04:28,"En direction du sud:
 -dernier départ à La Plaine à 22h41 (passage à Châtelet à 22h53)
 -dernier départ à Gare du Nord à 22h56 (passage à Châtelet à 22h59). #RERB",3,2,0,0,0
@@ -8179,8 +8179,8 @@ Plusieurs chantiers sont menés en parallèle, do…",46,0,0,0,0
 1113031111381344256,2019-04-02 10:51:10,Le trafic est interrompu sur le #RERB depuis 9h ce matin entre Parc des Expositions et Aéroport Charles de Gaulle 2. Cela fait suite à l’inondation de locaux techniques essentiels à l’exploitation ferroviaire. Cet incident est dû à des travaux sur les voiries aéroportuaires. https://t.co/nv8nWmqztv,25,21,0,0,0
 1113031113629470720,2019-04-02 10:51:11,Heure de reprise estimée à 16h. Nous vous tiendrons informés de l’évolution de la situation. Pour l’heure nous sommes mobilisés pour faire circuler un maximum de bus entre Parc des Expositions et la gare routière de Roissypole.,2,7,0,0,0
 1113031114673868801,2019-04-02 10:51:11,Actuellement 12 bus sont en rotation et nous en aurons bientôt 20. Nous bénéficions d’un renfort avec des bus mis à disposition par Aéroport de Paris. https://t.co/exuaODCZPK,2,7,0,0,0
-1113031118448668673,2019-04-02 10:51:12,Les équipes techniques de SNCF Réseau sont mobilisées pour assainir les locaux techniques inondés et rétablir des circulations ferroviaires en toute sécurité.,3,9,0,0,0
 1113031117467254784,2019-04-02 10:51:12,"Pour l'heure nous assurons un train terminus toutes les 15 min. à Parc des Expositions depuis Gare du Nord. Ces trains sont omnibus. La situation est maintenant fluide du point de vue des rotations bus. Entre les gares CDG 1 et CDG2, il faut emprunter le métro automatique CDG VAL",3,7,0,0,0
+1113031118448668673,2019-04-02 10:51:12,Les équipes techniques de SNCF Réseau sont mobilisées pour assainir les locaux techniques inondés et rétablir des circulations ferroviaires en toute sécurité.,3,9,0,0,0
 1113033008486014981,2019-04-02 10:58:43,"Bonjour à tous, Joy pour vous accompagner jusqu'à 20h00. Le trafic est interrompu entre Parc des Expositions et l'Aéroport CDG2 jusqu'à 16h00 environ (panne de signalisation consécutive à des travaux de voirie de l'Aéroport CDG) #RERB. https://t.co/IWNrZN91WI",1,3,0,0,0
 1113037365155696644,2019-04-02 11:16:01,Le trafic est interrompu entre Parc des Expositions et l'Aéroport CDG2 jusqu'à fin de service (panne de signalisation consécutive à des travaux de voirie de l'Aéroport CDG) #RERB. https://t.co/IWNrZN91WI,16,7,0,0,0
 1113042210696712192,2019-04-02 11:35:17,"@oh_mag Bonjour, dans quelle gare êtes vous ? Joy",0,0,0,0,0
@@ -13468,7 +13468,7 @@ pensez dès à présent à votre billet retour.Bon match! https://t.co/bOze7Wayj
 1168952164959608832,2019-09-03 18:21:28,"20:20, le trafic est perturbé sur la ligne (incident voie)  #RERB",3,6,0,0,0
 1168983882701651971,2019-09-03 20:27:30,"22:25, la rame stationne à Bourg-la-Reine en dir. de Robinson (bagage oublié)  #RERB",0,2,0,0,0
 1168993462152237056,2019-09-03 21:05:34,"23:04, l'arrêt est à nouveau marqué à Bourg-la-Reine  #RERB",0,6,0,0,0
-1169001745869082625,2019-09-03 21:38:29,"23:36, le trafic est rétabli sur la ligne (incident voie)  #RERB",2,1,0,0,0
+1169001745869082625,2019-09-03 21:38:29,"23:36, le trafic est rétabli sur la ligne (incident voie)  #RERB",2,2,0,0,0
 1169098283584802817,2019-09-04 04:02:06,"Bonjour à tous, Alexandra pour vous accompagner jusqu'à 13h00 sur la ligne #RERB. Bonne journée !",0,11,0,0,0
 1169099972081594368,2019-09-04 04:08:48,@ibra937 Bonjour bonjour ! Merci pour votre message et bonne journée ! 🤗 ^b,0,2,0,0,0
 1169100149332819969,2019-09-04 04:09:31,"@Ganjalaa Bonjour ! Merci beaucoup, bonne journée à vous aussi ! 😉 ^b",0,0,0,0,0
@@ -13492,7 +13492,7 @@ pensez dès à présent à votre billet retour.Bon match! https://t.co/bOze7Wayj
 1169130580853833728,2019-09-04 06:10:26,"@Damian52261396 Bonjour, dans quelle direction ? ^b",0,0,0,0,0
 1169133371206918144,2019-09-04 06:21:31,"@CatherineMicS Bonjour, navrée de vous lire.. Est-il possible de nous contacter en privé pour plus d'infos ? Je vous remercie ! ^b",0,0,0,0,0
 1169134145718628354,2019-09-04 06:24:36,"@razhades Hello, oui c'est vrai, des changements ont été faits sur l'axe Mitry / Paris ce matin. Bonne journée à vous et à tout à l'heure 😊 ^b",0,2,0,0,0
-1169136838256336896,2019-09-04 06:35:18,"@Nialiex Merci ! Le terme ""divers incidents"" est beaucoup moins utilisé désormais. Il est considéré comme ""trop vague ou trop peu précis"" par les voyageurs, ce que je comprends. Lors de plusieurs incidents sur la ligne, on ne parle que du plus impactant, plus récent. ^b",0,3,0,0,0
+1169136838256336896,2019-09-04 06:35:18,"@Nialiex Merci ! Le terme ""divers incidents"" est beaucoup moins utilisé désormais. Il est considéré comme ""trop vague ou trop peu précis"" par les voyageurs, ce que je comprends. Lors de plusieurs incidents sur la ligne, on ne parle que du plus impactant, plus récent. ^b",0,4,0,0,0
 1169137026194694144,2019-09-04 06:36:03,"@Bru322 Bonjour Bruno, effectivement il a stationné quelques minutes, le temps de la prise en charge d'une personne à mobilité réduite. ^b",0,1,0,0,0
 1169137219577307137,2019-09-04 06:36:49,"@ElZebr Bonjour, merci beaucoup pour lui ! Actuellement à St Michel ? Merci à vous ! ^b",0,0,0,0,0
 1169137589149978624,2019-09-04 06:38:17,"@AntoineAugusti Bonjour, des vérifications ont été effectuées à son départ concernant son matériel. Dans quelle gare l'avez-vous attendu ? ^b",0,0,0,0,0
@@ -13514,7 +13514,10 @@ pensez dès à présent à votre billet retour.Bon match! https://t.co/bOze7Wayj
 1169189247674400770,2019-09-04 10:03:33,"@marcbong1 Bonjour, merci de votre signalement, je me charge de transmettre. Même si, effectivement s'éloigner au maximum de la bordure du quai est une question de sécurité pour éviter tout accident. Bonne journée. ^b",0,0,0,0,0
 1169192021535416320,2019-09-04 10:14:35,Un train à destination de l'aéroport CDG stationne en gare du Bourget suite à la chute d'une personne entre le quai et le train. Nos agents sont en cours d'intervention. #RERB,3,2,0,0,0
 1169192512893980672,2019-09-04 10:16:32,"✅  (Chute d'une personne entre le quai et le train au Bourget) : Fin d'incident, le train à destination de l'aéroport CDG va pouvoir repartir. #RERB",2,3,0,0,0
-1169202641307656193,2019-09-04 10:56:47,"🙋‍♀️ Bonjour à tous, Joy pour vous accompagner jusqu'à 20h00. N'hésitez pas à me solliciter pendant votre trajet sur le #RERB ! Bonne journée !",1,6,0,0,0
+1169202641307656193,2019-09-04 10:56:47,"🙋‍♀️ Bonjour à tous, Joy pour vous accompagner jusqu'à 20h00. N'hésitez pas à me solliciter pendant votre trajet sur le #RERB ! Bonne journée !",1,7,0,0,0
 1169204455050547200,2019-09-04 11:03:59,"@Tutur_weiss Bonjour Arthur, bonne journée à vous aussi 🙂 ! Joy",0,1,0,0,0
 1169204756201562114,2019-09-04 11:05:11,"@Simplicity77270 Bonjour, je vous souhaite une belle journée également 🙂 ! Joy",0,0,0,0,0
 1169204996661010432,2019-09-04 11:06:08,"@BertrandLapraye Bonjour Bertrand, espérons que tout roule bien aujourd'hui 🤞 ! A tout à l'heure ! Joy",0,0,0,0,0
+1169229826546438144,2019-09-04 12:44:48,"▶️ Samedi, l'@equipedefrance rencontre l'Albanie pour les qualificatifs de l'@EURO2020 au @StadeFrance ⚽
+👉 Pour vous rendre au stade, c'est le #RERB
+👉 Pour guider en gare, écoutez les annonces sonores de @julienbrunbein #FRAALB #RERB https://t.co/wk763XcN0j",1,4,0,0,0
