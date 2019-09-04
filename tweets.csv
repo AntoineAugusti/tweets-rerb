@@ -1406,11 +1406,11 @@ Des bus de remplacement desserviront toutes les gares entre Aulnay sous Bois et 
 1059091762675924992,2018-11-04 14:35:27,"@Lorin6401 Bonjour, les travaux se terminent ce soir à la fin de service. Le trafic prévu dès demain à la prise de service est un trafic régulier. Bonne journée. ^b",0,0,0,0,0
 1059092180168593410,2018-11-04 14:37:07,"@AndrewMitul Bonjour, les travaux se terminent ce soir à la fin de service. Le trafic prévu dès demain à la prise de service est un trafic régulier. Je comprends tout à fait votre point de vue mais ces travaux sont néanmoins nécessaires. Bon dimanche. ^b",0,0,0,0,0
 1059093677350535169,2018-11-04 14:43:04,"@Vinced_93 Bonjour, oui les travaux se terminent ce soir. Le trafic prévu pour la journée de demain est un trafic régulier. Bonne journée. ^b",0,0,0,0,0
-1059099059175260160,2018-11-04 15:04:27,"Ce soir dès 22h30, les trains #RERB seront terminus Châtelet-les-Halles. Les bus de substitution partiront de Gare du Nord.",5,3,0,0,0
 1059099060471250944,2018-11-04 15:04:27,"En direction du nord:
 -dernier départ de Châtelet à destination de La Plaine SDF: 22h29
 -dernier départ de Châtelet à destination de Gare du Nord: 22h44
  Après 22h44, tous les trains seront terminus Châtelet. #RERB",3,2,0,0,0
+1059099059175260160,2018-11-04 15:04:27,"Ce soir dès 22h30, les trains #RERB seront terminus Châtelet-les-Halles. Les bus de substitution partiront de Gare du Nord.",5,3,0,0,0
 1059099061670813696,2018-11-04 15:04:28,"En direction du sud:
 -dernier départ à La Plaine à 22h41 (passage à Châtelet à 22h53)
 -dernier départ à Gare du Nord à 22h56 (passage à Châtelet à 22h59). #RERB",3,2,0,0,0
@@ -3174,9 +3174,9 @@ Massy-Verrières et Fontaine-Michalon. Le train est actuellement à l'approche d
 1070283993139036160,2018-12-05 11:49:23,"@razhades Bonjour Hadès, ohhh mais non j'avais pas vu ! Alors concernant les trains à destination d'Orsay, c'est vrai qu'ils sont souvent assurés au départ de Châtelet pendant les heures de pointe suite à des mesures de régulation. Bonne journée, à tout à l'heure ! ^b",0,3,0,1,0
 1070287496431439872,2018-12-05 12:03:18,"@Melooooody77 @razhades Plus rien ne va 😁 Désolée, encore une fois ! ^b",0,3,0,0,0
 1070339180499222530,2018-12-05 15:28:41,@razhades Bien rentré ? Bonne soirée à vous ! 😉 ^b,0,2,0,0,0
+1070366241708273665,2018-12-05 17:16:13,"#RERB  En raison d’un mouvement social qui fait suite à l’agression d’un  conducteur, le trafic sera perturbé sur la ligne le 7 décembre.",104,58,0,0,0
 1070366243012706306,2018-12-05 17:16:13,"Entre Saint-Rémy/Robinson et Denfert Rochereau prévoir 2 trains sur 3 aux heures de pointe, 1 train sur 2 aux heures creuses.
 Entre Denfert Rochereau et Aéroport CDG/Mitry prévoir 1 train sur 2 toute la journée.",19,6,0,0,0
-1070366241708273665,2018-12-05 17:16:13,"#RERB  En raison d’un mouvement social qui fait suite à l’agression d’un  conducteur, le trafic sera perturbé sur la ligne le 7 décembre.",104,58,0,0,0
 1070367486921580549,2018-12-05 17:21:10,"@SamRLIVPIVIF Bonsoir, non pas de changement de train à Gare du Nord. Bonne soirée. ^b",0,1,0,0,0
 1070368443516506113,2018-12-05 17:24:58,"@YBourti Bonsoir, non ce mouvement social concerne la journée de vendredi, le 7 décembre. Bonne soirée à vous. ^b",0,1,0,0,0
 1070368660932517888,2018-12-05 17:25:49,@SamRLIVPIVIF Je vous en prie ! Merci à vous et bon courage également 🙂 ^b,0,1,0,0,1
@@ -6201,8 +6201,8 @@ Veuillez nous excuser de la gêne occasionnée. #RERB.",1,3,1,0,0
 1096381003399077888,2019-02-15 12:09:35,"@razhades Je ne pourrais pas vous répondre, je n'ai pas du tout ces infos. Les trains sont pourtant révisés régulièrement dans nos ateliers de maintenance. ^b",0,3,0,0,0
 1096383857014833152,2019-02-15 12:20:55,"@barthetvr133 Bonjour, merci beaucoup pour votre message, c'est vraiment gentil ! 😊 Nous sommes toute les deux employées, avec Joy. Bonne journée ! 🙂",0,0,0,0,0
 1096385288648249344,2019-02-15 12:26:37,"@Nialiex @razhades Bonjour, oui bien sur je comprends tout à fait. Une maintenance est pourtant effectuée régulièrement dans les ateliers de maintenance afin d'assurer une sécurité optimale pour les voyageurs. Je transmets votre message. Bonne journée à vous. ^b",0,3,0,0,0
-1096393943703580672,2019-02-15 13:01:00,"⚠️ Clients à destination de l'aéroport CDG 1 et 2 le dimanche 17/02, sur ordre de la préfecture de Police, une opération de déminage interrompt le #RERB de 9h00 à 15 h entre Paris Gare du Nord et Aulnay-sous-Bois. Anticiper votre départ vers l'aéroport CDG. https://t.co/OpRB7W0rUd",14,10,0,0,0
 1096393942885679104,2019-02-15 13:01:00,"⚠️ Passengers going to CDG Airport on Sunday 17th of February 2019 : following a police department request, due to a bomb disposal operation, there will be no #RERB service between 09h00 AM and 03h00 PM between Gare du Nord and Aulnay. Plan in advance your trip to the Airport. https://t.co/MHwD0yVERr",7,4,0,0,0
+1096393943703580672,2019-02-15 13:01:00,"⚠️ Clients à destination de l'aéroport CDG 1 et 2 le dimanche 17/02, sur ordre de la préfecture de Police, une opération de déminage interrompt le #RERB de 9h00 à 15 h entre Paris Gare du Nord et Aulnay-sous-Bois. Anticiper votre départ vers l'aéroport CDG. https://t.co/OpRB7W0rUd",14,10,0,0,0
 1096394643414151169,2019-02-15 13:03:47,"@youri_bhd Bonjour, vous pouvez prendre le métro 5 à Gare du Nord jusqu'à Bobigny / Pablo Picasso puis le bus 93 jusqu'à CDG1. ^b",0,0,0,0,0
 1096395461202767874,2019-02-15 13:07:02,@youri_bhd Il faut compter 25 min de métro et 40 minutes de bus. Donc un peu plus d'une heure de trajet depuis Gare du Nord. ^b,0,0,0,0,0
 1096398164129660933,2019-02-15 13:17:47,"@youri_bhd Oui, si vous partez de St Lazare, c'est plus simple effectivement et plus rapide aussi. Normalement, le service RoissyBus roule mais à confirmer avant votre trajet. ^b",0,0,0,0,0
@@ -10210,8 +10210,8 @@ https://t.co/cMeMrfjzvH",5,11,0,0,0
 Petit récap des #TravauxRERB_2019 pour vous aider à mieux voyager la semaine du 10 au 16 juin : 
 Interruption des circulations à partir de 23h de mardi à vendredi, entre Aulnay-sous-Bois et l'Aéroport Charles de Gaulle. Information :👉 https://t.co/ID7LdbrhNP https://t.co/9FD7NWZf0o",5,3,0,0,0
 1136997242492149760,2019-06-07 14:04:01,"@wenjihyo Bonjour, oui bien sûr ! Bonne journée ! ^b",0,1,0,0,0
-1137004486675894272,2019-06-07 14:32:48,All #RERB staff members would like to wish #BTS fans an amazing concert. 🎶 https://t.co/5PKEWacNhA,7,24,0,0,0
 1137004484658417664,2019-06-07 14:32:48,Tous les agents du #RERB souhaitent un excellent concert aux fans de #BTS 🎶 https://t.co/He9oAtkOiv,22,80,0,0,0
+1137004486675894272,2019-06-07 14:32:48,All #RERB staff members would like to wish #BTS fans an amazing concert. 🎶 https://t.co/5PKEWacNhA,7,24,0,0,0
 1137005429706428416,2019-06-07 14:36:33,"@blackdmusic1 Bonjour, pas d'incident en cours mais il y a un concert au Stade de France ce soir, demain soir également. N'hésitez pas à revenir vers moi, si besoin. Bonne soirée. ^b",0,0,0,0,0
 1137006389564493825,2019-06-07 14:40:22,"@FabiolaSa6 Bonsoir, il est entre La Plaine Stade de France et Gare du Nord. Bonne soirée. ^b",0,1,0,0,0
 1137008819668754432,2019-06-07 14:50:01,"@sa_riaka @BTS_twt Bonjour, oui bien sûr. Dans quelle direction allez-vous ? Paris ? Bonne soiré et bon concert à vous 🎶 ! ^b",0,2,0,0,0
@@ -12869,7 +12869,7 @@ Cette desserte a plusieurs avantages : elle permet le stationnement nécessaire 
 1159156377811640320,2019-08-07 17:36:31,"19:34, le trafic est rétabli sur la ligne (malaise voyageur)  #RERB",1,5,0,0,0
 1159369896905596928,2019-08-08 07:44:58,"@ClemGwen @Jeannot911 @Courb_RERB @Asso_usagersidf @IDFmobilites Bonjour Gwen. Nonobstant le fait que nous avons d'autres supports d'information (écrans, site https://t.co/ijY0yo4Edo, applis mobiles etc. ) alimentés en temps réel. 1/2",0,0,0,0,0
 1159370040292122625,2019-08-08 07:45:32,@ClemGwen @Jeannot911 @Courb_RERB @Asso_usagersidf @IDFmobilites Vous disposez également d'un service client que vous pouvez contacter au 3424. Il me semble que nous proposons une offre variée et suffisamment complète. Bonne journée. 2/2. Tom,0,0,0,0,0
-1159404377553231873,2019-08-08 10:01:58,"🐶🔍Ce #chien a été retrouvé il y a quelques instants en gare #RERB d'Orsay Ville. Nous recherchons son maître : n'hésitez pas à nous contacter si vous le reconnaissez, et RT pour diffuser ! Merci 😉 https://t.co/ds7f6rCTB1",515,245,0,0,0
+1159404377553231873,2019-08-08 10:01:58,"🐶🔍Ce #chien a été retrouvé il y a quelques instants en gare #RERB d'Orsay Ville. Nous recherchons son maître : n'hésitez pas à nous contacter si vous le reconnaissez, et RT pour diffuser ! Merci 😉 https://t.co/ds7f6rCTB1",515,246,0,0,0
 1159410085153726464,2019-08-08 10:24:39,@CamilleTozzi @PetAlerte un petit coup de pouce,7,13,0,0,0
 1159417725552353280,2019-08-08 10:55:01,Bonne nouvelle ! Le propriétaire de Coconut viendra le récupérer cet après-midi ! 👏🏻 aux agents d’Orsay qui l’ont récupéré en gare &amp; amené dans les services vétérinaires dédiés #RERB,16,163,0,0,0
 1159429368701161472,2019-08-08 11:41:17,⚠️ Incident technique sur un train à Paris-Nord : la circulation des trains s'effectue en voie 44 #RERB,1,3,0,0,0
@@ -13468,14 +13468,14 @@ pensez dès à présent à votre billet retour.Bon match! https://t.co/bOze7Wayj
 1168952164959608832,2019-09-03 18:21:28,"20:20, le trafic est perturbé sur la ligne (incident voie)  #RERB",3,6,0,0,0
 1168983882701651971,2019-09-03 20:27:30,"22:25, la rame stationne à Bourg-la-Reine en dir. de Robinson (bagage oublié)  #RERB",0,2,0,0,0
 1168993462152237056,2019-09-03 21:05:34,"23:04, l'arrêt est à nouveau marqué à Bourg-la-Reine  #RERB",0,5,0,0,0
-1169001745869082625,2019-09-03 21:38:29,"23:36, le trafic est rétabli sur la ligne (incident voie)  #RERB",1,0,0,0,0
-1169098283584802817,2019-09-04 04:02:06,"Bonjour à tous, Alexandra pour vous accompagner jusqu'à 13h00 sur la ligne #RERB. Bonne journée !",0,7,0,0,0
+1169001745869082625,2019-09-03 21:38:29,"23:36, le trafic est rétabli sur la ligne (incident voie)  #RERB",2,0,0,0,0
+1169098283584802817,2019-09-04 04:02:06,"Bonjour à tous, Alexandra pour vous accompagner jusqu'à 13h00 sur la ligne #RERB. Bonne journée !",0,9,0,0,0
 1169099972081594368,2019-09-04 04:08:48,@ibra937 Bonjour bonjour ! Merci pour votre message et bonne journée ! 🤗 ^b,0,1,0,0,0
 1169100149332819969,2019-09-04 04:09:31,"@Ganjalaa Bonjour ! Merci beaucoup, bonne journée à vous aussi ! 😉 ^b",0,0,0,0,0
 1169100959852744704,2019-09-04 04:12:44,"@Jeannot911 Bonjour Jeannot, on en a eu assez hier 😓 Espérons que ça reste calme ! Bonne journée ! ^b",0,3,0,0,0
 1169101965701406720,2019-09-04 04:16:44,@Jeannot911 Merci beaucoup ! 🙌 ^b,0,1,0,0,0
 1169103737803161606,2019-09-04 04:23:46,"@mehdymatuidi14 Bonjour, ça va très bien et vous ? Bonne journée, bon courage ! 😉 ^b",0,0,0,0,1
-1169106993157722112,2019-09-04 04:36:42,"[🚧 RAPPEL TRAVAUX] : Ce soir à partir de 23h et jusque fin de service, le trafic est interrompu entre Aulnay et Aéroport CDG1. Des bus de substitution assureront le service entre les deux gares, et entre CDG1 &amp; CDG2, merci d'emprunter CDGVAL #RERB https://t.co/UMIUhhFV5g",3,2,0,0,0
+1169106993157722112,2019-09-04 04:36:42,"[🚧 RAPPEL TRAVAUX] : Ce soir à partir de 23h et jusque fin de service, le trafic est interrompu entre Aulnay et Aéroport CDG1. Des bus de substitution assureront le service entre les deux gares, et entre CDG1 &amp; CDG2, merci d'emprunter CDGVAL #RERB https://t.co/UMIUhhFV5g",4,2,0,0,0
 1169117801354842113,2019-09-04 05:19:39,"@crmn_bn Bonjour Carmen, pas de perturbations actuellement sur la ligne. Bonne journée. ^b",0,0,0,0,0
 1169121247499882496,2019-09-04 05:33:21,"@Mel0o0o0dy Bonjour, il a été supprimé, il y a eu des difficultés dans la préparation du train. Le prochain est dans 7 minutes à Villeparisis. ^b",0,0,0,0,0
 1169122583855452160,2019-09-04 05:38:39,"@Mel0o0o0dy Je me suis renseignée sur l'annonce, elle a été faite apparemment. Vous ne l'avez pas entendue ? Nos excuses ! ^b",0,0,1,0,0
@@ -13487,3 +13487,21 @@ pensez dès à présent à votre billet retour.Bon match! https://t.co/bOze7Wayj
 1169126925878603776,2019-09-04 05:55:55,"@sKyoKun Oui bien sûr je comprends, mais le plus loin de la bordure du quai, ça sera mieux ! 😉 Bon courage et bonne journée, tout de même. ^b",0,0,0,0,1
 1169127292842467328,2019-09-04 05:57:22,"@clara_delphine Bonjour Delphine, le train passage sera dans 6 minutes à Villeparisis. ^b",0,0,0,0,0
 1169127538465148930,2019-09-04 05:58:21,"@CarlitaKruger @petitsoleilmex Bonjour, oui tout à fait. Nos excuses pour ces changements. ^b",0,1,1,0,0
+1169128959688286210,2019-09-04 06:04:00,"@sKyoKun Oui, une mesure vient d'être appliquée suite au retard. Vraiment navrée.. ^b",0,0,0,0,0
+1169130430420967424,2019-09-04 06:09:50,"@Nialiex  Bonjour, c'est vrai que la situation est assez complexe. Il n'y a pourtant pas d'incident majeur ce matin. Toujours compliqué pendant les heures de pointe, le moindre micro changement devient tout de suite important. Merci pour votre message, on surveille de près. ^b",0,3,0,0,0
+1169130580853833728,2019-09-04 06:10:26,"@Damian52261396 Bonjour, dans quelle direction ? ^b",0,0,0,0,0
+1169133371206918144,2019-09-04 06:21:31,"@CatherineMicS Bonjour, navrée de vous lire.. Est-il possible de nous contacter en privé pour plus d'infos ? Je vous remercie ! ^b",0,0,0,0,0
+1169134145718628354,2019-09-04 06:24:36,"@razhades Hello, oui c'est vrai, des changements ont été faits sur l'axe Mitry / Paris ce matin. Bonne journée à vous et à tout à l'heure 😊 ^b",0,1,0,0,0
+1169136838256336896,2019-09-04 06:35:18,"@Nialiex Merci ! Le terme ""divers incidents"" est beaucoup moins utilisé désormais. Il est considéré comme ""trop vague ou trop peu précis"" par les voyageurs, ce que je comprends. Lors de plusieurs incidents sur la ligne, on ne parle que du plus impactant, plus récent. ^b",0,2,0,0,0
+1169137026194694144,2019-09-04 06:36:03,"@Bru322 Bonjour Bruno, effectivement il a stationné quelques minutes, le temps de la prise en charge d'une personne à mobilité réduite. ^b",0,0,0,0,0
+1169137219577307137,2019-09-04 06:36:49,"@ElZebr Bonjour, merci beaucoup pour lui ! Actuellement à St Michel ? Merci à vous ! ^b",0,0,0,0,0
+1169137589149978624,2019-09-04 06:38:17,"@AntoineAugusti Bonjour, des vérifications ont été effectuées à son départ concernant son matériel. Dans quelle gare l'avez-vous attendu ? ^b",0,0,0,0,0
+1169137939860918272,2019-09-04 06:39:41,"@Hir72992570 Bonjour, un stationnement pour intervention de nos équipes pour prendre en charge un voyageur, des vérifications sur le matériel. Pas d'incident majeur sur la ligne mais effectivement pendant les heures de pointe, cela impacte la ligne. ^b",0,0,0,0,0
+1169138080399470592,2019-09-04 06:40:14,"@AntoineAugusti Merci Antoine, vous avez pu le prendre ? Bonne journée ! ^b",0,0,0,0,0
+1169138403205685248,2019-09-04 06:41:31,"@50etplus1 Bonjour, merci à pour lui ! J'ai également eu un autre message pour ce même conducteur il y a quelques minutes 😉 Je transmets ! Bonne journée ! ^b",0,0,0,0,0
+1169139084486422528,2019-09-04 06:44:13,"@AntoineAugusti L'avarie est plus importante que prévue, nous allons devoir supprimer sa mission et sera terminus à Denfert. Dans quelle gare allez-vous ? ^b",0,0,0,0,0
+1169139251608530944,2019-09-04 06:44:53,"@ElZebr C'est parfait, merci à vous ! Bonne journée ^b",0,0,0,0,0
+1169139489199009793,2019-09-04 06:45:50,@AntoineAugusti Oui je comprends ! Bon courage et bonne journée Antoine. ^b,0,0,0,0,1
+1169141088243867650,2019-09-04 06:52:11,"@AntoineAugusti Il fait l'annonce à Cité U, car tous les trains marquent l'arrêt dans cette gare, c'est mieux pour effectuer le changement de train. Il avait une avarie de freins. ^b",0,0,0,0,0
+1169141388488912896,2019-09-04 06:53:23,@AntoineAugusti Merci de votre retour ! Bonne journée ! ^b,0,0,0,0,0
+1169142164196134912,2019-09-04 06:56:28,"@ackritedchrf Bonjour Louis, un stationnement pour intervention de nos équipes pour prendre en charge un voyageur, des vérifications  matérielles sur plusieurs trains. ^b",0,0,0,0,0
