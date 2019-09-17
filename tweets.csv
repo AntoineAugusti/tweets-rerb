@@ -1015,12 +1015,12 @@ Interruption des circulations les 3 &amp; 4 novembre pour modernisation des inst
 1055784024386473984,2018-10-26 11:31:41,"@AndrewMitul Oui je comprends, concernant les malaises voyageur c'est assez délicat, certaines personnes ne peuvent pas sortir du train à cause de leur état et une intervention des secours est demandée. Ce genre d'incident perturbe effectivement le trafic. Bon week-end ! ^b",0,0,0,0,0
 1055804560621613057,2018-10-26 12:53:17,Les 3 et 4 novembre prochain le trafic du #RERB sera interrompu entre La Plaine Stade de France et Aéroport CDG/Mitry Claye. @SNCFReseau rénove 16 km de caténaires entre le Bourget et Aulnay-sous-Bois. https://t.co/VGEPlDK5gB,21,28,0,0,0
 1055804563138232320,2018-10-26 12:53:18,"Objectifs de l’opération : éviter les incidents sur la caténaire, adapter les installations à la croissance du trafic du RER B et optimiser le découpage électrique de la partie nord de la ligne B. Ce redécoupage permettra en cas d’incident d’isoler un secteur plus restreint. https://t.co/PH4bxHqo5l",4,3,0,0,0
-1055804567231840256,2018-10-26 12:53:19,"La caténaire est essentielle à la circulation. Elle permet d'alimenter électriquement les trains. Le captage du courant par le train s'effectue par un pantographe, bras articulé en forme de Z placé en toiture du train qui frotte la caténaire pour capter l'électricité.",2,3,0,0,0
 1055804565667414018,2018-10-26 12:53:19,"La rénovation de la caténaire est une opération complexe, elle se prépare depuis 3 ans et en 3 phases :
 - De janvier à l'été 2018 : travaux préparatoires;
 - Juillet-août 2018 : déroulage de la caténaire; 
 - 3 et 4 novembre : finition et mise en service.
  https://t.co/504ajzFacq",5,7,0,0,0
+1055804567231840256,2018-10-26 12:53:19,"La caténaire est essentielle à la circulation. Elle permet d'alimenter électriquement les trains. Le captage du courant par le train s'effectue par un pantographe, bras articulé en forme de Z placé en toiture du train qui frotte la caténaire pour capter l'électricité.",2,3,0,0,0
 1055817689854287872,2018-10-26 13:45:28,"@ltpkorp Bonjour, ces travaux sont nécessaires et ne peuvent qu'améliorer la situation. Bonne journée à vous et bon week-end. ^b",0,0,0,0,0
 1055818190847123456,2018-10-26 13:47:27,"@FrenchieNiam Bonjour, oui effectivement. Des bus de substitution sont mis en place ces deux jours. Bonne journée. ^b",0,0,0,0,0
 1055833053199773697,2018-10-26 14:46:30,"@CRAM_Gang Bonjour, effectivement l'affluence est importante cette semaine. Malheureusement, les infrastructures ne nous permettent pas pour l'instant de faire circuler des trains à deux étages. Bon courage pour la poursuite de votre trajet. Bonne soirée. ^b",0,0,0,0,1
@@ -1230,8 +1230,8 @@ Interruption des circulations les 3 &amp; 4 novembre pour modernisation des inst
 1057900020706488322,2018-11-01 07:39:54,"@CheronDavid  8:35. Bonjour, en raison de l'interruption de trafic (pour travaux) entre les Baconnets et Massy Palaiseau, les manoeuvres des trains génèrent un retard en direction de Paris. Bonne journée, Mat.",0,0,0,0,0
 1057911146420862976,2018-11-01 08:24:07,"@TropeLfb1 Bonjour, il faut compter entre 15 et 20 minutes. Bonne journée. Kriss",0,0,0,0,0
 1057927321636679680,2018-11-01 09:28:23,[Point travaux 🚧 #RERB Massy-Verrières] La dépose des tabliers du pont ferroviaire est en cours. https://t.co/C0HmPDRtNW,18,32,0,0,0
-1057929518390931456,2018-11-01 09:37:07,[Travaux 🚧 #RERB] Le trafic est interrompu entre Massy-Palaiseau et les Baconnets du 01/11 au 04/11 inclus. Une navette bus est mise en place entre ces deux gares. Nos agents sont à votre disposition pour vous informer pendant toute la durée des travaux : https://t.co/ImUfUqLV8x,11,19,0,0,0
 1057929520387444736,2018-11-01 09:37:07,"@Its_NoemY 10:35 Bonjour, je vous confirme qu'un service de remplacement Bus est mis en place avec une fréquence de 6 minutes aux heures de pointe, et 15 minutes aux heures creuses. Bonne journée. Mat.",0,0,0,0,0
+1057929518390931456,2018-11-01 09:37:07,[Travaux 🚧 #RERB] Le trafic est interrompu entre Massy-Palaiseau et les Baconnets du 01/11 au 04/11 inclus. Une navette bus est mise en place entre ces deux gares. Nos agents sont à votre disposition pour vous informer pendant toute la durée des travaux : https://t.co/ImUfUqLV8x,11,19,0,0,0
 1057937494833090560,2018-11-01 10:08:48,"@Youfry_  11:07 Bonjour, il faut compter environ 30 minutes sur ce trajet en fonction de la circulation routière. Bonne journée. Mat.",0,0,0,0,0
 1057940861986766848,2018-11-01 10:22:11,"@Bobox81729516 11:19 Bonjour, en raison des travaux sur la ligne B, je vous invite à prendre un train MONA ligne RER C pour un trajet d'environ 40 minutes depuis Saint-Michel. Bonne journée. Mat.",0,1,0,0,0
 1057947705320882176,2018-11-01 10:49:23,"@PicardPa  11:44 Bonjour, Depuis Saint-Michel, votre trajet s'arrêtera aux Baconnets. Un service de navette bus est mis en place entre les Baconnets et Massy Palaiseau. Les informations sont consultables sur l'application https://t.co/ijY0yo4Edo. Bonne journée. Mat",0,0,0,0,0
@@ -11167,7 +11167,7 @@ Bonjour, s'agit-il d'une rame rénovée ? Est-il possible d'avoir le numéro de 
 1145972308798005248,2019-07-02 08:27:44,@Louffy086 Bonjour et bon retour ! Bonne journée ! 😉 ^b,0,1,0,0,0
 1145974970750840832,2019-07-02 08:38:18,"@Nialiex Pardon, je n'avais pas vu votre réponse. Il n'y a pas eu de terminus en gare de Châtelet ce matin. Bonne journée. ^b",0,1,0,0,0
 1146009796501544965,2019-07-02 10:56:41,"ℹ️ [Rappel] Joy est en congés cette semaine, je vous retrouve donc demain dès 06h00 sur la ligne #RERB. Bonne journée à tous ! Alexandra",0,4,0,0,0
-1146041427576705024,2019-07-02 13:02:23,"[#JapanExpo 2019] Sinon, vous pouvez aussi vous rendre à la @JapanExpo en #RERB 😉, merci à la voix de Sangoku aka @Lecordierb ! https://t.co/spY9pst164",416,1296,0,0,0
+1146041427576705024,2019-07-02 13:02:23,"[#JapanExpo 2019] Sinon, vous pouvez aussi vous rendre à la @JapanExpo en #RERB 😉, merci à la voix de Sangoku aka @Lecordierb ! https://t.co/spY9pst164",416,1294,0,0,0
 1146062195924426753,2019-07-02 14:24:54,"[Nouvel article blog] Marie Adam, nouvelle directrice de la ligne B unifiée #RERB
 https://t.co/GUtdver5gm https://t.co/s4g9XpwMnJ",11,49,0,0,0
 1146268361141231622,2019-07-03 04:04:08,"Bonjour, Alexandra pour vous accompagner sur la ligne #RERB jusqu'à 13h00. N'hésitez pas à me solliciter lors de votre trajet. Bonne journée à tous ! 😉",0,10,0,0,0
@@ -11507,7 +11507,7 @@ https://t.co/O3xIqYtzz2 https://t.co/X5LGnStijG",8,12,0,0,0
 1148580143310561282,2019-07-09 13:10:20,"@juanben7 Bonjour, merci pour lui ! Je viens de transmettre ! Bonne journée ! 😊 ^b",0,1,0,0,0
 1148586275206782976,2019-07-09 13:34:42,"@Melooooody77 Bonjour Mélody, Joy n'a pas du voir votre message ce matin. Sur le blog, il est indiqué que les horaires changent à partir du lundi 15 juillet. Je vais me renseigner à ce sujet. ^b",0,1,0,0,0
 1148590398568378368,2019-07-09 13:51:05,@MatDudeDude Bonjour et merci de votre signalement ! Je transmets. Bonne journée ^b,0,0,0,0,0
-1148593642602467330,2019-07-09 14:03:58,"@Melooooody77 Les horaires d'été commencent le 14 juillet, la communication en bas d'écran est donc correcte. Le blog a été corrigé. Bonne journée ! 😉 ^b",0,1,0,0,0
+1148593642602467330,2019-07-09 14:03:58,"@Melooooody77 Les horaires d'été commencent le 14 juillet, la communication en bas d'écran est donc correcte. Le blog a été corrigé. Bonne journée ! 😉 ^b",0,2,0,0,0
 1148595347876384768,2019-07-09 14:10:45,@Melooooody77 Je vous en prie ! Bonne journée à vous ! ^b,0,1,0,0,0
 1148608406070149121,2019-07-09 15:02:38,"@FannaneK Bonjour, avez-vous le numéro de la voiture s'il vous plait ? ^b",0,0,0,0,0
 1148608690536288260,2019-07-09 15:03:46,@FannaneK Un agent de la gare va venir à votre rencontre. ^b,0,0,0,0,0
@@ -12210,9 +12210,9 @@ Bonjour, si vous êtes dans une rame rénovée, merci de me communiquer le numé
 1154040283689914369,2019-07-24 14:46:59,"@Isatagada Merci, je remonte l'info à nos équipes ! Bonne journée. Joy",0,1,0,0,0
 1154042659226263554,2019-07-24 14:56:25,"🔧 Suite à une avarie sur la mission INOY35, le train stationne actuellement en gare de La Courneuve #RERB",1,1,0,0,0
 1154043027255463937,2019-07-24 14:57:53,"@Mli67106624 Bonjour, votre train a une avarie, nos équipes sont mobilisées pour résoudre le problème le plus vite possible. Bonne journée ! Joy",0,0,0,0,0
-1154043565552492551,2019-07-24 15:00:01,"@Melooooody77 Bonjour Mélody, en effet, je n'ai pas accès à sa position précise. Joy",0,0,0,0,0
+1154043565552492551,2019-07-24 15:00:01,"@Melooooody77 Bonjour Mélody, en effet, je n'ai pas accès à sa position précise. Joy",0,1,0,0,0
 1154043817785356289,2019-07-24 15:01:01,"✅ Fin d'incident, le train à destination de Mitry reprend sa marche . #RERB",1,1,0,0,0
-1154043909854547968,2019-07-24 15:01:23,"@Melooooody77 Merci, à vous aussi ! Bonne soirée ! Joy",0,0,0,0,0
+1154043909854547968,2019-07-24 15:01:23,"@Melooooody77 Merci, à vous aussi ! Bonne soirée ! Joy",0,1,0,0,0
 1154047312810786818,2019-07-24 15:14:55,"@yoanmamou Bonsoir, la mission EWOK69 est actuellement sur le quai B. Bonne soirée ! Joy",0,0,0,0,0
 1154056699331973120,2019-07-24 15:52:13,"@DidiBZH Bonjour, merci pour lui ! Je remonte votre tweet ! Joy",0,0,0,0,0
 1154059428561412096,2019-07-24 16:03:03,"@deathbringer88 Bonsoir, dans quelle gare êtes vous ? Joy",0,1,0,0,0
@@ -12963,7 +12963,7 @@ Cette desserte a plusieurs avantages : elle permet le stationnement nécessaire 
 1162209396576808961,2019-08-16 03:48:07,"@CarlitaKruger Bonjour CarlitaKruger , ce sont des travaux d'entretien de la voie.  Néo",0,1,0,0,0
 1162212674274357248,2019-08-16 04:01:09,Nos équipes de maintenance procèdent aux derniers essais avant de relancer l'exploitation. #RERB Phil,1,3,0,0,0
 1162215296339365888,2019-08-16 04:11:34,"@LongCillian Bonjour, nos équipes sont en train d’effectuer les derniers tests post-chantier avant de reprendre l’exploitation",0,1,0,0,0
-1162215524194893826,2019-08-16 04:12:28,Le trafic reprend progressivement sur l'ensemble de la ligne. Prévoyez un allongement de votre temps de parcours vers St Rémy/Robinson d'environ 15 minutes. #RERB Phil,1,2,0,0,0
+1162215524194893826,2019-08-16 04:12:28,Le trafic reprend progressivement sur l'ensemble de la ligne. Prévoyez un allongement de votre temps de parcours vers St Rémy/Robinson d'environ 15 minutes. #RERB Phil,1,3,0,0,0
 1162215726049947653,2019-08-16 04:13:16,@Mel0o0o0dy @LongCillian Je vous confirme que le trafic reprendre progressivement sur la ligne !,1,2,0,0,0
 1162246655967555587,2019-08-16 06:16:10,Nos équipes mettent tout en œuvre pour revenir au plus vite à la fréquence normale de la ligne #RERB Bonne journée. Phil,1,1,0,0,0
 1162247205823975425,2019-08-16 06:18:22,"@sailorster Bonjour Sunbean, le trafic reste perturbé sur l'ensemble de la ligne, prévoyez un allongement de votre temps de parcours de 15 à 20 minutes environ. Néo",0,0,0,0,0
@@ -13026,7 +13026,7 @@ Cette desserte a plusieurs avantages : elle permet le stationnement nécessaire 
 1163323448715857920,2019-08-19 05:34:58,"@GBaues Bonjour, il y a bien des trains en direction de CDG2. Dans quelle gare êtes vous ? Joy",0,0,0,0,0
 1163324624144359427,2019-08-19 05:39:38,"@HiroMit12579407 Bonjour, toutes nos excuses pour le manque d'infos ce matin. Le trafic reste perturbé sur l'ensemble de la ligne pour le moment. Bonne journée à vous tout de même ! Joy",0,0,1,0,0
 1163325726298443776,2019-08-19 05:44:01,@mary_astride Bonjour Mary Astride et merci beaucoup pour votre message 🤗 ! Je vous souhaite une belle journée également ☀️ ! Joy,0,1,0,0,0
-1163334913803857920,2019-08-19 06:20:31,"@razhades Bonjour Hadès, merci pour votre message 🤗 ! Bonne journée à vous ! Joy",0,0,0,0,0
+1163334913803857920,2019-08-19 06:20:31,"@razhades Bonjour Hadès, merci pour votre message 🤗 ! Bonne journée à vous ! Joy",0,1,0,0,0
 1163339090647011329,2019-08-19 06:37:07,✅ Retour à un trafic régulier sur l'ensemble de la ligne #RERB,1,2,0,0,0
 1163339654931910657,2019-08-19 06:39:22,"@Chaussade9 Bonjour, je remonte l'info à nos équipes. Merci pour votre signalement ! Bonne journée à vous ! Joy",0,0,0,0,0
 1163426360334987265,2019-08-19 12:23:54,"Suite à des difficultés rencontrées par l'entreprise qui remplace les voies ""Directes"" avec l’un de ses engins sur la zone du Bourget (branche nord du #RERB), @SNCFReseau a préféré annuler les travaux initialement prévus sur les voies « Bis ». https://t.co/R6xKj4GeRJ",23,23,0,0,0
@@ -14147,8 +14147,8 @@ pensez dès à présent à votre billet retour.Bon match! https://t.co/bOze7Wayj
 1172490411367161860,2019-09-13 12:41:12,@PhieLaidMignon Oui tout à fait. Ces horaires sont susceptibles de changer compte tenu du faible nombre de trains et de l'affluence. ^b,0,2,0,0,0
 1172491891662905344,2019-09-13 12:47:05,"@BDefait @BertrandLapraye Bonjour, d'autres tweets ont été publiés depuis et cet incident est terminé à Gare du Nord donc des trains circulent au départ et en direction de Gare du Nord. ^b",0,1,0,0,0
 1172492616740605952,2019-09-13 12:49:58,"@BDefait Pour plus d'infos, cet incident (accident grave de personne) nécessitait une coupure d'urgence générale. ^b",0,1,0,0,0
-1172496120767029251,2019-09-13 13:03:53,"Interconnexion interrompue à Gare du Nord. Bien que non-concerné par ce mouvement social, le nord de la ligne sera impacté : comptez 1 train sur 2 au nord de la ligne toute la journée. Retrouvez les horaires prévisionnels ici : https://t.co/FtmyY7fKPQ",0,4,0,0,0
 1172496119579983873,2019-09-13 13:03:53,"[Mouvement Social] ⚠️ Trafic très fortement perturbé sur le #RERB ce vendredi 13 septembre. Comptez 1 train sur 5, uniquement aux heures de pointe entre Gare du Nord et Saint-Rémy / Robinson : 17h–20h.  Nous vous invitons à limiter au maximum vos déplacements.",3,11,0,0,0
+1172496120767029251,2019-09-13 13:03:53,"Interconnexion interrompue à Gare du Nord. Bien que non-concerné par ce mouvement social, le nord de la ligne sera impacté : comptez 1 train sur 2 au nord de la ligne toute la journée. Retrouvez les horaires prévisionnels ici : https://t.co/FtmyY7fKPQ",0,4,0,0,0
 1172497513867284480,2019-09-13 13:09:25,"@herbxtterfly Bonjour, les horaires sont juste ici: https://t.co/FtmyY7fKPQ Bonne journée. ^b",0,1,0,0,0
 1172498947325276161,2019-09-13 13:15:07,"@siriusbIacc Bonjour, concernant notre ligne, vous pouvez prendre un train à partir de Gare du Nord pour Roissy. Attention 1 train sur 2 circule jusqu'à CDG. ^b",0,1,0,0,0
 1172500584672432133,2019-09-13 13:21:38,"@Flow_of_Arabia Bonjour, oui c'est le premier train à partir dans le nord depuis Orsay. ^b",0,1,0,0,0
@@ -14285,7 +14285,7 @@ pensez dès à présent à votre billet retour.Bon match! https://t.co/bOze7Wayj
 1173896523912044544,2019-09-17 09:48:35,"[ RAPPEL TRAVAUX 🚧 ] : Ce soir à partir de 23h et jusque fin de service, la circulation de vos trains sera interrompue entre Aulnay-sous-Bois et Aéroport CDG1. Des bus de substitution seront mis en place. Entre CDG1 &amp; CDG2, merci d'emprunter CDGVAL #RERB https://t.co/41dNwKovwM",2,5,0,0,0
 1173910566370516992,2019-09-17 10:44:23,"@BerthierSud Bonjour, c'est PIST10 qui a 6 minutes de retard. ^b",0,0,0,0,0
 1173913918860857345,2019-09-17 10:57:43,"🙋‍♀️ Bonjour à tous, Joy pour vous accompagner jusqu'à 20h00. N'hésitez pas à me solliciter pendant votre trajet sur le #RERB ! Bonne journée !",0,5,0,0,0
-1173951159083708416,2019-09-17 13:25:41,"❌ Suite à un accident grave de personne en gare de Massy Palaiseau, le trafic est fortement perturbé sur l'ensemble de la ligne #RERB",8,12,0,0,0
+1173951159083708416,2019-09-17 13:25:41,"❌ Suite à un accident grave de personne en gare de Massy Palaiseau, le trafic est fortement perturbé sur l'ensemble de la ligne #RERB",12,20,0,0,0
 1173952985061298176,2019-09-17 13:32:57,"@yaga_rito Bonjour, les trains vont bien jusqu'à Massy Palaiseau. Joy",0,0,0,0,0
 1173953226770657282,2019-09-17 13:33:54,"@namyolivier Bonjour, les trains vont bien circuler jusqu'à St Rémy mais le trafic reste fortement perturbé. Joy",0,0,0,0,0
 1173953577699725313,2019-09-17 13:35:18,@yaga_rito Dans quel train êtes vous ? Joy,0,0,0,0,0
@@ -14316,19 +14316,48 @@ pensez dès à présent à votre billet retour.Bon match! https://t.co/bOze7Wayj
 1173966909131448326,2019-09-17 14:28:17,@yasaz5 Bonjour oui il y a bien des trains au départ de Mitry. Bonne journée. Joy,0,1,0,0,0
 1173967414289227776,2019-09-17 14:30:17,@yasaz5 Je vous en prie ! Bonne journée à vous ! Joy,0,0,0,0,0
 1173968481676607490,2019-09-17 14:34:31,"@SoAitMohand Bonjour, il faut compter un retard de 15 à 20 minutes environ. Toutes nos excuses pour cette situation. Joy",0,1,1,0,0
-1173970385349632000,2019-09-17 14:42:05,"@BrendaBenyair Bonjour, il faut prévoir quelques minutes de retards sur votre trajet. Joy",0,1,0,0,0
+1173970385349632000,2019-09-17 14:42:05,"@BrendaBenyair Bonjour, il faut prévoir quelques minutes de retards sur votre trajet. Joy",0,2,0,0,0
 1173970528622845952,2019-09-17 14:42:39,"@DechauxNoemie Bonjour, normalement oui mais le trafic reste perturbé sur l'ensemble de la ligne. Toutes nos excuses ! Joy",0,1,1,0,0
 1173970898086506496,2019-09-17 14:44:08,@Holec_ Bonjour et merci pour lui ! Je remonte l'info. Bonne fin de journée à vous ! Joy,0,0,0,0,0
 1173971193084424193,2019-09-17 14:45:18,"@Z_RHNet Bonjour, il faut marcher environ 10 minutes. Joy",0,0,0,0,0
 1173971368137887745,2019-09-17 14:46:00,"@Muggy38 Bonjour, le trafic n'a pas été interrompu. Les trains circulent mais le trafic reste perturbé. Joy",0,1,0,0,0
 1173971914492174337,2019-09-17 14:48:10,"@louu_phoenix Bonsoir, le trafic est perturbé sur l'ensemble de la ligne. Les trains vont passer à contre sens entre Fontaine Michalon et Massy Palaiseau, de ce fait il faut vous attendre à stationner quelques instants en gare de Fontaine Michalon. Toutes nos excuses ! Joy",0,2,1,0,0
-1173972088643883008,2019-09-17 14:48:51,"@nissun1 Bonsoir, pour info, les trains vont passer à contre sens entre Fontaine Michalon et Massy Palaiseau, de ce fait il faut vous attendre à stationner quelques instants en gare de Fontaine Michalon. Toutes nos excuses ! Joy",0,0,1,0,0
+1173972088643883008,2019-09-17 14:48:51,"@nissun1 Bonsoir, pour info, les trains vont passer à contre sens entre Fontaine Michalon et Massy Palaiseau, de ce fait il faut vous attendre à stationner quelques instants en gare de Fontaine Michalon. Toutes nos excuses ! Joy",0,1,1,0,0
 1173972207904657408,2019-09-17 14:49:20,"@Z_RHNet Bonjour, je vous invite à consulter le site internet https://t.co/rcwnrZtW00 pour en savoir plus. Joy",0,0,0,0,0
 1173972879295287300,2019-09-17 14:52:00,"@MuG22154415 Bonjour, vous avez un KALI90 à l'approche, je vous invite à ensuite faire un changement en gare de Massy Palaiseau, le trains en direction de St Rémy sont omnibus. Joy",0,1,0,0,0
 1173973328723349508,2019-09-17 14:53:47,"@MyMetalLicorne Bonsoir Florian, les trains en direction St Rémy sont omnibus pour le moment. Joy",0,1,0,0,0
-1173973801765355520,2019-09-17 14:55:40,"@sbraus_ Bonjour, il faut prévoir entre 20 et 30 minutes de retard, les trains vont passer à contre sens entre Fontaine Michalon et Massy Palaiseau, de ce fait il faut vous attendre à stationner quelques instants en gare de Fontaine Michalon. Toutes nos excuses ! Joy",0,0,1,0,0
-1173974197082689536,2019-09-17 14:57:14,"@KJurietti Bonjour, pour le moment la situation est toujours en cours sur Massy Pal. et les trains circulent encore sur une seule voie entre Fontaine Michalon et Massy Palaiseau. Joy",0,0,0,0,0
+1173973801765355520,2019-09-17 14:55:40,"@sbraus_ Bonjour, il faut prévoir entre 20 et 30 minutes de retard, les trains vont passer à contre sens entre Fontaine Michalon et Massy Palaiseau, de ce fait il faut vous attendre à stationner quelques instants en gare de Fontaine Michalon. Toutes nos excuses ! Joy",0,1,1,0,0
+1173974197082689536,2019-09-17 14:57:14,"@KJurietti Bonjour, pour le moment la situation est toujours en cours sur Massy Pal. et les trains circulent encore sur une seule voie entre Fontaine Michalon et Massy Palaiseau. Joy",0,1,0,0,0
 1173974442243973122,2019-09-17 14:58:13,"@tran03271474 Bonsoir, les missions en direction de St Rémy sont omnibus jusqu'à St Rémy hormis les gares des Baconnets et Massy Verrières pour cause de contre sens. Joy",0,0,0,0,0
 1173974698679578630,2019-09-17 14:59:14,"@Zhyx771 Bonsoir, il faut prendre un train en direction de St Rémy pour atteindre Orsay. Joy",0,0,0,0,0
-1173974803088314368,2019-09-17 14:59:39,"@Crazy_Loub Bonsoir, les trains circulent mais le trafic reste perturbé. Joy",0,0,0,0,0
-1173975052351680513,2019-09-17 15:00:38,"@Jeannot911 Bonsoir Jeannot, vous avez un train en direction de St Rémy actuellement en gare de Denfert Rochereau, les trains circulent encore sur une seule voie entre Fontaine Michalon et Massy Palaiseau. Joy",0,0,0,0,0
+1173974803088314368,2019-09-17 14:59:39,"@Crazy_Loub Bonsoir, les trains circulent mais le trafic reste perturbé. Joy",0,1,0,0,0
+1173975052351680513,2019-09-17 15:00:38,"@Jeannot911 Bonsoir Jeannot, vous avez un train en direction de St Rémy actuellement en gare de Denfert Rochereau, les trains circulent encore sur une seule voie entre Fontaine Michalon et Massy Palaiseau. Joy",0,1,0,0,0
+1173975479944208384,2019-09-17 15:02:20,@MyMetalLicorne EPIN43 est omnibus. Ce train est actuellement en gare de Massy Palaiseau. Bonne soirée ! Joy,0,1,0,0,0
+1173975896073613312,2019-09-17 15:03:59,"@fpa1980 Bonsoir, toutes nos excuses pour cette situation. N'hésitez pas à me solliciter en cas d'incompréhension. Bonne soirée ! Joy",0,0,1,0,0
+1173976166635626505,2019-09-17 15:05:04,"@Jeannot911 Jeannot, le train est terminus en gare de Bagneux. Joy",0,0,0,0,0
+1173977855212097536,2019-09-17 15:11:46,"@MyMetalLicorne Florian, omnibus signifie que le train s'arrêtera dans toutes les gares. La mission EPIN43 s'arrêtera dans votre gare. Joy",0,2,0,0,0
+1173980023730200576,2019-09-17 15:20:23,"@Manue229b Bonjour, les trains circulent bien entre ces deux gares. le prochain train en gare d'Antony est actuellement à quai. Joy",0,0,0,0,0
+1173980203489665024,2019-09-17 15:21:06,"@SukiDayyo Bonsoir, le trafic est toujours fortement perturbé. Joy",0,0,0,0,0
+1173980450248900609,2019-09-17 15:22:05,"@Jeannot911 Jeannot, le prochain train en direction de St Rémy est actuellement en gare de Cité Universitaire. Joy",0,0,0,0,0
+1173980907394478080,2019-09-17 15:23:54,"@aml_elidrissi Bonsoir, le trafic est toujours perturbé sur l'ensemble de la ligne. Joy",0,0,0,0,0
+1173981735211720706,2019-09-17 15:27:11,"@Kmillephilibert Bonsoir Camille, les trains en direction de St Rémy sont omnibus. Joy",0,0,0,0,0
+1173982367352008704,2019-09-17 15:29:42,"✅ Fin d'incident en gare de Massy Palaiseau, les trains circulent à nouveau normalement entre Fontaine Michalon et Massy Verrières #RERB",1,4,0,0,0
+1173982538517422085,2019-09-17 15:30:23,"@OlivreSandy Bonjour, je vous conseille d'effectuer un changement en gare de Bourg la Reine. Joy",0,0,0,0,0
+1173982784177750016,2019-09-17 15:31:21,"✅ Fin d'incident en gare de Massy Palaiseau, les trains circulent à nouveau normalement entre Fontaine Michalon et Massy Verrières. 
+❌ Le trafic reste perturbé sur l'ensemble de la ligne #RERB",3,3,0,0,0
+1173982842340036610,2019-09-17 15:31:35,"@bambaner Bonsoir, Avez vous pu avoir un train ? Joy",0,0,0,0,0
+1173983026939932672,2019-09-17 15:32:19,"@RStonnet Bonsoir, vous avez un train qui quitte Massy Palaiseau actuellement. Joy",0,0,0,0,0
+1173983133907259393,2019-09-17 15:32:45,"@nyavlis__ Bonsoir, vous avez un train qui quitte Massy Palaiseau actuellement. Joy",0,1,0,0,0
+1173983241684078592,2019-09-17 15:33:11,"@MarieDouceAlbrt Bonsoir, la gare est bien desservie ! Joy",0,1,0,0,0
+1173983582748053504,2019-09-17 15:34:32,@Jeannot911 Je réponds simplement aux questions en essayant d'aider au mieux les voyageurs ! Bonne soirée ! Joy,0,0,0,0,0
+1173983829054373895,2019-09-17 15:35:31,"@P_Mabey Bonsoir, le tafic est perturbé mais pas interrompu. Joy",0,0,0,0,0
+1173984026417401856,2019-09-17 15:36:18,"@julyie9292 Bonsoir, un train en direction de Paris est actuellement en gare de Gif sur Yvette. Joy",0,0,0,0,0
+1173984418228318214,2019-09-17 15:37:51,@bambaner Un train est actuellement en gare de Gif sur Yvette. Toutes nos excuses pour cette situation. Joy,0,0,1,0,0
+1173984659589480453,2019-09-17 15:38:49,"@clara_delphine Bonsoir, les trains circulent bien entre ces deux gares ! Joy",0,0,0,0,0
+1173985444603863042,2019-09-17 15:41:56,"@Jeannot911 Donc selon vous je ne dois pas répondre au cas par cas ? Je tente de faire en fonction des besoins de chacun, nous avons actuellement 65K abonnés, j'essaye au mieux de répondre à toutes les demandes. Mais je vous invite à nous faire part de vos suggestions. Joy",0,0,0,0,0
+1173985929763205122,2019-09-17 15:43:51,"@PaulineJamin Bonsoir, le trafic est actuellement perturbé sur l'ensemble de la ligne. Joy",0,0,0,0,0
+1173986738533994496,2019-09-17 15:47:04,"@cyrilbla @fpa1980 Bonsoir, les trains circulent en direction du Sud mais le trafic reste perturbé sur l'ensemble de la ligne. Joy",0,0,0,0,0
+1173987676204261376,2019-09-17 15:50:48,"@Defer93 Bonsoir, dans quelle direction ? Joy",0,0,0,0,0
+1173987830084853760,2019-09-17 15:51:24,"@Takoyama5 Bonsoir, sur le quai d'origine. Bonne soirée à vous ! Joy",0,0,0,0,0
+1173988005855617024,2019-09-17 15:52:06,"@TwoDentStreet Bonsoir, dans quelle direction ? Joy",0,0,0,0,0
+1173988376984412162,2019-09-17 15:53:35,@Defer93 Vous avez actuellement un train à quai. Sa mission sera modifiée en CDG à Massy. Joy,0,0,0,0,0
