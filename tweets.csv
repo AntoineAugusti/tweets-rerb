@@ -1406,11 +1406,11 @@ Des bus de remplacement desserviront toutes les gares entre Aulnay sous Bois et 
 1059091762675924992,2018-11-04 14:35:27,"@Lorin6401 Bonjour, les travaux se terminent ce soir à la fin de service. Le trafic prévu dès demain à la prise de service est un trafic régulier. Bonne journée. ^b",0,0,0,0,0
 1059092180168593410,2018-11-04 14:37:07,"@AndrewMitul Bonjour, les travaux se terminent ce soir à la fin de service. Le trafic prévu dès demain à la prise de service est un trafic régulier. Je comprends tout à fait votre point de vue mais ces travaux sont néanmoins nécessaires. Bon dimanche. ^b",0,0,0,0,0
 1059093677350535169,2018-11-04 14:43:04,"@Vinced_93 Bonjour, oui les travaux se terminent ce soir. Le trafic prévu pour la journée de demain est un trafic régulier. Bonne journée. ^b",0,0,0,0,0
-1059099059175260160,2018-11-04 15:04:27,"Ce soir dès 22h30, les trains #RERB seront terminus Châtelet-les-Halles. Les bus de substitution partiront de Gare du Nord.",5,3,0,0,0
 1059099060471250944,2018-11-04 15:04:27,"En direction du nord:
 -dernier départ de Châtelet à destination de La Plaine SDF: 22h29
 -dernier départ de Châtelet à destination de Gare du Nord: 22h44
  Après 22h44, tous les trains seront terminus Châtelet. #RERB",3,2,0,0,0
+1059099059175260160,2018-11-04 15:04:27,"Ce soir dès 22h30, les trains #RERB seront terminus Châtelet-les-Halles. Les bus de substitution partiront de Gare du Nord.",5,3,0,0,0
 1059099061670813696,2018-11-04 15:04:28,"En direction du sud:
 -dernier départ à La Plaine à 22h41 (passage à Châtelet à 22h53)
 -dernier départ à Gare du Nord à 22h56 (passage à Châtelet à 22h59). #RERB",3,2,0,0,0
@@ -6201,8 +6201,8 @@ Veuillez nous excuser de la gêne occasionnée. #RERB.",1,3,1,0,0
 1096381003399077888,2019-02-15 12:09:35,"@razhades Je ne pourrais pas vous répondre, je n'ai pas du tout ces infos. Les trains sont pourtant révisés régulièrement dans nos ateliers de maintenance. ^b",0,3,0,0,0
 1096383857014833152,2019-02-15 12:20:55,"@barthetvr133 Bonjour, merci beaucoup pour votre message, c'est vraiment gentil ! 😊 Nous sommes toute les deux employées, avec Joy. Bonne journée ! 🙂",0,0,0,0,0
 1096385288648249344,2019-02-15 12:26:37,"@Nialiex @razhades Bonjour, oui bien sur je comprends tout à fait. Une maintenance est pourtant effectuée régulièrement dans les ateliers de maintenance afin d'assurer une sécurité optimale pour les voyageurs. Je transmets votre message. Bonne journée à vous. ^b",0,3,0,0,0
-1096393943703580672,2019-02-15 13:01:00,"⚠️ Clients à destination de l'aéroport CDG 1 et 2 le dimanche 17/02, sur ordre de la préfecture de Police, une opération de déminage interrompt le #RERB de 9h00 à 15 h entre Paris Gare du Nord et Aulnay-sous-Bois. Anticiper votre départ vers l'aéroport CDG. https://t.co/OpRB7W0rUd",14,10,0,0,0
 1096393942885679104,2019-02-15 13:01:00,"⚠️ Passengers going to CDG Airport on Sunday 17th of February 2019 : following a police department request, due to a bomb disposal operation, there will be no #RERB service between 09h00 AM and 03h00 PM between Gare du Nord and Aulnay. Plan in advance your trip to the Airport. https://t.co/MHwD0yVERr",7,4,0,0,0
+1096393943703580672,2019-02-15 13:01:00,"⚠️ Clients à destination de l'aéroport CDG 1 et 2 le dimanche 17/02, sur ordre de la préfecture de Police, une opération de déminage interrompt le #RERB de 9h00 à 15 h entre Paris Gare du Nord et Aulnay-sous-Bois. Anticiper votre départ vers l'aéroport CDG. https://t.co/OpRB7W0rUd",14,10,0,0,0
 1096394643414151169,2019-02-15 13:03:47,"@youri_bhd Bonjour, vous pouvez prendre le métro 5 à Gare du Nord jusqu'à Bobigny / Pablo Picasso puis le bus 93 jusqu'à CDG1. ^b",0,0,0,0,0
 1096395461202767874,2019-02-15 13:07:02,@youri_bhd Il faut compter 25 min de métro et 40 minutes de bus. Donc un peu plus d'une heure de trajet depuis Gare du Nord. ^b,0,0,0,0,0
 1096398164129660933,2019-02-15 13:17:47,"@youri_bhd Oui, si vous partez de St Lazare, c'est plus simple effectivement et plus rapide aussi. Normalement, le service RoissyBus roule mais à confirmer avant votre trajet. ^b",0,0,0,0,0
@@ -15197,14 +15197,14 @@ Rendez-vous le 12 octobre à @VilleSaintDenis, sur le chantier #GrandParisExpres
 1179248724985487363,2019-10-02 04:16:20,"@Ss93Shark Bonjour, ce train a été supprimé suite à une avarie matériel au départ de Mitry. Bonne journée à vous tout de même ! Joy",0,0,0,0,0
 1179248806791127040,2019-10-02 04:16:39,"@CecileDerudder Bonjour, pas pour le moment. Bonne journée à vous ! Joy",0,1,0,0,0
 1179253481384923137,2019-10-02 04:35:14,"@Jeannot911 Jeannot, selon mes informations il y avait bien des personnes sur les voies en gare de Bourg la Reine. Bonne journée à vous ! Joy",0,0,0,0,0
-1179263849964474379,2019-10-02 05:16:26,"🔧 Suite à une panne sur la mission IDIL71 à destination de Mitry, le train évacue ses voyageurs en gare de Lozère et sera sans voyageur jusqu'à nos ateliers de maintenance à Massy Palaiseau #RERB",3,8,0,0,0
+1179263849964474379,2019-10-02 05:16:26,"🔧 Suite à une panne sur la mission IDIL71 à destination de Mitry, le train évacue ses voyageurs en gare de Lozère et sera sans voyageur jusqu'à nos ateliers de maintenance à Massy Palaiseau #RERB",4,8,0,0,0
 1179265243605807104,2019-10-02 05:21:58,"@NathalieGarni45 Bonjour, dans quelle gare êtes vous ? Joy",0,0,0,0,0
 1179265608246059010,2019-10-02 05:23:25,"@BertrandLapraye Bonjour Bertrand, les voyageurs sont déjà dans un train. Bonne journée. Joy",0,0,0,0,0
 1179268509290897408,2019-10-02 05:34:57,"@Tutur_weiss Bonjour Arthur, il s'agit d'une mesure de régulation afin de ne pas trop retarder le train et de ce fait les trains d'après. Toutes nos excuses ! Joy",0,1,1,1,0
 1179269088805363713,2019-10-02 05:37:15,"@Yann91 Bonjour, en effet, votre train est devenu EBON85 à Massy suite à l'avarie sur la mission IDIL71. Il s'agit d'une mesure de régulation pour ne pas retarder la ligne. Toutes nos excuses ! Joy",1,0,1,1,0
 1179269274285858817,2019-10-02 05:37:59,"@razhades Bonjour Hadès, le train est à Bagneux. Joy",0,2,0,0,0
-1179271586756608000,2019-10-02 05:47:10,▶️ EBON85 sera direct entre Antony et Bourg la Reine et IDIL87 fera un arrêt supplémentaire en gare de Parc de Sceaux #RERB,3,4,0,0,0
+1179271586756608000,2019-10-02 05:47:10,▶️ EBON85 sera direct entre Antony et Bourg la Reine et IDIL87 fera un arrêt supplémentaire en gare de Parc de Sceaux #RERB,4,4,0,0,0
 1179299337056215040,2019-10-02 07:37:26,"@ardhuin_lise Bonjour, votre train a stationné quelques instants suite à une perte d'alimentation électrique furtive. Toutes nos excuses votre train va pouvoir repartir d'ici peu ! Bonne journée ! Joy",0,1,1,0,0
-1179357504771383298,2019-10-02 11:28:35,"[RAPPEL TRAVAUX 🚧] : Ce soir à partir de 23h et jusque fin de service, la circulation est interrompue entre Aulnay-sous-Bois et CDG1. Des bus de substitution seront mis en place. Entre CDG1 &amp; CDG2, merci d'emprunter CDGVAL #RERB https://t.co/lyX5H8ACRm",4,3,0,0,0
+1179357504771383298,2019-10-02 11:28:35,"[RAPPEL TRAVAUX 🚧] : Ce soir à partir de 23h et jusque fin de service, la circulation est interrompue entre Aulnay-sous-Bois et CDG1. Des bus de substitution seront mis en place. Entre CDG1 &amp; CDG2, merci d'emprunter CDGVAL #RERB https://t.co/lyX5H8ACRm",4,4,0,0,0
 1179367470504845314,2019-10-02 12:08:11,"[EXPO 👀] : La #RATP invite le photographe anglo-marocain Hassan Hajjaj jusqu'au 20 décembre. Ses portraits sont visibles dans de nombreux espaces, et notamment en gare de Luxembourg #RERB https://t.co/GoGu9O1QHZ",1,8,0,0,0
-1179384447386476547,2019-10-02 13:15:38,[Nouvel article blog] / KM7 : Une nuit sur le chantier 👉 https://t.co/COPeAL4QRI #RERB https://t.co/6aHbiRuJrx,3,3,0,0,0
+1179384447386476547,2019-10-02 13:15:38,[Nouvel article blog] / KM7 : Une nuit sur le chantier 👉 https://t.co/COPeAL4QRI #RERB https://t.co/6aHbiRuJrx,4,6,0,0,0
