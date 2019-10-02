@@ -1406,11 +1406,11 @@ Des bus de remplacement desserviront toutes les gares entre Aulnay sous Bois et 
 1059091762675924992,2018-11-04 14:35:27,"@Lorin6401 Bonjour, les travaux se terminent ce soir à la fin de service. Le trafic prévu dès demain à la prise de service est un trafic régulier. Bonne journée. ^b",0,0,0,0,0
 1059092180168593410,2018-11-04 14:37:07,"@AndrewMitul Bonjour, les travaux se terminent ce soir à la fin de service. Le trafic prévu dès demain à la prise de service est un trafic régulier. Je comprends tout à fait votre point de vue mais ces travaux sont néanmoins nécessaires. Bon dimanche. ^b",0,0,0,0,0
 1059093677350535169,2018-11-04 14:43:04,"@Vinced_93 Bonjour, oui les travaux se terminent ce soir. Le trafic prévu pour la journée de demain est un trafic régulier. Bonne journée. ^b",0,0,0,0,0
-1059099059175260160,2018-11-04 15:04:27,"Ce soir dès 22h30, les trains #RERB seront terminus Châtelet-les-Halles. Les bus de substitution partiront de Gare du Nord.",5,3,0,0,0
 1059099060471250944,2018-11-04 15:04:27,"En direction du nord:
 -dernier départ de Châtelet à destination de La Plaine SDF: 22h29
 -dernier départ de Châtelet à destination de Gare du Nord: 22h44
  Après 22h44, tous les trains seront terminus Châtelet. #RERB",3,2,0,0,0
+1059099059175260160,2018-11-04 15:04:27,"Ce soir dès 22h30, les trains #RERB seront terminus Châtelet-les-Halles. Les bus de substitution partiront de Gare du Nord.",5,3,0,0,0
 1059099061670813696,2018-11-04 15:04:28,"En direction du sud:
 -dernier départ à La Plaine à 22h41 (passage à Châtelet à 22h53)
 -dernier départ à Gare du Nord à 22h56 (passage à Châtelet à 22h59). #RERB",3,2,0,0,0
@@ -12100,7 +12100,7 @@ Reprise estimé vers 6h30. #RERB",2,4,0,0,0
 1153541751044542464,2019-07-23 05:45:59,"@Melanie_Level7 Bonjour, il est à Vert-Galant, il va arriver. Le trafic reste perturbé sur l'ensemble de la ligne en répercussion de l'incident survenu en début de service. ^b",0,1,0,0,0
 1153545697448407045,2019-07-23 06:01:40,"@clara_delphine Bonjour, il y a 2 trains devant vous jusqu'à Gare du Nord, ce qui créée effectivement des ralentissements sur votre parcours ce matin. ^b",0,1,0,0,0
 1153546153276915712,2019-07-23 06:03:29,"@JieffeBi Bonjour, dans quelle gare, quelle direction ? ^b",0,1,0,0,0
-1153548561860177925,2019-07-23 06:13:03,"@Vincent_d_A  Bonjour, oui malheureusement ! Nous l'avons signalé hier soir pour qu'elle puisse être retirée au plus vite. Merci de votre signalement. ^b",0,3,0,0,0
+1153548561860177925,2019-07-23 06:13:03,"@Vincent_d_A  Bonjour, oui malheureusement ! Nous l'avons signalé hier soir pour qu'elle puisse être retirée au plus vite. Merci de votre signalement. ^b",0,4,0,0,0
 1153548968351207426,2019-07-23 06:14:40,"@CindyBui__ @SNCF Bonjour Cindy, merci à vous ! Je transmets ! ^b",0,2,0,0,0
 1153549182642413568,2019-07-23 06:15:31,"@G0ZParadise Bonjour, oui malheureusement la vidéo est toujours en ligne ! Nous l'avons signalé hier soir pour qu'elle puisse être retirée au plus vite. Merci de votre signalement. ^b",0,4,0,0,0
 1153551373650321408,2019-07-23 06:24:14,"@phlipBetR Bonjour, dans quelle direction ? Merci ! ^b",0,0,0,0,0
@@ -12239,7 +12239,7 @@ Bonjour, si vous êtes dans une rame rénovée, merci de me communiquer le numé
 1154080485091553280,2019-07-24 17:26:44,"@sebpasc Bonjour, nous avons bien conscience que ce n'est pas évident mais il s'agit d'une recommandation de la région IDF et du ministère des transports. Joy",0,0,0,0,0
 1154086486486245376,2019-07-24 17:50:34,"@DuchessePatate Bonsoir, le trafic est actuellement perturbé en direction de Robinson / Lozère. Bonne soirée ! Joy",1,1,0,0,0
 1154088291383283712,2019-07-24 17:57:45,"❌ Suite à un dégagement de fumée, les trains ne marquent pas l'arrêt en gare de Saint Michel dans les deux sens de circulation, heure de reprise estimée à 20h30 #RERB",10,18,0,0,0
-1154108894471438336,2019-07-24 19:19:37,[#Canicule] pour le 25 juillet @IdfMobilités et la #RATP recommandent aux Franciliens de limiter leurs déplacements dans la mesure du possible.,9,12,0,0,0
+1154108894471438336,2019-07-24 19:19:37,[#Canicule] pour le 25 juillet @IdfMobilités et la #RATP recommandent aux Franciliens de limiter leurs déplacements dans la mesure du possible.,9,13,0,0,0
 1154108992542654464,2019-07-24 19:20:00,[#Canicule] Pensez à vous munir d’une bouteille d’eau pour vous hydrater et vous rafraichir. Nos agents sont disponibles pour vous accompagner.,3,6,0,0,0
 1154127995990417411,2019-07-24 20:35:31,"22:34, l'arrêt est à nouveau marqué à St-Michel N.-D.  #RERB",1,3,0,0,0
 1154135800642244609,2019-07-24 21:06:32,"23:05, le trafic est rétabli de Gare du Nord vers Robinson (divers incidents)  #RERB",1,5,0,0,0
@@ -15208,5 +15208,6 @@ Rendez-vous le 12 octobre à @VilleSaintDenis, sur le chantier #GrandParisExpres
 1179357504771383298,2019-10-02 11:28:35,"[RAPPEL TRAVAUX 🚧] : Ce soir à partir de 23h et jusque fin de service, la circulation est interrompue entre Aulnay-sous-Bois et CDG1. Des bus de substitution seront mis en place. Entre CDG1 &amp; CDG2, merci d'emprunter CDGVAL #RERB https://t.co/lyX5H8ACRm",5,4,0,0,0
 1179367470504845314,2019-10-02 12:08:11,"[EXPO 👀] : La #RATP invite le photographe anglo-marocain Hassan Hajjaj jusqu'au 20 décembre. Ses portraits sont visibles dans de nombreux espaces, et notamment en gare de Luxembourg #RERB https://t.co/GoGu9O1QHZ",4,8,0,0,0
 1179384447386476547,2019-10-02 13:15:38,[Nouvel article blog] / KM7 : Une nuit sur le chantier 👉 https://t.co/COPeAL4QRI #RERB https://t.co/6aHbiRuJrx,4,6,0,0,0
-1179424625144602625,2019-10-02 15:55:17,"[CoupDeBoost 💪] : Le saviez-vous ? La majeure partie des malaises de voyageurs sont légers 👉 RDV demain matin de 7h30 à 9h30 à Denfert-Rochereau &amp; Bourg-la-Reine : nos agents vous distribueront des sachets ""anti coup de mou"" #RERB https://t.co/ZsKzYW32oP",6,11,0,0,0
+1179424625144602625,2019-10-02 15:55:17,"[CoupDeBoost 💪] : Le saviez-vous ? La majeure partie des malaises de voyageurs sont légers 👉 RDV demain matin de 7h30 à 9h30 à Denfert-Rochereau &amp; Bourg-la-Reine : nos agents vous distribueront des sachets ""anti coup de mou"" #RERB https://t.co/ZsKzYW32oP",7,11,0,0,0
 1179424627627569163,2019-10-02 15:55:18,Adoptons aussi des réflexes simples pour apprnedre à les gérer au mieux avec l'application Everyday Heroes https://t.co/BtvTZ8euM2 #RERB,0,1,0,0,0
+1179471245764694016,2019-10-02 19:00:33,"20:59, le trafic est interrompu de Sevran-B. vers Aeroport Charles de Gaulle 1. Reprise estimée à 22:00. (Personnes sur les voies)  #RERB",1,0,0,0,0
