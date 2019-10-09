@@ -1406,11 +1406,11 @@ Des bus de remplacement desserviront toutes les gares entre Aulnay sous Bois et 
 1059091762675924992,2018-11-04 14:35:27,"@Lorin6401 Bonjour, les travaux se terminent ce soir à la fin de service. Le trafic prévu dès demain à la prise de service est un trafic régulier. Bonne journée. ^b",0,0,0,0,0
 1059092180168593410,2018-11-04 14:37:07,"@AndrewMitul Bonjour, les travaux se terminent ce soir à la fin de service. Le trafic prévu dès demain à la prise de service est un trafic régulier. Je comprends tout à fait votre point de vue mais ces travaux sont néanmoins nécessaires. Bon dimanche. ^b",0,0,0,0,0
 1059093677350535169,2018-11-04 14:43:04,"@Vinced_93 Bonjour, oui les travaux se terminent ce soir. Le trafic prévu pour la journée de demain est un trafic régulier. Bonne journée. ^b",0,0,0,0,0
-1059099059175260160,2018-11-04 15:04:27,"Ce soir dès 22h30, les trains #RERB seront terminus Châtelet-les-Halles. Les bus de substitution partiront de Gare du Nord.",5,3,0,0,0
 1059099060471250944,2018-11-04 15:04:27,"En direction du nord:
 -dernier départ de Châtelet à destination de La Plaine SDF: 22h29
 -dernier départ de Châtelet à destination de Gare du Nord: 22h44
  Après 22h44, tous les trains seront terminus Châtelet. #RERB",3,2,0,0,0
+1059099059175260160,2018-11-04 15:04:27,"Ce soir dès 22h30, les trains #RERB seront terminus Châtelet-les-Halles. Les bus de substitution partiront de Gare du Nord.",5,3,0,0,0
 1059099061670813696,2018-11-04 15:04:28,"En direction du sud:
 -dernier départ à La Plaine à 22h41 (passage à Châtelet à 22h53)
 -dernier départ à Gare du Nord à 22h56 (passage à Châtelet à 22h59). #RERB",3,2,0,0,0
@@ -10722,8 +10722,8 @@ Interruption des circulations à partir de 23h de mardi à vendredi, entre Aulna
 1143499738513399808,2019-06-25 12:42:37,"@regretsen Oui effectivement, nous avons eu connaissance de cet incident par la gare du Bourget. Nous avons remontés aux équipes. Bonne journée. ^b",0,0,0,0,0
 1143500032664133634,2019-06-25 12:43:47,"@Lindsay_cr Merci de votre retour, je me charge de transmettre. 🙂 ^b",0,2,0,0,0
 1143517322205913088,2019-06-25 13:52:29,"@Sweattagada Merci à vous Pascale, bonne journée ! 🙂 ^b",0,0,0,0,0
-1143522620891181061,2019-06-25 14:13:33,"[#canicule2019☀️] Nos agents #RERB vous accueillent à Denfert-Rochereau dès 16h30, à Mitry à 17h30 et au Blanc-Mesnil à 18h00 pour vous distribuer des bouteilles d’eau ! 💦 Pensez à boire régulièrement et à vous ventiler pour éviter les risques de déshydratation.",2,17,0,0,0
 1143522621797076998,2019-06-25 14:13:33,https://t.co/fYzZCiFeyw,1,3,0,0,0
+1143522620891181061,2019-06-25 14:13:33,"[#canicule2019☀️] Nos agents #RERB vous accueillent à Denfert-Rochereau dès 16h30, à Mitry à 17h30 et au Blanc-Mesnil à 18h00 pour vous distribuer des bouteilles d’eau ! 💦 Pensez à boire régulièrement et à vous ventiler pour éviter les risques de déshydratation.",2,17,0,0,0
 1143528713709072385,2019-06-25 14:37:45,"@Yasko7711 Bonjour, il est actuellement à CDG2, il devrait partir d'ici quelques instants. ^b",0,0,0,0,0
 1143529010481324032,2019-06-25 14:38:56,"@Yasko7711 Il sera rendu direct jusqu'à Gare du Nord, en répercussion d'une mesure de régulation. ^b",0,0,0,1,0
 1143532910512955392,2019-06-25 14:54:26,"[#canicule2019☀️] Nos agents #RERB vous accueillent depuis 16h30 en gare de Denfert-Rochereau, pour vous distribuer des bouteilles d’eau ! Pensez à boire régulièrement et à vous ventiler pour éviter les risques de déshydratation. https://t.co/xdjqP5kI8f",4,15,0,0,0
@@ -13984,8 +13984,8 @@ pensez dès à présent à votre billet retour.Bon match! https://t.co/bOze7Wayj
 1172113154425393152,2019-09-12 11:42:07,"@hugomojal Bonjour, le mouvement social ne concerne que la journée de demain. Pour l'instant, le trafic est régulier sur l'ensemble de la ligne mais n'hésitez pas à revenir vers moi un peu avant votre trajet ou consulter https://t.co/ijY0yo4Edo et https://t.co/rcwnrZtW00. ^b",0,1,0,0,0
 1172116754082017285,2019-09-12 11:56:25,"@Cristi93150 Bonjour, concernant demain ? ^b",0,1,0,0,0
 1172117158177980416,2019-09-12 11:58:02,@Fafou_News https://t.co/bezCuZQPTw. Ce trajet est néanmoins fortement déconseillé pour la journée de demain. Les horaires sont susceptibles d'être modifiés compte tenu de l’affluence sur les trains qui vont rouler. ^b,0,1,0,0,0
-1172117330937225217,2019-09-12 11:58:43,"[Mouvement social] ⚠️ / Le trafic sera très fortement perturbé ce vendredi 13 novembre sur le #RERB : entre Gare du Nord et St-Rémy / Robinson, prévoyez 1 train sur 5 aux heures de pointes (6h30-10h &amp; 17h-20h). Vos gares seront fermées aux heures creuses (1/2)",10,15,0,0,0
 1172117333000818689,2019-09-12 11:58:43,Toutes les informations et horaires sont disponibles sur nos sites et applis #RATP #SNCF et sur le blog de la ligne :  https://t.co/Qf2IbLaTAJ (2/2),1,3,0,0,0
+1172117330937225217,2019-09-12 11:58:43,"[Mouvement social] ⚠️ / Le trafic sera très fortement perturbé ce vendredi 13 novembre sur le #RERB : entre Gare du Nord et St-Rémy / Robinson, prévoyez 1 train sur 5 aux heures de pointes (6h30-10h &amp; 17h-20h). Vos gares seront fermées aux heures creuses (1/2)",10,15,0,0,0
 1172118655049654273,2019-09-12 12:03:58,"@SocianeA_94 Bonjour Sofiane, je vous déconseille fortement d'emprunter la ligne compte tenu du faible nombre de trains qui vont circuler. Les horaires sont susceptibles d'être modifiés compte tenu de l'affluence. https://t.co/wGo8gBQisO. ^b",0,0,0,0,0
 1172119002535124992,2019-09-12 12:05:21,"@maximebibos Bonjour Maxime, le mouvement social débute demain matin, pas de perturbations liées ce soir. Merci pour vos encouragements ! 😉 ^b",0,1,0,0,0
 1172119116297265152,2019-09-12 12:05:48,"Sur la partie Gare du Nord - Aéroport Charles-de-Gaulle 2 / Mitry-Claye, prévoyez 1 trains sur 2 toute la journée. L'interconnexion sera suspendue à Gare du Nord #RERB",0,5,0,0,0
@@ -15517,3 +15517,7 @@ Rendez-vous le 12 octobre à @VilleSaintDenis, sur le chantier #GrandParisExpres
 1181909999188099072,2019-10-09 12:31:17,"@hysterikfamily Merci de vos précisions, je me charge de transmettre. Bonne journée ! ^b",0,0,0,0,0
 1181922422947291137,2019-10-09 13:20:39,"@itsme_chiki Bonjour, oui le trafic est régulier sur l'ensemble de la ligne. Bonne journée. ^b",0,0,0,0,0
 1181932433895284736,2019-10-09 14:00:26,"@Jordzyyrl Bonjour, le prochain train à destination de Mitry est à Port-Royal, il sera là dans moins de 6 minutes. ^b",0,0,0,0,0
+1181938569641893889,2019-10-09 14:24:49,"@ladyzlu Bonjour, c'est la Préfecture de Police qui décide de la réouverture de cet accès. La ré-ouverture a été repoussée, pour l'instant, à la fin du mois. ^b",0,0,0,0,0
+1181943817022447618,2019-10-09 14:45:40,"@Mel0o0o0dy Bonjour, quelle voie ? ^b",0,0,0,0,0
+1181944468859228160,2019-10-09 14:48:15,"@Mel0o0o0dy Il a du capter la balaise assez tôt et mettre du temps à quai, mais pas de problème d'affichage. ^b",0,1,0,0,0
+1181945670997020672,2019-10-09 14:53:02,@Mel0o0o0dy La balise* (c'est mieux comme ça) 😉 ^b,0,1,0,0,0
