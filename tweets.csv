@@ -1406,11 +1406,11 @@ Des bus de remplacement desserviront toutes les gares entre Aulnay sous Bois et 
 1059091762675924992,2018-11-04 14:35:27,"@Lorin6401 Bonjour, les travaux se terminent ce soir à la fin de service. Le trafic prévu dès demain à la prise de service est un trafic régulier. Bonne journée. ^b",0,0,0,0,0
 1059092180168593410,2018-11-04 14:37:07,"@AndrewMitul Bonjour, les travaux se terminent ce soir à la fin de service. Le trafic prévu dès demain à la prise de service est un trafic régulier. Je comprends tout à fait votre point de vue mais ces travaux sont néanmoins nécessaires. Bon dimanche. ^b",0,0,0,0,0
 1059093677350535169,2018-11-04 14:43:04,"@Vinced_93 Bonjour, oui les travaux se terminent ce soir. Le trafic prévu pour la journée de demain est un trafic régulier. Bonne journée. ^b",0,0,0,0,0
+1059099059175260160,2018-11-04 15:04:27,"Ce soir dès 22h30, les trains #RERB seront terminus Châtelet-les-Halles. Les bus de substitution partiront de Gare du Nord.",5,3,0,0,0
 1059099060471250944,2018-11-04 15:04:27,"En direction du nord:
 -dernier départ de Châtelet à destination de La Plaine SDF: 22h29
 -dernier départ de Châtelet à destination de Gare du Nord: 22h44
  Après 22h44, tous les trains seront terminus Châtelet. #RERB",3,2,0,0,0
-1059099059175260160,2018-11-04 15:04:27,"Ce soir dès 22h30, les trains #RERB seront terminus Châtelet-les-Halles. Les bus de substitution partiront de Gare du Nord.",5,3,0,0,0
 1059099061670813696,2018-11-04 15:04:28,"En direction du sud:
 -dernier départ à La Plaine à 22h41 (passage à Châtelet à 22h53)
 -dernier départ à Gare du Nord à 22h56 (passage à Châtelet à 22h59). #RERB",3,2,0,0,0
@@ -3174,9 +3174,9 @@ Massy-Verrières et Fontaine-Michalon. Le train est actuellement à l'approche d
 1070283993139036160,2018-12-05 11:49:23,"@razhades Bonjour Hadès, ohhh mais non j'avais pas vu ! Alors concernant les trains à destination d'Orsay, c'est vrai qu'ils sont souvent assurés au départ de Châtelet pendant les heures de pointe suite à des mesures de régulation. Bonne journée, à tout à l'heure ! ^b",0,3,0,1,0
 1070287496431439872,2018-12-05 12:03:18,"@Melooooody77 @razhades Plus rien ne va 😁 Désolée, encore une fois ! ^b",0,3,0,0,0
 1070339180499222530,2018-12-05 15:28:41,@razhades Bien rentré ? Bonne soirée à vous ! 😉 ^b,0,2,0,0,0
-1070366241708273665,2018-12-05 17:16:13,"#RERB  En raison d’un mouvement social qui fait suite à l’agression d’un  conducteur, le trafic sera perturbé sur la ligne le 7 décembre.",104,58,0,0,0
 1070366243012706306,2018-12-05 17:16:13,"Entre Saint-Rémy/Robinson et Denfert Rochereau prévoir 2 trains sur 3 aux heures de pointe, 1 train sur 2 aux heures creuses.
 Entre Denfert Rochereau et Aéroport CDG/Mitry prévoir 1 train sur 2 toute la journée.",19,6,0,0,0
+1070366241708273665,2018-12-05 17:16:13,"#RERB  En raison d’un mouvement social qui fait suite à l’agression d’un  conducteur, le trafic sera perturbé sur la ligne le 7 décembre.",104,58,0,0,0
 1070367486921580549,2018-12-05 17:21:10,"@SamRLIVPIVIF Bonsoir, non pas de changement de train à Gare du Nord. Bonne soirée. ^b",0,1,0,0,0
 1070368443516506113,2018-12-05 17:24:58,"@YBourti Bonsoir, non ce mouvement social concerne la journée de vendredi, le 7 décembre. Bonne soirée à vous. ^b",0,1,0,0,0
 1070368660932517888,2018-12-05 17:25:49,@SamRLIVPIVIF Je vous en prie ! Merci à vous et bon courage également 🙂 ^b,0,1,0,0,1
@@ -8177,8 +8177,8 @@ Plusieurs chantiers sont menés en parallèle, do…",46,0,0,0,0
 1113029288721354753,2019-04-02 10:43:56,@TheLocalFrance Non pas de bus au terminal 3. ^b,0,0,0,0,0
 1113030120225361926,2019-04-02 10:47:14,"@TheLocalFrance Merci pour cette information, je vais transmettre à nos équipes !^b",0,0,0,0,0
 1113031111381344256,2019-04-02 10:51:10,Le trafic est interrompu sur le #RERB depuis 9h ce matin entre Parc des Expositions et Aéroport Charles de Gaulle 2. Cela fait suite à l’inondation de locaux techniques essentiels à l’exploitation ferroviaire. Cet incident est dû à des travaux sur les voiries aéroportuaires. https://t.co/nv8nWmqztv,25,21,0,0,0
-1113031114673868801,2019-04-02 10:51:11,Actuellement 12 bus sont en rotation et nous en aurons bientôt 20. Nous bénéficions d’un renfort avec des bus mis à disposition par Aéroport de Paris. https://t.co/exuaODCZPK,2,7,0,0,0
 1113031113629470720,2019-04-02 10:51:11,Heure de reprise estimée à 16h. Nous vous tiendrons informés de l’évolution de la situation. Pour l’heure nous sommes mobilisés pour faire circuler un maximum de bus entre Parc des Expositions et la gare routière de Roissypole.,2,7,0,0,0
+1113031114673868801,2019-04-02 10:51:11,Actuellement 12 bus sont en rotation et nous en aurons bientôt 20. Nous bénéficions d’un renfort avec des bus mis à disposition par Aéroport de Paris. https://t.co/exuaODCZPK,2,7,0,0,0
 1113031117467254784,2019-04-02 10:51:12,"Pour l'heure nous assurons un train terminus toutes les 15 min. à Parc des Expositions depuis Gare du Nord. Ces trains sont omnibus. La situation est maintenant fluide du point de vue des rotations bus. Entre les gares CDG 1 et CDG2, il faut emprunter le métro automatique CDG VAL",3,7,0,0,0
 1113031118448668673,2019-04-02 10:51:12,Les équipes techniques de SNCF Réseau sont mobilisées pour assainir les locaux techniques inondés et rétablir des circulations ferroviaires en toute sécurité.,3,9,0,0,0
 1113033008486014981,2019-04-02 10:58:43,"Bonjour à tous, Joy pour vous accompagner jusqu'à 20h00. Le trafic est interrompu entre Parc des Expositions et l'Aéroport CDG2 jusqu'à 16h00 environ (panne de signalisation consécutive à des travaux de voirie de l'Aéroport CDG) #RERB. https://t.co/IWNrZN91WI",1,3,0,0,0
@@ -13436,7 +13436,7 @@ pensez dès à présent à votre billet retour.Bon match! https://t.co/bOze7Wayj
 1168812237928181760,2019-09-03 09:05:27,"@LukaRado27 Pour l'instant, ce trajet est possible, il faut néanmoins prévoir de la marge sur votre trajet. ^b",0,1,0,0,0
 1168815274306482176,2019-09-03 09:17:31,"(Train en panne à Villeparisis) : Le trafic reprend progressivement entre Mitry et Aulnay. En répercussion, le trafic #RERB reste fortement perturbé sur l'ensemble de la ligne.",2,3,0,0,0
 1168822877669482503,2019-09-03 09:47:44,"@lf_justine Bonjour, les travaux concernent l'entretien des voies, des infrastructures qui sont essentiels à l'exploitation ferroviaire. Nous avons interrompu le trafic ce matin en répercussion d'un train en panne (et nécessitait l'intervention d'équipes techniques). ^b",0,1,0,0,0
-1168828082293280768,2019-09-03 10:08:25,"@shudanslererd Bonjour, les trains à destination de St Rémy, Massy Palaiseau, Robinson. Faites attention à l'affichage, des arrêts supplémentaires ont parfois été rajoutés sur certains trains. ^b",0,2,0,0,0
+1168828082293280768,2019-09-03 10:08:25,"@shudanslererd Bonjour, les trains à destination de St Rémy, Massy Palaiseau, Robinson. Faites attention à l'affichage, des arrêts supplémentaires ont parfois été rajoutés sur certains trains. ^b",0,1,0,0,0
 1168834351217467393,2019-09-03 10:33:19,"@Meldemir1 Bonjour, dans 9 minutes de Mitry ! Toutes nos excuses pour ce temps d'attente très long sur l'axe Mitry ! Bon courage. ^b",0,1,1,0,1
 1168839152760217600,2019-09-03 10:52:24,"🙋‍♀️ Bonjour à tous, Joy pour vous accompagner jusqu'à 20h00. Suite à un train en panne en gare de Villeparisis, le trafic est actuellement fortement perturbé sur l'ensemble de la ligne #RERB",1,7,0,0,0
 1168841668281470977,2019-09-03 11:02:24,"@limputabilite Bonjour, les trains circulent bien mais le trafic reste fortement perturbé sur l'ensemble de la ligne. Joy",0,0,0,0,0
@@ -14147,8 +14147,8 @@ pensez dès à présent à votre billet retour.Bon match! https://t.co/bOze7Wayj
 1172490411367161860,2019-09-13 12:41:12,@PhieLaidMignon Oui tout à fait. Ces horaires sont susceptibles de changer compte tenu du faible nombre de trains et de l'affluence. ^b,0,2,0,0,0
 1172491891662905344,2019-09-13 12:47:05,"@BDefait @BertrandLapraye Bonjour, d'autres tweets ont été publiés depuis et cet incident est terminé à Gare du Nord donc des trains circulent au départ et en direction de Gare du Nord. ^b",0,1,0,0,0
 1172492616740605952,2019-09-13 12:49:58,"@BDefait Pour plus d'infos, cet incident (accident grave de personne) nécessitait une coupure d'urgence générale. ^b",0,1,0,0,0
-1172496120767029251,2019-09-13 13:03:53,"Interconnexion interrompue à Gare du Nord. Bien que non-concerné par ce mouvement social, le nord de la ligne sera impacté : comptez 1 train sur 2 au nord de la ligne toute la journée. Retrouvez les horaires prévisionnels ici : https://t.co/FtmyY7fKPQ",0,4,0,0,0
 1172496119579983873,2019-09-13 13:03:53,"[Mouvement Social] ⚠️ Trafic très fortement perturbé sur le #RERB ce vendredi 13 septembre. Comptez 1 train sur 5, uniquement aux heures de pointe entre Gare du Nord et Saint-Rémy / Robinson : 17h–20h.  Nous vous invitons à limiter au maximum vos déplacements.",4,12,0,0,0
+1172496120767029251,2019-09-13 13:03:53,"Interconnexion interrompue à Gare du Nord. Bien que non-concerné par ce mouvement social, le nord de la ligne sera impacté : comptez 1 train sur 2 au nord de la ligne toute la journée. Retrouvez les horaires prévisionnels ici : https://t.co/FtmyY7fKPQ",0,4,0,0,0
 1172497513867284480,2019-09-13 13:09:25,"@herbxtterfly Bonjour, les horaires sont juste ici: https://t.co/FtmyY7fKPQ Bonne journée. ^b",0,1,0,0,0
 1172498947325276161,2019-09-13 13:15:07,"@siriusbIacc Bonjour, concernant notre ligne, vous pouvez prendre un train à partir de Gare du Nord pour Roissy. Attention 1 train sur 2 circule jusqu'à CDG. ^b",0,1,0,0,0
 1172500584672432133,2019-09-13 13:21:38,"@Flow_of_Arabia Bonjour, oui c'est le premier train à partir dans le nord depuis Orsay. ^b",0,1,0,0,0
@@ -14239,7 +14239,7 @@ pensez dès à présent à votre billet retour.Bon match! https://t.co/bOze7Wayj
 1173520293341663233,2019-09-16 08:53:35,"[RAPPEL TRAVAUX] : Ce soir à partir de 23h, le trafic sera interrompu entre Aulnay-sous-Bois et Aéroport CDG1. Des bus de substitution seront mis à votre disposition. Entre CDG 1 &amp; CDG 2, merci d'utiliser CDGVAL #RERB https://t.co/0GxPWlRa2V",2,2,0,0,0
 1173524907256426497,2019-09-16 09:11:55,"@papillons007 Bonjour, j'espère que vous allez bien ! Bonne semaine et bon courage ! 😊 ^b",0,2,0,0,1
 1173548411003527168,2019-09-16 10:45:19,"🙋‍♀️ Bonjour à tous, Joy pour vous accompagner jusqu'à 20h00. N'hésitez pas à me solliciter pendant votre trajet sur le #RERB ! Bonne journée et bonne semaine !",1,8,0,0,0
-1173549414243287041,2019-09-16 10:49:18,"[RAPPEL] : En ce moment, tchat avec Marie Adam, directrice de la ligne B unifiée. Pour poser vos questions, c'est ici 👉https://t.co/hHcAskIKyA #RERB https://t.co/H5w2kAo0oi",4,8,0,0,0
+1173549414243287041,2019-09-16 10:49:18,"[RAPPEL] : En ce moment, tchat avec Marie Adam, directrice de la ligne B unifiée. Pour poser vos questions, c'est ici 👉https://t.co/hHcAskIKyA #RERB https://t.co/H5w2kAo0oi",4,7,0,0,0
 1173560431077711872,2019-09-16 11:33:05,"[RAPPEL] : Encore 30 minutes pour poser en direct toutes vos questions à Marie Adam, directrice de la ligne B unifiée ! C'est ici 👉 https://t.co/imlUEuIE5p #RERB https://t.co/9LkeS6y1xF",3,5,0,0,0
 1173575301315604480,2019-09-16 12:32:10,"🚨 Un train à destination de St Rémy stationne à Gare du Nord suite à l'actionnement d'un signal d'alarme, l'incident est terminé le train va pouvoir repartir #RERB",1,3,0,0,0
 1173611956592369664,2019-09-16 14:57:49,"🔧 Suite à une avarie sur la mission KUBY18 à destination de Massy Palaiseau (incident terminé), quelques minutes de retard sont à prévoir en direction de St Rémy / Robinson #RERB",0,6,0,0,0
@@ -15264,7 +15264,7 @@ Rendez-vous le 12 octobre à @VilleSaintDenis, sur le chantier #GrandParisExpres
 1179805879257964544,2019-10-03 17:10:16,"@MystHer_ Bonsoir Ysther, #SNCF vient de nous informer que l'interruption est prévu jusqu'à fin de service entre Châtelet  l'Aéroport. #RERB",0,0,0,0,0
 1179807947116990464,2019-10-03 17:18:29,"@pascalvella Bonsoir Pascal, je vous confirme que l'interruption est dans les deux sens. Bon courage. Vivi",0,1,0,0,1
 1179808308871548929,2019-10-03 17:19:55,"@TheoMace_ Bonsoir Théo, le trafic ne reprendra pas avant demain d'après les dernières informations que nous avons eu. Bon courage. Vivi",4,5,0,0,1
-1179808475729350656,2019-10-03 17:20:35,"19:19, le trafic est interrompu entre Gare du Nord et Aulnay jusqu'au 04/10/19 01:30. (panne électrique)  #RERB",116,45,0,0,0
+1179808475729350656,2019-10-03 17:20:35,"19:19, le trafic est interrompu entre Gare du Nord et Aulnay jusqu'au 04/10/19 01:30. (panne électrique)  #RERB",116,44,0,0,0
 1179808713957396480,2019-10-03 17:21:31,"@JeromeKazazian Bonsoir Jérôme effectivement se sont des messages génériques, le reprise ne se fera pas avant demain matin. Bon courage. Vivi",0,0,0,0,1
 1179808980564094983,2019-10-03 17:22:35,"Pour modifier votre trajet, vous êtes invités à consulter la recherche d’itinéraire sur l’Appli RATP : https://t.co/uakx1epPdY",5,3,0,0,0
 1179809594480222208,2019-10-03 17:25:01,"@swant0t Bonsoir Swantot, les trains circulent entre Aulnay et Mitry. Bon courage. Vivi",0,0,0,0,1
@@ -15684,12 +15684,12 @@ Rendez-vous le 12 octobre à @VilleSaintDenis, sur le chantier #GrandParisExpres
 1182524859416567808,2019-10-11 05:14:31,"@nyavlis__ Bonjour, le prochain train est actuellement au départ de Gare du Nord. Bonne journée à vous ! Joy",0,0,0,0,0
 1182525361768357888,2019-10-11 05:16:31,"@Sofiane__A Bonjour, le EGRE49 est actuellement à Port Royal. Le prochain train à Laplace est la mission ECCO61. Bonne journée ! Joy",0,0,0,0,0
 1182527754765516802,2019-10-11 05:26:01,"🚨 Suite à l'actionnement d'un signal d'alarme sur un train en direction de Massy Palaiseau, le train stationne actuellement à Châtelet #RERB",2,6,0,0,0
-1182528821230276609,2019-10-11 05:30:15,"❌ En raison d'un malaise voyageur à bord d'un un train en direction de Massy (incident terminé), le trafic est actuellement perturbé en direction de St Rémy / Robinson #RERB",15,9,0,0,0
+1182528821230276609,2019-10-11 05:30:15,"❌ En raison d'un malaise voyageur à bord d'un un train en direction de Massy (incident terminé), le trafic est actuellement perturbé en direction de St Rémy / Robinson #RERB",15,10,0,0,0
 1182530955069792257,2019-10-11 05:38:44,"@AntoineCaurier Bonjour, je n'ai pas d'infos mais je vais me renseigner. Pouvez vous me préciser l'heure ? Joy",0,0,0,0,0
 1182531983592906752,2019-10-11 05:42:49,"@stephan61172581 Bonjour, il faut compter 15 à 20 minutes de retard sur votre trajet. Toutes nos excuses. Bonne journée à vous ! Joy",0,1,1,0,0
 1182532580580777984,2019-10-11 05:45:12,"@Nialiex Bonjour, nous allons modifier l'information sur Transilien. Toutes nos excuses. Bonne journée ! Joy",1,2,1,0,0
 1182533389766877184,2019-10-11 05:48:25,"@Va71005860 Bonjour, il y a eu un malaise voyageur en gare de Châtelet. L'incident est terminé mais le trafic est actuellement perturbé en direction de St Rémy / Robinson. Toutes nos excuses ! Joy",0,0,1,0,0
-1182535259121999872,2019-10-11 05:55:50,▶️ QADO91 sera terminus en gare de Denfert Rochereau afin d'assurer un train à destination de Robinson #RERB,2,2,0,0,0
+1182535259121999872,2019-10-11 05:55:50,▶️ QADO91 sera terminus en gare de Denfert Rochereau afin d'assurer un train à destination de Robinson #RERB,2,3,0,0,0
 1182537301420843008,2019-10-11 06:03:57,"@SorryBeyonce Bonjour, les travaux sont en cours je vais demander à nos équipes plus d'infos sur la gare. Bonne journée à vous ! Joy",0,0,0,0,0
 1182546244717154304,2019-10-11 06:39:30,"@AsapKonoha Bonjour, en heure de pointe il n'y a pas de direct pour CDG2 depuis Gare du Nord. Joy",0,0,0,0,0
 1182549864720293888,2019-10-11 06:53:53,@AsapKonoha Ce sont les missions ERIC direct entre GDN et CDG1. Bonne journée à vous ! Joy,0,1,0,0,0
@@ -15702,3 +15702,4 @@ Rendez-vous le 12 octobre à @VilleSaintDenis, sur le chantier #GrandParisExpres
 1182565507301597184,2019-10-11 07:56:02,@Frazier36720506 C'est noté ! Je remonte votre tweet à nos équipes rapidement. Je vous souhaite une bonne journée ! Joy,0,0,0,0,0
 1182582818196598784,2019-10-11 09:04:49,@SorryBeyonce Je n'ai pas encore eu de retour malheureusement. Joy,0,0,0,0,0
 1182584031487184896,2019-10-11 09:09:39,"[Nouvel article blog] / Travaux des 1, 2 &amp; 3 novembre : vos déplacements 👉 https://t.co/w9GPR8KuNh #RERB https://t.co/JvNuMpugP6",1,3,0,0,0
+1182604365867167745,2019-10-11 10:30:27,"Bonjour à tous, Alexandra pour vous accompagner en ce vendredi sur la ligne #RERB jusqu'à 20h00. Bonne journée et bon week-end",0,2,0,0,0
