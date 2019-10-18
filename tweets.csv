@@ -1406,11 +1406,11 @@ Des bus de remplacement desserviront toutes les gares entre Aulnay sous Bois et 
 1059091762675924992,2018-11-04 14:35:27,"@Lorin6401 Bonjour, les travaux se terminent ce soir à la fin de service. Le trafic prévu dès demain à la prise de service est un trafic régulier. Bonne journée. ^b",0,0,0,0,0
 1059092180168593410,2018-11-04 14:37:07,"@AndrewMitul Bonjour, les travaux se terminent ce soir à la fin de service. Le trafic prévu dès demain à la prise de service est un trafic régulier. Je comprends tout à fait votre point de vue mais ces travaux sont néanmoins nécessaires. Bon dimanche. ^b",0,0,0,0,0
 1059093677350535169,2018-11-04 14:43:04,"@Vinced_93 Bonjour, oui les travaux se terminent ce soir. Le trafic prévu pour la journée de demain est un trafic régulier. Bonne journée. ^b",0,0,0,0,0
-1059099059175260160,2018-11-04 15:04:27,"Ce soir dès 22h30, les trains #RERB seront terminus Châtelet-les-Halles. Les bus de substitution partiront de Gare du Nord.",5,3,0,0,0
 1059099060471250944,2018-11-04 15:04:27,"En direction du nord:
 -dernier départ de Châtelet à destination de La Plaine SDF: 22h29
 -dernier départ de Châtelet à destination de Gare du Nord: 22h44
  Après 22h44, tous les trains seront terminus Châtelet. #RERB",3,2,0,0,0
+1059099059175260160,2018-11-04 15:04:27,"Ce soir dès 22h30, les trains #RERB seront terminus Châtelet-les-Halles. Les bus de substitution partiront de Gare du Nord.",5,3,0,0,0
 1059099061670813696,2018-11-04 15:04:28,"En direction du sud:
 -dernier départ à La Plaine à 22h41 (passage à Châtelet à 22h53)
 -dernier départ à Gare du Nord à 22h56 (passage à Châtelet à 22h59). #RERB",3,2,0,0,0
@@ -14147,8 +14147,8 @@ pensez dès à présent à votre billet retour.Bon match! https://t.co/bOze7Wayj
 1172490411367161860,2019-09-13 12:41:12,@PhieLaidMignon Oui tout à fait. Ces horaires sont susceptibles de changer compte tenu du faible nombre de trains et de l'affluence. ^b,0,2,0,0,0
 1172491891662905344,2019-09-13 12:47:05,"@BDefait @BertrandLapraye Bonjour, d'autres tweets ont été publiés depuis et cet incident est terminé à Gare du Nord donc des trains circulent au départ et en direction de Gare du Nord. ^b",0,1,0,0,0
 1172492616740605952,2019-09-13 12:49:58,"@BDefait Pour plus d'infos, cet incident (accident grave de personne) nécessitait une coupure d'urgence générale. ^b",0,1,0,0,0
-1172496119579983873,2019-09-13 13:03:53,"[Mouvement Social] ⚠️ Trafic très fortement perturbé sur le #RERB ce vendredi 13 septembre. Comptez 1 train sur 5, uniquement aux heures de pointe entre Gare du Nord et Saint-Rémy / Robinson : 17h–20h.  Nous vous invitons à limiter au maximum vos déplacements.",4,12,0,0,0
 1172496120767029251,2019-09-13 13:03:53,"Interconnexion interrompue à Gare du Nord. Bien que non-concerné par ce mouvement social, le nord de la ligne sera impacté : comptez 1 train sur 2 au nord de la ligne toute la journée. Retrouvez les horaires prévisionnels ici : https://t.co/FtmyY7fKPQ",0,4,0,0,0
+1172496119579983873,2019-09-13 13:03:53,"[Mouvement Social] ⚠️ Trafic très fortement perturbé sur le #RERB ce vendredi 13 septembre. Comptez 1 train sur 5, uniquement aux heures de pointe entre Gare du Nord et Saint-Rémy / Robinson : 17h–20h.  Nous vous invitons à limiter au maximum vos déplacements.",4,12,0,0,0
 1172497513867284480,2019-09-13 13:09:25,"@herbxtterfly Bonjour, les horaires sont juste ici: https://t.co/FtmyY7fKPQ Bonne journée. ^b",0,1,0,0,0
 1172498947325276161,2019-09-13 13:15:07,"@siriusbIacc Bonjour, concernant notre ligne, vous pouvez prendre un train à partir de Gare du Nord pour Roissy. Attention 1 train sur 2 circule jusqu'à CDG. ^b",0,1,0,0,0
 1172500584672432133,2019-09-13 13:21:38,"@Flow_of_Arabia Bonjour, oui c'est le premier train à partir dans le nord depuis Orsay. ^b",0,1,0,0,0
@@ -14799,8 +14799,8 @@ https://t.co/N47ED2fZUE",11,27,0,0,0
 1176134487803158528,2019-09-23 14:01:28,Un train à destination de Massy-Palaiseau stationne à Gare du Nord en répercussion d'une intervention des équipes de sécurité à bord. #RERB,0,1,0,0,0
 1176135344842039297,2019-09-23 14:04:52,"@Aptarus Bonjour, les perturbations liées au mouvement social ne concernent que la journée de demain sur notre ligne. Bonne soirée. ^b",0,1,0,0,0
 1176136875603648512,2019-09-23 14:10:57,"✅ (Intervention des équipes de sécurité à Gare du Nord) : Fin d'incident, le train à destination de Massy-Palaiseau va pouvoir repartir mais sera terminus en gare de Denfert. #RERB",0,2,0,0,0
-1176138784473341952,2019-09-23 14:18:32,Entre Gare du Nord et Saint-Rémy-lés-Chevreuse / Robinson. L’interconnexion est suspendue. Prévoir 2 trains sur 3 sur la partie sud de la ligne.,2,4,0,0,0
 1176138783005302785,2019-09-23 14:18:32,"#InfoTrafic mouvement social interprofessionnel national du 24/09 : 1 train sur 3 en heure de pointe, 1 train sur 2 en heure creuse entre Paris-Gare du Nord et CDG2/Mitry-Claye. Vos horaires ici : https://t.co/v85uxz2z30 / Nous vous conseillons de reporter vos déplacements #RERB",7,13,0,0,0
+1176138784473341952,2019-09-23 14:18:32,Entre Gare du Nord et Saint-Rémy-lés-Chevreuse / Robinson. L’interconnexion est suspendue. Prévoir 2 trains sur 3 sur la partie sud de la ligne.,2,4,0,0,0
 1176139301698056192,2019-09-23 14:20:35,@Eagleroad5 Les horaires viennent d'être publiés sur le blog: https://t.co/AsUVDfS9D2. ^b,0,1,0,0,0
 1176139508359843841,2019-09-23 14:21:25,@AngeCherbonnel Les horaires viennent d'être publiés sur le blog: https://t.co/AsUVDfS9D2. Bonne soirée. ^b,0,1,0,0,0
 1176139665239367683,2019-09-23 14:22:02,@marionBB14 Les horaires viennent d'être publiés sur le blog: https://t.co/AsUVDfS9D2. Bonne soirée. ^b,0,2,0,0,0
@@ -15936,7 +15936,7 @@ Rendez-vous le 12 octobre à @VilleSaintDenis, sur le chantier #GrandParisExpres
 1184707823743262721,2019-10-17 05:48:50,"@celine9356 Bonjour Céline, en effet ! Toutes nos excuses SOSI76 a été supprimé par mesure de régulation. Bonne journée à vous ! Joy",0,0,1,1,0
 1184708256872255489,2019-10-17 05:50:33,"@Yeyette19 Bonjour Luce, je remonte l'info. Merci pour lui 👍 ! Bonne journée ! Joy",0,1,0,0,0
 1184713401467133953,2019-10-17 06:11:00,"@jeromehuet Bonjour, toutes nos excuses vous avez un train actuellement à quai. Bonne journée à vous ! JOy",0,0,1,0,0
-1184714803824209920,2019-10-17 06:16:34,@wistar386 Nous avons eu quelques suppressions ce matin suite à un manque de matériel à Massy. Pas d'incidents actuellement sur la ligne. Bonne journée à vous ! Joy,0,0,0,0,0
+1184714803824209920,2019-10-17 06:16:34,@wistar386 Nous avons eu quelques suppressions ce matin suite à un manque de matériel à Massy. Pas d'incidents actuellement sur la ligne. Bonne journée à vous ! Joy,0,1,0,0,0
 1184715756338057216,2019-10-17 06:20:21,"🔧 En raison d'une panne sur la mission PCIL86 à destination de St Rémy, le train stationne actuellement à l'entrée de Gare du Nord #RERB",7,8,0,0,0
 1184716806600179712,2019-10-17 06:24:32,"✅ Fin d'incident à Gare du Nord, le train reprend sa marche en direction de St Rémy. Prévoir quelques minutes de retard sur votre trajet en direction de St Rémy / Robinson #RERB",3,9,0,0,0
 1184717188806127619,2019-10-17 06:26:03,"@MMauuud Bonjour Maud, nous avons eu une panne sur un train à GDN mais l'incident est désormais terminé. Toutes nos excuses ! Bonne journée à vous. Joy",0,0,1,0,0
@@ -15997,34 +15997,54 @@ Rendez-vous le 12 octobre à @VilleSaintDenis, sur le chantier #GrandParisExpres
 1184902980270723073,2019-10-17 18:44:19,"@Eva_Jqm Bonsoir Eva, vous pouvez effectivement le signaler auprès de nos agents en gare pour un dégraffitage de la rame concernée. Merci pour le signalement, bonne soirée à vous. Vivi",0,0,0,0,0
 1184905012096503815,2019-10-17 18:52:24,"@GabrielVk9 Bonsoir Chocolateman, effectivement nous avons un problème à la voie entre la Hacquinière et Bures sur Yvette donc les trains ne circulent que sur une voie. Bonne soirée. vivi",0,1,0,0,0
 1184910336173973504,2019-10-17 19:13:33,"21:12, le trafic est rétabli entre Massy-Pal. et Saint-Remy-les-Chevreuse (incident voie)  #RERB",1,4,0,0,0
-1185029146075893761,2019-10-18 03:05:39,"05:03, le trafic est perturbé sur la ligne (incident d'exploitation)  #RERB",4,3,0,0,0
-1185034790917099520,2019-10-18 03:28:05,"05:26, le trafic est rétabli sur la ligne (incident d'exploitation)  #RERB",1,2,0,0,0
-1185043339671945217,2019-10-18 04:02:03,"Suite à un mouvement social inopiné, le trafic est fortement perturbé sur l'ensemble de la ligne B. Pas d'interconnexion à Gare du Nord.",14,7,0,0,0
+1185029146075893761,2019-10-18 03:05:39,"05:03, le trafic est perturbé sur la ligne (incident d'exploitation)  #RERB",5,3,0,0,0
+1185034790917099520,2019-10-18 03:28:05,"05:26, le trafic est rétabli sur la ligne (incident d'exploitation)  #RERB",1,3,0,0,0
+1185043339671945217,2019-10-18 04:02:03,"Suite à un mouvement social inopiné, le trafic est fortement perturbé sur l'ensemble de la ligne B. Pas d'interconnexion à Gare du Nord.",25,9,0,0,0
 1185043625169825792,2019-10-18 04:03:11,"Bonjour à tous, Joy pour vous accompagner jusqu'à 13h.
-❌ En raison d'un mouvement social inopiné, le trafic est fortement perturbé sur l'ensemble de la ligne (interconnexion interrompue à Gare du Nord) #RERB",10,14,0,0,0
+❌ En raison d'un mouvement social inopiné, le trafic est fortement perturbé sur l'ensemble de la ligne (interconnexion interrompue à Gare du Nord) #RERB",21,20,0,0,0
 1185044925261463553,2019-10-18 04:08:21,"@fpa1980 Bonjour, il s'agit d'un mouvement social inopiné, dans quelle gare êtes vous ? Joy",0,0,0,0,0
 1185045174159847425,2019-10-18 04:09:21,"@iseuma_el Bonjour, non, les trains sont tous terminus à Gare du Nord. Joy",0,0,0,0,0
-1185046344047779840,2019-10-18 04:14:00,"@Jeannot911 Bonjour, pour le moment je n'ai pas d'infos, je suis en train de me renseigner sur le motif exact. Je reviens vers vous d'ici peu. Joy",1,1,0,0,0
-1185048067478900736,2019-10-18 04:20:51,"▶️ Actuellement, un train sur deux circule du sud jusqu'à Gare du Nord. Les autres sont terminus en gare de Châtelet les Halles. Un changement est obligatoire à Gare du Nord pour vous rendre vers le Nord de la ligne (utilisation des voies souterraines uniquement) #RERB",11,8,0,0,0
+1185046344047779840,2019-10-18 04:14:00,"@Jeannot911 Bonjour, pour le moment je n'ai pas d'infos, je suis en train de me renseigner sur le motif exact. Je reviens vers vous d'ici peu. Joy",1,3,0,0,0
+1185048067478900736,2019-10-18 04:20:51,"▶️ Actuellement, un train sur deux circule du sud jusqu'à Gare du Nord. Les autres sont terminus en gare de Châtelet les Halles. Un changement est obligatoire à Gare du Nord pour vous rendre vers le Nord de la ligne (utilisation des voies souterraines uniquement) #RERB",17,14,0,0,0
 1185048410426097665,2019-10-18 04:22:12,"@Jajaille1 Bonjour, le mouvement inopiné concerne pour le moment la partie Nord de la ligne mais l'impact est bien évidemment sur l’ensemble de la ligne.  Joy",0,0,0,0,0
 1185048573920059394,2019-10-18 04:22:51,@fpa1980 Jusqu'à quelle gare ? Joy,0,0,0,0,0
 1185049242718691329,2019-10-18 04:25:31,"@Dophinoooooooo Bonjour, je vous invite à prendre un autre itinéraire si possible : https://t.co/nRxVsXWq06 ! Toutes nos excuses ! Joy",0,0,1,0,0
-1185049562882478081,2019-10-18 04:26:47,"@AmandineSonnett Bonjour, un changement est nécessaire à Gare du Nord (voies souterraines uniquement). Joy",0,1,0,0,0
+1185049562882478081,2019-10-18 04:26:47,"@AmandineSonnett Bonjour, un changement est nécessaire à Gare du Nord (voies souterraines uniquement). Joy",0,2,0,0,0
 1185049930588659712,2019-10-18 04:28:15,"@Blacksq93 Bonjour, depuis quelle gare ? Joy",0,0,0,0,0
 1185050503136370692,2019-10-18 04:30:31,@Ben_Bou Je vous conseille d'anticiper fortement votre déplacement ou de prendre un autre itinéraire si possible. Joy,0,0,0,0,0
 1185050640197787648,2019-10-18 04:31:04,"@Megafab1 @Jajaille1 Bonjour, peu mais il y en a ! Dans quelle gare êtes vous ? Joy",0,0,0,0,0
-1185050729796505606,2019-10-18 04:31:25,@fpa1980 Je vous conseille d'anticiper fortement votre déplacement ou de prendre un autre itinéraire si possible. Joy,0,0,0,0,0
+1185050729796505606,2019-10-18 04:31:25,@fpa1980 Je vous conseille d'anticiper fortement votre déplacement ou de prendre un autre itinéraire si possible. Joy,1,1,0,0,0
 1185050951708753922,2019-10-18 04:32:18,"@Pollito2204 Bonjour, quel est votre trajet ? Joy",0,0,0,0,0
 1185051149528899584,2019-10-18 04:33:05,"@GuerineauP Bonjour, sur l’ensemble de la ligne le trafic est fortement perturbé. Joy",0,0,0,0,0
 1185051477171228672,2019-10-18 04:34:24,"@trotroll Bonjour, il s'agit d'un mouvement social inopiné. Joy",0,0,0,0,0
 1185051804213620737,2019-10-18 04:35:41,"@Blacksq93 Prochain départ de Mitry, SOSI52 à 6h47 de Mitry. Joy",0,0,0,0,0
 1185052470487212032,2019-10-18 04:38:20,"@3w1n3 Bonjour, voici les itinéraires gare par gare : https://t.co/DMU07gYnDM ! Joy",0,0,0,0,0
 1185052669540474881,2019-10-18 04:39:08,"@trk216__ Bonjour, il y a des trains entre ces deux gares mais je vous conseille d'anticiper fortement votre déplacement ou de prendre un autre itinéraire si possible. Joy",0,0,0,0,0
-1185054810199990272,2019-10-18 04:47:38,"❌ En raison d'un mouvement social inopiné, le trafic est interrompu entre Gare du Nord et Châtelet jusqu'à 8h00 environ et fortement perturbé sur le reste de la ligne #RERB https://t.co/H8BdWrMe1c",12,3,0,0,0
-1185055139515817985,2019-10-18 04:48:57,"@Sofiane__A Bonjour, les trains circulent entre ces deux gares mais le trafic est fortement perturbé. Joy",0,0,0,0,0
-1185055453954351109,2019-10-18 04:50:12,"@Cline86844989 Bonjour Céline, je n'ai pas de fréquence à vous communiquer malheureusement. Joy",0,0,0,0,0
+1185054810199990272,2019-10-18 04:47:38,"❌ En raison d'un mouvement social inopiné, le trafic est interrompu entre Gare du Nord et Châtelet jusqu'à 8h00 environ et fortement perturbé sur le reste de la ligne #RERB https://t.co/H8BdWrMe1c",37,9,0,0,0
+1185055139515817985,2019-10-18 04:48:57,"@Sofiane__A Bonjour, les trains circulent entre ces deux gares mais le trafic est fortement perturbé. Joy",0,1,0,0,0
+1185055453954351109,2019-10-18 04:50:12,"@Cline86844989 Bonjour Céline, je n'ai pas de fréquence à vous communiquer malheureusement. Joy",1,1,0,0,0
 1185055938694303745,2019-10-18 04:52:07,"@Mli67106624 Bonjour, si vous pouvez prendre un itinéraire bis je vous le conseille, le trafic est actuellement interrompu entre Gare du Nord et Châtelet et fortement perturbé sur le reste de la ligne https://t.co/d87vDggn7H. Joy",0,0,0,0,0
 1185056695036321792,2019-10-18 04:55:08,"@cleymie Bonjour, non aucun en voie de surface à Gare du Nord. Joy",0,0,0,0,0
 1185057203226587136,2019-10-18 04:57:09,"@europeanpatent Bonjour, il y a peu de trains pour le moment. Je vous conseille de prendre un itinéraire bis si possible. Joy",0,0,0,0,0
-1185057396286279680,2019-10-18 04:57:55,@Sofiane__A Un train arrive à quai. Joy,0,0,0,0,0
-1185057630995337216,2019-10-18 04:58:51,"@snobinart Bonjour, pas de départ des voies de surface. Joy",0,0,0,0,0
+1185057396286279680,2019-10-18 04:57:55,@Sofiane__A Un train arrive à quai. Joy,0,1,0,0,0
+1185057630995337216,2019-10-18 04:58:51,"@snobinart Bonjour, pas de départ des voies de surface. Joy",1,1,0,0,0
+1185059125841088513,2019-10-18 05:04:47,"@Spaced_HS Bonjour, cette partie est également fortement perturbé mais il y a des trains qui vont vers CDG2. Si vous avez la possibilité je vous invite à utiliser un itinéraire bis. Joy",0,0,0,0,0
+1185059609880473600,2019-10-18 05:06:42,"@Va71005860 Bonjour, il y a des trains mais le trafic est interrompu entre Châtelet et Gare du Nord et fortement perturbé sur l'ensemble de la ligne. https://t.co/0T0c7FpiqF Joy",0,0,0,0,0
+1185060442370170881,2019-10-18 05:10:01,"@yasaz5 Bonjour, les trafic est actuellement interrompu entre Gare du Nord et Châtelet et fortement perturbé sur le reste de la ligne. Il y a des trains depuis Gare du Nord pour Mitry mais je vous conseille de prendre un autre itinéraire. https://t.co/0HE7zRndL1 Joy",0,0,0,0,0
+1185061032110297089,2019-10-18 05:12:22,"❌ En raison d'un mouvement social inopiné en zone SNCF, le trafic est interrompu entre Gare du Nord et Châtelet jusqu'à 8h00 environ et fortement perturbé sur le reste de la ligne #RERB https://t.co/H8BdWrMe1c",12,5,0,0,0
+1185061493555060736,2019-10-18 05:14:12,"@CelineSvh Bonjour, 7h23 PCLI78 départ de CDG2. Joy",0,0,0,0,0
+1185061993163702272,2019-10-18 05:16:11,"@MoreauxAntonin Bonjour, il y a des trains mais je vous conseille de prendre un itinéraire bis si possible https://t.co/GlczYVYmFi . Joy",0,0,0,0,0
+1185065573841096704,2019-10-18 05:30:24,"@daniLX75 Bonjour, il y a bien des trains qui circulent entre BLR et GDN mais le trafic reste fortement perturbé. Joy",0,0,0,0,0
+1185066233693163520,2019-10-18 05:33:02,"❌ En raison d'un mouvement social inopiné en zone SNCF, le trafic est rétabli entre Gare du Nord et Châtelet ( un train sur deux circule du sud jusqu'à Gare du Nord. Les autres sont terminus en gare de Châtelet les Halles) et fortement perturbé sur l'ensemble de la ligne #RERB",18,3,0,0,0
+1185066968874934275,2019-10-18 05:35:57,"▶️ Actuellement, un train sur deux circule du sud jusqu'à Gare du Nord. Les autres sont terminus en gare de Châtelet les Halles. Un changement est obligatoire à Gare du Nord pour vous rendre vers le Nord de la ligne #RERB",8,3,0,0,0
+1185068061038186497,2019-10-18 05:40:17,@webabar Dans quel train êtes vous ? Joy,0,0,0,0,0
+1185068232606146560,2019-10-18 05:40:58,"@beduinenqueen Bonjour, je n'ai aucune info sur la durée des perturbations malheureusement. Toutes nos excuses ! Joy",0,0,1,0,0
+1185068813508923392,2019-10-18 05:43:17,"@Leonard00z Bonjour, un train est actuellement à la Courneuve en direction de CDG. joy",0,0,0,0,0
+1185069373918273541,2019-10-18 05:45:30,"@J_harmand Bonjour Juliette, le prochain train est actuellement à Luxembourg. Joy",0,1,0,0,0
+1185070105044094977,2019-10-18 05:48:25,"@ElZebr Bonjour, je ne suis pas certaine, dans quelle gare êtes vous ? Joy",0,0,0,0,0
+1185070369641775105,2019-10-18 05:49:28,"@Sawu7518 Bonjour, pour le moment très peu de train circule en zone SNCF sur la partie Nord de la ligne. Joy",0,0,0,0,0
+1185071703518597120,2019-10-18 05:54:46,"@razhades Bonjour Hadès, pour le moment un train sur deux va à Gare du Nord, ce sont les mission AIDA qui vont jusqu'à Gare du Nord, je vous conseille d'effectuer un changement à Châtelet ou Denfert. Joy",0,0,0,0,0
+1185072029210497024,2019-10-18 05:56:03,@Deboaya1986 Dans quelle gare ? Joy,0,0,0,0,0
+1185072870365585408,2019-10-18 05:59:24,"@bashaaak Bonjour, quelle est votre question ? Joy",0,0,0,0,0
+1185073165418016773,2019-10-18 06:00:34,"@AntoineAugusti Antoine, les mission AUDE et AMOR sont terminus Châtelet, les missions AIDA sont terminus Gare du Nord. Joy",0,0,0,0,0
+1185073309525925889,2019-10-18 06:01:09,@wistar386 Dans quelle gare êtes vous ? Joy,0,0,0,0,0
