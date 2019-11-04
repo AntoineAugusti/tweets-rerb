@@ -1406,11 +1406,11 @@ Des bus de remplacement desserviront toutes les gares entre Aulnay sous Bois et 
 1059091762675924992,2018-11-04 14:35:27,"@Lorin6401 Bonjour, les travaux se terminent ce soir à la fin de service. Le trafic prévu dès demain à la prise de service est un trafic régulier. Bonne journée. ^b",0,0,0,0,0
 1059092180168593410,2018-11-04 14:37:07,"@AndrewMitul Bonjour, les travaux se terminent ce soir à la fin de service. Le trafic prévu dès demain à la prise de service est un trafic régulier. Je comprends tout à fait votre point de vue mais ces travaux sont néanmoins nécessaires. Bon dimanche. ^b",0,0,0,0,0
 1059093677350535169,2018-11-04 14:43:04,"@Vinced_93 Bonjour, oui les travaux se terminent ce soir. Le trafic prévu pour la journée de demain est un trafic régulier. Bonne journée. ^b",0,0,0,0,0
+1059099059175260160,2018-11-04 15:04:27,"Ce soir dès 22h30, les trains #RERB seront terminus Châtelet-les-Halles. Les bus de substitution partiront de Gare du Nord.",5,3,0,0,0
 1059099060471250944,2018-11-04 15:04:27,"En direction du nord:
 -dernier départ de Châtelet à destination de La Plaine SDF: 22h29
 -dernier départ de Châtelet à destination de Gare du Nord: 22h44
  Après 22h44, tous les trains seront terminus Châtelet. #RERB",3,2,0,0,0
-1059099059175260160,2018-11-04 15:04:27,"Ce soir dès 22h30, les trains #RERB seront terminus Châtelet-les-Halles. Les bus de substitution partiront de Gare du Nord.",5,3,0,0,0
 1059099061670813696,2018-11-04 15:04:28,"En direction du sud:
 -dernier départ à La Plaine à 22h41 (passage à Châtelet à 22h53)
 -dernier départ à Gare du Nord à 22h56 (passage à Châtelet à 22h59). #RERB",3,2,0,0,0
@@ -3174,9 +3174,9 @@ Massy-Verrières et Fontaine-Michalon. Le train est actuellement à l'approche d
 1070283993139036160,2018-12-05 11:49:23,"@razhades Bonjour Hadès, ohhh mais non j'avais pas vu ! Alors concernant les trains à destination d'Orsay, c'est vrai qu'ils sont souvent assurés au départ de Châtelet pendant les heures de pointe suite à des mesures de régulation. Bonne journée, à tout à l'heure ! ^b",0,3,0,1,0
 1070287496431439872,2018-12-05 12:03:18,"@Melooooody77 @razhades Plus rien ne va 😁 Désolée, encore une fois ! ^b",0,3,0,0,0
 1070339180499222530,2018-12-05 15:28:41,@razhades Bien rentré ? Bonne soirée à vous ! 😉 ^b,0,2,0,0,0
+1070366241708273665,2018-12-05 17:16:13,"#RERB  En raison d’un mouvement social qui fait suite à l’agression d’un  conducteur, le trafic sera perturbé sur la ligne le 7 décembre.",104,58,0,0,0
 1070366243012706306,2018-12-05 17:16:13,"Entre Saint-Rémy/Robinson et Denfert Rochereau prévoir 2 trains sur 3 aux heures de pointe, 1 train sur 2 aux heures creuses.
 Entre Denfert Rochereau et Aéroport CDG/Mitry prévoir 1 train sur 2 toute la journée.",19,6,0,0,0
-1070366241708273665,2018-12-05 17:16:13,"#RERB  En raison d’un mouvement social qui fait suite à l’agression d’un  conducteur, le trafic sera perturbé sur la ligne le 7 décembre.",104,58,0,0,0
 1070367486921580549,2018-12-05 17:21:10,"@SamRLIVPIVIF Bonsoir, non pas de changement de train à Gare du Nord. Bonne soirée. ^b",0,1,0,0,0
 1070368443516506113,2018-12-05 17:24:58,"@YBourti Bonsoir, non ce mouvement social concerne la journée de vendredi, le 7 décembre. Bonne soirée à vous. ^b",0,1,0,0,0
 1070368660932517888,2018-12-05 17:25:49,@SamRLIVPIVIF Je vous en prie ! Merci à vous et bon courage également 🙂 ^b,0,1,0,0,1
@@ -10210,8 +10210,8 @@ https://t.co/cMeMrfjzvH",5,11,0,0,0
 Petit récap des #TravauxRERB_2019 pour vous aider à mieux voyager la semaine du 10 au 16 juin : 
 Interruption des circulations à partir de 23h de mardi à vendredi, entre Aulnay-sous-Bois et l'Aéroport Charles de Gaulle. Information :👉 https://t.co/ID7LdbrhNP https://t.co/9FD7NWZf0o",5,3,0,0,0
 1136997242492149760,2019-06-07 14:04:01,"@wenjihyo Bonjour, oui bien sûr ! Bonne journée ! ^b",0,1,0,0,0
-1137004486675894272,2019-06-07 14:32:48,All #RERB staff members would like to wish #BTS fans an amazing concert. 🎶 https://t.co/5PKEWacNhA,7,24,0,0,0
 1137004484658417664,2019-06-07 14:32:48,Tous les agents du #RERB souhaitent un excellent concert aux fans de #BTS 🎶 https://t.co/He9oAtkOiv,22,80,0,0,0
+1137004486675894272,2019-06-07 14:32:48,All #RERB staff members would like to wish #BTS fans an amazing concert. 🎶 https://t.co/5PKEWacNhA,7,24,0,0,0
 1137005429706428416,2019-06-07 14:36:33,"@blackdmusic1 Bonjour, pas d'incident en cours mais il y a un concert au Stade de France ce soir, demain soir également. N'hésitez pas à revenir vers moi, si besoin. Bonne soirée. ^b",0,0,0,0,0
 1137006389564493825,2019-06-07 14:40:22,"@FabiolaSa6 Bonsoir, il est entre La Plaine Stade de France et Gare du Nord. Bonne soirée. ^b",0,1,0,0,0
 1137008819668754432,2019-06-07 14:50:01,"@sa_riaka @BTS_twt Bonjour, oui bien sûr. Dans quelle direction allez-vous ? Paris ? Bonne soiré et bon concert à vous 🎶 ! ^b",0,2,0,0,0
@@ -16354,7 +16354,7 @@ Dernier train de Mitry direction Gare du Nord: 23h18. Dernier train de CDG direc
 1185253894655500290,2019-10-18 17:58:44,"@Mlanie81659599 Bonsoir, il est à Gare du Nord actuellement. Nous attendons son départ. ^b",0,0,0,0,0
 1185254122192277505,2019-10-18 17:59:38,@_miyamotohk Ce n'est pas la fin de service mais malheureusement je ne peux rien vous garantir. J'en suis désolée. ^b,0,1,0,0,0
 1185256226218795013,2019-10-18 18:07:59,"@djerbina2 Bonsoir, au mieux dans 30 minutes, pas avant j'en suis désolée. ^b",0,0,0,0,0
-1185279782394716160,2019-10-18 19:41:36,"❌ Samedi 19 octobre, en raison d'une grève sans préavis en zone SNCF, le trafic sera très fortement perturbé entre Gare du Nord et CDG/Mitry. Changement de train nécessaire à Gare du Nord. Trafic normal entre Paris Nord et St Rémy/Robinson #RERB",52,43,0,0,0
+1185279782394716160,2019-10-18 19:41:36,"❌ Samedi 19 octobre, en raison d'une grève sans préavis en zone SNCF, le trafic sera très fortement perturbé entre Gare du Nord et CDG/Mitry. Changement de train nécessaire à Gare du Nord. Trafic normal entre Paris Nord et St Rémy/Robinson #RERB",52,44,0,0,0
 1185286090326003713,2019-10-18 20:06:40,RT @ParisAeroport: ⚠️ Saturday 19 October: strong disruptions expected on #RERB train line between #Paris and Paris-#CDG in both directions…,9,0,0,0,0
 1185416009857032193,2019-10-19 04:42:55,"@puma0913 Bonjour, je vous informe que le trafic est fortement perturbé entre Gare du Nord et AéroportCDG2/Mitry Claye. Je reste à votre écoute.Bonne journée.Yvson",1,0,0,0,0
 1185419296417210369,2019-10-19 04:55:58,"En raison d'un mouvement social SNCF, le trafic est fortement perturbé entre Gare du Nord et Aéroport CDG2/Mitry Claye sur la ligne #RERB. Un changement est nécessaire à Gare du Nord",23,20,0,0,0
@@ -17166,10 +17166,10 @@ Reprise du trafic estimée vers 09h00",2,5,0,0,0
 1190584057463226368,2019-11-02 10:58:53,"@Soraya_Znagui_ Bonjour, oui tout à fait vous pouvez joindre normalement ces deux gares.",0,0,0,0,0
 1190659547779805185,2019-11-02 15:58:52,"@ka_kashiii Bonjour, vous devrez emprunter le #RERB jusque Paris - Gare du Nord où vous arriverez en gare de surface, puisque l'interconnexion est suspendue. A Paris - Gare du Nord, vous pourrez poursuivre votre trajet jusque Châtelet en empruntant un autre RER depuis la gare souterraine.",0,1,0,0,0
 1190659717334544385,2019-11-02 15:59:32,"@ATSouhaits Bonjour Nicolas, non aucun, la circulation est normale entre ces deux gares !",0,0,0,0,0
-1190878169785683968,2019-11-03 06:27:35,"🚧 [RAPPEL TRAVAUX] : Les gares de Sevran-Beaudottes, Villepinte et Parc des Expositions ne sont pas desservies jusque fin de service, et les bus de substitution L2 (Aulnay-CDG1) et L3 (Aulnay-Sevran-Beaudottes) sont à votre disposition (thread 2/4)",0,0,0,0,0
 1190878168061808640,2019-11-03 06:27:35,"🚧 [RAPPEL TRAVAUX] : Jusqu'à ce soir fin de service, pour rejoindre Paris-Gare du Nord depuis CDG 1 &amp; 2, merci d'emprunter les lignes de bus de substitution L1 et L1bis jusque Mitry-Claye puis le #RERB. Nos agents sont présents en gare pour vous renseigner (thread 1/4) https://t.co/4uMFJkzDeI",5,5,0,0,0
-1190878171996000256,2019-11-03 06:27:36,"🚧 [RAPPEL TRAVAUX] : Enfin, le trafic est également interrompu entre Bourg-la-Reine et Robinson jusque fin de service. Les lignes de bus 192 &amp; 394 sont renforcées, et la ligne de bus 128 relie Fontenay-aux-Roses RER &amp; Mairie de Montrouge sur la @Ligne4_RATP (thread 4/4)",0,3,0,0,0
+1190878169785683968,2019-11-03 06:27:35,"🚧 [RAPPEL TRAVAUX] : Les gares de Sevran-Beaudottes, Villepinte et Parc des Expositions ne sont pas desservies jusque fin de service, et les bus de substitution L2 (Aulnay-CDG1) et L3 (Aulnay-Sevran-Beaudottes) sont à votre disposition (thread 2/4)",0,0,0,0,0
 1190878170901295105,2019-11-03 06:27:36,"🚧 [RAPPEL TRAVAUX] : L'interconnexion est suspendue à Paris - Gare du Nord jusque fin de service. Les trains vers le nord de la ligne partent de la gare de surface, et les trains vers le sud de la ligne depuis la gare souterraine (thread 3/4)",0,4,0,0,0
+1190878171996000256,2019-11-03 06:27:36,"🚧 [RAPPEL TRAVAUX] : Enfin, le trafic est également interrompu entre Bourg-la-Reine et Robinson jusque fin de service. Les lignes de bus 192 &amp; 394 sont renforcées, et la ligne de bus 128 relie Fontenay-aux-Roses RER &amp; Mairie de Montrouge sur la @Ligne4_RATP (thread 4/4)",0,3,0,0,0
 1190880026025218048,2019-11-03 06:34:58,"@Next_Alert @Ligne4_RATP ... en effet, et depuis Mairie de Montrouge vous pourrez gagner plus rapidement la capitale avec la @Ligne4_RATP. Bonne journée !",0,0,0,0,0
 1190896952348725248,2019-11-03 07:42:13,"@hbacelar8 Bonjour, en effet un changement de train est obligatoire à Paris - Gare du Nord. Depuis cette dernière gare, vous devrez emprunter votre #RERB jusque Mitry-Claye et ensuite le bus de substitution L1 jusque CDG2. Bonne jounée !",0,0,0,0,0
 1190940157178007552,2019-11-03 10:33:54,"@julyhum Bonjour Julie, depuis 5h ce matin, des bus de substitution vous mènent jusque la gare de Mitry-Claye, d'où vous pourrez continuer à emprunter le #RERB jusque Paris.",0,0,0,0,0
@@ -17177,11 +17177,19 @@ Reprise du trafic estimée vers 09h00",2,5,0,0,0
 1190946778956402695,2019-11-03 11:00:13,"Travaux prévus sur #RERB du 04/11/2019 23:00 au 09/11/2019 02:30. Pour plus d'informations, https://t.co/tvolzKAMKr",1,0,0,0,0
 1190954663480381441,2019-11-03 11:31:33,"@Alautres75 Bonjour, oui les trains circulent normalement entre Châtelet et Paris - Gare du Nord. Bonne journée !",0,0,0,0,0
 1191022031107702785,2019-11-03 15:59:14,"@Mimiichka Bonjour, en raison de travaux, la branche vers CDG est fermée jusque ce soir. Vous devrez emprunter votre #RERB à Paris - Gare du Nord jusque Mitry-Claye, puis emprunter les bus de substitution jusque Aéroport CDG 1&amp;2",0,0,0,0,0
-1191219446653825025,2019-11-04 05:03:42,"🙋🏼‍♀️ Bonjour à tous, Joy pour vous accompagner jusqu'à 13h. N'hésitez pas à me solliciter pendant votre trajet sur le #RERB. Bonne journée et bonne semaine 👋",0,10,0,0,0
+1191219446653825025,2019-11-04 05:03:42,"🙋🏼‍♀️ Bonjour à tous, Joy pour vous accompagner jusqu'à 13h. N'hésitez pas à me solliciter pendant votre trajet sur le #RERB. Bonne journée et bonne semaine 👋",0,14,0,0,0
 1191223796591661056,2019-11-04 05:20:59,"@rayoun10 Bonjour, pas de soucis sur la ligne actuellement. Bonne journée ! Joy",0,0,0,0,0
 1191235649891979264,2019-11-04 06:08:05,"@creativedo_ Bonjour, oui vous avez un train à quai actuellement. Bonne journée ! Joy",0,0,0,0,0
 1191237675623292929,2019-11-04 06:16:08,"@mm_jaime Hello ! Yes, you can take the train for Airport CDG today ! Have a good day ! Joy",0,0,0,0,0
-1191239458361937920,2019-11-04 06:23:13,"▶️ En raison de difficultés d'exploitation, les missions KUBE74 au départ de CDG2, LALA80 et LALA88 au départ de Mitry seront supprimées #RERB",4,3,0,0,0
-1191245076523036672,2019-11-04 06:45:33,"@the_turtur Bonjour, un train de marchandise a stationné sur une voie ce qui nous a obligé à partager nos voies avec d'autres lignes. De ce fait, nous sommes dans l'obligation d'effectuer des mesures de régulation. Toutes nos excuses ! Joy",0,1,1,1,0
+1191239458361937920,2019-11-04 06:23:13,"▶️ En raison de difficultés d'exploitation, les missions KUBE74 au départ de CDG2, LALA80 et LALA88 au départ de Mitry seront supprimées #RERB",8,5,0,0,0
+1191245076523036672,2019-11-04 06:45:33,"@the_turtur Bonjour, un train de marchandise a stationné sur une voie ce qui nous a obligé à partager nos voies avec d'autres lignes. De ce fait, nous sommes dans l'obligation d'effectuer des mesures de régulation. Toutes nos excuses ! Joy",0,2,1,1,0
 1191245240679718912,2019-11-04 06:46:12,"@rosa_ayt Bonjour, oui sans soucis ! Bonne journée à vous ! Joy",0,0,0,0,0
 1191246377516437504,2019-11-04 06:50:43,"@Mouncif_ Bonjour, il y a bien des trains entre ces deux gares, le prochain est la mission PCIL94 actuellement à CDG1. Bonne journée à vous !",0,1,0,0,0
+1191249145455169543,2019-11-04 07:01:43,"@Nialiex Bonjour, un train de marchandise a stationné sur une voie ce qui nous a obligé à partager nos voies avec d'autres lignes. De ce fait, nous sommes dans l'obligation d'effectuer des mesures de régulation. Toutes nos excuses ! Joy",1,3,1,1,0
+1191253698401452032,2019-11-04 07:19:48,"@CecileDerudder Bonjour, la mission SORI10 est actuellement au départ de Mitry après un train direct jusqu'à Paris. Bonne journée ! Joy",0,0,0,0,0
+1191253802059476992,2019-11-04 07:20:13,"@ChaigneauThomas Bonjour, la mission SORI10 est actuellement au départ de Mitry après un train direct jusqu'à Paris. Bonne journée ! Joy",0,0,0,0,0
+1191254505054179328,2019-11-04 07:23:01,"@ARMANDM3 Bonjour, dans quelle direction ? Joy",0,0,0,0,0
+1191257841878884352,2019-11-04 07:36:16,@ARMANDM3 Avez vous pu avoir la mission SORI10 ? Joy,0,0,0,0,0
+1191258462782738432,2019-11-04 07:38:44,"@Chef_Caribou Bonjour, la sortie est repoussée suite à l'incident de Notre Dame, la date est repoussée au 15 Décembre. Toutes nos excuses ! Joy",0,0,1,0,0
+1191259277224300544,2019-11-04 07:41:58,"▶️ QAPO15 sera direct entre Bourg la Reine et Cité Universitaire, EBRE17 marquera un arrêt supplémentaire en gare d'Arcueil et Bagneux #RERB",1,0,0,0,0
+1191262540237590528,2019-11-04 07:54:56,"@spaiceynoodles Bonjour, SORI30 est actuellement à l'approche de Sevran Livry. Bonne journée à vous ! Joy",0,1,0,0,0
