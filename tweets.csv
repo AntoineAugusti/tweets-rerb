@@ -1406,11 +1406,11 @@ Des bus de remplacement desserviront toutes les gares entre Aulnay sous Bois et 
 1059091762675924992,2018-11-04 14:35:27,"@Lorin6401 Bonjour, les travaux se terminent ce soir à la fin de service. Le trafic prévu dès demain à la prise de service est un trafic régulier. Bonne journée. ^b",0,0,0,0,0
 1059092180168593410,2018-11-04 14:37:07,"@AndrewMitul Bonjour, les travaux se terminent ce soir à la fin de service. Le trafic prévu dès demain à la prise de service est un trafic régulier. Je comprends tout à fait votre point de vue mais ces travaux sont néanmoins nécessaires. Bon dimanche. ^b",0,0,0,0,0
 1059093677350535169,2018-11-04 14:43:04,"@Vinced_93 Bonjour, oui les travaux se terminent ce soir. Le trafic prévu pour la journée de demain est un trafic régulier. Bonne journée. ^b",0,0,0,0,0
-1059099059175260160,2018-11-04 15:04:27,"Ce soir dès 22h30, les trains #RERB seront terminus Châtelet-les-Halles. Les bus de substitution partiront de Gare du Nord.",5,3,0,0,0
 1059099060471250944,2018-11-04 15:04:27,"En direction du nord:
 -dernier départ de Châtelet à destination de La Plaine SDF: 22h29
 -dernier départ de Châtelet à destination de Gare du Nord: 22h44
  Après 22h44, tous les trains seront terminus Châtelet. #RERB",3,2,0,0,0
+1059099059175260160,2018-11-04 15:04:27,"Ce soir dès 22h30, les trains #RERB seront terminus Châtelet-les-Halles. Les bus de substitution partiront de Gare du Nord.",5,3,0,0,0
 1059099061670813696,2018-11-04 15:04:28,"En direction du sud:
 -dernier départ à La Plaine à 22h41 (passage à Châtelet à 22h53)
 -dernier départ à Gare du Nord à 22h56 (passage à Châtelet à 22h59). #RERB",3,2,0,0,0
@@ -16361,10 +16361,10 @@ Dernier train de Mitry direction Gare du Nord: 23h18. Dernier train de CDG direc
 1185435099514527744,2019-10-19 05:58:46,"RT @RERD_SNCF: 🔴 #RERD 20h42
 
 Ce samedi 19 octobre, une grève sans préavis perturbera très fortement le trafic sur l'ensemble de la ligne.…",111,0,0,0,0
-1185550015416164355,2019-10-19 13:35:24,"Nous vous conseillons de vérifier les heures de circulation des trains en consultant https://t.co/rcwnrZtW00, rubrique Prochains départs, ou l’appli Assistant SNCF, rubrique Gares et arrêts.",1,1,0,0,0
 1185550014019440640,2019-10-19 13:35:24,"Grève sans préavis samedi 19 octobre. La circulation des trains est extrêmement perturbée :
 -   1 Aller-Retour par heure entre Paris Nord et Aéroport CDG 2
 -   Plus aucune circulation entre Paris Nord et Mitry.",30,40,0,0,0
+1185550015416164355,2019-10-19 13:35:24,"Nous vous conseillons de vérifier les heures de circulation des trains en consultant https://t.co/rcwnrZtW00, rubrique Prochains départs, ou l’appli Assistant SNCF, rubrique Gares et arrêts.",1,1,0,0,0
 1185550017261658113,2019-10-19 13:35:25,Trafic normal entre Paris Nord et Saint-Remy/Robinson. Un changement de train est nécessaire à Gare du Nord.,1,2,0,0,0
 1185609707932803072,2019-10-19 17:32:36,"❌ Dimanche 20 octobre, en raison d'une grève sans préavis en zone SNCF, le trafic sera très fortement perturbé entre Gare du Nord et CDG/Mitry. Changement de train nécessaire à Gare du Nord. Trafic normal entre Paris Nord et St Rémy/Robinson #RERB",22,39,0,0,0
 1185642408245104641,2019-10-19 19:42:32,"@minaaabk Bonsoir, nous il y a des voyageurs sur les voies à gare du Nord. Sand",1,0,0,0,0
@@ -17177,7 +17177,7 @@ Reprise du trafic estimée vers 09h00",2,5,0,0,0
 1190946778956402695,2019-11-03 11:00:13,"Travaux prévus sur #RERB du 04/11/2019 23:00 au 09/11/2019 02:30. Pour plus d'informations, https://t.co/tvolzKAMKr",1,0,0,0,0
 1190954663480381441,2019-11-03 11:31:33,"@Alautres75 Bonjour, oui les trains circulent normalement entre Châtelet et Paris - Gare du Nord. Bonne journée !",0,0,0,0,0
 1191022031107702785,2019-11-03 15:59:14,"@Mimiichka Bonjour, en raison de travaux, la branche vers CDG est fermée jusque ce soir. Vous devrez emprunter votre #RERB à Paris - Gare du Nord jusque Mitry-Claye, puis emprunter les bus de substitution jusque Aéroport CDG 1&amp;2",0,0,0,0,0
-1191219446653825025,2019-11-04 05:03:42,"🙋🏼‍♀️ Bonjour à tous, Joy pour vous accompagner jusqu'à 13h. N'hésitez pas à me solliciter pendant votre trajet sur le #RERB. Bonne journée et bonne semaine 👋",0,16,0,0,0
+1191219446653825025,2019-11-04 05:03:42,"🙋🏼‍♀️ Bonjour à tous, Joy pour vous accompagner jusqu'à 13h. N'hésitez pas à me solliciter pendant votre trajet sur le #RERB. Bonne journée et bonne semaine 👋",0,17,0,0,0
 1191223796591661056,2019-11-04 05:20:59,"@rayoun10 Bonjour, pas de soucis sur la ligne actuellement. Bonne journée ! Joy",0,0,0,0,0
 1191235649891979264,2019-11-04 06:08:05,"@creativedo_ Bonjour, oui vous avez un train à quai actuellement. Bonne journée ! Joy",0,0,0,0,0
 1191237675623292929,2019-11-04 06:16:08,"@mm_jaime Hello ! Yes, you can take the train for Airport CDG today ! Have a good day ! Joy",0,0,0,0,0
@@ -17202,7 +17202,9 @@ Reprise du trafic estimée vers 09h00",2,5,0,0,0
 1191299291240947714,2019-11-04 10:20:58,"@Nono98514256 Bonjour, oui pas de soucis vous avez un train à quai actuellement. Joy",0,0,0,0,0
 1191305410294272000,2019-11-04 10:45:17,"@welldone2016 Bonjour, je suis désolée de l'apprendre. Pouvez-vous me préciser la gare ? Joy",0,1,0,0,0
 1191316812190879744,2019-11-04 11:30:36,"Bonjour, Alexandra pour vous accompagner en cette nouvelle semaine sur la ligne #RERB jusqu'à 20h00. Bonne journée !",0,6,0,0,0
-1191320843911122944,2019-11-04 11:46:37,SOSO14 actuellement en gare de Cité-Universitaire évacue ses voyageurs suite à une panne. #RERB,2,3,0,0,0
-1191321964851449856,2019-11-04 11:51:04,"@Leabou Bonjour Léa, oui les travaux sont terminés entre ces deux gares. Bonne journée. ^b",0,1,0,0,0
+1191320843911122944,2019-11-04 11:46:37,SOSO14 actuellement en gare de Cité-Universitaire évacue ses voyageurs suite à une panne. #RERB,5,4,0,0,0
+1191321964851449856,2019-11-04 11:51:04,"@Leabou Bonjour Léa, oui les travaux sont terminés entre ces deux gares. Bonne journée. ^b",0,2,0,0,0
 1191322438199644161,2019-11-04 11:52:57,🚨 Un train à destination de Robinson stationne en gare de St Michel suite à l'actionnement d'un signal d'alarme. #RERB,0,2,0,0,0
-1191324577030389761,2019-11-04 12:01:27,"✅ (Signal d'alarme à St Michel) : Fin d'incident, le train à destination de Robinson est reparti. #RERB",0,0,0,0,0
+1191324577030389761,2019-11-04 12:01:27,"✅ (Signal d'alarme à St Michel) : Fin d'incident, le train à destination de Robinson est reparti. #RERB",1,4,0,0,0
+1191326567332556800,2019-11-04 12:09:22,"@HassShoel Bonjour, en direction de Robinson. L'incident est terminé, le train a pu repartir. Bonne journée ! ^b",0,1,0,0,0
+1191327099551920133,2019-11-04 12:11:28,"@TIME997598761 Bonjour, merci beaucoup ! Bonne semaine à vous aussi ! 🤗 ^b",0,1,0,0,0
