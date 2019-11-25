@@ -1406,11 +1406,11 @@ Des bus de remplacement desserviront toutes les gares entre Aulnay sous Bois et 
 1059091762675924992,2018-11-04 14:35:27,"@Lorin6401 Bonjour, les travaux se terminent ce soir à la fin de service. Le trafic prévu dès demain à la prise de service est un trafic régulier. Bonne journée. ^b",0,0,0,0,0
 1059092180168593410,2018-11-04 14:37:07,"@AndrewMitul Bonjour, les travaux se terminent ce soir à la fin de service. Le trafic prévu dès demain à la prise de service est un trafic régulier. Je comprends tout à fait votre point de vue mais ces travaux sont néanmoins nécessaires. Bon dimanche. ^b",0,0,0,0,0
 1059093677350535169,2018-11-04 14:43:04,"@Vinced_93 Bonjour, oui les travaux se terminent ce soir. Le trafic prévu pour la journée de demain est un trafic régulier. Bonne journée. ^b",0,0,0,0,0
+1059099059175260160,2018-11-04 15:04:27,"Ce soir dès 22h30, les trains #RERB seront terminus Châtelet-les-Halles. Les bus de substitution partiront de Gare du Nord.",5,3,0,0,0
 1059099060471250944,2018-11-04 15:04:27,"En direction du nord:
 -dernier départ de Châtelet à destination de La Plaine SDF: 22h29
 -dernier départ de Châtelet à destination de Gare du Nord: 22h44
  Après 22h44, tous les trains seront terminus Châtelet. #RERB",3,2,0,0,0
-1059099059175260160,2018-11-04 15:04:27,"Ce soir dès 22h30, les trains #RERB seront terminus Châtelet-les-Halles. Les bus de substitution partiront de Gare du Nord.",5,3,0,0,0
 1059099061670813696,2018-11-04 15:04:28,"En direction du sud:
 -dernier départ à La Plaine à 22h41 (passage à Châtelet à 22h53)
 -dernier départ à Gare du Nord à 22h56 (passage à Châtelet à 22h59). #RERB",3,2,0,0,0
@@ -11226,8 +11226,8 @@ https://t.co/ygyvksjL45 https://t.co/etDF3UiKwV",10,55,0,0,0
 1146761018430898181,2019-07-04 12:41:47,Photo 2 @japanexpo #RERB [Thread 3/4] https://t.co/8efs9HklVI,0,1,0,0,0
 1146761169056817153,2019-07-04 12:42:23,Photo 3 @japanexpo #RERB [Thread 4/4] https://t.co/vgwRGX6HEv,0,1,0,0,0
 1146768435675848704,2019-07-04 13:11:15,Photo 1 @japanexpo #RERB [2/4] https://t.co/rtiimFMWW8,0,3,0,0,0
-1146768437659803649,2019-07-04 13:11:16,Photo 2 @japanexpo #RERB [3/4] https://t.co/utwyyBnqTn,0,7,0,0,0
 1146768440188952579,2019-07-04 13:11:16,Photo 3 @japanexpo #RERB [4/4] https://t.co/tlgILX1QWa,0,3,0,0,0
+1146768437659803649,2019-07-04 13:11:16,Photo 2 @japanexpo #RERB [3/4] https://t.co/utwyyBnqTn,0,7,0,0,0
 1146775469079109632,2019-07-04 13:39:12,"@Space_X_Sheriff Bonjour, actuellement une rame stationne à Port Royal en raison d'un malaise voyageur. Nous sommes dans l'attente de l'intervention des pompiers.
 Bon courage. Fred.",0,0,0,0,1
 1146776540027465728,2019-07-04 13:43:27,"15:41, le trafic est perturbé de Port-Royal vers Mitry-Claye (malaise voyageur)  #RERB",0,1,0,0,0
@@ -13852,8 +13852,8 @@ pensez dès à présent à votre billet retour.Bon match! https://t.co/bOze7Wayj
 1171822304449486854,2019-09-11 16:26:23,"@vanderstraat Bonjour, je vous conseille de consulter https://t.co/ijY0yo4Edo, https://t.co/rcwnrZtW00 et le compte Twitter avant de partir samedi. Si le trafic est régulier, vous avez assez de marge. 😉 Bonne journée ! ^b",0,0,0,0,0
 1171822634742505472,2019-09-11 16:27:42,"@Ben_Bou Bonsoir, un tweet officiel va être diffusé dans quelques minutes concernant les prévisions de trafic pour vendredi. ^b",0,2,0,0,0
 1171823352945827840,2019-09-11 16:30:33,@vanderstraat Oui je vous comprends ! Nous serons là vendredi avec Joy donc n'hésitez pas à nous contacter de nouveau. Nous aurons certainement plus d'informations. Bonne soirée. ^b,0,1,0,0,0
-1171824859254595584,2019-09-11 16:36:32,"[Mouvement Social] ⚠️ Trafic très fortement perturbé sur le #RERB ce vendredi 13 septembre. Comptez 1 train sur 5, uniquement aux heures de pointe entre Gare du Nord et Saint-Rémy / Robinson (6h30–10h30 &amp; 16h–20h30)  Nous vous invitons à limiter au maximum vos déplacements.",64,38,0,0,0
 1171824860550565894,2019-09-11 16:36:32,"Interconnexion interrompue à Gare du Nord. Bien que non-concerné par ce mouvement social, le nord de la ligne sera impacté : comptez 1 train sur 2 au nord de la ligne toute la journée. Toutes nos prévisions sur nos sites &amp; appli #RATP #SNCF",15,15,0,0,0
+1171824859254595584,2019-09-11 16:36:32,"[Mouvement Social] ⚠️ Trafic très fortement perturbé sur le #RERB ce vendredi 13 septembre. Comptez 1 train sur 5, uniquement aux heures de pointe entre Gare du Nord et Saint-Rémy / Robinson (6h30–10h30 &amp; 16h–20h30)  Nous vous invitons à limiter au maximum vos déplacements.",64,38,0,0,0
 1171825448571084800,2019-09-11 16:38:53,"@AlexMacombe Bonjour, un train sur deux au départ de Gare du Nord toute la journée. ^b",0,0,0,0,0
 1171825636861718528,2019-09-11 16:39:37,"@Meiilz Bonsoir, à l'approche de Laplace ? ^b",0,1,0,0,0
 1171825942492323841,2019-09-11 16:40:50,"@djsnake81 @AlexMacombe Bonsoir, oui c'est exact. ^b",0,1,0,0,0
@@ -13984,8 +13984,8 @@ pensez dès à présent à votre billet retour.Bon match! https://t.co/bOze7Wayj
 1172113154425393152,2019-09-12 11:42:07,"@hugomojal Bonjour, le mouvement social ne concerne que la journée de demain. Pour l'instant, le trafic est régulier sur l'ensemble de la ligne mais n'hésitez pas à revenir vers moi un peu avant votre trajet ou consulter https://t.co/ijY0yo4Edo et https://t.co/rcwnrZtW00. ^b",0,1,0,0,0
 1172116754082017285,2019-09-12 11:56:25,"@Cristi93150 Bonjour, concernant demain ? ^b",0,1,0,0,0
 1172117158177980416,2019-09-12 11:58:02,@Fafou_News https://t.co/bezCuZQPTw. Ce trajet est néanmoins fortement déconseillé pour la journée de demain. Les horaires sont susceptibles d'être modifiés compte tenu de l’affluence sur les trains qui vont rouler. ^b,0,1,0,0,0
-1172117333000818689,2019-09-12 11:58:43,Toutes les informations et horaires sont disponibles sur nos sites et applis #RATP #SNCF et sur le blog de la ligne :  https://t.co/Qf2IbLaTAJ (2/2),1,3,0,0,0
 1172117330937225217,2019-09-12 11:58:43,"[Mouvement social] ⚠️ / Le trafic sera très fortement perturbé ce vendredi 13 novembre sur le #RERB : entre Gare du Nord et St-Rémy / Robinson, prévoyez 1 train sur 5 aux heures de pointes (6h30-10h &amp; 17h-20h). Vos gares seront fermées aux heures creuses (1/2)",10,15,0,0,0
+1172117333000818689,2019-09-12 11:58:43,Toutes les informations et horaires sont disponibles sur nos sites et applis #RATP #SNCF et sur le blog de la ligne :  https://t.co/Qf2IbLaTAJ (2/2),1,3,0,0,0
 1172118655049654273,2019-09-12 12:03:58,"@SocianeA_94 Bonjour Sofiane, je vous déconseille fortement d'emprunter la ligne compte tenu du faible nombre de trains qui vont circuler. Les horaires sont susceptibles d'être modifiés compte tenu de l'affluence. https://t.co/wGo8gBQisO. ^b",0,0,0,0,0
 1172119002535124992,2019-09-12 12:05:21,"@maximebibos Bonjour Maxime, le mouvement social débute demain matin, pas de perturbations liées ce soir. Merci pour vos encouragements ! 😉 ^b",0,1,0,0,0
 1172119116297265152,2019-09-12 12:05:48,"Sur la partie Gare du Nord - Aéroport Charles-de-Gaulle 2 / Mitry-Claye, prévoyez 1 trains sur 2 toute la journée. L'interconnexion sera suspendue à Gare du Nord #RERB",0,5,0,0,0
@@ -14147,8 +14147,8 @@ pensez dès à présent à votre billet retour.Bon match! https://t.co/bOze7Wayj
 1172490411367161860,2019-09-13 12:41:12,@PhieLaidMignon Oui tout à fait. Ces horaires sont susceptibles de changer compte tenu du faible nombre de trains et de l'affluence. ^b,0,2,0,0,0
 1172491891662905344,2019-09-13 12:47:05,"@BDefait @BertrandLapraye Bonjour, d'autres tweets ont été publiés depuis et cet incident est terminé à Gare du Nord donc des trains circulent au départ et en direction de Gare du Nord. ^b",0,1,0,0,0
 1172492616740605952,2019-09-13 12:49:58,"@BDefait Pour plus d'infos, cet incident (accident grave de personne) nécessitait une coupure d'urgence générale. ^b",0,1,0,0,0
-1172496120767029251,2019-09-13 13:03:53,"Interconnexion interrompue à Gare du Nord. Bien que non-concerné par ce mouvement social, le nord de la ligne sera impacté : comptez 1 train sur 2 au nord de la ligne toute la journée. Retrouvez les horaires prévisionnels ici : https://t.co/FtmyY7fKPQ",0,4,0,0,0
 1172496119579983873,2019-09-13 13:03:53,"[Mouvement Social] ⚠️ Trafic très fortement perturbé sur le #RERB ce vendredi 13 septembre. Comptez 1 train sur 5, uniquement aux heures de pointe entre Gare du Nord et Saint-Rémy / Robinson : 17h–20h.  Nous vous invitons à limiter au maximum vos déplacements.",4,12,0,0,0
+1172496120767029251,2019-09-13 13:03:53,"Interconnexion interrompue à Gare du Nord. Bien que non-concerné par ce mouvement social, le nord de la ligne sera impacté : comptez 1 train sur 2 au nord de la ligne toute la journée. Retrouvez les horaires prévisionnels ici : https://t.co/FtmyY7fKPQ",0,4,0,0,0
 1172497513867284480,2019-09-13 13:09:25,"@herbxtterfly Bonjour, les horaires sont juste ici: https://t.co/FtmyY7fKPQ Bonne journée. ^b",0,1,0,0,0
 1172498947325276161,2019-09-13 13:15:07,"@siriusbIacc Bonjour, concernant notre ligne, vous pouvez prendre un train à partir de Gare du Nord pour Roissy. Attention 1 train sur 2 circule jusqu'à CDG. ^b",0,1,0,0,0
 1172500584672432133,2019-09-13 13:21:38,"@Flow_of_Arabia Bonjour, oui c'est le premier train à partir dans le nord depuis Orsay. ^b",0,1,0,0,0
@@ -15263,7 +15263,7 @@ Rendez-vous le 12 octobre à @VilleSaintDenis, sur le chantier #GrandParisExpres
 1179804520592936961,2019-10-03 17:04:52,"@alfcmoi Bonsoir Lex, les trains circulent entre Aulnay et Mitry Claye. Bon courage. Vivi",0,1,0,0,1
 1179805879257964544,2019-10-03 17:10:16,"@MystHer_ Bonsoir Ysther, #SNCF vient de nous informer que l'interruption est prévu jusqu'à fin de service entre Châtelet  l'Aéroport. #RERB",0,0,0,0,0
 1179807947116990464,2019-10-03 17:18:29,"@pascalvella Bonsoir Pascal, je vous confirme que l'interruption est dans les deux sens. Bon courage. Vivi",0,1,0,0,1
-1179808308871548929,2019-10-03 17:19:55,"@TheoMace_ Bonsoir Théo, le trafic ne reprendra pas avant demain d'après les dernières informations que nous avons eu. Bon courage. Vivi",4,5,0,0,1
+1179808308871548929,2019-10-03 17:19:55,"@TheoMace_ Bonsoir Théo, le trafic ne reprendra pas avant demain d'après les dernières informations que nous avons eu. Bon courage. Vivi",4,4,0,0,1
 1179808475729350656,2019-10-03 17:20:35,"19:19, le trafic est interrompu entre Gare du Nord et Aulnay jusqu'au 04/10/19 01:30. (panne électrique)  #RERB",114,43,0,0,0
 1179808713957396480,2019-10-03 17:21:31,"@JeromeKazazian Bonsoir Jérôme effectivement se sont des messages génériques, le reprise ne se fera pas avant demain matin. Bon courage. Vivi",0,0,0,0,1
 1179808980564094983,2019-10-03 17:22:35,"Pour modifier votre trajet, vous êtes invités à consulter la recherche d’itinéraire sur l’Appli RATP : https://t.co/uakx1epPdY",5,3,0,0,0
