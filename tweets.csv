@@ -1406,11 +1406,11 @@ Des bus de remplacement desserviront toutes les gares entre Aulnay sous Bois et 
 1059091762675924992,2018-11-04 14:35:27,"@Lorin6401 Bonjour, les travaux se terminent ce soir à la fin de service. Le trafic prévu dès demain à la prise de service est un trafic régulier. Bonne journée. ^b",0,0,0,0,0
 1059092180168593410,2018-11-04 14:37:07,"@AndrewMitul Bonjour, les travaux se terminent ce soir à la fin de service. Le trafic prévu dès demain à la prise de service est un trafic régulier. Je comprends tout à fait votre point de vue mais ces travaux sont néanmoins nécessaires. Bon dimanche. ^b",0,0,0,0,0
 1059093677350535169,2018-11-04 14:43:04,"@Vinced_93 Bonjour, oui les travaux se terminent ce soir. Le trafic prévu pour la journée de demain est un trafic régulier. Bonne journée. ^b",0,0,0,0,0
-1059099059175260160,2018-11-04 15:04:27,"Ce soir dès 22h30, les trains #RERB seront terminus Châtelet-les-Halles. Les bus de substitution partiront de Gare du Nord.",5,3,0,0,0
 1059099060471250944,2018-11-04 15:04:27,"En direction du nord:
 -dernier départ de Châtelet à destination de La Plaine SDF: 22h29
 -dernier départ de Châtelet à destination de Gare du Nord: 22h44
  Après 22h44, tous les trains seront terminus Châtelet. #RERB",3,2,0,0,0
+1059099059175260160,2018-11-04 15:04:27,"Ce soir dès 22h30, les trains #RERB seront terminus Châtelet-les-Halles. Les bus de substitution partiront de Gare du Nord.",5,3,0,0,0
 1059099061670813696,2018-11-04 15:04:28,"En direction du sud:
 -dernier départ à La Plaine à 22h41 (passage à Châtelet à 22h53)
 -dernier départ à Gare du Nord à 22h56 (passage à Châtelet à 22h59). #RERB",3,2,0,0,0
@@ -11226,8 +11226,8 @@ https://t.co/ygyvksjL45 https://t.co/etDF3UiKwV",10,55,0,0,0
 1146761018430898181,2019-07-04 12:41:47,Photo 2 @japanexpo #RERB [Thread 3/4] https://t.co/8efs9HklVI,0,1,0,0,0
 1146761169056817153,2019-07-04 12:42:23,Photo 3 @japanexpo #RERB [Thread 4/4] https://t.co/vgwRGX6HEv,0,1,0,0,0
 1146768435675848704,2019-07-04 13:11:15,Photo 1 @japanexpo #RERB [2/4] https://t.co/rtiimFMWW8,0,3,0,0,0
-1146768437659803649,2019-07-04 13:11:16,Photo 2 @japanexpo #RERB [3/4] https://t.co/utwyyBnqTn,0,7,0,0,0
 1146768440188952579,2019-07-04 13:11:16,Photo 3 @japanexpo #RERB [4/4] https://t.co/tlgILX1QWa,0,3,0,0,0
+1146768437659803649,2019-07-04 13:11:16,Photo 2 @japanexpo #RERB [3/4] https://t.co/utwyyBnqTn,0,7,0,0,0
 1146775469079109632,2019-07-04 13:39:12,"@Space_X_Sheriff Bonjour, actuellement une rame stationne à Port Royal en raison d'un malaise voyageur. Nous sommes dans l'attente de l'intervention des pompiers.
 Bon courage. Fred.",0,0,0,0,1
 1146776540027465728,2019-07-04 13:43:27,"15:41, le trafic est perturbé de Port-Royal vers Mitry-Claye (malaise voyageur)  #RERB",0,1,0,0,0
@@ -16919,9 +16919,9 @@ KUBE82 et KUBE90 au départ de CDG2 sera supprimé #RERB",3,6,0,0,0
 1189481946285522947,2019-10-30 09:59:30,"▶️ [RETOUR SUR INCIDENT] / Ce matin, les circulations de vos trains ont été perturbées en raison d'un rail cassé en gare de Paris-Nord : ce qu'il s'est passé [Thread 1/7]",38,77,0,0,0
 1189481949678706688,2019-10-30 09:59:30,"Un peu avant 6h ce matin est signalé un « dérangement de zone » en entrée de gare du nord souterraine, au niveau de la voie 44 (sens nord-sud) dédiée au RER D... [Thread 2/7]",6,17,0,0,0
 1189481951167684608,2019-10-30 09:59:31,"...Immédiatement, la circulation est interrompue sur cette voie, et les circulations des RER B et D dans ce sens s’effectuent sur la seule voie 42 (réduction de capacité de 50 %). A 6h15, l'équipe astreinte Infra est sur place afin d’établir un diagnostic... [Thread 3/7]",6,16,0,0,0
+1189481960307081216,2019-10-30 09:59:33,"...Les RER B et D en direction du nord circulent à ce moment sur la seule voie 41. À 7h51, le trafic reprend sur la voie 43 avec le passage du train IDIL71, alors que l’intervention est en cours voie 44. Celle-ci est réalisée rapidement, et se termine avant 9h... [Thread 6/7]",5,13,0,0,0
 1189481961917693952,2019-10-30 09:59:33,"... À 9h04, le trafic reprend progressivement sur l’ensemble de la ligne. Nous nous excusons pour cette situation et, pendant toute la durée de cet incident, nos agents en gare, sur les quais et nos CM sont restés à votre disposition [Thread 7/7] #RERB",7,28,0,0,0
 1189481958285434880,2019-10-30 09:59:33,"...qui révèlera la cassure d'un rail (photo jointe). Pour limiter le temps d’impact, le choix est fait de remplacer le rail défectueux par un autre non-utilisé situé près de la voie 43, nécessitant une neutralisation des circulations sur celle-ci pendant 30 min... [Thread 4/7] https://t.co/K6RpznEaFn",15,32,0,0,0
-1189481960307081216,2019-10-30 09:59:33,"...Les RER B et D en direction du nord circulent à ce moment sur la seule voie 41. À 7h51, le trafic reprend sur la voie 43 avec le passage du train IDIL71, alors que l’intervention est en cours voie 44. Celle-ci est réalisée rapidement, et se termine avant 9h... [Thread 6/7]",5,13,0,0,0
 1189486890006831104,2019-10-30 10:19:08,"@Jeannot911 Bonjour, la communication a bien été faite à 9h03. Bonne journée à vous ! Joy",0,0,0,0,0
 1189489549182943232,2019-10-30 10:29:42,"@SihamC3 Bonjour, oui tout à fait vous avez actuellement un train à quai à Robinson. Bonne journée ! Joy",0,0,0,0,0
 1189498760117788672,2019-10-30 11:06:18,✅ Retour à un trafic régulier sur l'ensemble de la ligne #RERB,1,6,0,0,0
@@ -18752,9 +18752,9 @@ Bonjour, Nous aurons les informations officielles ce soir aux alentours de 17h. 
 1201879457851686915,2019-12-03 15:02:47,"@lorquezzz Bonjour, non, il est omnibus mais effectivement des mesures de régulation sont effectuées en cas de perturbations sur la ligne et des trains peuvent être rendus directs. ^b",0,0,0,1,0
 1201890921727635462,2019-12-03 15:48:20,"@D2ol Bonjour, malheureusement c'est encore trop tôt pour le savoir car les conducteurs se déclarent 48h avant. ^b",0,0,0,0,0
 1201892191473410048,2019-12-03 15:53:23,"@MatthiasDsn Bonjour, le trafic est régulier. Il n'y a pas de perturbations sur la ligne. Bonne soirée ! ^b",0,0,0,0,0
+1201893625338179590,2019-12-03 15:59:05,"[Mouvement social] ⚠️ #RERB Trafic très fortement perturbé jeudi 5 décembre. Entre St-Rémy/Robinson et Gare du Nord, 1 train sur 3 aux heures de pointe. Aucun train aux heures creuses. Changer de train à Gare du Nord pour poursuivre votre trajet. https://t.co/KIDenEVDC5",14,7,0,0,0
 1201893627414360064,2019-12-03 15:59:05,"Entre Gare du Nord et Aéroport CDG/ Mitry, 1 train sur 5 toute la journée. Pendant toute la durée de la grève, l’information sur les trains du lendemain est disponible tous les jours à 17h sur https://t.co/ijY0yo4Edo, https://t.co/rcwnrZtW00
 https://t.co/FtmyY7fKPQ",5,2,0,0,0
-1201893625338179590,2019-12-03 15:59:05,"[Mouvement social] ⚠️ #RERB Trafic très fortement perturbé jeudi 5 décembre. Entre St-Rémy/Robinson et Gare du Nord, 1 train sur 3 aux heures de pointe. Aucun train aux heures creuses. Changer de train à Gare du Nord pour poursuivre votre trajet. https://t.co/KIDenEVDC5",14,7,0,0,0
 1201894464324849664,2019-12-03 16:02:25,@MatthiasDsn Ce n'est pas faux ! 😆 Bonne soirée ! ^b,0,1,0,0,0
 1201894642599546882,2019-12-03 16:03:07,@Edouard778 D'environ 6h à 10h le matin et de 16h à 20h en soirée. ^b,0,0,0,0,0
 1201894749134872582,2019-12-03 16:03:32,"[Mouvement social] 
@@ -19285,7 +19285,7 @@ Trafic #RERB très fortement perturbé samedi 7 décembre. Entre St-Rémy / Robi
 1202982116419616768,2019-12-06 16:04:21,@Sofiane__A Dans quel sens ? Pour quel trajet ? ^b,0,0,0,0,0
 1202982393960968197,2019-12-06 16:05:27,@Cxllypso Navrée mais le dernier départ est bien à 17h15 de St-Rémy. ^b,0,0,0,0,0
 1202982650744627200,2019-12-06 16:06:28,@Froumi1977 Pour effectuer quel trajet ? ^b,0,0,0,0,0
-1202983215251808256,2019-12-06 16:08:43,@Sofiane__A 18h09 le dernier train à Laplace. ^b,0,0,0,0,0
+1202983215251808256,2019-12-06 16:08:43,@Sofiane__A 18h09 le dernier train à Laplace. ^b,0,1,0,0,0
 1202983609109487616,2019-12-06 16:10:17,"@Froumi1977 Oui effectivement, le premier train direction Gare du Nord est à 11h33 à Massy. Toutes nos excuses ! ^b",0,0,1,0,0
 1202983739854336000,2019-12-06 16:10:48,"@VincentPAGE3 Côté sud, effectivement. ^b",0,0,0,0,0
 1202983834729549825,2019-12-06 16:11:11,@DreamAndLife_ A 16h00. ^b,0,0,0,0,0
