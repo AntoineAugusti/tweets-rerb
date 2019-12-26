@@ -1015,12 +1015,12 @@ Interruption des circulations les 3 &amp; 4 novembre pour modernisation des inst
 1055784024386473984,2018-10-26 11:31:41,"@AndrewMitul Oui je comprends, concernant les malaises voyageur c'est assez délicat, certaines personnes ne peuvent pas sortir du train à cause de leur état et une intervention des secours est demandée. Ce genre d'incident perturbe effectivement le trafic. Bon week-end ! ^b",0,0,0,0,0
 1055804560621613057,2018-10-26 12:53:17,Les 3 et 4 novembre prochain le trafic du #RERB sera interrompu entre La Plaine Stade de France et Aéroport CDG/Mitry Claye. @SNCFReseau rénove 16 km de caténaires entre le Bourget et Aulnay-sous-Bois. https://t.co/VGEPlDK5gB,21,28,0,0,0
 1055804563138232320,2018-10-26 12:53:18,"Objectifs de l’opération : éviter les incidents sur la caténaire, adapter les installations à la croissance du trafic du RER B et optimiser le découpage électrique de la partie nord de la ligne B. Ce redécoupage permettra en cas d’incident d’isoler un secteur plus restreint. https://t.co/PH4bxHqo5l",4,3,0,0,0
+1055804567231840256,2018-10-26 12:53:19,"La caténaire est essentielle à la circulation. Elle permet d'alimenter électriquement les trains. Le captage du courant par le train s'effectue par un pantographe, bras articulé en forme de Z placé en toiture du train qui frotte la caténaire pour capter l'électricité.",2,3,0,0,0
 1055804565667414018,2018-10-26 12:53:19,"La rénovation de la caténaire est une opération complexe, elle se prépare depuis 3 ans et en 3 phases :
 - De janvier à l'été 2018 : travaux préparatoires;
 - Juillet-août 2018 : déroulage de la caténaire; 
 - 3 et 4 novembre : finition et mise en service.
  https://t.co/504ajzFacq",5,7,0,0,0
-1055804567231840256,2018-10-26 12:53:19,"La caténaire est essentielle à la circulation. Elle permet d'alimenter électriquement les trains. Le captage du courant par le train s'effectue par un pantographe, bras articulé en forme de Z placé en toiture du train qui frotte la caténaire pour capter l'électricité.",2,3,0,0,0
 1055817689854287872,2018-10-26 13:45:28,"@ltpkorp Bonjour, ces travaux sont nécessaires et ne peuvent qu'améliorer la situation. Bonne journée à vous et bon week-end. ^b",0,0,0,0,0
 1055818190847123456,2018-10-26 13:47:27,"@FrenchieNiam Bonjour, oui effectivement. Des bus de substitution sont mis en place ces deux jours. Bonne journée. ^b",0,0,0,0,0
 1055833053199773697,2018-10-26 14:46:30,"@CRAM_Gang Bonjour, effectivement l'affluence est importante cette semaine. Malheureusement, les infrastructures ne nous permettent pas pour l'instant de faire circuler des trains à deux étages. Bon courage pour la poursuite de votre trajet. Bonne soirée. ^b",0,0,0,0,1
@@ -1230,8 +1230,8 @@ Interruption des circulations les 3 &amp; 4 novembre pour modernisation des inst
 1057900020706488322,2018-11-01 07:39:54,"@CheronDavid  8:35. Bonjour, en raison de l'interruption de trafic (pour travaux) entre les Baconnets et Massy Palaiseau, les manoeuvres des trains génèrent un retard en direction de Paris. Bonne journée, Mat.",0,0,0,0,0
 1057911146420862976,2018-11-01 08:24:07,"@TropeLfb1 Bonjour, il faut compter entre 15 et 20 minutes. Bonne journée. Kriss",0,0,0,0,0
 1057927321636679680,2018-11-01 09:28:23,[Point travaux 🚧 #RERB Massy-Verrières] La dépose des tabliers du pont ferroviaire est en cours. https://t.co/C0HmPDRtNW,18,32,0,0,0
-1057929518390931456,2018-11-01 09:37:07,[Travaux 🚧 #RERB] Le trafic est interrompu entre Massy-Palaiseau et les Baconnets du 01/11 au 04/11 inclus. Une navette bus est mise en place entre ces deux gares. Nos agents sont à votre disposition pour vous informer pendant toute la durée des travaux : https://t.co/ImUfUqLV8x,11,19,0,0,0
 1057929520387444736,2018-11-01 09:37:07,"@Its_NoemY 10:35 Bonjour, je vous confirme qu'un service de remplacement Bus est mis en place avec une fréquence de 6 minutes aux heures de pointe, et 15 minutes aux heures creuses. Bonne journée. Mat.",0,0,0,0,0
+1057929518390931456,2018-11-01 09:37:07,[Travaux 🚧 #RERB] Le trafic est interrompu entre Massy-Palaiseau et les Baconnets du 01/11 au 04/11 inclus. Une navette bus est mise en place entre ces deux gares. Nos agents sont à votre disposition pour vous informer pendant toute la durée des travaux : https://t.co/ImUfUqLV8x,11,19,0,0,0
 1057937494833090560,2018-11-01 10:08:48,"@Youfry_  11:07 Bonjour, il faut compter environ 30 minutes sur ce trajet en fonction de la circulation routière. Bonne journée. Mat.",0,0,0,0,0
 1057940861986766848,2018-11-01 10:22:11,"@Bobox81729516 11:19 Bonjour, en raison des travaux sur la ligne B, je vous invite à prendre un train MONA ligne RER C pour un trajet d'environ 40 minutes depuis Saint-Michel. Bonne journée. Mat.",0,1,0,0,0
 1057947705320882176,2018-11-01 10:49:23,"@PicardPa  11:44 Bonjour, Depuis Saint-Michel, votre trajet s'arrêtera aux Baconnets. Un service de navette bus est mis en place entre les Baconnets et Massy Palaiseau. Les informations sont consultables sur l'application https://t.co/ijY0yo4Edo. Bonne journée. Mat",0,0,0,0,0
@@ -16361,10 +16361,10 @@ Dernier train de Mitry direction Gare du Nord: 23h18. Dernier train de CDG direc
 1185435099514527744,2019-10-19 05:58:46,"RT @RERD_SNCF: 🔴 #RERD 20h42
 
 Ce samedi 19 octobre, une grève sans préavis perturbera très fortement le trafic sur l'ensemble de la ligne.…",109,0,0,0,0
-1185550015416164355,2019-10-19 13:35:24,"Nous vous conseillons de vérifier les heures de circulation des trains en consultant https://t.co/rcwnrZtW00, rubrique Prochains départs, ou l’appli Assistant SNCF, rubrique Gares et arrêts.",1,1,0,0,0
 1185550014019440640,2019-10-19 13:35:24,"Grève sans préavis samedi 19 octobre. La circulation des trains est extrêmement perturbée :
 -   1 Aller-Retour par heure entre Paris Nord et Aéroport CDG 2
 -   Plus aucune circulation entre Paris Nord et Mitry.",30,41,0,0,0
+1185550015416164355,2019-10-19 13:35:24,"Nous vous conseillons de vérifier les heures de circulation des trains en consultant https://t.co/rcwnrZtW00, rubrique Prochains départs, ou l’appli Assistant SNCF, rubrique Gares et arrêts.",1,1,0,0,0
 1185550017261658113,2019-10-19 13:35:25,Trafic normal entre Paris Nord et Saint-Remy/Robinson. Un changement de train est nécessaire à Gare du Nord.,1,2,0,0,0
 1185609707932803072,2019-10-19 17:32:36,"❌ Dimanche 20 octobre, en raison d'une grève sans préavis en zone SNCF, le trafic sera très fortement perturbé entre Gare du Nord et CDG/Mitry. Changement de train nécessaire à Gare du Nord. Trafic normal entre Paris Nord et St Rémy/Robinson #RERB",22,39,0,0,0
 1185642408245104641,2019-10-19 19:42:32,"@minaaabk Bonsoir, nous il y a des voyageurs sur les voies à gare du Nord. Sand",1,0,0,0,0
@@ -17166,8 +17166,8 @@ Reprise du trafic estimée vers 09h00",2,5,0,0,0
 1190584057463226368,2019-11-02 10:58:53,"@Soraya_Znagui_ Bonjour, oui tout à fait vous pouvez joindre normalement ces deux gares.",0,0,0,0,0
 1190659547779805185,2019-11-02 15:58:52,"@ka_kashiii Bonjour, vous devrez emprunter le #RERB jusque Paris - Gare du Nord où vous arriverez en gare de surface, puisque l'interconnexion est suspendue. A Paris - Gare du Nord, vous pourrez poursuivre votre trajet jusque Châtelet en empruntant un autre RER depuis la gare souterraine.",0,1,0,0,0
 1190659717334544385,2019-11-02 15:59:32,"@ATSouhaits Bonjour Nicolas, non aucun, la circulation est normale entre ces deux gares !",0,0,0,0,0
-1190878168061808640,2019-11-03 06:27:35,"🚧 [RAPPEL TRAVAUX] : Jusqu'à ce soir fin de service, pour rejoindre Paris-Gare du Nord depuis CDG 1 &amp; 2, merci d'emprunter les lignes de bus de substitution L1 et L1bis jusque Mitry-Claye puis le #RERB. Nos agents sont présents en gare pour vous renseigner (thread 1/4) https://t.co/4uMFJkzDeI",5,5,0,0,0
 1190878169785683968,2019-11-03 06:27:35,"🚧 [RAPPEL TRAVAUX] : Les gares de Sevran-Beaudottes, Villepinte et Parc des Expositions ne sont pas desservies jusque fin de service, et les bus de substitution L2 (Aulnay-CDG1) et L3 (Aulnay-Sevran-Beaudottes) sont à votre disposition (thread 2/4)",0,0,0,0,0
+1190878168061808640,2019-11-03 06:27:35,"🚧 [RAPPEL TRAVAUX] : Jusqu'à ce soir fin de service, pour rejoindre Paris-Gare du Nord depuis CDG 1 &amp; 2, merci d'emprunter les lignes de bus de substitution L1 et L1bis jusque Mitry-Claye puis le #RERB. Nos agents sont présents en gare pour vous renseigner (thread 1/4) https://t.co/4uMFJkzDeI",5,5,0,0,0
 1190878170901295105,2019-11-03 06:27:36,"🚧 [RAPPEL TRAVAUX] : L'interconnexion est suspendue à Paris - Gare du Nord jusque fin de service. Les trains vers le nord de la ligne partent de la gare de surface, et les trains vers le sud de la ligne depuis la gare souterraine (thread 3/4)",0,3,0,0,0
 1190878171996000256,2019-11-03 06:27:36,"🚧 [RAPPEL TRAVAUX] : Enfin, le trafic est également interrompu entre Bourg-la-Reine et Robinson jusque fin de service. Les lignes de bus 192 &amp; 394 sont renforcées, et la ligne de bus 128 relie Fontenay-aux-Roses RER &amp; Mairie de Montrouge sur la @Ligne4_RATP (thread 4/4)",0,3,0,0,0
 1190880026025218048,2019-11-03 06:34:58,"@Next_Alert @Ligne4_RATP ... en effet, et depuis Mairie de Montrouge vous pourrez gagner plus rapidement la capitale avec la @Ligne4_RATP. Bonne journée !",0,0,0,0,0
@@ -18752,9 +18752,9 @@ Bonjour, Nous aurons les informations officielles ce soir aux alentours de 17h. 
 1201879457851686915,2019-12-03 15:02:47,"@lorquezzz Bonjour, non, il est omnibus mais effectivement des mesures de régulation sont effectuées en cas de perturbations sur la ligne et des trains peuvent être rendus directs. ^b",0,0,0,1,0
 1201890921727635462,2019-12-03 15:48:20,"@D2ol Bonjour, malheureusement c'est encore trop tôt pour le savoir car les conducteurs se déclarent 48h avant. ^b",0,0,0,0,0
 1201892191473410048,2019-12-03 15:53:23,"@MatthiasDsn Bonjour, le trafic est régulier. Il n'y a pas de perturbations sur la ligne. Bonne soirée ! ^b",0,0,0,0,0
+1201893625338179590,2019-12-03 15:59:05,"[Mouvement social] ⚠️ #RERB Trafic très fortement perturbé jeudi 5 décembre. Entre St-Rémy/Robinson et Gare du Nord, 1 train sur 3 aux heures de pointe. Aucun train aux heures creuses. Changer de train à Gare du Nord pour poursuivre votre trajet. https://t.co/KIDenEVDC5",14,7,0,0,0
 1201893627414360064,2019-12-03 15:59:05,"Entre Gare du Nord et Aéroport CDG/ Mitry, 1 train sur 5 toute la journée. Pendant toute la durée de la grève, l’information sur les trains du lendemain est disponible tous les jours à 17h sur https://t.co/ijY0yo4Edo, https://t.co/rcwnrZtW00
 https://t.co/FtmyY7fKPQ",5,2,0,0,0
-1201893625338179590,2019-12-03 15:59:05,"[Mouvement social] ⚠️ #RERB Trafic très fortement perturbé jeudi 5 décembre. Entre St-Rémy/Robinson et Gare du Nord, 1 train sur 3 aux heures de pointe. Aucun train aux heures creuses. Changer de train à Gare du Nord pour poursuivre votre trajet. https://t.co/KIDenEVDC5",14,7,0,0,0
 1201894464324849664,2019-12-03 16:02:25,@MatthiasDsn Ce n'est pas faux ! 😆 Bonne soirée ! ^b,0,1,0,0,0
 1201894642599546882,2019-12-03 16:03:07,@Edouard778 D'environ 6h à 10h le matin et de 16h à 20h en soirée. ^b,0,0,0,0,0
 1201894749134872582,2019-12-03 16:03:32,"[Mouvement social] 
@@ -22128,7 +22128,7 @@ Dernier départ de Denfert direction St Rémy
 1210244430529224706,2019-12-26 17:02:12,"@DonatoAguirre Hello, first train to CDG is at 04:53am from Gare du Nord. This train will arrive at CDG2 at 05:32am. ^b",0,0,0,0,0
 1210244690345377794,2019-12-26 17:03:14,"@PatronSiPatron Bonjour, il s'agit d'un mouvement social reconductible donc nous avons les informations pour le lendemain, la veille à 17h00. ^b",0,0,0,0,0
 1210245612333150208,2019-12-26 17:06:53,"⚠️[Mouvement social]⚠️ #RERB 
-Trafic fortement perturbé vendredi 27 décembre. Entre St-Rémy/Robinson et Gare du Nord, 1 train sur 3 entre 06h30 et 19h00. Changez de train à Gare du Nord pour poursuivre votre trajet. https://t.co/nFecbzVfqd",5,2,0,0,0
+Trafic fortement perturbé vendredi 27 décembre. Entre St-Rémy/Robinson et Gare du Nord, 1 train sur 3 entre 06h30 et 19h00. Changez de train à Gare du Nord pour poursuivre votre trajet. https://t.co/nFecbzVfqd",6,4,0,0,0
 1210245613847220225,2019-12-26 17:06:54,"Entre Gare du Nord et Aéroport CDG/ Mitry, 1 train sur 3 toute la journée. Pendant toute la durée de la grève, l’information sur les trains du lendemain est disponible tous les jours à 17h sur https://t.co/ijY0yo4Edo, https://t.co/rcwnrZtW00, https://t.co/FtmyY7fKPQ",0,2,0,0,0
 1210245615164239873,2019-12-26 17:06:54,"Industrial action 27.12 : St-Rémy/Robinson to Gare du Nord, 1 train out of 3 from 06:30 to 19:00 ; Gare du Nord to CDG Airport / Mitry : 1 train out of 3 all day",0,2,0,0,0
 1210245943016271872,2019-12-26 17:08:12,@PatronSiPatron Il n'y a malheureusement pas de date (mouvement social reconductible). ^b,0,0,0,0,0
@@ -22151,6 +22151,6 @@ Fin des circulations #RERB entre Gare du Nord et St Rémy/Robinson, dans les deu
 1210266492178186241,2019-12-26 18:29:52,"@iFred09 Oui quand c'est possible, effectivement des trains supplémentaires sont ajoutés. ^b",0,0,0,0,0
 1210267155318628354,2019-12-26 18:32:30,"@iFred09 A vous aussi, merci ! ^b",0,1,0,0,0
 1210268942998147072,2019-12-26 18:39:36,"Dernier départ de l'aéroport CDG2 direction Gare du Nord à 00h06, de Mitry à 00h18.",0,0,0,0,0
-1210268941697921024,2019-12-26 18:39:36,"ℹ️Dernier départ de Gare du Nord direction l'aéroport CDG2, à 00h37, direction Mitry à 00h57. #RERB",0,2,0,0,0
+1210268941697921024,2019-12-26 18:39:36,"ℹ️Dernier départ de Gare du Nord direction l'aéroport CDG2, à 00h37, direction Mitry à 00h57. #RERB",0,3,0,0,0
 1210270636595142656,2019-12-26 18:46:20,"@mariie_cgn Bonsoir, pour quel trajet ? ^b",0,0,0,0,0
 1210271045984366592,2019-12-26 18:47:57,"@mariie_cgn Là, il s'agit des horaires côté nord (GDN/CDG/Mitry). Le service côté sud est terminé, il n'y a plus de trains. ^b",0,0,0,0,0
