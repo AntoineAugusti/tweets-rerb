@@ -1406,11 +1406,11 @@ Des bus de remplacement desserviront toutes les gares entre Aulnay sous Bois et 
 1059091762675924992,2018-11-04 14:35:27,"@Lorin6401 Bonjour, les travaux se terminent ce soir à la fin de service. Le trafic prévu dès demain à la prise de service est un trafic régulier. Bonne journée. ^b",0,0,0,0,0
 1059092180168593410,2018-11-04 14:37:07,"@AndrewMitul Bonjour, les travaux se terminent ce soir à la fin de service. Le trafic prévu dès demain à la prise de service est un trafic régulier. Je comprends tout à fait votre point de vue mais ces travaux sont néanmoins nécessaires. Bon dimanche. ^b",0,0,0,0,0
 1059093677350535169,2018-11-04 14:43:04,"@Vinced_93 Bonjour, oui les travaux se terminent ce soir. Le trafic prévu pour la journée de demain est un trafic régulier. Bonne journée. ^b",0,0,0,0,0
+1059099059175260160,2018-11-04 15:04:27,"Ce soir dès 22h30, les trains #RERB seront terminus Châtelet-les-Halles. Les bus de substitution partiront de Gare du Nord.",5,3,0,0,0
 1059099060471250944,2018-11-04 15:04:27,"En direction du nord:
 -dernier départ de Châtelet à destination de La Plaine SDF: 22h29
 -dernier départ de Châtelet à destination de Gare du Nord: 22h44
  Après 22h44, tous les trains seront terminus Châtelet. #RERB",3,2,0,0,0
-1059099059175260160,2018-11-04 15:04:27,"Ce soir dès 22h30, les trains #RERB seront terminus Châtelet-les-Halles. Les bus de substitution partiront de Gare du Nord.",5,3,0,0,0
 1059099061670813696,2018-11-04 15:04:28,"En direction du sud:
 -dernier départ à La Plaine à 22h41 (passage à Châtelet à 22h53)
 -dernier départ à Gare du Nord à 22h56 (passage à Châtelet à 22h59). #RERB",3,2,0,0,0
@@ -6201,8 +6201,8 @@ Veuillez nous excuser de la gêne occasionnée. #RERB.",1,3,1,0,0
 1096381003399077888,2019-02-15 12:09:35,"@razhades Je ne pourrais pas vous répondre, je n'ai pas du tout ces infos. Les trains sont pourtant révisés régulièrement dans nos ateliers de maintenance. ^b",0,3,0,0,0
 1096383857014833152,2019-02-15 12:20:55,"@barthetvr133 Bonjour, merci beaucoup pour votre message, c'est vraiment gentil ! 😊 Nous sommes toute les deux employées, avec Joy. Bonne journée ! 🙂",0,0,0,0,0
 1096385288648249344,2019-02-15 12:26:37,"@Nialiex @razhades Bonjour, oui bien sur je comprends tout à fait. Une maintenance est pourtant effectuée régulièrement dans les ateliers de maintenance afin d'assurer une sécurité optimale pour les voyageurs. Je transmets votre message. Bonne journée à vous. ^b",0,3,0,0,0
-1096393943703580672,2019-02-15 13:01:00,"⚠️ Clients à destination de l'aéroport CDG 1 et 2 le dimanche 17/02, sur ordre de la préfecture de Police, une opération de déminage interrompt le #RERB de 9h00 à 15 h entre Paris Gare du Nord et Aulnay-sous-Bois. Anticiper votre départ vers l'aéroport CDG. https://t.co/OpRB7W0rUd",14,10,0,0,0
 1096393942885679104,2019-02-15 13:01:00,"⚠️ Passengers going to CDG Airport on Sunday 17th of February 2019 : following a police department request, due to a bomb disposal operation, there will be no #RERB service between 09h00 AM and 03h00 PM between Gare du Nord and Aulnay. Plan in advance your trip to the Airport. https://t.co/MHwD0yVERr",7,4,0,0,0
+1096393943703580672,2019-02-15 13:01:00,"⚠️ Clients à destination de l'aéroport CDG 1 et 2 le dimanche 17/02, sur ordre de la préfecture de Police, une opération de déminage interrompt le #RERB de 9h00 à 15 h entre Paris Gare du Nord et Aulnay-sous-Bois. Anticiper votre départ vers l'aéroport CDG. https://t.co/OpRB7W0rUd",14,10,0,0,0
 1096394643414151169,2019-02-15 13:03:47,"@youri_bhd Bonjour, vous pouvez prendre le métro 5 à Gare du Nord jusqu'à Bobigny / Pablo Picasso puis le bus 93 jusqu'à CDG1. ^b",0,0,0,0,0
 1096395461202767874,2019-02-15 13:07:02,@youri_bhd Il faut compter 25 min de métro et 40 minutes de bus. Donc un peu plus d'une heure de trajet depuis Gare du Nord. ^b,0,0,0,0,0
 1096398164129660933,2019-02-15 13:17:47,"@youri_bhd Oui, si vous partez de St Lazare, c'est plus simple effectivement et plus rapide aussi. Normalement, le service RoissyBus roule mais à confirmer avant votre trajet. ^b",0,0,0,0,0
@@ -8177,8 +8177,8 @@ Plusieurs chantiers sont menés en parallèle, do…",46,0,0,0,0
 1113029288721354753,2019-04-02 10:43:56,@TheLocalFrance Non pas de bus au terminal 3. ^b,0,0,0,0,0
 1113030120225361926,2019-04-02 10:47:14,"@TheLocalFrance Merci pour cette information, je vais transmettre à nos équipes !^b",0,0,0,0,0
 1113031111381344256,2019-04-02 10:51:10,Le trafic est interrompu sur le #RERB depuis 9h ce matin entre Parc des Expositions et Aéroport Charles de Gaulle 2. Cela fait suite à l’inondation de locaux techniques essentiels à l’exploitation ferroviaire. Cet incident est dû à des travaux sur les voiries aéroportuaires. https://t.co/nv8nWmqztv,25,21,0,0,0
-1113031114673868801,2019-04-02 10:51:11,Actuellement 12 bus sont en rotation et nous en aurons bientôt 20. Nous bénéficions d’un renfort avec des bus mis à disposition par Aéroport de Paris. https://t.co/exuaODCZPK,2,7,0,0,0
 1113031113629470720,2019-04-02 10:51:11,Heure de reprise estimée à 16h. Nous vous tiendrons informés de l’évolution de la situation. Pour l’heure nous sommes mobilisés pour faire circuler un maximum de bus entre Parc des Expositions et la gare routière de Roissypole.,2,7,0,0,0
+1113031114673868801,2019-04-02 10:51:11,Actuellement 12 bus sont en rotation et nous en aurons bientôt 20. Nous bénéficions d’un renfort avec des bus mis à disposition par Aéroport de Paris. https://t.co/exuaODCZPK,2,7,0,0,0
 1113031118448668673,2019-04-02 10:51:12,Les équipes techniques de SNCF Réseau sont mobilisées pour assainir les locaux techniques inondés et rétablir des circulations ferroviaires en toute sécurité.,3,9,0,0,0
 1113031117467254784,2019-04-02 10:51:12,"Pour l'heure nous assurons un train terminus toutes les 15 min. à Parc des Expositions depuis Gare du Nord. Ces trains sont omnibus. La situation est maintenant fluide du point de vue des rotations bus. Entre les gares CDG 1 et CDG2, il faut emprunter le métro automatique CDG VAL",3,7,0,0,0
 1113033008486014981,2019-04-02 10:58:43,"Bonjour à tous, Joy pour vous accompagner jusqu'à 20h00. Le trafic est interrompu entre Parc des Expositions et l'Aéroport CDG2 jusqu'à 16h00 environ (panne de signalisation consécutive à des travaux de voirie de l'Aéroport CDG) #RERB. https://t.co/IWNrZN91WI",1,3,0,0,0
@@ -10210,8 +10210,8 @@ https://t.co/cMeMrfjzvH",5,11,0,0,0
 Petit récap des #TravauxRERB_2019 pour vous aider à mieux voyager la semaine du 10 au 16 juin : 
 Interruption des circulations à partir de 23h de mardi à vendredi, entre Aulnay-sous-Bois et l'Aéroport Charles de Gaulle. Information :👉 https://t.co/ID7LdbrhNP https://t.co/9FD7NWZf0o",5,3,0,0,0
 1136997242492149760,2019-06-07 14:04:01,"@wenjihyo Bonjour, oui bien sûr ! Bonne journée ! ^b",0,1,0,0,0
-1137004484658417664,2019-06-07 14:32:48,Tous les agents du #RERB souhaitent un excellent concert aux fans de #BTS 🎶 https://t.co/He9oAtkOiv,22,80,0,0,0
 1137004486675894272,2019-06-07 14:32:48,All #RERB staff members would like to wish #BTS fans an amazing concert. 🎶 https://t.co/5PKEWacNhA,7,24,0,0,0
+1137004484658417664,2019-06-07 14:32:48,Tous les agents du #RERB souhaitent un excellent concert aux fans de #BTS 🎶 https://t.co/He9oAtkOiv,22,80,0,0,0
 1137005429706428416,2019-06-07 14:36:33,"@blackdmusic1 Bonjour, pas d'incident en cours mais il y a un concert au Stade de France ce soir, demain soir également. N'hésitez pas à revenir vers moi, si besoin. Bonne soirée. ^b",0,0,0,0,0
 1137006389564493825,2019-06-07 14:40:22,"@FabiolaSa6 Bonsoir, il est entre La Plaine Stade de France et Gare du Nord. Bonne soirée. ^b",0,1,0,0,0
 1137008819668754432,2019-06-07 14:50:01,"@sa_riaka @BTS_twt Bonjour, oui bien sûr. Dans quelle direction allez-vous ? Paris ? Bonne soiré et bon concert à vous 🎶 ! ^b",0,2,0,0,0
@@ -14147,8 +14147,8 @@ pensez dès à présent à votre billet retour.Bon match! https://t.co/bOze7Wayj
 1172490411367161860,2019-09-13 12:41:12,@PhieLaidMignon Oui tout à fait. Ces horaires sont susceptibles de changer compte tenu du faible nombre de trains et de l'affluence. ^b,0,2,0,0,0
 1172491891662905344,2019-09-13 12:47:05,"@BDefait @BertrandLapraye Bonjour, d'autres tweets ont été publiés depuis et cet incident est terminé à Gare du Nord donc des trains circulent au départ et en direction de Gare du Nord. ^b",0,1,0,0,0
 1172492616740605952,2019-09-13 12:49:58,"@BDefait Pour plus d'infos, cet incident (accident grave de personne) nécessitait une coupure d'urgence générale. ^b",0,1,0,0,0
-1172496119579983873,2019-09-13 13:03:53,"[Mouvement Social] ⚠️ Trafic très fortement perturbé sur le #RERB ce vendredi 13 septembre. Comptez 1 train sur 5, uniquement aux heures de pointe entre Gare du Nord et Saint-Rémy / Robinson : 17h–20h.  Nous vous invitons à limiter au maximum vos déplacements.",4,12,0,0,0
 1172496120767029251,2019-09-13 13:03:53,"Interconnexion interrompue à Gare du Nord. Bien que non-concerné par ce mouvement social, le nord de la ligne sera impacté : comptez 1 train sur 2 au nord de la ligne toute la journée. Retrouvez les horaires prévisionnels ici : https://t.co/FtmyY7fKPQ",0,4,0,0,0
+1172496119579983873,2019-09-13 13:03:53,"[Mouvement Social] ⚠️ Trafic très fortement perturbé sur le #RERB ce vendredi 13 septembre. Comptez 1 train sur 5, uniquement aux heures de pointe entre Gare du Nord et Saint-Rémy / Robinson : 17h–20h.  Nous vous invitons à limiter au maximum vos déplacements.",4,12,0,0,0
 1172497513867284480,2019-09-13 13:09:25,"@herbxtterfly Bonjour, les horaires sont juste ici: https://t.co/FtmyY7fKPQ Bonne journée. ^b",0,1,0,0,0
 1172498947325276161,2019-09-13 13:15:07,"@siriusbIacc Bonjour, concernant notre ligne, vous pouvez prendre un train à partir de Gare du Nord pour Roissy. Attention 1 train sur 2 circule jusqu'à CDG. ^b",0,1,0,0,0
 1172500584672432133,2019-09-13 13:21:38,"@Flow_of_Arabia Bonjour, oui c'est le premier train à partir dans le nord depuis Orsay. ^b",0,1,0,0,0
@@ -14799,8 +14799,8 @@ https://t.co/N47ED2fZUE",11,27,0,0,0
 1176134487803158528,2019-09-23 14:01:28,Un train à destination de Massy-Palaiseau stationne à Gare du Nord en répercussion d'une intervention des équipes de sécurité à bord. #RERB,0,1,0,0,0
 1176135344842039297,2019-09-23 14:04:52,"@Aptarus Bonjour, les perturbations liées au mouvement social ne concernent que la journée de demain sur notre ligne. Bonne soirée. ^b",0,1,0,0,0
 1176136875603648512,2019-09-23 14:10:57,"✅ (Intervention des équipes de sécurité à Gare du Nord) : Fin d'incident, le train à destination de Massy-Palaiseau va pouvoir repartir mais sera terminus en gare de Denfert. #RERB",0,2,0,0,0
-1176138784473341952,2019-09-23 14:18:32,Entre Gare du Nord et Saint-Rémy-lés-Chevreuse / Robinson. L’interconnexion est suspendue. Prévoir 2 trains sur 3 sur la partie sud de la ligne.,2,4,0,0,0
 1176138783005302785,2019-09-23 14:18:32,"#InfoTrafic mouvement social interprofessionnel national du 24/09 : 1 train sur 3 en heure de pointe, 1 train sur 2 en heure creuse entre Paris-Gare du Nord et CDG2/Mitry-Claye. Vos horaires ici : https://t.co/v85uxz2z30 / Nous vous conseillons de reporter vos déplacements #RERB",7,13,0,0,0
+1176138784473341952,2019-09-23 14:18:32,Entre Gare du Nord et Saint-Rémy-lés-Chevreuse / Robinson. L’interconnexion est suspendue. Prévoir 2 trains sur 3 sur la partie sud de la ligne.,2,4,0,0,0
 1176139301698056192,2019-09-23 14:20:35,@Eagleroad5 Les horaires viennent d'être publiés sur le blog: https://t.co/AsUVDfS9D2. ^b,0,1,0,0,0
 1176139508359843841,2019-09-23 14:21:25,@AngeCherbonnel Les horaires viennent d'être publiés sur le blog: https://t.co/AsUVDfS9D2. Bonne soirée. ^b,0,1,0,0,0
 1176139665239367683,2019-09-23 14:22:02,@marionBB14 Les horaires viennent d'être publiés sur le blog: https://t.co/AsUVDfS9D2. Bonne soirée. ^b,0,2,0,0,0
@@ -17166,8 +17166,8 @@ Reprise du trafic estimée vers 09h00",2,5,0,0,0
 1190584057463226368,2019-11-02 10:58:53,"@Soraya_Znagui_ Bonjour, oui tout à fait vous pouvez joindre normalement ces deux gares.",0,0,0,0,0
 1190659547779805185,2019-11-02 15:58:52,"@ka_kashiii Bonjour, vous devrez emprunter le #RERB jusque Paris - Gare du Nord où vous arriverez en gare de surface, puisque l'interconnexion est suspendue. A Paris - Gare du Nord, vous pourrez poursuivre votre trajet jusque Châtelet en empruntant un autre RER depuis la gare souterraine.",0,1,0,0,0
 1190659717334544385,2019-11-02 15:59:32,"@ATSouhaits Bonjour Nicolas, non aucun, la circulation est normale entre ces deux gares !",0,0,0,0,0
-1190878169785683968,2019-11-03 06:27:35,"🚧 [RAPPEL TRAVAUX] : Les gares de Sevran-Beaudottes, Villepinte et Parc des Expositions ne sont pas desservies jusque fin de service, et les bus de substitution L2 (Aulnay-CDG1) et L3 (Aulnay-Sevran-Beaudottes) sont à votre disposition (thread 2/4)",0,0,0,0,0
 1190878168061808640,2019-11-03 06:27:35,"🚧 [RAPPEL TRAVAUX] : Jusqu'à ce soir fin de service, pour rejoindre Paris-Gare du Nord depuis CDG 1 &amp; 2, merci d'emprunter les lignes de bus de substitution L1 et L1bis jusque Mitry-Claye puis le #RERB. Nos agents sont présents en gare pour vous renseigner (thread 1/4) https://t.co/4uMFJkzDeI",5,5,0,0,0
+1190878169785683968,2019-11-03 06:27:35,"🚧 [RAPPEL TRAVAUX] : Les gares de Sevran-Beaudottes, Villepinte et Parc des Expositions ne sont pas desservies jusque fin de service, et les bus de substitution L2 (Aulnay-CDG1) et L3 (Aulnay-Sevran-Beaudottes) sont à votre disposition (thread 2/4)",0,0,0,0,0
 1190878170901295105,2019-11-03 06:27:36,"🚧 [RAPPEL TRAVAUX] : L'interconnexion est suspendue à Paris - Gare du Nord jusque fin de service. Les trains vers le nord de la ligne partent de la gare de surface, et les trains vers le sud de la ligne depuis la gare souterraine (thread 3/4)",0,3,0,0,0
 1190878171996000256,2019-11-03 06:27:36,"🚧 [RAPPEL TRAVAUX] : Enfin, le trafic est également interrompu entre Bourg-la-Reine et Robinson jusque fin de service. Les lignes de bus 192 &amp; 394 sont renforcées, et la ligne de bus 128 relie Fontenay-aux-Roses RER &amp; Mairie de Montrouge sur la @Ligne4_RATP (thread 4/4)",0,3,0,0,0
 1190880026025218048,2019-11-03 06:34:58,"@Next_Alert @Ligne4_RATP ... en effet, et depuis Mairie de Montrouge vous pourrez gagner plus rapidement la capitale avec la @Ligne4_RATP. Bonne journée !",0,0,0,0,0
@@ -19329,9 +19329,9 @@ Trafic #RERB très fortement perturbé samedi 7 décembre. Entre St-Rémy / Robi
 1203006326105870341,2019-12-06 17:40:33,@Megafab1 Le premier à arriver à Mitry est au Blanc-Mesnil. ^b,0,1,0,0,0
 1203008630309695489,2019-12-06 17:49:42,"@notmuch_you Par le métro ? le RERC ? Effectivement ces accès sont fermés. Le dernier train vient de quitter Châtelet, direction Massy. ^b",0,0,0,0,0
 1203010404638773248,2019-12-06 17:56:45,"@sp0wp0w Bonsoir, oui les départs sont à 07h57 / 08h17 / 08h27 / 08h47 / 08h57. ^b",0,1,0,0,0
+1203010747351085064,2019-12-06 17:58:07,"Entre Gare du Nord et Aéroport CDG/ Mitry, 1 train sur 5 toute la journée. Les horaires pour la journée de demain sont disponibles sur https://t.co/ijY0yo4Edo , https://t.co/rcwnrZtW00 et https://t.co/FtmyY7fKPQ",0,1,0,0,0
 1203010745656582144,2019-12-06 17:58:07,"⚠️[Mouvement social]⚠️
  Fin des circulations #RERB entre Gare du Nord et St Rémy/Robinson, dans les deux sens de circulation. https://t.co/MEZjeTZa9K",2,4,0,0,0
-1203010747351085064,2019-12-06 17:58:07,"Entre Gare du Nord et Aéroport CDG/ Mitry, 1 train sur 5 toute la journée. Les horaires pour la journée de demain sont disponibles sur https://t.co/ijY0yo4Edo , https://t.co/rcwnrZtW00 et https://t.co/FtmyY7fKPQ",0,1,0,0,0
 1203012165298458626,2019-12-06 18:03:45,@sp0wp0w Oui les départs sont 19h57 / 20h09 / 20h27. ^b,0,1,0,0,0
 1203012542886502400,2019-12-06 18:05:15,"@0x610B38 Bonsoir, 09h07 / 09h37. ^b",0,0,0,0,0
 1203013305658433537,2019-12-06 18:08:17,"@Emara_0301 Bonsoir, premier départ à 05h13. ^b",0,1,0,0,0
@@ -19419,11 +19419,11 @@ Trafic #RERB très fortement perturbé samedi 7 décembre. Entre Saint-Rémy / R
 1203291882211758081,2019-12-07 12:35:15,"@___Parasite Bonjour, je vous invite à consulter le blog de la ligne afin d'avoir les informations en direct : https://t.co/9oKccOLcLx Bonne journée, Pio",0,0,0,0,0
 1203308016998789120,2019-12-07 13:39:22,"@lucie_rfn Bonjour, Les prévisions de trafic pour demain seront publiées à 17h, ce soir. notez que selon les premières estimations diffusées dès hier, le trafic sera quasi nul sur le RER B demain. Bien à vous, Sophie",0,0,0,0,0
 1203314544262688770,2019-12-07 14:05:18,"@KhaoulaMejri5 Bonjour, Les prévisions de trafic pour demain seront publiées à 17h ce soir. Notez que selon les premières estimations diffusées dès hier, le trafic sera quasi nul sur le RER B demain. Bien à vous, Sophie",0,0,0,0,0
-1203343658436747266,2019-12-07 16:00:59,"Industrial action 08.12 : Massy-Palaiseau/Robinson to Gare du Nord, 1 train out of 3 between 12:00 and 18:00, no service otherwise.  Gare du Nord to CDG Airport : 1 train every 30 mn peak hours, 1 train every hour off-peak https://t.co/0iSighVKXg",0,1,0,0,0
 1203343658692558849,2019-12-07 16:00:59,"Entre Gare du Nord et Aéroport CDG / Mitry, 1 train sur 4 sur l’ensemble de la journée. Pendant toute la durée de la grève, l’information sur les trains du lendemain est disponible tous les jours à 17h sur https://t.co/ijY0yo4Edo , https://t.co/rcwnrZtW00
 https://t.co/FtmyY7fKPQ https://t.co/HCpY0D5kNM",5,5,0,0,0
 1203343658403188736,2019-12-07 16:00:59,"⚠️[Mouvement social]⚠️ 
 Trafic #RERB très fortement perturbé dimanche 8 décembre. Entre Massy Palaiseau / Robinson et Gare du Nord , 1 train sur 3 entre 12h00 et 18h00, aucun train en dehors de cette période et sur l'ensemble de la journée entre Massy Palaiseau et St-Rémy. https://t.co/UuUZLGxC0h",10,7,0,0,0
+1203343658436747266,2019-12-07 16:00:59,"Industrial action 08.12 : Massy-Palaiseau/Robinson to Gare du Nord, 1 train out of 3 between 12:00 and 18:00, no service otherwise.  Gare du Nord to CDG Airport : 1 train every 30 mn peak hours, 1 train every hour off-peak https://t.co/0iSighVKXg",0,1,0,0,0
 1203343665399320577,2019-12-07 16:01:01,"@thomas_bacos Bonsoir, je vous invite à consulter tous les horaires des trains en direction de Massy et Robinson ici : https://t.co/vmm1amwpBB 
 Ils circuleront entre 13h et 18h demain. Bonne journée. Adèle",0,1,0,0,0
 1203348624664645633,2019-12-07 16:20:43,"@NaweelM Bonjour, vous pouvez consulter tous les horaires prévisionnels du RER B sur le site https://t.co/FtmyY7fKPQ en cliquant sur le ""+"" juste en-dessous du bandeau ""Mouvement social dimanche 8 décembre"". Bonne journée, Sophie.",0,0,0,0,0
@@ -19599,8 +19599,8 @@ Reprise des circulations depuis Massy Palaiseau 👉 15h18 à destination de Gar
 1204021048666144768,2019-12-09 12:52:42,"@mamadhoussen Bonjour, le dernier départ est à 17h29 de Massy. ^b",0,0,0,0,0
 1204021556776722435,2019-12-09 12:54:43,"@RichardParis5 Bonjour, merci pour votre retour. Bonne journée ! ^b",0,0,0,0,0
 1204025510143176704,2019-12-09 13:10:25,"@KhaoulaMejri5 Bonjour, dernier départ à 18h17. ^b",0,1,0,0,0
-1204027635107614720,2019-12-09 13:18:52,"Premier départ de Gare du Nord à Orsay à 15h59, direction Massy à 16h08, direction Robinson à 16h17. Premier départ de Denfert-Rochereau à St-Rémy à 16h32",3,5,0,0,0
 1204027634163879936,2019-12-09 13:18:52,"ℹ️ Premier départ de Massy direction Gare du Nord à 15h18, de Robinson à Gare du Nord à 15h33, de St-Rémy à Denfert-Rochereau à 15h27. #RERB",1,7,0,0,0
+1204027635107614720,2019-12-09 13:18:52,"Premier départ de Gare du Nord à Orsay à 15h59, direction Massy à 16h08, direction Robinson à 16h17. Premier départ de Denfert-Rochereau à St-Rémy à 16h32",3,5,0,0,0
 1204028594479124480,2019-12-09 13:22:41,"@TuttuFR Bonjour, oui tous les trains de St-Rémy partent du quai 3 à Denfert. L'accès au quai 3, se fait sur le quai direction sud (Massy / Robinson), en tête de quai (côté cabine du conducteur), il y a une grille et des escaliers pour accéder au quai 3. Des agents seront présents. ^b",0,0,0,0,0
 1204029626277752833,2019-12-09 13:26:47,"@neirdamo Bonjour Adrien, le dernier est à 18h56. ^b",0,1,0,0,0
 1204030244639952896,2019-12-09 13:29:14,@TuttuFR Oui tout à fait. Bon courage ! ^b,0,1,0,0,1
@@ -19621,8 +19621,8 @@ Ce soir, trafic #RERB très fortement perturbé. Entre St-Rémy/Robinson et Gare
 1204045844045012992,2019-12-09 14:31:13,@suertezavaleta Dernier passage à 19h01 à Orsay. ^b,0,2,0,0,0
 1204047308498837505,2019-12-09 14:37:03,@xMarshadow Oui effectivement. Les prévisions seront annoncées à 17h. ^b,0,1,0,0,0
 1204047817150521344,2019-12-09 14:39:04,"@AndrewMitul Bonjour, il s'agit d'un mouvement social reconductible donc malheureusement nous n'avons pas encore d'infos. Les prévisions sont annoncées la veille, à 17h00. ^b",0,1,0,0,0
-1204049864444780544,2019-12-09 14:47:12,"Dernier départ de Robinson direction Gare du Nord à 17h48, de Massy à 17h29, d'Orsay à 17h36. Dernier départ de St-Rémy direction Denfert-Rochereau à 17h15",3,7,0,0,0
 1204049863324897283,2019-12-09 14:47:12,"ℹ️Dernier départ de Gare du Nord à Robinson à 18h32, dernier départ pour Massy-Palaiseau à 18h41. Le dernier départ à destination de St-Rémy s'effectue de Denfert-Rochereau à 18h20. #RERB",12,15,0,0,0
+1204049864444780544,2019-12-09 14:47:12,"Dernier départ de Robinson direction Gare du Nord à 17h48, de Massy à 17h29, d'Orsay à 17h36. Dernier départ de St-Rémy direction Denfert-Rochereau à 17h15",3,7,0,0,0
 1204050230074920960,2019-12-09 14:48:39,@Ben_Bou Terminus à Denfert-Rochereau. ^b,0,2,0,0,0
 1204050572673986561,2019-12-09 14:50:01,"@GabrielVk9 Bonjour, une intervention des pompiers à Massy-Palaiseau mais les trains vont pouvoir circuler. ^b",0,2,0,0,0
 1204052234117492743,2019-12-09 14:56:37,@samia974 22h37 à Gare du Nord pour CDG et 00h57 pour Mitry. ^b,0,3,0,0,0
@@ -19698,9 +19698,9 @@ Ce soir, trafic #RERB très fortement perturbé. Entre St-Rémy/Robinson et Gare
 1204100695147896833,2019-12-09 18:09:11,"@AlexFCN44 Bonsoir, le prochain est à 19h27. Le précédent va être assuré au départ d'Aulnay. Des annonces ont été effectuées à GDN pour prendre une mission CDG et changer à Aulnay, vous ne les avez pas entendues ? ^b",0,1,0,0,0
 1204102296646361088,2019-12-09 18:15:33,"@girouxalexandr3 Bonjour, les horaires sont disponibles sur le blog pour la journée de demain: https://t.co/sQrKSc7kGA. ^b",0,1,0,0,0
 1204102588469252097,2019-12-09 18:16:42,@AlexFCN44 Le train qui part à 19h27 est à quai voie 33. ^b,0,1,0,0,0
-1204104450878644226,2019-12-09 18:24:06,"Entre Gare du Nord et Aéroport CDG/ Mitry, 1 train sur 3 toute la journée. Les horaires pour la journée de demain sont disponibles sur https://t.co/ijY0yo4Edo , https://t.co/rcwnrZtW00 et https://t.co/FtmyY7fKPQ",1,4,0,0,0
 1204104448630546440,2019-12-09 18:24:06,"⚠️[Mouvement social]⚠️
 Fin des circulations #RERB entre Gare du Nord et St Rémy/Robinson, dans les deux sens de circulation. https://t.co/u2hpEbesEM",6,11,0,0,0
+1204104450878644226,2019-12-09 18:24:06,"Entre Gare du Nord et Aéroport CDG/ Mitry, 1 train sur 3 toute la journée. Les horaires pour la journée de demain sont disponibles sur https://t.co/ijY0yo4Edo , https://t.co/rcwnrZtW00 et https://t.co/FtmyY7fKPQ",1,4,0,0,0
 1204105124160901120,2019-12-09 18:26:47,"@Liltune19579226 Dernier départ à 09h44 pour Antony. Le soir, dernier départ d'Antony à 17h56. ^b",0,1,0,0,0
 1204105453699031053,2019-12-09 18:28:06,"@Sully56559101 Non, il n'y aura pas de trains. ^b",0,1,0,0,0
 1204107923208704000,2019-12-09 18:37:54,@Sully56559101 09h le dernier le matin et 15h33 le premier le soir. ^b,0,1,0,0,0
@@ -19833,8 +19833,8 @@ Reprise des circulations depuis Massy Palaiseau 👉 15h18 à destination de Gar
 1204387385603166208,2019-12-10 13:08:23,"@GabrielVk9 Bonjour, il part à 15h59 de Gare du Nord et passe à 16h02 à Châtelet. ^b",0,1,0,0,0
 1204387615870529536,2019-12-10 13:09:18,"@SSoleine Bonjour, effectivement la manifestation se termine à Denfert. Il s'agit de la Préfecture de Police qui ordonne la fermeture d'une gare. Tout dépendra de la situation. Toutes les infos seront transmises sur Twitter. ^b",0,1,0,0,0
 1204390490109620224,2019-12-10 13:20:43,"@__Bulle Bonjour, le dernier part à 18h03. ^b",0,1,0,0,0
-1204391125915750402,2019-12-10 13:23:15,"Premier départ de Gare du Nord à Orsay à 15h59, direction Massy à 16h08, direction Robinson à 16h17. Premier départ de Denfert-Rochereau à St-Rémy à 16h32",3,7,0,0,0
 1204391124942671874,2019-12-10 13:23:15,"ℹ️ Premier départ de Massy direction Gare du Nord à 15h18, de Robinson à Gare du Nord à 15h33, de St-Rémy à Denfert-Rochereau à 15h27. #RERB",7,8,0,0,0
+1204391125915750402,2019-12-10 13:23:15,"Premier départ de Gare du Nord à Orsay à 15h59, direction Massy à 16h08, direction Robinson à 16h17. Premier départ de Denfert-Rochereau à St-Rémy à 16h32",3,7,0,0,0
 1204392689212575744,2019-12-10 13:29:28,"@Jo_Cavrois Bonjour, nous aurons les prévisions ce soir à 17h00, pour la journée de demain. Les horaires seront publiés sur le blog: https://t.co/nYrjwLGe5S .^b",0,1,0,0,0
 1204393138196025344,2019-12-10 13:31:15,"@Soucardi Bonjour, à 17h oui. Dans quelle direction ? Plus de trains à 21h pour Robinson. ^b",0,0,0,0,0
 1204393333264662528,2019-12-10 13:32:01,"@Sofiane__A Bonjour, oui je vous le déconseille surtout les premiers et derniers trains. ^b",0,0,0,0,0
@@ -19851,9 +19851,9 @@ Reprise des circulations depuis Massy Palaiseau 👉 15h18 à destination de Gar
 1204403463926538240,2019-12-10 14:12:17,"@MnmsXSN @Liltune19579226 Oui, effectivement j'avais mal lu la gare de destination. De CDG, un changement de train est nécessaire à Gare du Nord. Le dernier qui part de Gare du Nord direction Antony est à 18h41. Mes excuses ! ^b",0,0,1,0,0
 1204403624635502606,2019-12-10 14:12:55,"@Liltune19579226 Je me suis trompée dans les horaires tout à l'heure, je vous ai envoyé un nouveau tweet. ^b",0,0,0,0,0
 1204404119177498625,2019-12-10 14:14:53,"@delami80 Bonjour, à 18h44. ^b",0,0,0,0,0
+1204405568284311554,2019-12-10 14:20:38,"Entre Gare du Nord et Aéroport CDG/ Mitry, 1 train sur 3. Tous les horaires sont disponibles sur https://t.co/ijY0yo4Edo , https://t.co/rcwnrZtW00 et sur le blog de la ligne https://t.co/FtmyY7fKPQ",2,3,0,0,0
 1204405564723335170,2019-12-10 14:20:38,"⚠️[Mouvement social] ⚠️
 Ce soir, trafic #RERB très fortement perturbé. Entre St-Rémy/Robinson et Gare du Nord, 1 train sur 3 aux heures de pointe. Aucun train aux heures creuses. Changez de train à Gare du Nord pour poursuivre votre trajet. https://t.co/fwaEMWOUka",2,8,0,0,0
-1204405568284311554,2019-12-10 14:20:38,"Entre Gare du Nord et Aéroport CDG/ Mitry, 1 train sur 3. Tous les horaires sont disponibles sur https://t.co/ijY0yo4Edo , https://t.co/rcwnrZtW00 et sur le blog de la ligne https://t.co/FtmyY7fKPQ",2,3,0,0,0
 1204407212921241602,2019-12-10 14:27:11,"@Destais1 Bonjour, dernier train à 17h18 de Courcelle. ^b",0,0,0,0,0
 1204410892366077952,2019-12-10 14:41:48,"@zazooub91 Bonjour, direction le sud ? Si c'est le cas, dernier train à 18h41. ^b",0,0,0,0,0
 1204411467870507017,2019-12-10 14:44:05,"@wolf_ve Hello, yes the line works but due to a social mouvement, 1 train out of 3 runs. ^b",0,0,0,0,0
@@ -19895,8 +19895,8 @@ Ce soir, trafic #RERB très fortement perturbé. Entre St-Rémy/Robinson et Gare
 1204427524039696384,2019-12-10 15:47:53,@Luckylucianooo Je vous en prie ! Bonne soirée ! ^b,0,0,0,0,0
 1204431064275570689,2019-12-10 16:01:57,"⚠️[Mouvement social]⚠️
 Trafic #RERB très fortement perturbé mercredi 11 décembre. Entre St-Rémy/Robinson et Gare du Nord, 1 train sur 3 aux heures de pointe. Aucun train aux heures creuses. Changez de train à Gare du Nord pour poursuivre votre trajet. https://t.co/VHvYdr21bq",16,14,0,0,0
-1204431068625096705,2019-12-10 16:01:58,"Industrial action 11.12 : St-Rémy/Robinson to Gare du Nord, 1 train out of 3 peak hours, no service off-peak. Gare du Nord to CDG Airport : 1 train out of 3 all day",1,2,0,0,0
 1204431067412934658,2019-12-10 16:01:58,"Entre Gare du Nord et Aéroport CDG/ Mitry, 1 train sur 3 toute la journée. Pendant toute la durée de la grève, l’information sur les trains du lendemain est disponible tous les jours à 17h sur https://t.co/ijY0yo4Edo, https://t.co/rcwnrZtW00 et sur le blog https://t.co/FtmyY7fKPQ",0,2,0,0,0
+1204431068625096705,2019-12-10 16:01:58,"Industrial action 11.12 : St-Rémy/Robinson to Gare du Nord, 1 train out of 3 peak hours, no service off-peak. Gare du Nord to CDG Airport : 1 train out of 3 all day",1,2,0,0,0
 1204431441037287425,2019-12-10 16:03:27,"@Megafab1 Bonjour, de ce que je vois aux caméras... En voies de surface, c'est mieux qu'hier mais cela reste très chargé. ^b",0,1,0,0,0
 1204432082761584641,2019-12-10 16:06:00,"@jubobroff Pour l'instant, la gare est ouverte. Effectivement, la Préfecture de Police peut ordonner sa fermeture. Nous communiquerons sur Twitter. ^b",0,1,0,0,0
 1204432476355125249,2019-12-10 16:07:34,"@graceagui2 Non, pas de trains vers minuit. Dernier train à Bourg-la-Reine direction Châtelet à 18h03. ^b",0,0,0,0,0
@@ -20069,9 +20069,9 @@ Reprise des circulations depuis Massy Palaiseau 👉 15h18 à destination de Gar
 1204764715597127681,2019-12-11 14:07:46,@CindyClrt_ A 18h34. ^b,0,0,0,0,0
 1204765447893090310,2019-12-11 14:10:40,"@semiaza 15h27, premier départ direction Paris. ^b",0,0,0,0,0
 1204765589882986498,2019-12-11 14:11:14,"@HaloArceaux Bonjour, à 17h47 le dernier départ. ^b",0,0,0,0,0
-1204767629015166976,2019-12-11 14:19:20,"Entre Gare du Nord et Aéroport CDG/ Mitry, 1 train sur 3. Tous les horaires sont disponibles sur https://t.co/ijY0yo4Edo , https://t.co/rcwnrZtW00 et sur le blog de la ligne https://t.co/FtmyY7fKPQ",1,2,0,0,0
 1204767627173912576,2019-12-11 14:19:20,"⚠️[Mouvement social] ⚠️
 Ce soir, trafic #RERB très fortement perturbé. Entre St-Rémy/Robinson et Gare du Nord, 1 train sur 3 aux heures de pointe. Aucun train aux heures creuses. Changez de train à Gare du Nord pour poursuivre votre trajet. https://t.co/Seee36dH1z",4,3,0,0,0
+1204767629015166976,2019-12-11 14:19:20,"Entre Gare du Nord et Aéroport CDG/ Mitry, 1 train sur 3. Tous les horaires sont disponibles sur https://t.co/ijY0yo4Edo , https://t.co/rcwnrZtW00 et sur le blog de la ligne https://t.co/FtmyY7fKPQ",1,2,0,0,0
 1204768134487576576,2019-12-11 14:21:21,"@diabelsy Bonjour, à 18h41. ^b",0,1,0,0,0
 1204772109731475456,2019-12-11 14:37:09,"@Debiliters Bonjour, il y en a un à quai. ^b",0,0,0,0,0
 1204772302627524609,2019-12-11 14:37:55,Un train supplémentaire a été ajouté au départ de Gare du Nord direction Massy-Palaiseau: départ à 15h41. #RERB,4,6,0,0,0
@@ -20093,10 +20093,10 @@ Ce soir, trafic #RERB très fortement perturbé. Entre St-Rémy/Robinson et Gare
 1204787665180205056,2019-12-11 15:38:57,@Rimzer_ Les horaires seront publiés à 17h00 sur le blog: https://t.co/x3IYmxZPCQ. ^b,0,0,0,0,0
 1204790446767198208,2019-12-11 15:50:01,"@Cxllypso Bonjour, non malheureusement. Elles seront annoncées vendredi à 17h00. ^b",0,0,0,0,0
 1204791291671957506,2019-12-11 15:53:22,"@gegene007 Bonjour, pour l'instant la situation est assez calme à Châtelet. L'affluence sur le quai est raisonnable. ^b",0,2,0,0,0
+1204793452774514688,2019-12-11 16:01:57,"Industrial action 12.12 : St-Rémy/Robinson to Gare du Nord, 1 train out of 3 peak hours, no service off-peak. Gare du Nord to CDG Airport : 1 train out of 3 all day",1,1,0,0,0
+1204793451583328256,2019-12-11 16:01:57,"Entre Gare du Nord et Aéroport CDG/ Mitry, 1 train sur 3 toute la journée. Pendant toute la durée de la grève, l’information sur les trains du lendemain est disponible tous les jours à 17h sur https://t.co/ijY0yo4Edo, https://t.co/rcwnrZtW00 et sur le blog https://t.co/FtmyY7fKPQ",1,3,0,0,0
 1204793449750421505,2019-12-11 16:01:57,"⚠️[Mouvement social]⚠️
 Trafic #RERB très fortement perturbé jeudi 12 décembre. Entre St-Rémy/Robinson et Gare du Nord, 1 train sur 3 aux heures de pointe. Aucun train aux heures creuses. Changez de train à Gare du Nord pour poursuivre votre trajet. https://t.co/qiSEgdwNDo",16,25,0,0,0
-1204793451583328256,2019-12-11 16:01:57,"Entre Gare du Nord et Aéroport CDG/ Mitry, 1 train sur 3 toute la journée. Pendant toute la durée de la grève, l’information sur les trains du lendemain est disponible tous les jours à 17h sur https://t.co/ijY0yo4Edo, https://t.co/rcwnrZtW00 et sur le blog https://t.co/FtmyY7fKPQ",1,3,0,0,0
-1204793452774514688,2019-12-11 16:01:57,"Industrial action 12.12 : St-Rémy/Robinson to Gare du Nord, 1 train out of 3 peak hours, no service off-peak. Gare du Nord to CDG Airport : 1 train out of 3 all day",1,1,0,0,0
 1204795081854730241,2019-12-11 16:08:26,"ℹ️ Dernier départ de Robinson direction Gare du Nord à 17h48, de Massy à 17h29, d'Orsay à 17h36. Dernier départ de St-Rémy direction Denfert-Rochereau à 17h15",1,5,0,0,0
 1204795082924331008,2019-12-11 16:08:26,"Dernier départ de Gare du Nord à Robinson à 18h32, dernier départ pour Massy-Palaiseau à 18h41. Le dernier départ à destination de St-Rémy s'effectue de Denfert-Rochereau à 18h20. #RERB",1,2,0,0,0
 1204795396649897985,2019-12-11 16:09:41,@TChantelo Le quai est très chargé direction GDN. ^b,0,0,0,0,0
@@ -20150,8 +20150,8 @@ Fin des circulations #RERB entre Gare du Nord et St Rémy/Robinson, dans les deu
 1204822858276446214,2019-12-11 17:58:48,"@LolaTerrasson Bonsoir, oui effectivement la situation est très tendue à Gare du Nord, je viens d'en être informée. Toutes nos excuses pour cette situation. ^b",0,1,1,0,0
 1204823772123029505,2019-12-11 18:02:26,"@Wesha06270087 Bonjour, navrée Joy n'a pas du voir votre message ce matin. Des trains supplémentaires ont été ajoutés ce matin. ^b",0,0,0,0,0
 1204827516621467649,2019-12-11 18:17:19,"@OliviaL9193 Oui lundi, c'était très compliqué, nous avons eu un incident à Massy donc beaucoup de retard sur les horaires prévus. Hier et aujourd’hui, côté sud, ça s'est bien passé (peu de retard, pas d'incidents, un flux important mais qui restait raisonnable). ^b",0,0,0,0,0
-1204831094966759424,2019-12-11 18:31:32,"ℹ️ Dernier départ de Gare du Nord direction l'aéroport CDG2 à 22h37, direction Mitry à 00h57.",0,6,0,0,0
 1204831095998554112,2019-12-11 18:31:32,"Dernier départ de l'aéroport CDG2 direction Gare du Nord à à 22h36, dernier départ de Mitry à 00h18. #RERB",0,2,0,0,0
+1204831094966759424,2019-12-11 18:31:32,"ℹ️ Dernier départ de Gare du Nord direction l'aéroport CDG2 à 22h37, direction Mitry à 00h57.",0,6,0,0,0
 1204832912379711488,2019-12-11 18:38:45,"@sisi1601 Bonjour, ce sont les mêmes que les derniers jours. Tous les horaires sont disponibles sur le blog: https://t.co/AJj12TtMta. ^b",0,0,0,0,0
 1204833045695610881,2019-12-11 18:39:17,@clyndiaa Pour faire quel trajet svp ? ^b,0,0,0,0,0
 1204833210280095744,2019-12-11 18:39:56,@sisi1601 A 15h47. ^b,0,0,0,0,0
@@ -20487,9 +20487,9 @@ Reprise des circulations depuis Massy Palaiseau :
 1205489398902595586,2019-12-13 14:07:24,"@BenLinders Les horaires seront sur le blog à 17h00: https://t.co/1TVCNg82od, vous pourrez y aller directement. Bonne journée. ^b",0,1,0,0,0
 1205490511756365826,2019-12-13 14:11:49,"@VieuxSchnockk Oui, ils sont disponibles sur le blog: https://t.co/waiXbt1aA8. Bonne soirée. ^b",0,0,0,0,0
 1205491146731982848,2019-12-13 14:14:20,"@smorenohellin Bonjour, à 18h19. ^b",0,0,0,0,0
+1205492504839303168,2019-12-13 14:19:44,"Entre Gare du Nord et Aéroport CDG/ Mitry, 1 train sur 3 toute la journée. Tous les horaires sont disponibles sur https://t.co/ijY0yo4Edo , https://t.co/rcwnrZtW00 et sur le blog de la ligne https://t.co/FtmyY7fKPQ",1,3,0,0,0
 1205492502452736002,2019-12-13 14:19:44,"⚠️[Mouvement social] ⚠️
 Ce soir, trafic #RERB très fortement perturbé. Entre St-Rémy/Robinson et Gare du Nord, 1 train sur 3 aux heures de pointe. Aucun train aux heures creuses. Changez de train à Gare du Nord pour poursuivre votre trajet. https://t.co/lErgwIz4rF",4,9,0,0,0
-1205492504839303168,2019-12-13 14:19:44,"Entre Gare du Nord et Aéroport CDG/ Mitry, 1 train sur 3 toute la journée. Tous les horaires sont disponibles sur https://t.co/ijY0yo4Edo , https://t.co/rcwnrZtW00 et sur le blog de la ligne https://t.co/FtmyY7fKPQ",1,3,0,0,0
 1205493526798249986,2019-12-13 14:23:48,"@lorquezzz Bonjour, il ne s'agit pas d'une voiture réservée aux femmes mais d'une initiative locale pour aider les personnes qui risqueraient d'être bousculées à la montée dans le train en heures de pointes durant la grève : personnes âgées/avec enfants, femmes enceintes etc ^b",0,0,0,0,0
 1205493996870615042,2019-12-13 14:25:40,"@lorquezzz Mais, je ne sais pas si cela sera encore en place ce soir. Bonne journée. ^b",0,1,0,0,0
 1205497442587860993,2019-12-13 14:39:22,"@Loowwh Bonjour, dernier départ à17h47 de Massy. ^b",0,0,0,0,0
@@ -20515,13 +20515,13 @@ Ce soir, trafic #RERB très fortement perturbé. Entre St-Rémy/Robinson et Gare
 1205515087999569920,2019-12-13 15:49:29,"@Mm52729089 Bonjour, à la voie 43 ? Il va partir dans quelques instants. ^b",0,0,0,0,0
 1205515338143719428,2019-12-13 15:50:28,"@CenileQu Bonjour, à 00h57. ^b",0,0,0,0,0
 1205515851417432064,2019-12-13 15:52:31,"@Mm52729089 Bonjour, il partira à 18h20 mais de Denfert-Rochereau. ^b",0,0,0,0,0
-1205516509197602816,2019-12-13 15:55:07,"Dernier départ de Gare du Nord à Robinson à 18h32, dernier départ pour Massy-Palaiseau à 18h41. Le dernier départ à destination de St-Rémy s'effectue de Denfert-Rochereau à 18h20. #RERB",3,2,0,0,0
 1205516508060889090,2019-12-13 15:55:07,"ℹ️Dernier départ de Robinson direction Gare du Nord à 17h48, de Massy à 17h29, d'Orsay à 17h36. Dernier départ de St-Rémy direction Denfert-Rochereau à 17h15",3,5,0,0,0
+1205516509197602816,2019-12-13 15:55:07,"Dernier départ de Gare du Nord à Robinson à 18h32, dernier départ pour Massy-Palaiseau à 18h41. Le dernier départ à destination de St-Rémy s'effectue de Denfert-Rochereau à 18h20. #RERB",3,2,0,0,0
 1205517152964530177,2019-12-13 15:57:41,@CenileQu Je vais vérifier mais d'après mes horaires c'est 00h57. ^b,0,0,0,0,0
+1205518543187513346,2019-12-13 16:03:12,"Industrial action 14:12 : St-Rémy / Robinson to Gare du Nord, 1 train out of 3 between 12:00 and 18:00, no service otherwise. Gare du Nord to CDG Airport: 1 train every 30 mn peak hours, 1 train every hour off-peak",0,0,0,0,0
 1205518540540928000,2019-12-13 16:03:12,"⚠️[Mouvement social]⚠️
 Trafic #RERB très fortement perturbé samedi 14 décembre. Entre St-Rémy/Robinson et Gare du Nord, 1 train sur 3 entre 12h00 et 18h00. Aucun train en dehors de cette période. https://t.co/dJGSrJKrJj",8,12,0,0,0
 1205518541904056320,2019-12-13 16:03:12,"Entre Gare du Nord et l'aéroport CDG / Mitry, 1 train sur 4 sur l'ensemble de la journée. Pendant toute la durée de la grève, l'information sur les trains du lendemain est disponible sur https://t.co/ijY0yo4Edo, https://t.co/rcwnrZtW00 et sur le blog https://t.co/FtmyY7fKPQ",2,3,0,0,0
-1205518543187513346,2019-12-13 16:03:12,"Industrial action 14:12 : St-Rémy / Robinson to Gare du Nord, 1 train out of 3 between 12:00 and 18:00, no service otherwise. Gare du Nord to CDG Airport: 1 train every 30 mn peak hours, 1 train every hour off-peak",0,0,0,0,0
 1205519733333864448,2019-12-13 16:07:56,"@rerb_st_remy Oui des ajustements sont effectués. Sa mission précédente ne prenait des voyageurs qu'à Châtelet direction GDN, ce qui permet de libérer le quai de Châtelet TRÈS surchargé ces derniers jours. Il sera bien omnibus total jusqu'à St-Rémy. ^b",1,1,0,0,0
 1205520139967488001,2019-12-13 16:09:33,"@k_oujagir Oui, elles sont disponibles sur le blog: https://t.co/BNNmr5hk9Y ^b",0,0,0,0,0
 1205520596551028737,2019-12-13 16:11:22,"@oariis Bonjour, oui sur le blog: https://t.co/GNPYsjJdhm. ^b",0,0,0,0,0
@@ -22129,8 +22129,8 @@ Dernier départ de Denfert direction St Rémy
 1210244690345377794,2019-12-26 17:03:14,"@PatronSiPatron Bonjour, il s'agit d'un mouvement social reconductible donc nous avons les informations pour le lendemain, la veille à 17h00. ^b",0,0,0,0,0
 1210245612333150208,2019-12-26 17:06:53,"⚠️[Mouvement social]⚠️ #RERB 
 Trafic fortement perturbé vendredi 27 décembre. Entre St-Rémy/Robinson et Gare du Nord, 1 train sur 3 entre 06h30 et 19h00. Changez de train à Gare du Nord pour poursuivre votre trajet. https://t.co/nFecbzVfqd",9,10,0,0,0
-1210245615164239873,2019-12-26 17:06:54,"Industrial action 27.12 : St-Rémy/Robinson to Gare du Nord, 1 train out of 3 from 06:30 to 19:00 ; Gare du Nord to CDG Airport / Mitry : 1 train out of 3 all day",0,2,0,0,0
 1210245613847220225,2019-12-26 17:06:54,"Entre Gare du Nord et Aéroport CDG/ Mitry, 1 train sur 3 toute la journée. Pendant toute la durée de la grève, l’information sur les trains du lendemain est disponible tous les jours à 17h sur https://t.co/ijY0yo4Edo, https://t.co/rcwnrZtW00, https://t.co/FtmyY7fKPQ",0,2,0,0,0
+1210245615164239873,2019-12-26 17:06:54,"Industrial action 27.12 : St-Rémy/Robinson to Gare du Nord, 1 train out of 3 from 06:30 to 19:00 ; Gare du Nord to CDG Airport / Mitry : 1 train out of 3 all day",0,2,0,0,0
 1210245943016271872,2019-12-26 17:08:12,@PatronSiPatron Il n'y a malheureusement pas de date (mouvement social reconductible). ^b,0,0,0,0,0
 1210246450875191296,2019-12-26 17:10:13,"@Mafalda_95_ Bonjour, dans quelle gare particulièrement ? ^b",0,0,0,0,0
 1210246565278998528,2019-12-26 17:10:41,@Kim_brouillon Non pas pour demain. ^b,0,2,0,0,0
@@ -22195,8 +22195,8 @@ Entre 9h30 et 15h00 les trains au départ de St Rémy, Robinson, Orsay et Massy 
 1210491611823706112,2019-12-27 09:24:24,"@FelixChatF Bonjour, vous avez les horaires sur les sites https://t.co/u9RGVlco1F et https://t.co/OknqVMIcgY. Joy",0,1,0,0,0
 1210491745584238593,2019-12-27 09:24:56,"@sl22112211 Bonjour, il y a des trains cependant ils sont terminus Châtelet les Halles. Joy",0,0,0,0,0
 1210508567645700096,2019-12-27 10:31:47,"@PlaceRonde Bonjour, vers le Nord il y a des trains à Gare du Nord. Vers le Sud il faut se rendre à Châtelet pour avoir des trains. Joy",0,0,0,0,0
-1210525221830242304,2019-12-27 11:37:58,"Bonjour, Alexandra pour vous accompagner jusqu'à 20h. En raison d'un mouvement social, le trafic #RERB est fortement perturbé. Entre St-Rémy/Robinson et Gare du Nord, 1 train sur 3 entre 06h30 et 19h00. 1 train sur 3 toute la journée entre Gare du Nord et CDG2/Mitry https://t.co/WVBc7SbG3l",0,9,0,0,0
 1210525223474409472,2019-12-27 11:37:58,"Entre 9h30 et 15h00 les trains au départ de St Rémy, Robinson, Orsay et Massy Palaiseau seront terminus en gare de Châtelet-les-Halles.",1,3,0,0,0
+1210525221830242304,2019-12-27 11:37:58,"Bonjour, Alexandra pour vous accompagner jusqu'à 20h. En raison d'un mouvement social, le trafic #RERB est fortement perturbé. Entre St-Rémy/Robinson et Gare du Nord, 1 train sur 3 entre 06h30 et 19h00. 1 train sur 3 toute la journée entre Gare du Nord et CDG2/Mitry https://t.co/WVBc7SbG3l",0,9,0,0,0
 1210525980588154880,2019-12-27 11:40:58,"@idkadsx Bonjour, oui malheureusement nous n'avons pas les horaires précis mais un départ toutes les 20 minutes en direction de la banlieue sud, au départ de Châtelet. ^b",0,0,0,0,0
 1210526402023477250,2019-12-27 11:42:39,"@pleb56 Bonjour, nous n'avons pas les horaires précis pour les trains qui circulent de 09h30 à 15h00. Un train toutes les 20 minutes environ direction Châtelet. ^b",0,0,0,0,0
 1210527832356597760,2019-12-27 11:48:20,"@CestiChoco Bonjour, malheureusement nous n'avons pas les horaires précis (pour les départs de 09h30 à 15h00) mais un départ toutes les 20 minutes en direction de la banlieue sud, au départ de Châtelet. ^b",0,0,0,0,0
@@ -22256,9 +22256,9 @@ Dernier départ de Denfert direction St Rémy
 1210615728031850496,2019-12-27 17:37:36,@AbsoluteLurozen Les derniers horaires ont été annoncés sur le compte un peu plus tôt. Il s'agit de l'arrivée des trains dans les gares de destination. ^b,0,1,0,0,0
 1210616603617959939,2019-12-27 17:41:05,"@olivierbrousse4 Bonjour, vers 19h15 (mission supplémentaire), je vous conseille quand même de prendre de la marge car c'est le dernier train pour Paris (il sera terminus Denfert). ^b",0,1,0,0,0
 1210620774090002432,2019-12-27 17:57:39,"@Soniabkh Bonjour, les horaires sont sur le blog juste ici: https://t.co/KdKYTvWVzR. ^b",0,3,0,0,0
-1210621584991510529,2019-12-27 18:00:52,"Entre Gare du Nord et Aéroport CDG/ Mitry, 1 train sur 3. Les horaires sont disponibles sur https://t.co/ijY0yo4Edo , https://t.co/rcwnrZtW00 et sur le blog https://t.co/FtmyY7fKPQ",0,1,0,0,0
 1210621583158632448,2019-12-27 18:00:52,"⚠️[Mouvement social]⚠️
 Fin des circulations #RERB entre Gare du Nord et St Rémy/Robinson, dans les deux sens de circulation. https://t.co/vZHq6j1XdW",1,3,0,0,0
+1210621584991510529,2019-12-27 18:00:52,"Entre Gare du Nord et Aéroport CDG/ Mitry, 1 train sur 3. Les horaires sont disponibles sur https://t.co/ijY0yo4Edo , https://t.co/rcwnrZtW00 et sur le blog https://t.co/FtmyY7fKPQ",0,1,0,0,0
 1210622246798200832,2019-12-27 18:03:30,"@Bourg_la_Reine Bonsoir, merci pour votre message. Je me charge de transmettre. ^b",0,1,0,0,0
 1210629785094967297,2019-12-27 18:33:27,"@imanew_s Bonjour, non le premier train est 12h23 de Gare du Nord. ^b",0,0,0,0,0
 1210630555152404480,2019-12-27 18:36:31,"ℹ️Dernier départ de Gare du Nord direction l'aéroport CDG2, à 00h37, direction Mitry à 00h57. #RERB",1,4,0,0,0
@@ -22343,9 +22343,9 @@ Dernier départ de Robinson en direction de Gare du Nord
 👉 18h39
 Dernier départ d'Orsay direction Gare du Nord
 👉17h54",1,7,0,0,0
+1211678356607029248,2019-12-30 16:00:06,"Entre Gare du Nord et Aéroport CDG/ Mitry, 1 train sur 3 toute la journée. Pour la nuit festive, 1 train toutes les heures sur chaque axe CDG / Mitry Claye.",1,2,0,0,0
 1211678354337943555,2019-12-30 16:00:06,"⚠️[Mouvement social]⚠️ #RERB 
 #RERB Trafic fortement réduit mardi 31 décembre. Entre St-Rémy/Robinson et Gare du Nord, circulation de 6h30 à 19h30 avec 1 train sur 3 en heures creuses et 1 train sur 2 en heures de pointe. Aucun train en dehors de cette période. https://t.co/dMSVZFp2kj",5,8,0,0,0
-1211678356607029248,2019-12-30 16:00:06,"Entre Gare du Nord et Aéroport CDG/ Mitry, 1 train sur 3 toute la journée. Pour la nuit festive, 1 train toutes les heures sur chaque axe CDG / Mitry Claye.",1,2,0,0,0
 1211678358788018176,2019-12-30 16:00:07,"Pendant toute la durée de la grève, l’information sur les trains du lendemain est disponible tous les jours à 17h sur https://t.co/ijY0yo4Edo, https://t.co/rcwnrZtW00, https://t.co/FtmyY7fKPQ",0,1,0,0,0
 1211678360792944642,2019-12-30 16:00:07,"Industrial action 31.12 : St-Rémy/Robinson to Gare du Nord, 1 train out of 3 peak off hour, and 1 train out of 2 peak hour between 6.30am to 7.30pm, no service otherwise. No train service during the night of the 31st of december.",0,2,0,0,0
 1211678362357379072,2019-12-30 16:00:08,"Gare du Nord to CDG Airport : 1 train every 30 mn all day. 1 train every hour during the night of the 31st of December. 
@@ -22411,7 +22411,7 @@ A l’occasion du Nouvel An, les transports sont gratuits en IDF de 17h le 31/12
 1211928771886014464,2019-12-31 08:35:10,"⚠️[Mouvement social]⚠️
 #RERB Trafic fortement réduit mardi 31 décembre. Entre St-Rémy/Robinson et Gare du Nord, circulation de 6h30 à 19h30 avec 1 train sur 3 en heures creuses et 1 train sur 2 en heures de pointe. Aucun train en dehors de cette période https://t.co/U7avsJSrsI",3,2,0,0,0
 1211928902316314624,2019-12-31 08:35:41,"Entre Gare du Nord et Aéroport CDG/ Mitry, 1 train sur 3 toute la journée. Pour la nuit festive, 1 train toutes les heures sur chaque axe CDG / Mitry Claye.",1,1,0,0,0
-1211929052635947008,2019-12-31 08:36:17,"Pendant toute la durée de la grève, l’information sur les trains du lendemain est disponible tous les jours à 17h sur https://t.co/ijY0yo4Edo, https://t.co/rcwnrZtW00, https://t.co/FtmyY7fKPQ",0,0,0,0,0
+1211929052635947008,2019-12-31 08:36:17,"Pendant toute la durée de la grève, l’information sur les trains du lendemain est disponible tous les jours à 17h sur https://t.co/ijY0yo4Edo, https://t.co/rcwnrZtW00, https://t.co/FtmyY7fKPQ",0,1,0,0,0
 1211929124668919808,2019-12-31 08:36:34,"Gare du Nord to CDG Airport : 1 train every 30 mn all day. 1 train every hour during the night of the 31st of December. 
 A l’occasion du Nouvel An, les transports sont gratuits en IDF de 17h le 31/12 jusqu’à midi le 1er janvier.",0,2,0,0,0
 1211929608712527872,2019-12-31 08:38:29,"@romainlambic95 Bonjour Romain, c'est bien ça ! Bonne journée à vous tout de même ! Joy",0,0,0,0,0
